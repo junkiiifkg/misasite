@@ -167,11 +167,11 @@ function formatDate(dateStr) {
   return d.toLocaleDateString('tr-TR', { day: '2-digit', month: 'short', year: 'numeric' }).toUpperCase();
 }
 
-// Utility: extract HH:MM time from ISO date string
+// Utility: extract HH:MM time from ISO date string (Turkey time, +03:00)
 function formatTime(dateStr) {
   if (!dateStr || !dateStr.includes('T')) return null;
   const match = dateStr.match(/T(\d{2}:\d{2})/);
-  return match ? match[1] : null;
+  return match ? match[1] + ' TSİ' : null;
 }
 
 // Utility: get next match across all branches
