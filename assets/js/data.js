@@ -22,6 +22,7 @@ const MISA_DATA = {
       shortName: "LoL",
       icon: "sports_esports",
       image: "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&q=80",
+      gameLogo: "assets/images/lol-logo.png",
       tagline: "Dominating the Rift since Day One",
       roster: [
         { tag: "ShadowKing", name: "Ahmet Y.", role: "Top", image: "https://lh3.googleusercontent.com/aida-public/AB6AXuBpjm7ffKtD2n5KBrhvbLcIEppFAJ0GS3QlubkZjXX_Dakge3bFLsGqC9Dta_vgCMf055E5z1b4ZXQwz58T4hopcPtEBsML049YfjpTZoGqRuGEnL_5Kz-QziCGxV4OQZXuLHhGSOkvQ5dr082oNm_PuOeDj3UxM3jPSYfniIVano4Ii9PrGcySINwfSsCbRPkWjwNdX-vk_NIhQE-2mpsdtM0lcCyrJJbVNT4gcd72xclVqtDQ1QpF6g-fMA_kdTiBBWJRoAh3RqQ" },
@@ -47,6 +48,7 @@ const MISA_DATA = {
       shortName: "CS2",
       icon: "military_tech",
       image: "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=800&q=80",
+      gameLogo: "assets/images/cs2-logo.png",
       tagline: "Precision. Discipline. Victory.",
       roster: [
         { tag: "AimLock", name: "Kerem D.", role: "AWPer", image: "https://lh3.googleusercontent.com/aida-public/AB6AXuBpjm7ffKtD2n5KBrhvbLcIEppFAJ0GS3QlubkZjXX_Dakge3bFLsGqC9Dta_vgCMf055E5z1b4ZXQwz58T4hopcPtEBsML049YfjpTZoGqRuGEnL_5Kz-QziCGxV4OQZXuLHhGSOkvQ5dr082oNm_PuOeDj3UxM3jPSYfniIVano4Ii9PrGcySINwfSsCbRPkWjwNdX-vk_NIhQE-2mpsdtM0lcCyrJJbVNT4gcd72xclVqtDQ1QpF6g-fMA_kdTiBBWJRoAh3RqQ" },
@@ -72,6 +74,7 @@ const MISA_DATA = {
       shortName: "VAL",
       icon: "shield",
       image: "https://images.unsplash.com/photo-1633545495735-faaef1a1e6e4?w=800&q=80",
+      gameLogo: "assets/images/valorant-logo.png",
       tagline: "Tactical Excellence in Every Round",
       roster: [
         { tag: "Phantom", name: "Arda M.", role: "Duelist / IGL", image: "https://lh3.googleusercontent.com/aida-public/AB6AXuBpjm7ffKtD2n5KBrhvbLcIEppFAJ0GS3QlubkZjXX_Dakge3bFLsGqC9Dta_vgCMf055E5z1b4ZXQwz58T4hopcPtEBsML049YfjpTZoGqRuGEnL_5Kz-QziCGxV4OQZXuLHhGSOkvQ5dr082oNm_PuOeDj3UxM3jPSYfniIVano4Ii9PrGcySINwfSsCbRPkWjwNdX-vk_NIhQE-2mpsdtM0lcCyrJJbVNT4gcd72xclVqtDQ1QpF6g-fMA_kdTiBBWJRoAh3RqQ" },

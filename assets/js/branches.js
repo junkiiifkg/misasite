@@ -24,9 +24,8 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
               <span class="text-primary font-headline font-bold text-xs tracking-widest uppercase">${b.shortName}</span>
             </div>
             <div>
-              <h2 class="text-3xl ${branchKeys.indexOf(key) === 0 ? 'md:text-5xl' : 'md:text-2xl'} font-headline font-black tracking-tighter text-on-surface uppercase mb-2 group-hover:text-primary transition-colors">${b.name}</h2>
-              <p class="text-on-surface-variant text-sm mb-4">${b.tagline}</p>
-              <div class="flex items-center gap-2 text-primary font-label font-bold text-xs tracking-widest uppercase">
+              ${b.gameLogo ? `<img src="${b.gameLogo}" alt="${b.name}" class="h-8 ${branchKeys.indexOf(key) === 0 ? 'md:h-12' : 'md:h-8'} object-contain mb-3 opacity-90 group-hover:opacity-100 transition-opacity drop-shadow-lg"/>` : `<h2 class="text-3xl ${branchKeys.indexOf(key) === 0 ? 'md:text-5xl' : 'md:text-2xl'} font-headline font-black tracking-tighter text-on-surface uppercase mb-2 group-hover:text-primary transition-colors">${b.name}</h2>`}
+              <div class="flex items-center gap-2 text-primary font-label font-bold text-xs tracking-widest uppercase mt-2">
                 <span>VIEW DETAILS</span>
                 <span class="material-symbols-outlined text-sm group-hover:translate-x-1 transition-transform">arrow_forward</span>
               </div>
