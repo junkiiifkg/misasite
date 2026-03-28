@@ -184,7 +184,7 @@ async function fetchBranchData(key, config, teamId) {
       game: key,
       opponent: opponentName,
       date: m.begin_at || m.scheduled_at || '',
-      tournament: m.tournament?.name || m.league?.name || '',
+      tournament: [m.league?.name, m.serie?.full_name].filter(Boolean).join(' ') || m.tournament?.name || '',
       format: m.number_of_games ? `BO${m.number_of_games}` : 'BO1'
     };
 

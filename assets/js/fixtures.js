@@ -77,8 +77,8 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
           <div class="flex-1 flex items-center justify-between p-5 md:p-8 gap-4 md:gap-12">
             <div class="flex items-center gap-3 md:gap-6 flex-1 justify-end">
               <span class="font-headline text-lg md:text-2xl font-black tracking-tighter uppercase hidden sm:block">MISA</span>
-              <div class="w-12 h-12 md:w-16 md:h-16 bg-surface-container-high rounded-full flex items-center justify-center">
-                <span class="font-headline font-black text-primary text-sm md:text-base">MISA</span>
+              <div class="w-12 h-12 md:w-16 md:h-16 bg-surface-container-high rounded-full flex items-center justify-center overflow-hidden p-1">
+                <img src="favicon.svg" alt="MISA" class="w-full h-full object-contain"/>
               </div>
             </div>
             <div class="flex flex-col items-center">

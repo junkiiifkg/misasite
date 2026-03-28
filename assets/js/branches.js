@@ -124,8 +124,8 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
             </div>
             <div class="flex items-center gap-6">
               <div class="flex flex-col items-center">
-                <div class="w-16 h-16 bg-surface-container-high rounded-full flex items-center justify-center">
-                  <span class="font-headline font-black text-primary">MISA</span>
+                <div class="w-16 h-16 bg-surface-container-high rounded-full flex items-center justify-center overflow-hidden p-1">
+                  <img src="favicon.svg" alt="MISA" class="w-full h-full object-contain"/>
                 </div>
                 <span class="mt-2 font-headline font-bold text-primary uppercase text-xs">MISA</span>
               </div>
@@ -158,8 +158,8 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
             </div>
             <div class="flex items-center gap-6">
               <div class="flex flex-col items-center">
-                <div class="w-16 h-16 bg-surface-container-high rounded-full flex items-center justify-center">
-                  <span class="font-headline font-black text-primary">MISA</span>
+                <div class="w-16 h-16 bg-surface-container-high rounded-full flex items-center justify-center overflow-hidden p-1">
+                  <img src="favicon.svg" alt="MISA" class="w-full h-full object-contain"/>
                 </div>
                 <span class="mt-2 font-headline font-bold text-primary uppercase text-xs">MISA</span>
               </div>
