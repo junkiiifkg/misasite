@@ -167,11 +167,12 @@ function formatDate(dateStr) {
   return d.toLocaleDateString('tr-TR', { day: '2-digit', month: 'short', year: 'numeric' }).toUpperCase();
 }
 
-// Utility: extract HH:MM time from ISO date string (Turkey time, +03:00)
+// Utility: format time in Turkey timezone (Europe/Istanbul)
 function formatTime(dateStr) {
   if (!dateStr || !dateStr.includes('T')) return null;
-  const match = dateStr.match(/T(\d{2}:\d{2})/);
-  return match ? match[1] + ' TSİ' : null;
+  const d = new Date(dateStr);
+  const time = d.toLocaleTimeString('tr-TR', { hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Istanbul' });
+  return time + ' TSİ';
 }
 
 // Utility: get next match across all branches
