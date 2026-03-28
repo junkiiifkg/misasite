@@ -119,13 +119,13 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
           <h3 class="font-headline font-bold text-2xl text-on-surface uppercase tracking-tight mb-8">NEXT MATCH</h3>
           <div class="bg-surface-container rounded-xl p-6 md:p-8 flex flex-col md:flex-row items-center justify-between gap-6">
             <div class="text-center md:text-left">
-              <p class="font-label text-xs text-primary tracking-widest uppercase mb-1">${nextMatch.tournament}</p>
+              <p class="font-label text-xs text-primary tracking-widest uppercase mb-1">${[b.standings?.leagueName, nextMatch.tournament].filter(Boolean).join(' · ')}</p>
               <p class="font-headline text-xl font-bold">${formatDate(nextMatch.date)}</p>
             </div>
             <div class="flex items-center gap-6">
               <div class="flex flex-col items-center">
-                <div class="w-16 h-16 bg-surface-container-high rounded-full flex items-center justify-center overflow-hidden p-1">
-                  <img src="favicon.svg" alt="MISA" class="w-full h-full object-contain"/>
+                <div class="w-16 h-16 bg-surface-container-high rounded-xl flex items-center justify-center overflow-hidden p-1">
+                  <img src="${b.teamLogo || 'favicon.svg'}" alt="MISA" class="w-full h-full object-contain" onerror="this.src='favicon.svg'"/>
                 </div>
                 <span class="mt-2 font-headline font-bold text-primary uppercase text-xs">MISA</span>
               </div>
@@ -136,7 +136,7 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
                 <span class="mt-1 text-[10px] font-bold tracking-widest text-outline uppercase">${nextMatch.format}</span>
               </div>
               <div class="flex flex-col items-center">
-                <div class="w-16 h-16 bg-surface-container-high rounded-full flex items-center justify-center">
+                <div class="w-16 h-16 bg-surface-container-high rounded-xl flex items-center justify-center">
                   <span class="font-headline font-bold text-on-surface-variant text-[10px] text-center leading-tight px-1">${nextMatch.opponent}</span>
                 </div>
                 <span class="mt-2 font-headline font-bold text-on-surface-variant uppercase opacity-60 text-xs">${nextMatch.opponent}</span>
@@ -153,13 +153,13 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
           <h3 class="font-headline font-bold text-2xl text-on-surface uppercase tracking-tight mb-8">LAST MATCH</h3>
           <div class="bg-surface-container rounded-xl p-6 md:p-8 flex flex-col md:flex-row items-center justify-between gap-6">
             <div class="text-center md:text-left">
-              <p class="font-label text-xs text-primary tracking-widest uppercase mb-1">${lastMatch.tournament}</p>
+              <p class="font-label text-xs text-primary tracking-widest uppercase mb-1">${[b.standings?.leagueName, lastMatch.tournament].filter(Boolean).join(' · ')}</p>
               <p class="font-headline text-xl font-bold">${formatDate(lastMatch.date)}</p>
             </div>
             <div class="flex items-center gap-6">
               <div class="flex flex-col items-center">
-                <div class="w-16 h-16 bg-surface-container-high rounded-full flex items-center justify-center overflow-hidden p-1">
-                  <img src="favicon.svg" alt="MISA" class="w-full h-full object-contain"/>
+                <div class="w-16 h-16 bg-surface-container-high rounded-xl flex items-center justify-center overflow-hidden p-1">
+                  <img src="${b.teamLogo || 'favicon.svg'}" alt="MISA" class="w-full h-full object-contain" onerror="this.src='favicon.svg'"/>
                 </div>
                 <span class="mt-2 font-headline font-bold text-primary uppercase text-xs">MISA</span>
               </div>

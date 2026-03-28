@@ -72,13 +72,13 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
           <div class="lg:w-1/4 p-5 md:p-6 bg-surface-container-low flex flex-col justify-center border-b lg:border-b-0 lg:border-r border-surface/50">
             <p class="font-label text-xs text-primary tracking-widest uppercase mb-1">${branch.name}</p>
             <h4 class="font-headline text-lg md:text-xl font-bold">${formatDate(m.date)}</h4>
-            <p class="font-body text-sm text-on-surface-variant">${m.tournament}</p>
+            <p class="font-body text-sm text-on-surface-variant">${[branch.standings?.leagueName, m.tournament].filter(Boolean).join(' · ')}</p>
           </div>
           <div class="flex-1 flex items-center justify-between p-5 md:p-8 gap-4 md:gap-12">
             <div class="flex items-center gap-3 md:gap-6 flex-1 justify-end">
               <span class="font-headline text-lg md:text-2xl font-black tracking-tighter uppercase hidden sm:block">MISA</span>
-              <div class="w-12 h-12 md:w-16 md:h-16 bg-surface-container-high rounded-full flex items-center justify-center overflow-hidden p-1">
-                <img src="favicon.svg" alt="MISA" class="w-full h-full object-contain"/>
+              <div class="w-12 h-12 md:w-16 md:h-16 bg-surface-container-high rounded-xl flex items-center justify-center overflow-hidden p-1">
+                <img src="${branch.teamLogo || 'favicon.svg'}" alt="MISA" class="w-full h-full object-contain" onerror="this.src='favicon.svg'"/>
               </div>
             </div>
             <div class="flex flex-col items-center">
@@ -129,7 +129,7 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
             </div>
           </div>
           <div class="hidden md:block text-right pl-4 border-l border-outline-variant/20">
-            <p class="text-[10px] text-outline uppercase tracking-widest">${m.tournament}</p>
+            <p class="text-[10px] text-outline uppercase tracking-widest">${[branch.standings?.leagueName, m.tournament].filter(Boolean).join(' · ')}</p>
             <p class="text-[10px] text-on-surface-variant uppercase font-medium">${formatDate(m.date)}</p>
           </div>
         </div>

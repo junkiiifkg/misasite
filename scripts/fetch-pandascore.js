@@ -147,15 +147,20 @@ async function fetchBranchData(key, config, teamId) {
     console.warn(`  [${key}] Failed to fetch team/roster: ${e.message}`);
   }
 
-  // Fetch standings from the most recent tournament
+  // Extract league/serie name from whichever match has it
   const allMatches = [...upcoming, ...recent];
+  const leagueName = allMatches.find(m => m.league?.name)?.league?.name || '';
+  const serieName = allMatches.find(m => m.serie?.full_name)?.serie?.full_name || '';
+  result.leagueContext = [leagueName, serieName].filter(Boolean).join(' ');
+
+  // Fetch standings from the most recent tournament
   const tournamentId = allMatches[0]?.tournament?.id;
   if (tournamentId) {
     try {
       const standings = await apiGet(`/tournaments/${tournamentId}/standings`);
       if (Array.isArray(standings) && standings.length > 0) {
         result.standings = {
-          leagueName: allMatches[0].league?.name + ' ' + (allMatches[0].serie?.full_name || ''),
+          leagueName: result.leagueContext || allMatches[0].league?.name + ' ' + (allMatches[0].serie?.full_name || ''),
           table: standings.map(s => ({
             pos: s.rank,
             team: s.team?.name || 'Unknown',
@@ -179,12 +184,19 @@ async function fetchBranchData(key, config, teamId) {
     const misaTeam = opponents.find(o => o.opponent?.id === teamId);
     const opponentName = misaOpponent?.opponent?.name || m.name || 'TBD';
 
+    // Build full tournament label: "League Serie · Stage"
+    const matchLeague = [m.league?.name, m.serie?.full_name].filter(Boolean).join(' ') || result.leagueContext || '';
+    const stageName = m.tournament?.name || '';
+    const tournamentLabel = matchLeague
+      ? (stageName ? matchLeague + ' · ' + stageName : matchLeague)
+      : stageName;
+
     const match = {
       id: m.id.toString(),
       game: key,
       opponent: opponentName,
       date: m.begin_at || m.scheduled_at || '',
-      tournament: [m.league?.name, m.serie?.full_name].filter(Boolean).join(' ') || m.tournament?.name || '',
+      tournament: tournamentLabel,
       format: m.number_of_games ? `BO${m.number_of_games}` : 'BO1'
     };
 
