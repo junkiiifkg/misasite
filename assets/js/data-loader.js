@@ -41,6 +41,11 @@ window.__misaDataReady = (async function () {
           });
         }
 
+        // Merge teamLogo
+        if (branchData.teamLogo) {
+          MISA_DATA.branches[key].teamLogo = branchData.teamLogo;
+        }
+
         // Override standings if present
         if (branchData.standings) {
           MISA_DATA.branches[key].standings = branchData.standings;

@@ -23,8 +23,6 @@ const BRANCH_CONFIG = {
   lol:      { slug: 'league-of-legends', searchName: 'MISA' },
   cs2:      { slug: 'cs-go',             searchName: 'MISA' },
   valorant: { slug: 'valorant',          searchName: 'MISA' },
-  eafc26:   { slug: 'fifa',              searchName: 'MISA' },
-  mlbb:     { slug: 'mlbb',              searchName: 'MISA' },
 };
 
 // --- API helpers ---
@@ -94,7 +92,7 @@ async function resolveTeamIds() {
 // --- Data fetching per branch ---
 
 async function fetchBranchData(key, config, teamId) {
-  const result = { roster: [], standings: null };
+  const result = { roster: [], teamLogo: '', standings: null };
 
   // Fetch upcoming matches
   // PandaScore URL slug may differ from videogame slug (e.g. league-of-legends → lol)
@@ -135,6 +133,7 @@ async function fetchBranchData(key, config, teamId) {
   // Fetch team info (includes roster)
   try {
     const team = await apiGet(`/teams/${teamId}`);
+    result.teamLogo = team.image_url || '';
     if (team.players?.length) {
       result.roster = team.players.map(p => ({
         tag: p.name || p.slug || 'Unknown',
@@ -142,7 +141,7 @@ async function fetchBranchData(key, config, teamId) {
         role: p.role ? p.role.charAt(0).toUpperCase() + p.role.slice(1) : 'Player',
         image: p.image_url || ''
       }));
-      console.log(`  [${key}] ${result.roster.length} players`);
+      console.log(`  [${key}] ${result.roster.length} players, logo: ${result.teamLogo ? 'yes' : 'no'}`);
     }
   } catch (e) {
     console.warn(`  [${key}] Failed to fetch team/roster: ${e.message}`);
@@ -242,6 +241,7 @@ async function main() {
       // Store branch-specific data (roster, standings)
       output.branches[key] = {
         roster: data.roster,
+        teamLogo: data.teamLogo,
         standings: data.standings
       };
 

@@ -91,49 +91,6 @@ const MISA_DATA = {
           { pos: 6, team: "BBL Esports", w: 5, l: 9, isMisa: false }
         ]
       }
-    },
-    eafc26: {
-      name: "EA FC 26",
-      shortName: "FC26",
-      icon: "sports_soccer",
-      image: "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=800&q=80",
-      tagline: "The Beautiful Game, Digitally Perfected",
-      roster: [
-        { tag: "GoalMachine", name: "Serkan V.", role: "Main Player", image: "https://lh3.googleusercontent.com/aida-public/AB6AXuBpjm7ffKtD2n5KBrhvbLcIEppFAJ0GS3QlubkZjXX_Dakge3bFLsGqC9Dta_vgCMf055E5z1b4ZXQwz58T4hopcPtEBsML049YfjpTZoGqRuGEnL_5Kz-QziCGxV4OQZXuLHhGSOkvQ5dr082oNm_PuOeDj3UxM3jPSYfniIVano4Ii9PrGcySINwfSsCbRPkWjwNdX-vk_NIhQE-2mpsdtM0lcCyrJJbVNT4gcd72xclVqtDQ1QpF6g-fMA_kdTiBBWJRoAh3RqQ" },
-        { tag: "Tekkers", name: "Furkan H.", role: "Substitute", image: "https://lh3.googleusercontent.com/aida-public/AB6AXuAThZXCl9sSmU5h31XmJG4C5YDufed_r917ojrvMzTfbSEP57bstC8F7mQrkgnmFWXaffAEuD9o7-ZunNFGot846_z7Jw_ZEniI_5DbAmTwtdG0fVIlKu_g2hGMhYdGtJ3EbxPw3iLof41rek4yB-XUboRwyilBgsN36F_UaoMyCsD4gDNuQiW4YnzcsqWZoq3pf_O9-8eYuzpDy2SsOGxB88PAJF91Bt1YalbtLsC92XQmg3rAw5dg3OA7-lR2oKQPwW3Fs9kPLJw" }
-      ],
-      standings: {
-        leagueName: "eSuperLig 2026",
-        table: [
-          { pos: 1, team: "Galatasaray Esports", w: 15, l: 3, isMisa: false },
-          { pos: 2, team: "MISA Esports", w: 13, l: 5, isMisa: true },
-          { pos: 3, team: "Fenerbahce Esports", w: 12, l: 6, isMisa: false },
-          { pos: 4, team: "Besiktas Esports", w: 10, l: 8, isMisa: false }
-        ]
-      }
-    },
-    mlbb: {
-      name: "Mobile Legends: Bang Bang",
-      shortName: "MLBB",
-      icon: "phone_android",
-      image: "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&q=80",
-      tagline: "Mobile Dominance, Unlimited Power",
-      roster: [
-        { tag: "BladeX", name: "Yigit N.", role: "Gold Lane", image: "https://lh3.googleusercontent.com/aida-public/AB6AXuBpjm7ffKtD2n5KBrhvbLcIEppFAJ0GS3QlubkZjXX_Dakge3bFLsGqC9Dta_vgCMf055E5z1b4ZXQwz58T4hopcPtEBsML049YfjpTZoGqRuGEnL_5Kz-QziCGxV4OQZXuLHhGSOkvQ5dr082oNm_PuOeDj3UxM3jPSYfniIVano4Ii9PrGcySINwfSsCbRPkWjwNdX-vk_NIhQE-2mpsdtM0lcCyrJJbVNT4gcd72xclVqtDQ1QpF6g-fMA_kdTiBBWJRoAh3RqQ" },
-        { tag: "JungleFury", name: "Onur L.", role: "Jungler", image: "https://lh3.googleusercontent.com/aida-public/AB6AXuAThZXCl9sSmU5h31XmJG4C5YDufed_r917ojrvMzTfbSEP57bstC8F7mQrkgnmFWXaffAEuD9o7-ZunNFGot846_z7Jw_ZEniI_5DbAmTwtdG0fVIlKu_g2hGMhYdGtJ3EbxPw3iLof41rek4yB-XUboRwyilBgsN36F_UaoMyCsD4gDNuQiW4YnzcsqWZoq3pf_O9-8eYuzpDy2SsOGxB88PAJF91Bt1YalbtLsC92XQmg3rAw5dg3OA7-lR2oKQPwW3Fs9kPLJw" },
-        { tag: "MidKing", name: "Ege A.", role: "Mid Lane", image: "https://lh3.googleusercontent.com/aida-public/AB6AXuDPB2AEYR1shpcIcCA8GrHckwt2ecvNTUX-Wk1KzzryJsqLw6vPz89jn2s9mVmCO5KLnHQOYKiVMBvCVIU4VfzE9yLQKqQKTS5q6bOYoasHQOXDL2jOwOCjdD3aM0hqY2gP5ciw3IpMUIKdA8-9sHQVD51Y-L-BtAp6x7SfuOcQFCArMPddeBP76wo7cLB27akqiY1_yaPD0R5m5FubCjQoWieCvBNV0l7lOtAS8yI7s_1PmjJdI8Uz_JrEgkM_57e8pwQKAr1BYDU" },
-        { tag: "ExpLane", name: "Baris T.", role: "EXP Lane", image: "https://lh3.googleusercontent.com/aida-public/AB6AXuCRoCozUVDcSkEhTqHV3wjq8RgW7gbEO1YnV89V103tS76u6uwqE63gQxzeIo5ja9pQL53-hbORZyE7hVXlhRyJiPLyny4VA2OyY9smo-n6iKDpFshqjPd612K1TPZSvc_694Gsjm45PCw6jVSo3s4MMR_YBhvnIAxd84gGal8fSMoNvf-BZCL34_nuoSWxpE1AilKcMqJBmLQxRTGaAumTiGJBw4L4x572dULOXmHtlcMnllEQxTERWi-oRyUiKl29i9nxfSqsSCU" },
-        { tag: "Roamer", name: "Hakan Z.", role: "Roamer", image: "https://lh3.googleusercontent.com/aida-public/AB6AXuCWrj-3gQ2Tw1xpWxqTQNHeSuuFmnog5xldpsFdzNJT3BD6U4Jq8TgszntgnkSPtUIWOPCbVjtdzzAEGYbWc8a87jafGZrJ1ySeTFY3kFVlH3ekDiV2JrwDHSV1-NiBOZlM7y8q0ktGa2D00OVOBK5q-BaqM6AwU5TmLObwl2glAn8pURy7KnOEk3L9XUPCBfwl5C9Gx1u7px3TTRarQGEVcJOj7tLVdiZNlKVetuU-fssT8-AV-YbMrYw5Awi6PJ1kUXU3bsllnJ0" }
-      ],
-      standings: {
-        leagueName: "MPL Turkey 2026",
-        table: [
-          { pos: 1, team: "MISA Esports", w: 11, l: 1, isMisa: true },
-          { pos: 2, team: "S2G Esports", w: 9, l: 3, isMisa: false },
-          { pos: 3, team: "Oyun Hizmetleri", w: 7, l: 5, isMisa: false },
-          { pos: 4, team: "Fire Flux", w: 5, l: 7, isMisa: false }
-        ]
-      }
     }
   },
 
@@ -142,8 +99,6 @@ const MISA_DATA = {
       { id: "u1", game: "lol", opponent: "Galatasaray Esports", date: "2026-04-02T19:00:00+03:00", tournament: "TCL Spring 2026", format: "BO3" },
       { id: "u2", game: "cs2", opponent: "NAVI", date: "2026-04-05T21:00:00+03:00", tournament: "ESL Pro League S23", format: "BO3" },
       { id: "u3", game: "valorant", opponent: "Fnatic", date: "2026-04-03T18:00:00+03:00", tournament: "VCT EMEA Stage 2", format: "BO3" },
-      { id: "u4", game: "eafc26", opponent: "Fenerbahce Esports", date: "2026-04-06T20:00:00+03:00", tournament: "eSuperLig Week 12", format: "BO5" },
-      { id: "u5", game: "mlbb", opponent: "S2G Esports", date: "2026-04-04T17:00:00+03:00", tournament: "MPL Turkey S5", format: "BO5" },
       { id: "u6", game: "lol", opponent: "Dark Passage", date: "2026-04-09T19:00:00+03:00", tournament: "TCL Spring 2026", format: "BO3" },
       { id: "u7", game: "cs2", opponent: "FaZe Clan", date: "2026-04-12T22:00:00+03:00", tournament: "BLAST Premier", format: "BO3" },
       { id: "u8", game: "valorant", opponent: "Team Heretics", date: "2026-04-10T20:00:00+03:00", tournament: "VCT EMEA Stage 2", format: "BO3" }
@@ -152,8 +107,6 @@ const MISA_DATA = {
       { id: "r1", game: "cs2", opponent: "Cloud9", date: "2026-03-22", tournament: "BLAST Premier", format: "BO3", result: { misa: 16, opponent: 9, win: true } },
       { id: "r2", game: "lol", opponent: "Besiktas Esports", date: "2026-03-20", tournament: "TCL Spring 2026", format: "BO3", result: { misa: 2, opponent: 1, win: true } },
       { id: "r3", game: "valorant", opponent: "BBL Esports", date: "2026-03-19", tournament: "VCT EMEA Stage 2", format: "BO3", result: { misa: 1, opponent: 2, win: false } },
-      { id: "r4", game: "mlbb", opponent: "Oyun Hizmetleri", date: "2026-03-18", tournament: "MPL Turkey S5", format: "BO5", result: { misa: 3, opponent: 1, win: true } },
-      { id: "r5", game: "eafc26", opponent: "Galatasaray Esports", date: "2026-03-17", tournament: "eSuperLig Week 11", format: "BO5", result: { misa: 2, opponent: 3, win: false } },
       { id: "r6", game: "cs2", opponent: "Vitality", date: "2026-03-15", tournament: "ESL Pro League", format: "BO3", result: { misa: 2, opponent: 0, win: true } },
       { id: "r7", game: "lol", opponent: "Papara SuperMassive", date: "2026-03-14", tournament: "TCL Spring 2026", format: "BO3", result: { misa: 2, opponent: 0, win: true } },
       { id: "r8", game: "valorant", opponent: "Karmine Corp", date: "2026-03-12", tournament: "VCT EMEA Stage 2", format: "BO3", result: { misa: 2, opponent: 1, win: true } }

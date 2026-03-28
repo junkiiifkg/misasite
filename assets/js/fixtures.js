@@ -1,7 +1,7 @@
 /* MISA Esports - Fixtures Page Logic */
 
 document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
-  const activeFilters = new Set(['lol', 'cs2', 'valorant', 'eafc26', 'mlbb']);
+  const activeFilters = new Set(['lol', 'cs2', 'valorant']);
 
   // Render filter buttons
   const filterContainer = document.getElementById('game-filters');
@@ -9,9 +9,7 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
     const games = [
       { key: 'lol', label: 'LoL', icon: 'sports_esports' },
       { key: 'cs2', label: 'CS2', icon: 'military_tech' },
-      { key: 'valorant', label: 'Valorant', icon: 'shield' },
-      { key: 'eafc26', label: 'EA FC 26', icon: 'sports_soccer' },
-      { key: 'mlbb', label: 'MLBB', icon: 'phone_android' }
+      { key: 'valorant', label: 'Valorant', icon: 'shield' }
     ];
 
     filterContainer.innerHTML = games.map(g => `

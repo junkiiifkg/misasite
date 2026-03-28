@@ -69,19 +69,23 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
   function renderDetail(key) {
     const b = MISA_DATA.branches[key];
     const nextMatch = MISA_DATA.matches.upcoming.find(m => m.game === key);
+    const lastMatch = MISA_DATA.matches.recent.find(m => m.game === key);
 
     detailPanel.classList.remove('hidden');
     detailPanel.innerHTML = `
       <div class="bg-surface-container-lowest rounded-xl p-6 md:p-12 border border-outline-variant/10">
         <!-- Header -->
         <div class="flex flex-col md:flex-row justify-between items-start md:items-end mb-12 gap-4">
-          <div>
-            <div class="flex items-center gap-3 mb-2">
-              <span class="material-symbols-outlined text-primary" style="font-variation-settings: 'FILL' 1;">${b.icon}</span>
-              <span class="text-primary font-headline font-bold text-xs tracking-widest uppercase">${b.shortName}</span>
+          <div class="flex items-center gap-6">
+            ${b.teamLogo ? `<img src="${b.teamLogo}" alt="${b.name} logo" class="w-16 h-16 md:w-20 md:h-20 object-contain rounded-lg" loading="lazy" onerror="this.style.display='none'"/>` : ''}
+            <div>
+              <div class="flex items-center gap-3 mb-2">
+                <span class="material-symbols-outlined text-primary" style="font-variation-settings: 'FILL' 1;">${b.icon}</span>
+                <span class="text-primary font-headline font-bold text-xs tracking-widest uppercase">${b.shortName}</span>
+              </div>
+              <h2 class="text-4xl md:text-5xl font-black font-headline tracking-tighter text-primary uppercase">${b.name}</h2>
+              <p class="text-on-surface-variant uppercase tracking-widest text-xs mt-2">${b.tagline}</p>
             </div>
-            <h2 class="text-4xl md:text-5xl font-black font-headline tracking-tighter text-primary uppercase">${b.name}</h2>
-            <p class="text-on-surface-variant uppercase tracking-widest text-xs mt-2">${b.tagline}</p>
           </div>
           <button onclick="document.getElementById('branch-detail').classList.add('hidden'); document.querySelectorAll('.branch-card').forEach(c => c.classList.remove('ring-2', 'ring-primary'));" class="flex items-center gap-2 text-on-surface-variant hover:text-primary transition-colors font-label font-bold text-xs tracking-widest uppercase">
             <span class="material-symbols-outlined text-sm">close</span> CLOSE
@@ -143,32 +147,42 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
         </div>
         ` : ''}
 
-        <!-- Standings -->
+        <!-- Last Match -->
+        ${lastMatch ? `
         <div>
-          <h3 class="font-headline font-bold text-2xl text-on-surface uppercase tracking-tight mb-8">STANDINGS — ${b.standings.leagueName}</h3>
-          <div class="overflow-x-auto">
-            <table class="w-full">
-              <thead>
-                <tr class="border-b border-outline-variant/20">
-                  <th class="text-left py-3 px-4 font-label font-bold text-[10px] text-on-surface-variant uppercase tracking-widest">#</th>
-                  <th class="text-left py-3 px-4 font-label font-bold text-[10px] text-on-surface-variant uppercase tracking-widest">Team</th>
-                  <th class="text-center py-3 px-4 font-label font-bold text-[10px] text-on-surface-variant uppercase tracking-widest">W</th>
-                  <th class="text-center py-3 px-4 font-label font-bold text-[10px] text-on-surface-variant uppercase tracking-widest">L</th>
-                </tr>
-              </thead>
-              <tbody>
-                ${b.standings.table.map(row => `
-                  <tr class="${row.isMisa ? 'bg-primary/10 border-l-4 border-primary' : 'border-l-4 border-transparent'} hover:bg-surface-container-low transition-colors">
-                    <td class="py-3 px-4 font-headline font-bold text-sm ${row.isMisa ? 'text-primary' : 'text-on-surface-variant'}">${row.pos}</td>
-                    <td class="py-3 px-4 font-headline font-bold text-sm uppercase ${row.isMisa ? 'text-primary' : 'text-on-surface'}">${row.team}</td>
-                    <td class="py-3 px-4 text-center font-headline font-bold text-sm text-primary">${row.w}</td>
-                    <td class="py-3 px-4 text-center font-headline font-bold text-sm text-on-surface-variant">${row.l}</td>
-                  </tr>
-                `).join('')}
-              </tbody>
-            </table>
+          <h3 class="font-headline font-bold text-2xl text-on-surface uppercase tracking-tight mb-8">LAST MATCH</h3>
+          <div class="bg-surface-container rounded-xl p-6 md:p-8 flex flex-col md:flex-row items-center justify-between gap-6">
+            <div class="text-center md:text-left">
+              <p class="font-label text-xs text-primary tracking-widest uppercase mb-1">${lastMatch.tournament}</p>
+              <p class="font-headline text-xl font-bold">${formatDate(lastMatch.date)}</p>
+            </div>
+            <div class="flex items-center gap-6">
+              <div class="flex flex-col items-center">
+                <div class="w-16 h-16 bg-surface-container-high rounded-full flex items-center justify-center">
+                  <span class="font-headline font-black text-primary">MISA</span>
+                </div>
+                <span class="mt-2 font-headline font-bold text-primary uppercase text-xs">MISA</span>
+              </div>
+              <div class="flex flex-col items-center gap-1">
+                <div class="flex items-center gap-3">
+                  <span class="font-headline text-3xl font-black ${lastMatch.result.win ? 'text-primary' : 'text-on-surface-variant'}">${lastMatch.result.misa}</span>
+                  <span class="text-outline-variant font-headline text-xl">-</span>
+                  <span class="font-headline text-3xl font-black ${lastMatch.result.win ? 'text-on-surface-variant' : 'text-primary'}">${lastMatch.result.opponent}</span>
+                </div>
+                <span class="font-headline font-black text-xs tracking-widest uppercase px-3 py-1 rounded-full ${lastMatch.result.win ? 'bg-primary/20 text-primary' : 'bg-secondary-container/20 text-secondary-container'}">${lastMatch.result.win ? 'WIN' : 'LOSS'}</span>
+                <span class="text-[10px] font-bold tracking-widest text-outline uppercase">${lastMatch.format}</span>
+              </div>
+              <div class="flex flex-col items-center">
+                <div class="w-16 h-16 bg-surface-container-high rounded-full flex items-center justify-center">
+                  <span class="font-headline font-bold text-on-surface-variant text-[10px] text-center leading-tight px-1">${lastMatch.opponent}</span>
+                </div>
+                <span class="mt-2 font-headline font-bold text-on-surface-variant uppercase opacity-60 text-xs">${lastMatch.opponent}</span>
+              </div>
+            </div>
+            <a href="fixtures.html" class="text-primary font-label font-bold tracking-widest uppercase text-xs border-b border-primary/30 pb-1 hover:border-primary transition-all">ALL RESULTS</a>
           </div>
         </div>
+        ` : ''}
       </div>
     `;
   }
