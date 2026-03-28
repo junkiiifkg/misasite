@@ -5,7 +5,7 @@
  * Node 18+ (uses native fetch)
  */
 
-import { readFileSync, writeFileSync, existsSync } from 'fs';
+import { writeFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
@@ -27,8 +27,6 @@ const BRANCH_CONFIG = {
   mlbb:     { slug: 'mlbb',              searchName: 'MISA' },
 };
 
-const TEAM_IDS_FILE = join(__dirname, 'team-ids.json');
-
 // --- API helpers ---
 
 async function apiGet(path, params = {}) {
@@ -49,17 +47,6 @@ async function apiGet(path, params = {}) {
 // --- Team ID resolution ---
 
 async function resolveTeamIds() {
-  // Try cached IDs first
-  if (existsSync(TEAM_IDS_FILE)) {
-    try {
-      const cached = JSON.parse(readFileSync(TEAM_IDS_FILE, 'utf8'));
-      if (Object.keys(cached).length > 0) {
-        console.log('Using cached team IDs:', cached);
-        return cached;
-      }
-    } catch (e) { /* regenerate */ }
-  }
-
   console.log('Resolving MISA team IDs from PandaScore...');
   const teamIds = {};
 
@@ -100,8 +87,6 @@ async function resolveTeamIds() {
     }
   }
 
-  // Cache the results
-  writeFileSync(TEAM_IDS_FILE, JSON.stringify(teamIds, null, 2));
   console.log('Resolved team IDs:', teamIds);
   return teamIds;
 }

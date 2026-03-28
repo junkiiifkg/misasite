@@ -5,3 +5,4 @@ node_modules/
 Thumbs.db
 *.log
 wetransfer_stitch_2026-03-25_2109/
+scripts/team-ids.json
