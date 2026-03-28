@@ -3,7 +3,7 @@ name: Fetch PandaScore Data
 on:
   schedule:
     - cron: '0 */6 * * *'  # Every 6 hours
-  workflow_dispatch:         # Manual trigger for testing
+  workflow_dispatch: # Manual trigger for testing
 
 permissions:
   contents: write
