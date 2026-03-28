@@ -1,5 +1,210 @@
 {
-  "_meta": { "fetchedAt": null, "source": "pandascore" },
-  "branches": {},
-  "matches": { "upcoming": [], "recent": [] }
+  "_meta": {
+    "fetchedAt": "2026-03-28T00:33:40.288Z",
+    "source": "pandascore"
+  },
+  "branches": {
+    "valorant": {
+      "roster": [
+        {
+          "tag": "Brave",
+          "name": "Eren Kasırga",
+          "role": "Player",
+          "image": "https://cdn-api.pandascore.co/images/player/image/32898/ezgif_3_e18c5583c7.png"
+        },
+        {
+          "tag": "pAura",
+          "name": "Melih Karaduran",
+          "role": "Player",
+          "image": "https://cdn-api.pandascore.co/images/player/image/33022/600px_team_heretics_p_aura.png"
+        },
+        {
+          "tag": "QutionerX",
+          "name": "Doğukan Dural",
+          "role": "Player",
+          "image": ""
+        },
+        {
+          "tag": "Elite",
+          "name": " Efe Teber",
+          "role": "Player",
+          "image": "https://cdn-api.pandascore.co/images/player/image/38559/ezgif_5_fe54ae6979.png"
+        },
+        {
+          "tag": "Burzzy",
+          "name": "Burak  Özveren",
+          "role": "Player",
+          "image": ""
+        }
+      ],
+      "standings": {
+        "leagueName": "VCL EMEA: Stage 1 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Enterprise Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "UCAM Esports Club",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 4,
+            "team": "Mandatory",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          }
+        ]
+      }
+    }
+  },
+  "matches": {
+    "upcoming": [],
+    "recent": [
+      {
+        "id": "1396301",
+        "game": "valorant",
+        "opponent": "Mandatory",
+        "date": "2026-03-27T16:09:44Z",
+        "tournament": "Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 1,
+          "opponent": 2,
+          "win": false
+        }
+      },
+      {
+        "id": "1396299",
+        "game": "valorant",
+        "opponent": "Enterprise Esports",
+        "date": "2026-03-26T19:16:59Z",
+        "tournament": "Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 1,
+          "opponent": 2,
+          "win": false
+        }
+      },
+      {
+        "id": "1395517",
+        "game": "valorant",
+        "opponent": "Team Liquid Academy",
+        "date": "2026-03-20T16:05:04Z",
+        "tournament": "Group A",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
+      {
+        "id": "1395516",
+        "game": "valorant",
+        "opponent": "Eintracht Frankfurt",
+        "date": "2026-03-19T17:56:22Z",
+        "tournament": "Group A",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
+      {
+        "id": "1355305",
+        "game": "valorant",
+        "opponent": "S2G Esports",
+        "date": "2026-03-08T10:38:02Z",
+        "tournament": "Playoffs",
+        "format": "BO5",
+        "result": {
+          "misa": 3,
+          "opponent": 1,
+          "win": true
+        }
+      },
+      {
+        "id": "1355304",
+        "game": "valorant",
+        "opponent": "Beşiktaş Esports",
+        "date": "2026-03-01T13:34:37Z",
+        "tournament": "Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
+      {
+        "id": "1355303",
+        "game": "valorant",
+        "opponent": "S2G Esports",
+        "date": "2026-02-28T13:04:03Z",
+        "tournament": "Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
+      {
+        "id": "1312317",
+        "game": "valorant",
+        "opponent": "Beşiktaş Esports",
+        "date": "2026-02-07T14:33:51Z",
+        "tournament": "Regular Season",
+        "format": "BO3",
+        "result": {
+          "misa": 0,
+          "opponent": 2,
+          "win": false
+        }
+      },
+      {
+        "id": "1312313",
+        "game": "valorant",
+        "opponent": "Bushido Wildcats",
+        "date": "2026-02-01T14:32:17Z",
+        "tournament": "Regular Season",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
+      {
+        "id": "1312310",
+        "game": "valorant",
+        "opponent": "S2G Esports",
+        "date": "2026-01-26T14:29:43Z",
+        "tournament": "Regular Season",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      }
+    ]
+  }
 }
