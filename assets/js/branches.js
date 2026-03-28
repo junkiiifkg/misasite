@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
               <span class="text-primary font-headline font-bold text-xs tracking-widest uppercase">${b.shortName}</span>
             </div>
             <div class="flex items-center gap-2 text-primary font-label font-bold text-xs tracking-widest uppercase">
-              <span>VIEW DETAILS</span>
+              <span>DETAYLARI GÖR</span>
               <span class="material-symbols-outlined text-sm group-hover:translate-x-1 transition-transform">arrow_forward</span>
             </div>
           </div>
@@ -91,13 +91,13 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
             </div>
           </div>
           <button onclick="document.getElementById('branch-detail').classList.add('hidden'); document.querySelectorAll('.branch-card').forEach(c => c.classList.remove('ring-2', 'ring-primary'));" class="flex items-center gap-2 text-on-surface-variant hover:text-primary transition-colors font-label font-bold text-xs tracking-widest uppercase">
-            <span class="material-symbols-outlined text-sm">close</span> CLOSE
+            <span class="material-symbols-outlined text-sm">close</span> KAPAT
           </button>
         </div>
 
         <!-- Roster -->
         <div class="mb-16">
-          <h3 class="font-headline font-bold text-2xl text-on-surface uppercase tracking-tight mb-8">ROSTER</h3>
+          <h3 class="font-headline font-bold text-2xl text-on-surface uppercase tracking-tight mb-8">KADRO</h3>
           <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 md:gap-6">
             ${b.roster.map((p, i) => `
               <div class="group/player relative bg-surface-container-high rounded-xl overflow-hidden transition-all duration-500 hover:-translate-y-1">
@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
         <!-- Next Match -->
         ${nextMatch ? `
         <div class="mb-16">
-          <h3 class="font-headline font-bold text-2xl text-on-surface uppercase tracking-tight mb-8">NEXT MATCH</h3>
+          <h3 class="font-headline font-bold text-2xl text-on-surface uppercase tracking-tight mb-8">SONRAKİ MAÇ</h3>
           <div class="bg-surface-container rounded-xl p-6 md:p-8 flex flex-col md:flex-row items-center justify-between gap-6">
             <div class="text-center md:text-left">
               <p class="font-label text-xs text-primary tracking-widest uppercase mb-1">${[b.standings?.leagueName, nextMatch.tournament].filter(Boolean).join(' · ')}</p>
@@ -145,7 +145,7 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
                 <span class="mt-2 font-headline font-bold text-on-surface-variant uppercase opacity-60 text-xs">${nextMatch.opponent}</span>
               </div>
             </div>
-            <a href="fixtures.html" class="text-primary font-label font-bold tracking-widest uppercase text-xs border-b border-primary/30 pb-1 hover:border-primary transition-all">ALL FIXTURES</a>
+            <a href="fixtures.html" class="text-primary font-label font-bold tracking-widest uppercase text-xs border-b border-primary/30 pb-1 hover:border-primary transition-all">TÜM FİKSTÜR</a>
           </div>
         </div>
         ` : ''}
@@ -153,7 +153,7 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
         <!-- Last Match -->
         ${lastMatch ? `
         <div>
-          <h3 class="font-headline font-bold text-2xl text-on-surface uppercase tracking-tight mb-8">LAST MATCH</h3>
+          <h3 class="font-headline font-bold text-2xl text-on-surface uppercase tracking-tight mb-8">SON MAÇ</h3>
           <div class="bg-surface-container rounded-xl p-6 md:p-8 flex flex-col md:flex-row items-center justify-between gap-6">
             <div class="text-center md:text-left">
               <p class="font-label text-xs text-primary tracking-widest uppercase mb-1">${[b.standings?.leagueName, lastMatch.tournament].filter(Boolean).join(' · ')}</p>
@@ -172,7 +172,7 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
                   <span class="text-outline-variant font-headline text-xl">-</span>
                   <span class="font-headline text-3xl font-black ${lastMatch.result.win ? 'text-on-surface-variant' : 'text-primary'}">${lastMatch.result.opponent}</span>
                 </div>
-                <span class="font-headline font-black text-xs tracking-widest uppercase px-3 py-1 rounded-full ${lastMatch.result.win ? 'bg-primary/20 text-primary' : 'bg-secondary-container/20 text-secondary-container'}">${lastMatch.result.win ? 'WIN' : 'LOSS'}</span>
+                <span class="font-headline font-black text-xs tracking-widest uppercase px-3 py-1 rounded-full ${lastMatch.result.win ? 'bg-primary/20 text-primary' : 'bg-secondary-container/20 text-secondary-container'}">${lastMatch.result.win ? 'GALİBİYET' : 'MAĞLUBIYET'}</span>
                 <span class="text-[10px] font-bold tracking-widest text-outline uppercase">${lastMatch.format}</span>
               </div>
               <div class="flex flex-col items-center">
@@ -182,7 +182,7 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
                 <span class="mt-2 font-headline font-bold text-on-surface-variant uppercase opacity-60 text-xs">${lastMatch.opponent}</span>
               </div>
             </div>
-            <a href="fixtures.html" class="text-primary font-label font-bold tracking-widest uppercase text-xs border-b border-primary/30 pb-1 hover:border-primary transition-all">ALL RESULTS</a>
+            <a href="fixtures.html" class="text-primary font-label font-bold tracking-widest uppercase text-xs border-b border-primary/30 pb-1 hover:border-primary transition-all">TÜM SONUÇLAR</a>
           </div>
         </div>
         ` : ''}

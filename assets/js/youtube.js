@@ -30,10 +30,10 @@ function renderYouTubeSection(containerId) {
         ></iframe>
       </div>
       <div class="mt-6 flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-        <p class="text-on-surface-variant text-sm">From the official MISA Esports YouTube channel</p>
+        <p class="text-on-surface-variant text-sm">Resmi MISA Esports YouTube kanalından</p>
         <a href="${YOUTUBE_CHANNEL_URL}" target="_blank" rel="noopener noreferrer"
           class="flex items-center gap-2 text-primary font-label font-bold uppercase tracking-widest text-xs hover:translate-x-2 duration-300 transition-transform">
-          MORE VIDEOS <span class="material-symbols-outlined text-sm">arrow_forward</span>
+          DAHA FAZLA VİDEO <span class="material-symbols-outlined text-sm">arrow_forward</span>
         </a>
       </div>
     `;
@@ -43,18 +43,18 @@ function renderYouTubeSection(containerId) {
       <div class="aspect-video w-full rounded-xl overflow-hidden bg-surface-container-low flex items-center justify-center">
         <div class="text-center space-y-4">
           <span class="material-symbols-outlined text-6xl text-primary/40">smart_display</span>
-          <p class="text-on-surface-variant text-sm">Watch the latest from MISA Esports</p>
+          <p class="text-on-surface-variant text-sm">MISA Esports'tan en yenileri izle</p>
           <a href="${YOUTUBE_CHANNEL_URL}" target="_blank" rel="noopener noreferrer"
             class="inline-flex items-center gap-2 gold-gradient px-6 py-3 rounded-md text-[#3c2f00] font-headline font-bold text-sm tracking-widest uppercase hover:opacity-90 active:scale-95 transition-all">
             <span class="material-symbols-outlined text-sm">play_arrow</span>
-            WATCH ON YOUTUBE
+            YOUTUBE'DA İZLE
           </a>
         </div>
       </div>
       <div class="mt-6 flex justify-end">
         <a href="${YOUTUBE_CHANNEL_URL}" target="_blank" rel="noopener noreferrer"
           class="flex items-center gap-2 text-primary font-label font-bold uppercase tracking-widest text-xs hover:translate-x-2 duration-300 transition-transform">
-          VISIT CHANNEL <span class="material-symbols-outlined text-sm">arrow_forward</span>
+          KANALI ZİYARET ET <span class="material-symbols-outlined text-sm">arrow_forward</span>
         </a>
       </div>
     `;

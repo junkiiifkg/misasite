@@ -44,39 +44,39 @@ function renderNav() {
   if (!root) return;
 
   root.innerHTML = `
-    <nav class="fixed top-0 left-0 right-0 z-50 h-20 bg-[#131313]/80 backdrop-blur-xl shadow-[0_0_20px_rgba(212,175,55,0.05)] flex justify-between items-center px-6 md:px-8 max-w-none" role="navigation" aria-label="Main navigation">
+    <nav class="fixed top-0 left-0 right-0 z-50 h-20 bg-[#131313]/80 backdrop-blur-xl shadow-[0_0_20px_rgba(212,175,55,0.05)] flex justify-between items-center px-6 md:px-8 max-w-none" role="navigation" aria-label="Ana gezinti">
       <a href="index.html" class="text-2xl font-black tracking-tighter text-[#f2ca50] font-headline hover:opacity-90 transition-opacity">MISA</a>
 
       <!-- Desktop Nav -->
       <div class="hidden md:flex items-center gap-10">
-        <a class="${navLinkClass('home')}" href="index.html">HOME</a>
-        <a class="${navLinkClass('branches')}" href="branches.html">BRANCHES</a>
-        <a class="${navLinkClass('fixtures')}" href="fixtures.html">FIXTURES</a>
-        <a class="${navLinkClass('minigames')}" href="minigames.html">MINIGAMES</a>
+        <a class="${navLinkClass('home')}" href="index.html">ANA SAYFA</a>
+        <a class="${navLinkClass('branches')}" href="branches.html">TAKIMLAR</a>
+        <a class="${navLinkClass('fixtures')}" href="fixtures.html">FİKSTÜR</a>
+        <a class="${navLinkClass('minigames')}" href="minigames.html">MİNİ OYUNLAR</a>
       </div>
 
       <div class="flex items-center gap-4">
         <a href="https://misaesports.com" target="_blank" rel="noopener noreferrer" class="hidden sm:block gold-gradient px-5 py-2 rounded-md font-['Space_Grotesk'] font-bold text-[#3c2f00] text-xs tracking-widest uppercase hover:opacity-90 active:scale-95 transition-all">
-          OFFICIAL SITE
+          RESMİ SİTE
         </a>
         <!-- Mobile Menu Button -->
-        <button id="mobile-menu-btn" class="md:hidden text-[#f2ca50] hover:scale-110 transition-transform" aria-label="Open menu" aria-expanded="false">
+        <button id="mobile-menu-btn" class="md:hidden text-[#f2ca50] hover:scale-110 transition-transform" aria-label="Menüyü aç" aria-expanded="false">
           <span class="material-symbols-outlined text-2xl">menu</span>
         </button>
       </div>
     </nav>
 
     <!-- Mobile Menu Overlay -->
-    <div id="mobile-menu" class="mobile-menu-overlay hidden fixed inset-0 z-[60] bg-[#131313]/95 backdrop-blur-xl flex flex-col items-center justify-center gap-8" role="dialog" aria-label="Mobile navigation menu">
-      <button id="mobile-menu-close" class="absolute top-6 right-6 text-[#f2ca50]" aria-label="Close menu">
+    <div id="mobile-menu" class="mobile-menu-overlay hidden fixed inset-0 z-[60] bg-[#131313]/95 backdrop-blur-xl flex flex-col items-center justify-center gap-8" role="dialog" aria-label="Mobil gezinti menüsü">
+      <button id="mobile-menu-close" class="absolute top-6 right-6 text-[#f2ca50]" aria-label="Menüyü kapat">
         <span class="material-symbols-outlined text-3xl">close</span>
       </button>
-      <a class="font-['Space_Grotesk'] font-bold uppercase tracking-[0.1em] text-2xl ${getActivePage() === 'home' ? 'text-[#f2ca50]' : 'text-[#d0c5af]'}" href="index.html">HOME</a>
-      <a class="font-['Space_Grotesk'] font-bold uppercase tracking-[0.1em] text-2xl ${getActivePage() === 'branches' ? 'text-[#f2ca50]' : 'text-[#d0c5af]'}" href="branches.html">BRANCHES</a>
-      <a class="font-['Space_Grotesk'] font-bold uppercase tracking-[0.1em] text-2xl ${getActivePage() === 'fixtures' ? 'text-[#f2ca50]' : 'text-[#d0c5af]'}" href="fixtures.html">FIXTURES</a>
-      <a class="font-['Space_Grotesk'] font-bold uppercase tracking-[0.1em] text-2xl ${getActivePage() === 'minigames' ? 'text-[#f2ca50]' : 'text-[#d0c5af]'}" href="minigames.html">MINIGAMES</a>
+      <a class="font-['Space_Grotesk'] font-bold uppercase tracking-[0.1em] text-2xl ${getActivePage() === 'home' ? 'text-[#f2ca50]' : 'text-[#d0c5af]'}" href="index.html">ANA SAYFA</a>
+      <a class="font-['Space_Grotesk'] font-bold uppercase tracking-[0.1em] text-2xl ${getActivePage() === 'branches' ? 'text-[#f2ca50]' : 'text-[#d0c5af]'}" href="branches.html">TAKIMLAR</a>
+      <a class="font-['Space_Grotesk'] font-bold uppercase tracking-[0.1em] text-2xl ${getActivePage() === 'fixtures' ? 'text-[#f2ca50]' : 'text-[#d0c5af]'}" href="fixtures.html">FİKSTÜR</a>
+      <a class="font-['Space_Grotesk'] font-bold uppercase tracking-[0.1em] text-2xl ${getActivePage() === 'minigames' ? 'text-[#f2ca50]' : 'text-[#d0c5af]'}" href="minigames.html">MİNİ OYUNLAR</a>
       <a href="https://misaesports.com" target="_blank" rel="noopener noreferrer" class="gold-gradient px-8 py-3 rounded-md font-['Space_Grotesk'] font-bold text-[#3c2f00] text-sm tracking-widest uppercase mt-4">
-        OFFICIAL SITE
+        RESMİ SİTE
       </a>
     </div>
   `;
@@ -118,7 +118,7 @@ function renderFooter() {
         <div class="flex flex-col md:flex-row justify-between items-start gap-16 mb-20">
           <div class="space-y-6 max-w-sm">
             <a href="index.html" class="text-[#f2ca50] font-['Space_Grotesk'] font-bold text-3xl block">MISA ESPORTS</a>
-            <p class="text-[#d0c5af] text-sm leading-relaxed font-body">A fan-built hub for MISA Esports supporters. Follow matches, explore branches, play mini-games, and stay connected with the community.</p>
+            <p class="text-[#d0c5af] text-sm leading-relaxed font-body">MISA Esports taraftarları için yapılmış bir fan sitesi. Maçları takip et, takımları keşfet, mini oyunlar oyna ve toplulukla bağlantıda kal.</p>
             <div class="flex gap-4">
               <a href="https://www.youtube.com/@MisaEsportsOfficial" target="_blank" rel="noopener noreferrer" aria-label="MISA Esports YouTube" class="material-symbols-outlined text-[#d0c5af] hover:text-[#f2ca50] cursor-pointer transition-colors">smart_display</a>
               <a href="https://misaesports.com" target="_blank" rel="noopener noreferrer" aria-label="MISA Esports official site" class="material-symbols-outlined text-[#d0c5af] hover:text-[#f2ca50] cursor-pointer transition-colors">language</a>
@@ -126,31 +126,31 @@ function renderFooter() {
           </div>
           <div class="grid grid-cols-2 md:grid-cols-3 gap-12">
             <div class="space-y-4">
-              <h5 class="text-[#f2ca50] font-label font-bold text-xs tracking-widest uppercase">NAVIGATION</h5>
+              <h5 class="text-[#f2ca50] font-label font-bold text-xs tracking-widest uppercase">GEZİNTİ</h5>
               <ul class="space-y-2">
-                <li><a class="text-[#d0c5af] hover:text-[#f2ca50] text-sm transition-colors uppercase font-label" href="index.html">Home</a></li>
-                <li><a class="text-[#d0c5af] hover:text-[#f2ca50] text-sm transition-colors uppercase font-label" href="branches.html">Branches</a></li>
-                <li><a class="text-[#d0c5af] hover:text-[#f2ca50] text-sm transition-colors uppercase font-label" href="fixtures.html">Fixtures</a></li>
-                <li><a class="text-[#d0c5af] hover:text-[#f2ca50] text-sm transition-colors uppercase font-label" href="minigames.html">Minigames</a></li>
+                <li><a class="text-[#d0c5af] hover:text-[#f2ca50] text-sm transition-colors uppercase font-label" href="index.html">Ana Sayfa</a></li>
+                <li><a class="text-[#d0c5af] hover:text-[#f2ca50] text-sm transition-colors uppercase font-label" href="branches.html">Takımlar</a></li>
+                <li><a class="text-[#d0c5af] hover:text-[#f2ca50] text-sm transition-colors uppercase font-label" href="fixtures.html">Fikstür</a></li>
+                <li><a class="text-[#d0c5af] hover:text-[#f2ca50] text-sm transition-colors uppercase font-label" href="minigames.html">Mini Oyunlar</a></li>
               </ul>
             </div>
             <div class="space-y-4">
-              <h5 class="text-[#f2ca50] font-label font-bold text-xs tracking-widest uppercase">LINKS</h5>
+              <h5 class="text-[#f2ca50] font-label font-bold text-xs tracking-widest uppercase">LİNKLER</h5>
               <ul class="space-y-2">
-                <li><a class="text-[#d0c5af] hover:text-[#f2ca50] text-sm transition-colors uppercase font-label" href="https://misaesports.com" target="_blank" rel="noopener noreferrer">Official Site</a></li>
+                <li><a class="text-[#d0c5af] hover:text-[#f2ca50] text-sm transition-colors uppercase font-label" href="https://misaesports.com" target="_blank" rel="noopener noreferrer">Resmi Site</a></li>
                 <li><a class="text-[#d0c5af] hover:text-[#f2ca50] text-sm transition-colors uppercase font-label" href="https://www.youtube.com/@MisaEsportsOfficial" target="_blank" rel="noopener noreferrer">YouTube</a></li>
-                <li><a class="text-[#d0c5af] hover:text-[#f2ca50] text-sm transition-colors uppercase font-label" href="privacy.html">Privacy Policy</a></li>
+                <li><a class="text-[#d0c5af] hover:text-[#f2ca50] text-sm transition-colors uppercase font-label" href="privacy.html">Gizlilik Politikası</a></li>
               </ul>
             </div>
             <div class="space-y-4 col-span-2 md:col-span-1">
-              <h5 class="text-[#f2ca50] font-label font-bold text-xs tracking-widest uppercase">FAN SITE</h5>
-              <p class="text-[#d0c5af] text-xs leading-relaxed">This is an unofficial fan site. Not affiliated with MISA Esports management.</p>
+              <h5 class="text-[#f2ca50] font-label font-bold text-xs tracking-widest uppercase">FAN SİTESİ</h5>
+              <p class="text-[#d0c5af] text-xs leading-relaxed">Bu gayri resmi bir fan sitesidir. MISA Esports yönetimiyle herhangi bir bağlantısı yoktur.</p>
             </div>
           </div>
         </div>
         <div class="flex flex-col md:flex-row justify-between items-center gap-8 w-full border-t border-[#4d4635]/15 pt-10">
           <div class="font-['Work_Sans'] text-[10px] uppercase tracking-widest text-[#d0c5af]">
-            &copy; ${year} MISA ESPORTS FAN SITE. ALL RIGHTS RESERVED.
+            &copy; ${year} MISA ESPORTS FAN SİTESİ. TÜM HAKLAR SAKLIDIR.
           </div>
           <div class="flex gap-8">
             <a class="font-['Work_Sans'] text-[10px] uppercase tracking-widest text-[#d0c5af] hover:text-[#f2ca50]" href="https://misaesports.com" target="_blank" rel="noopener noreferrer">misaesports.com</a>
