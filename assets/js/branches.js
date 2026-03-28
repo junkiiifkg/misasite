@@ -13,22 +13,26 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
   grid.innerHTML = branchKeys.map(key => {
     const b = MISA_DATA.branches[key];
     return `
-      <div data-branch="${key}" role="button" tabindex="0" aria-label="View ${b.name} branch details" class="branch-card group relative overflow-hidden rounded-xl cursor-pointer transition-all duration-500 hover:-translate-y-2 ${branchKeys.indexOf(key) === 0 ? 'md:col-span-2 md:row-span-2' : ''}">
-        <div class="relative h-full min-h-[280px] ${branchKeys.indexOf(key) === 0 ? 'md:min-h-[500px]' : 'md:min-h-[320px]'}">
-          <img class="absolute inset-0 w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700 opacity-40 group-hover:opacity-60" src="${b.image}" alt="${b.name}"/>
-          <div class="absolute inset-0 bg-gradient-to-t from-[#131313] via-[#131313]/40 to-transparent"></div>
+      <div data-branch="${key}" role="button" tabindex="0" aria-label="View ${b.name} branch details" class="branch-card group relative overflow-hidden rounded-xl cursor-pointer transition-all duration-500 hover:-translate-y-2 bg-surface-container-high ${branchKeys.indexOf(key) === 0 ? 'md:col-span-2 md:row-span-2' : ''}">
+        <div class="relative h-full min-h-[280px] ${branchKeys.indexOf(key) === 0 ? 'md:min-h-[500px]' : 'md:min-h-[320px]'} flex flex-col">
+          <!-- Game logo fills the entire card -->
+          <div class="absolute inset-0 flex items-center justify-center p-8 md:p-12">
+            <img src="${b.gameLogo || ''}" alt="${b.name}"
+              class="w-full h-full object-contain opacity-55 group-hover:opacity-90 transition-all duration-700 group-hover:scale-105 drop-shadow-2xl"/>
+          </div>
+          <!-- Bottom fade so text is readable -->
+          <div class="absolute bottom-0 left-0 right-0 h-2/5 bg-gradient-to-t from-surface-container-high to-transparent"></div>
+          <!-- Border ring -->
           <div class="absolute inset-0 border border-outline-variant/20 group-hover:border-primary/40 rounded-xl transition-colors duration-500"></div>
+          <!-- Content overlay -->
           <div class="relative z-10 p-6 md:p-8 h-full flex flex-col justify-between">
             <div class="flex items-center gap-3">
               <span class="material-symbols-outlined text-primary" style="font-variation-settings: 'FILL' 1;">${b.icon}</span>
               <span class="text-primary font-headline font-bold text-xs tracking-widest uppercase">${b.shortName}</span>
             </div>
-            <div>
-              ${b.gameLogo ? `<img src="${b.gameLogo}" alt="${b.name}" class="h-8 ${branchKeys.indexOf(key) === 0 ? 'md:h-12' : 'md:h-8'} object-contain mb-3 opacity-90 group-hover:opacity-100 transition-opacity drop-shadow-lg"/>` : `<h2 class="text-3xl ${branchKeys.indexOf(key) === 0 ? 'md:text-5xl' : 'md:text-2xl'} font-headline font-black tracking-tighter text-on-surface uppercase mb-2 group-hover:text-primary transition-colors">${b.name}</h2>`}
-              <div class="flex items-center gap-2 text-primary font-label font-bold text-xs tracking-widest uppercase mt-2">
-                <span>VIEW DETAILS</span>
-                <span class="material-symbols-outlined text-sm group-hover:translate-x-1 transition-transform">arrow_forward</span>
-              </div>
+            <div class="flex items-center gap-2 text-primary font-label font-bold text-xs tracking-widest uppercase">
+              <span>VIEW DETAILS</span>
+              <span class="material-symbols-outlined text-sm group-hover:translate-x-1 transition-transform">arrow_forward</span>
             </div>
           </div>
         </div>
