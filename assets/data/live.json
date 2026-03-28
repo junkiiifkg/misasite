@@ -1,9 +1,211 @@
 {
   "_meta": {
-    "fetchedAt": "2026-03-28T00:40:37.904Z",
+    "fetchedAt": "2026-03-28T00:44:50.272Z",
     "source": "pandascore"
   },
   "branches": {
+    "lol": {
+      "roster": [
+        {
+          "tag": "Ragner",
+          "name": "Onurcan Aslan",
+          "role": "Top",
+          "image": "https://cdn-api.pandascore.co/images/player/image/15358/gl_ragner_2025_split_2.png"
+        },
+        {
+          "tag": "Hype",
+          "name": "Jeong-hyeon Byeon ",
+          "role": "Adc",
+          "image": "https://cdn-api.pandascore.co/images/player/image/32745/kt.c_hype_2024_split_2.png"
+        },
+        {
+          "tag": "113",
+          "name": "Doğukan Balci",
+          "role": "Jun",
+          "image": "https://cdn-api.pandascore.co/images/player/image/34917/kcb_113_summer_2024.png"
+        },
+        {
+          "tag": "SlowQ",
+          "name": "Seo Ye-bit",
+          "role": "Mid",
+          "image": "https://cdn-api.pandascore.co/images/player/image/34985/kcb_slow_q_2025_split_2.png"
+        },
+        {
+          "tag": "Stend",
+          "name": "Paul  Lardin",
+          "role": "Sup",
+          "image": "https://cdn-api.pandascore.co/images/player/image/38918/th_stend_2025_split_3.png"
+        }
+      ],
+      "standings": {
+        "leagueName": "EMEA Masters Winter 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Eintracht Spandau",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "⁠Movistar KOI Fénix",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "Solary",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "Unicorns Of Love Sexy Edition",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "Verdant",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 6,
+            "team": "French Flair",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 6,
+            "team": "Galions",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 8,
+            "team": "Team Heretics Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 9,
+            "team": "BIG",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 11,
+            "team": "Karmine Corp Blue",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 12,
+            "team": "G2 NORD",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          }
+        ]
+      }
+    },
+    "cs2": {
+      "roster": [
+        {
+          "tag": "ckanic",
+          "name": "Serdar Akinci",
+          "role": "Player",
+          "image": ""
+        },
+        {
+          "tag": "rim3",
+          "name": "Emir Dönmez",
+          "role": "Player",
+          "image": ""
+        },
+        {
+          "tag": "Zuedsta",
+          "name": "Zübeyir Yıldırım",
+          "role": "Player",
+          "image": ""
+        },
+        {
+          "tag": "Mertovsk1",
+          "name": "Kazım Mert Burtgil",
+          "role": "Player",
+          "image": ""
+        },
+        {
+          "tag": "souv",
+          "name": "Aziz Altinsoy",
+          "role": "Player",
+          "image": ""
+        },
+        {
+          "tag": "Faz",
+          "name": "Gökhan Gülener",
+          "role": "Player",
+          "image": ""
+        },
+        {
+          "tag": "Obyj",
+          "name": "Onur Buğra Yaman",
+          "role": "Player",
+          "image": ""
+        }
+      ],
+      "standings": {
+        "leagueName": "ESEA European Finals season 56 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "ROUNDS",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "Banger Gang",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "ENJOY",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
+            "team": " Phantom Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          }
+        ]
+      }
+    },
     "valorant": {
       "roster": [
         {
@@ -73,8 +275,38 @@
     }
   },
   "matches": {
-    "upcoming": [],
+    "upcoming": [
+      {
+        "id": "1418469",
+        "game": "cs2",
+        "opponent": "TNT",
+        "date": "2026-03-28T18:30:00Z",
+        "tournament": "Playoffs",
+        "format": "BO3"
+      },
+      {
+        "id": "1397503",
+        "game": "lol",
+        "opponent": "Karmine Corp Blue",
+        "date": "2026-03-31T15:00:00Z",
+        "tournament": "Playoffs",
+        "format": "BO3"
+      }
+    ],
     "recent": [
+      {
+        "id": "1418466",
+        "game": "cs2",
+        "opponent": "ROUNDS",
+        "date": "2026-03-27T18:46:53Z",
+        "tournament": "Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1396301",
         "game": "valorant",
@@ -97,6 +329,32 @@
         "format": "BO3",
         "result": {
           "misa": 1,
+          "opponent": 2,
+          "win": false
+        }
+      },
+      {
+        "id": "1397501",
+        "game": "lol",
+        "opponent": "Team Heretics Academy",
+        "date": "2026-03-25T15:57:10Z",
+        "tournament": "Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
+      {
+        "id": "1397494",
+        "game": "lol",
+        "opponent": "French Flair",
+        "date": "2026-03-24T15:59:21Z",
+        "tournament": "Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 0,
           "opponent": 2,
           "win": false
         }
@@ -128,6 +386,32 @@
         }
       },
       {
+        "id": "1392356",
+        "game": "cs2",
+        "opponent": "G2 Ares",
+        "date": "2026-03-15T11:37:00Z",
+        "tournament": "Group B",
+        "format": "BO3",
+        "result": {
+          "misa": 1,
+          "opponent": 2,
+          "win": false
+        }
+      },
+      {
+        "id": "1390923",
+        "game": "lol",
+        "opponent": "BIG",
+        "date": "2026-03-09T16:03:39Z",
+        "tournament": "Champions Round",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
+      {
         "id": "1355305",
         "game": "valorant",
         "opponent": "S2G Esports",
@@ -137,6 +421,19 @@
         "result": {
           "misa": 3,
           "opponent": 1,
+          "win": true
+        }
+      },
+      {
+        "id": "1351417",
+        "game": "lol",
+        "opponent": "S2G Esports",
+        "date": "2026-03-06T15:03:50Z",
+        "tournament": "Playoffs",
+        "format": "BO5",
+        "result": {
+          "misa": 3,
+          "opponent": 0,
           "win": true
         }
       },
@@ -167,6 +464,71 @@
         }
       },
       {
+        "id": "1378741",
+        "game": "cs2",
+        "opponent": "Imperial Academy",
+        "date": "2026-02-28T11:45:00Z",
+        "tournament": "Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": false
+        }
+      },
+      {
+        "id": "1351414",
+        "game": "lol",
+        "opponent": "S2G Esports",
+        "date": "2026-02-19T15:01:35Z",
+        "tournament": "Playoffs",
+        "format": "BO5",
+        "result": {
+          "misa": 3,
+          "opponent": 1,
+          "win": true
+        }
+      },
+      {
+        "id": "1351015",
+        "game": "cs2",
+        "opponent": "Inner Circle Esports",
+        "date": "2026-02-12T13:00:00Z",
+        "tournament": "Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": true
+        }
+      },
+      {
+        "id": "1351409",
+        "game": "lol",
+        "opponent": "SU Esports",
+        "date": "2026-02-10T14:36:41Z",
+        "tournament": "Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
+      {
+        "id": "1353968",
+        "game": "cs2",
+        "opponent": "777",
+        "date": "2026-02-09T18:00:00Z",
+        "tournament": "Regular Season",
+        "format": "BO1",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": true
+        }
+      },
+      {
         "id": "1312317",
         "game": "valorant",
         "opponent": "Beşiktaş Esports",
@@ -180,11 +542,37 @@
         }
       },
       {
+        "id": "1322444",
+        "game": "lol",
+        "opponent": "BoostGate Esports",
+        "date": "2026-02-06T14:33:20Z",
+        "tournament": "Group B",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
+      {
         "id": "1312313",
         "game": "valorant",
         "opponent": "Bushido Wildcats",
         "date": "2026-02-01T14:32:17Z",
         "tournament": "Regular Season",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
+      {
+        "id": "1322441",
+        "game": "lol",
+        "opponent": "S2G Esports",
+        "date": "2026-01-30T14:34:35Z",
+        "tournament": "Group B",
         "format": "BO3",
         "result": {
           "misa": 2,
@@ -203,6 +591,97 @@
           "misa": 2,
           "opponent": 0,
           "win": true
+        }
+      },
+      {
+        "id": "1322435",
+        "game": "lol",
+        "opponent": "SU Esports",
+        "date": "2026-01-20T16:32:21Z",
+        "tournament": "Group B",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
+      {
+        "id": "1317219",
+        "game": "cs2",
+        "opponent": "XPERION NXT",
+        "date": "2026-01-12T19:00:00Z",
+        "tournament": "Regular Season",
+        "format": "BO1",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": false
+        }
+      },
+      {
+        "id": "1297419",
+        "game": "cs2",
+        "opponent": "FOKUS",
+        "date": "2025-12-29T11:30:00Z",
+        "tournament": "Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": false
+        }
+      },
+      {
+        "id": "1271933",
+        "game": "lol",
+        "opponent": "Last Wall",
+        "date": "2025-12-14T13:49:32Z",
+        "tournament": "Playoffs",
+        "format": "BO5",
+        "result": {
+          "misa": 3,
+          "opponent": 0,
+          "win": true
+        }
+      },
+      {
+        "id": "1278819",
+        "game": "cs2",
+        "opponent": "MANA eSports",
+        "date": "2025-12-14T12:00:00Z",
+        "tournament": "Group D",
+        "format": "BO3",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": false
+        }
+      },
+      {
+        "id": "1262870",
+        "game": "cs2",
+        "opponent": "Lilmix",
+        "date": "2025-11-01T13:30:00Z",
+        "tournament": "Main Stage",
+        "format": "BO3",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": true
+        }
+      },
+      {
+        "id": "1245355",
+        "game": "cs2",
+        "opponent": "Eternal Fire Academy",
+        "date": "2025-09-26T18:45:00Z",
+        "tournament": "Contenders Stage",
+        "format": "BO3",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": false
         }
       }
     ]
