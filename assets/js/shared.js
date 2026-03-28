@@ -164,7 +164,14 @@ function renderFooter() {
 // Utility: format date
 function formatDate(dateStr) {
   const d = new Date(dateStr);
-  return d.toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' }).toUpperCase();
+  return d.toLocaleDateString('tr-TR', { day: '2-digit', month: 'short', year: 'numeric' }).toUpperCase();
+}
+
+// Utility: extract HH:MM time from ISO date string
+function formatTime(dateStr) {
+  if (!dateStr || !dateStr.includes('T')) return null;
+  const match = dateStr.match(/T(\d{2}:\d{2})/);
+  return match ? match[1] : null;
 }
 
 // Utility: get next match across all branches

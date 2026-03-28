@@ -124,6 +124,7 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
             <div class="text-center md:text-left">
               <p class="font-label text-xs text-primary tracking-widest uppercase mb-1">${[b.standings?.leagueName, nextMatch.tournament].filter(Boolean).join(' · ')}</p>
               <p class="font-headline text-xl font-bold">${formatDate(nextMatch.date)}</p>
+              ${formatTime(nextMatch.date) ? `<p class="font-body text-sm text-primary font-semibold mt-0.5">${formatTime(nextMatch.date)}</p>` : ''}
             </div>
             <div class="flex items-center gap-6">
               <div class="flex flex-col items-center">

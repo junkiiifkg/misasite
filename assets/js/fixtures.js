@@ -72,6 +72,7 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
           <div class="lg:w-1/4 p-5 md:p-6 bg-surface-container-low flex flex-col justify-center border-b lg:border-b-0 lg:border-r border-surface/50">
             <p class="font-label text-xs text-primary tracking-widest uppercase mb-1">${branch.name}</p>
             <h4 class="font-headline text-lg md:text-xl font-bold">${formatDate(m.date)}</h4>
+            ${formatTime(m.date) ? `<p class="font-body text-sm text-primary font-semibold">${formatTime(m.date)}</p>` : ''}
             <p class="font-body text-sm text-on-surface-variant">${[branch.standings?.leagueName, m.tournament].filter(Boolean).join(' · ')}</p>
           </div>
           <div class="flex-1 flex items-center justify-between p-5 md:p-8 gap-4 md:gap-12">
