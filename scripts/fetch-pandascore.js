@@ -20,11 +20,11 @@ if (!TOKEN) {
 
 // PandaScore videogame slugs mapped to our internal keys
 const BRANCH_CONFIG = {
-  lol:      { slug: 'lol',       searchName: 'MISA' },
-  cs2:      { slug: 'csgo',      searchName: 'MISA' },
-  valorant: { slug: 'valorant',  searchName: 'MISA' },
-  eafc26:   { slug: 'fifa',      searchName: 'MISA' },
-  mlbb:     { slug: 'mlbb',      searchName: 'MISA' },
+  lol:      { slug: 'league-of-legends', searchName: 'MISA' },
+  cs2:      { slug: 'cs-go',             searchName: 'MISA' },
+  valorant: { slug: 'valorant',          searchName: 'MISA' },
+  eafc26:   { slug: 'fifa',              searchName: 'MISA' },
+  mlbb:     { slug: 'mlbb',              searchName: 'MISA' },
 };
 
 const TEAM_IDS_FILE = join(__dirname, 'team-ids.json');
@@ -112,9 +112,19 @@ async function fetchBranchData(key, config, teamId) {
   const result = { roster: [], standings: null };
 
   // Fetch upcoming matches
+  // PandaScore URL slug may differ from videogame slug (e.g. league-of-legends → lol)
+  const urlSlugMap = {
+    'league-of-legends': 'lol',
+    'cs-go': 'csgo',
+    'valorant': 'valorant',
+    'fifa': 'fifa',
+    'mlbb': 'mlbb'
+  };
+  const urlSlug = urlSlugMap[config.slug] || config.slug;
+
   let upcoming = [];
   try {
-    upcoming = await apiGet(`/${config.slug}/matches/upcoming`, {
+    upcoming = await apiGet(`/${urlSlug}/matches/upcoming`, {
       'filter[opponent_id]': teamId.toString(),
       'sort': 'begin_at',
       'per_page': '10'
@@ -127,7 +137,7 @@ async function fetchBranchData(key, config, teamId) {
   // Fetch recent/past matches
   let recent = [];
   try {
-    recent = await apiGet(`/${config.slug}/matches/past`, {
+    recent = await apiGet(`/${urlSlug}/matches/past`, {
       'filter[opponent_id]': teamId.toString(),
       'sort': '-begin_at',
       'per_page': '10'
