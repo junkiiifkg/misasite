@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html class="dark" lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>MiniGames - MISA Esports</title>
+  <meta name="description" content="Play Misadle, the daily esports word game, and other mini-games. Compete on the leaderboard with fellow MISA Esports fans."/>
+  <meta property="og:title" content="MISA Arena - MiniGames"/>
+  <meta property="og:description" content="Play Misadle and other esports mini-games. Climb the leaderboard!"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:image" content="favicon.svg"/>
+  <meta name="twitter:card" content="summary"/>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700;900&family=Work+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="assets/css/shared.css"/>
+  <script id="tailwind-config">
+    tailwind.config = {
+      darkMode: "class",
+      theme: {
+        extend: {
+          colors: {
+            "surface-bright": "#393939", "surface-container-high": "#2a2a2a",
+            "on-secondary-fixed": "#410000", "on-secondary": "#690000",
+            "tertiary-container": "#cbaf7b", "surface": "#131313",
+            "on-surface": "#e5e2e1", "inverse-primary": "#735c00",
+            "primary-fixed": "#ffe088", "on-secondary-fixed-variant": "#930001",
+            "on-tertiary-container": "#564218", "on-primary-fixed": "#241a00",
+            "on-error": "#690005", "outline": "#99907c", "on-tertiary": "#3f2e05",
+            "surface-container-lowest": "#0e0e0e", "on-primary": "#3c2f00",
+            "background": "#131313", "tertiary-fixed-dim": "#e0c38d",
+            "on-error-container": "#ffdad6", "primary-fixed-dim": "#e9c349",
+            "inverse-on-surface": "#313030", "secondary": "#ffb4a8",
+            "secondary-container": "#ff5541", "surface-variant": "#353534",
+            "tertiary-fixed": "#fedfa7", "tertiary": "#e8ca94",
+            "surface-dim": "#131313", "on-secondary-container": "#5c0000",
+            "inverse-surface": "#e5e2e1", "primary": "#f2ca50",
+            "on-surface-variant": "#d0c5af", "error-container": "#93000a",
+            "on-primary-container": "#554300", "primary-container": "#d4af37",
+            "surface-tint": "#e9c349", "surface-container-low": "#1c1b1b",
+            "secondary-fixed-dim": "#ffb4a8", "on-primary-fixed-variant": "#574500",
+            "surface-container-highest": "#353534", "surface-container": "#201f1f",
+            "on-tertiary-fixed": "#261900", "secondary-fixed": "#ffdad4",
+            "on-tertiary-fixed-variant": "#58441a", "outline-variant": "#4d4635",
+            "error": "#ffb4ab", "on-background": "#e5e2e1"
+          },
+          fontFamily: { "headline": ["Space Grotesk"], "body": ["Work Sans"], "label": ["Work Sans"] },
+          borderRadius: {"DEFAULT": "0.125rem", "lg": "0.25rem", "xl": "0.5rem", "full": "0.75rem"},
+        },
+      },
+    }
+  </script>
+</head>
+<body class="overflow-x-hidden">
+
+<div id="nav-root"></div>
+
+<main class="pt-28 pb-24 px-4 md:px-8 max-w-[1600px] mx-auto min-h-screen">
+
+  <!-- Page Header -->
+  <header class="mb-16">
+    <span class="text-primary font-headline font-bold tracking-widest uppercase text-sm mb-4 block">Fan Games</span>
+    <h1 class="text-5xl md:text-7xl lg:text-8xl font-black font-headline leading-none tracking-tight mb-6">MISA <span class="text-on-surface-variant/40">ARENA</span></h1>
+    <p class="text-on-surface-variant text-lg max-w-xl leading-relaxed">Test your esports knowledge, compete with other fans, and climb the leaderboards.</p>
+  </header>
+
+  <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12">
+
+    <!-- Main Game Area -->
+    <div class="lg:col-span-8 space-y-12">
+
+      <!-- Misadle Section -->
+      <div id="misadle-section" class="bg-surface-container-lowest border border-outline-variant/10 rounded-xl p-6 md:p-10">
+        <div class="flex flex-col md:flex-row justify-between items-start md:items-center mb-8 gap-4">
+          <div>
+            <div class="flex items-center gap-3 mb-2">
+              <span class="gold-gradient text-on-primary font-label font-bold px-3 py-1 text-[10px] uppercase tracking-widest rounded">DAILY</span>
+              <span class="text-primary font-headline font-bold text-xs tracking-widest">FEATURED GAME</span>
+            </div>
+            <h2 class="text-4xl md:text-5xl font-headline font-black tracking-tighter text-gold-gradient">MISADLE</h2>
+            <p class="text-on-surface-variant text-sm mt-2">Guess the esports word in 6 tries. A new word every day!</p>
+          </div>
+          <div class="flex items-center gap-3">
+            <div class="bg-surface-container-low px-4 py-2 rounded-lg">
+              <span class="text-[10px] font-label font-bold text-on-surface-variant tracking-widest uppercase block">How to Play</span>
+              <div class="flex gap-3 mt-1">
+                <span class="flex items-center gap-1"><span class="w-4 h-4 rounded bg-primary inline-block"></span><span class="text-[10px] text-on-surface-variant">Correct</span></span>
+                <span class="flex items-center gap-1"><span class="w-4 h-4 rounded bg-on-surface-variant/30 inline-block"></span><span class="text-[10px] text-on-surface-variant">Wrong spot</span></span>
+                <span class="flex items-center gap-1"><span class="w-4 h-4 rounded bg-surface-container-highest inline-block"></span><span class="text-[10px] text-on-surface-variant">Not in word</span></span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Message -->
+        <div id="misadle-message" class="text-center font-headline font-bold text-primary text-lg mb-4 h-8 transition-opacity duration-300 opacity-0"></div>
+
+        <!-- Game Board -->
+        <div id="misadle-board" class="space-y-1.5 mb-8">
+          <!-- Rendered by misadle.js -->
+        </div>
+
+        <!-- Keyboard -->
+        <div id="misadle-keyboard" class="space-y-1.5">
+          <!-- Rendered by misadle.js -->
+        </div>
+      </div>
+
+      <!-- Other Mini-Games -->
+      <div>
+        <h2 class="font-headline font-bold text-2xl uppercase tracking-tight mb-8">More Games</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <!-- Reaction Clicker -->
+          <div class="group relative overflow-hidden rounded-xl bg-surface-container-high transition-transform duration-500 hover:-translate-y-2">
+            <div class="aspect-video relative overflow-hidden bg-gradient-to-br from-primary/20 to-surface-container-high flex items-center justify-center">
+              <span class="material-symbols-outlined text-7xl text-primary/30 group-hover:text-primary/50 transition-colors">ads_click</span>
+            </div>
+            <div class="p-6 md:p-8">
+              <h3 class="text-xl md:text-2xl font-headline font-bold mb-2 group-hover:text-primary transition-colors">Reaction Clicker</h3>
+              <p class="text-on-surface-variant text-sm mb-6 leading-relaxed">Test your reaction speed. Click as fast as you can when the screen turns gold!</p>
+              <button onclick="startReactionGame()" class="w-full gold-gradient text-on-primary font-headline font-bold py-3 md:py-4 rounded-md tracking-widest uppercase text-sm active:scale-95 transition-all">PLAY NOW</button>
+            </div>
+          </div>
+          <!-- Esports Trivia -->
+          <div class="group relative overflow-hidden rounded-xl bg-surface-container-high transition-transform duration-500 hover:-translate-y-2">
+            <div class="aspect-video relative overflow-hidden bg-gradient-to-br from-primary/20 to-surface-container-high flex items-center justify-center">
+              <span class="material-symbols-outlined text-7xl text-primary/30 group-hover:text-primary/50 transition-colors">quiz</span>
+            </div>
+            <div class="p-6 md:p-8">
+              <h3 class="text-xl md:text-2xl font-headline font-bold mb-2 group-hover:text-primary transition-colors">Esports Trivia</h3>
+              <p class="text-on-surface-variant text-sm mb-6 leading-relaxed">How well do you know competitive gaming? Answer questions about MISA and esports history.</p>
+              <button class="w-full border border-outline-variant/40 text-on-surface-variant font-headline font-bold py-3 md:py-4 rounded-md tracking-widest uppercase text-sm cursor-not-allowed opacity-50">COMING SOON</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Leaderboard Sidebar -->
+    <aside class="lg:col-span-4">
+      <div class="bg-surface-container-lowest border border-outline-variant/10 rounded-xl p-6 md:p-8 sticky top-28">
+        <div class="flex items-center justify-between mb-8">
+          <h2 class="text-xl md:text-2xl font-headline font-bold uppercase tracking-widest">Leaderboard</h2>
+          <span class="material-symbols-outlined text-primary">trophy</span>
+        </div>
+
+        <!-- Username -->
+        <div class="mb-8">
+          <label class="text-[10px] font-label font-bold text-on-surface-variant tracking-widest uppercase block mb-2">Your Name</label>
+          <div class="flex bg-surface-container-low p-1 rounded-md">
+            <input id="username-input" aria-label="Your leaderboard name" class="bg-transparent border-none text-xs font-label text-on-surface placeholder:text-outline-variant focus:ring-0 w-full uppercase" placeholder="ENTER YOUR NAME" type="text" maxlength="15"/>
+            <button onclick="saveUsername()" class="gold-gradient px-4 py-2 rounded text-on-primary font-black text-[10px] uppercase whitespace-nowrap">SAVE</button>
+          </div>
+        </div>
+
+        <!-- Leaderboard List -->
+        <div id="leaderboard-list" class="space-y-4">
+          <!-- Populated by JS -->
+        </div>
+
+        <div class="pt-8 mt-8 border-t border-outline-variant/10">
+          <div id="user-rank" class="bg-surface-container-low rounded-lg p-4 flex items-center justify-between">
+            <div class="flex items-center gap-3">
+              <span class="text-xs font-bold text-primary">#--</span>
+              <span class="font-headline font-bold text-sm" id="user-display-name">GUEST</span>
+            </div>
+            <span class="text-xs text-on-surface-variant" id="user-score">0 PTS</span>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+  </div>
+</main>
+
+<!-- Reaction Game Modal -->
+<div id="reaction-modal" class="hidden fixed inset-0 z-[70] bg-[#131313]/95 backdrop-blur-xl flex items-center justify-center">
+  <div class="max-w-lg w-full mx-4">
+    <div class="flex justify-between items-center mb-6">
+      <h3 class="font-headline font-bold text-2xl text-primary">REACTION CLICKER</h3>
+      <button onclick="closeReactionGame()" class="text-on-surface-variant hover:text-primary">
+        <span class="material-symbols-outlined">close</span>
+      </button>
+    </div>
+    <div id="reaction-area" class="w-full h-80 rounded-xl bg-surface-container-high flex items-center justify-center cursor-pointer transition-colors duration-100" onclick="handleReactionClick()">
+      <p id="reaction-text" class="font-headline font-bold text-xl text-on-surface-variant text-center px-8">Click "START" to begin</p>
+    </div>
+    <div class="flex justify-between items-center mt-4">
+      <p id="reaction-result" class="font-headline font-bold text-primary text-lg"></p>
+      <button id="reaction-start-btn" onclick="startReactionRound()" class="gold-gradient px-6 py-3 rounded-md font-headline font-bold text-on-primary text-sm tracking-widest uppercase active:scale-95 transition-all">START</button>
+    </div>
+  </div>
+</div>
+
+<div id="footer-root"></div>
+
+<script defer src="assets/js/data.js"></script>
+<script defer src="assets/js/data-loader.js"></script>
+<script defer src="assets/js/shared.js"></script>
+<script defer src="assets/js/misadle.js"></script>
+<script>
+  // --- Init Misadle ---
+  document.addEventListener('DOMContentLoaded', () => {
+    MISADLE.init();
+    loadLeaderboard();
+    loadUsername();
+  });
+
+  // --- Username ---
+  function saveUsername() {
+    const input = document.getElementById('username-input');
+    const raw = input.value.replace(/<[^>]*>/g, '').trim().toUpperCase() || 'GUEST';
+    const name = raw.slice(0, 15);
+    localStorage.setItem('misa_username', name);
+    document.getElementById('user-display-name').textContent = name;
+    input.value = name;
+  }
+
+  function loadUsername() {
+    const name = localStorage.getItem('misa_username') || 'GUEST';
+    const input = document.getElementById('username-input');
+    if (input) input.value = name;
+    const display = document.getElementById('user-display-name');
+    if (display) display.textContent = name;
+  }
+
+  // --- Leaderboard ---
+  function loadLeaderboard() {
+    const container = document.getElementById('leaderboard-list');
+    if (!container) return;
+
+    let lb;
+    try {
+      lb = JSON.parse(localStorage.getItem('misa_leaderboard') || '{}');
+    } catch (e) { lb = {}; }
+
+    const misadleScores = (lb.misadle || [])
+      .filter(e => e.won)
+      .sort((a, b) => b.score - a.score)
+      .slice(0, 5);
+
+    if (misadleScores.length === 0) {
+      // Show sample leaderboard
+      container.innerHTML = `
+        <div class="text-center py-8 text-on-surface-variant text-sm">
+          <span class="material-symbols-outlined text-3xl text-primary/20 block mb-2">emoji_events</span>
+          <p>No scores yet!</p>
+          <p class="text-xs mt-1">Play Misadle to get on the board.</p>
+        </div>
+      `;
+      return;
+    }
+
+    container.innerHTML = misadleScores.map((entry, i) => {
+      const rankColors = ['border-primary', 'border-outline-variant', 'border-outline-variant'];
+      return `
+        <div class="flex items-center gap-4 group cursor-pointer">
+          <div class="relative">
+            <div class="w-12 h-12 rounded-full ${i === 0 ? 'border-2 border-primary' : 'border-2 border-outline-variant'} flex items-center justify-center bg-surface-container-high">
+              <span class="font-headline font-bold text-lg ${i === 0 ? 'text-primary' : 'text-on-surface-variant'}">${entry.name[0]}</span>
+            </div>
+            <div class="absolute -bottom-1 -right-1 w-5 h-5 ${i === 0 ? 'bg-primary text-on-primary' : 'bg-surface-container-high text-on-surface-variant border border-outline-variant'} rounded-full flex items-center justify-center text-[9px] font-bold">${i + 1}</div>
+          </div>
+          <div class="flex-grow">
+            <div class="flex justify-between items-baseline">
+              <span class="font-headline font-bold text-sm group-hover:text-primary transition-colors">${entry.name}</span>
+              <span class="${i === 0 ? 'text-primary' : 'text-on-surface-variant'} font-headline text-sm">${entry.score} <small>PTS</small></span>
+            </div>
+            <span class="text-[10px] text-on-surface-variant/60 uppercase tracking-widest">${entry.guesses}/${MISADLE.MAX_GUESSES} guesses</span>
+          </div>
+        </div>
+      `;
+    }).join('');
+
+    // Update user score
+    const username = localStorage.getItem('misa_username') || 'GUEST';
+    const userScores = (lb.misadle || []).filter(e => e.name === username);
+    const totalScore = userScores.reduce((sum, e) => sum + e.score, 0);
+    const userScoreEl = document.getElementById('user-score');
+    if (userScoreEl) userScoreEl.textContent = totalScore + ' PTS';
+  }
+
+  // --- Reaction Game ---
+  let reactionState = 'idle'; // idle, waiting, ready, done
+  let reactionTimeout = null;
+  let reactionStartTime = 0;
+
+  function startReactionGame() {
+    document.getElementById('reaction-modal').classList.remove('hidden');
+    reactionState = 'idle';
+  }
+
+  function closeReactionGame() {
+    document.getElementById('reaction-modal').classList.add('hidden');
+    if (reactionTimeout) clearTimeout(reactionTimeout);
+    reactionState = 'idle';
+  }
+
+  function startReactionRound() {
+    const area = document.getElementById('reaction-area');
+    const text = document.getElementById('reaction-text');
+    const result = document.getElementById('reaction-result');
+
+    area.className = 'w-full h-80 rounded-xl flex items-center justify-center cursor-pointer transition-colors duration-100 bg-secondary-container/20';
+    text.textContent = 'Wait for GOLD...';
+    text.className = 'font-headline font-bold text-xl text-on-surface-variant text-center';
+    result.textContent = '';
+    reactionState = 'waiting';
+
+    const delay = 1500 + Math.random() * 3500;
+    reactionTimeout = setTimeout(() => {
+      area.className = 'w-full h-80 rounded-xl flex items-center justify-center cursor-pointer transition-colors duration-100';
+      area.style.background = 'linear-gradient(135deg, #f2ca50 0%, #d4af37 100%)';
+      text.textContent = 'CLICK NOW!';
+      text.className = 'font-headline font-black text-3xl text-[#3c2f00] text-center';
+      reactionState = 'ready';
+      reactionStartTime = Date.now();
+    }, delay);
+  }
+
+  function handleReactionClick() {
+    const area = document.getElementById('reaction-area');
+    const text = document.getElementById('reaction-text');
+    const result = document.getElementById('reaction-result');
+
+    if (reactionState === 'waiting') {
+      // Too early
+      clearTimeout(reactionTimeout);
+      area.style.background = '';
+      area.className = 'w-full h-80 rounded-xl bg-secondary-container/30 flex items-center justify-center cursor-pointer transition-colors duration-100';
+      text.textContent = 'Too early! Click START again.';
+      text.className = 'font-headline font-bold text-xl text-secondary-container text-center';
+      result.textContent = '';
+      reactionState = 'idle';
+    } else if (reactionState === 'ready') {
+      const time = Date.now() - reactionStartTime;
+      area.style.background = '';
+      area.className = 'w-full h-80 rounded-xl bg-surface-container-high flex items-center justify-center cursor-pointer transition-colors duration-100';
+      text.textContent = `${time}ms`;
+      text.className = 'font-headline font-black text-6xl text-primary text-center';
+      result.textContent = time < 200 ? 'Incredible!' : time < 300 ? 'Great!' : time < 400 ? 'Good!' : 'Keep practicing!';
+      reactionState = 'done';
+    }
+  }
+</script>
+
+</body>
+</html>

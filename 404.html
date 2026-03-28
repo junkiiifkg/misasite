@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html class="dark" lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>404 - Page Not Found | MISA Esports</title>
+  <meta name="description" content="The page you're looking for doesn't exist. Return to the MISA Esports fan site."/>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700;900&family=Work+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="assets/css/shared.css"/>
+  <script id="tailwind-config">
+    tailwind.config = {
+      darkMode: "class",
+      theme: {
+        extend: {
+          colors: {
+            "surface": "#131313", "on-surface": "#e5e2e1", "primary": "#f2ca50",
+            "on-primary": "#3c2f00", "on-surface-variant": "#d0c5af",
+            "outline-variant": "#4d4635", "surface-container-lowest": "#0e0e0e",
+            "surface-container-low": "#1c1b1b", "primary-container": "#d4af37"
+          },
+          fontFamily: { "headline": ["Space Grotesk"], "body": ["Work Sans"], "label": ["Work Sans"] },
+        },
+      },
+    }
+  </script>
+</head>
+<body class="overflow-x-hidden bg-[#131313] min-h-screen flex flex-col items-center justify-center px-6 text-center">
+
+  <div class="max-w-lg mx-auto">
+    <span class="font-headline font-black text-[120px] md:text-[180px] leading-none text-[#f2ca50]/10 select-none">404</span>
+    <h1 class="font-headline font-black text-4xl md:text-5xl tracking-tighter text-[#e5e2e1] -mt-8 mb-4">PAGE NOT FOUND</h1>
+    <p class="text-[#d0c5af] font-body text-lg mb-10 leading-relaxed">
+      Looks like this page got eliminated from the bracket. Let's get you back in the game.
+    </p>
+    <div class="flex flex-col sm:flex-row gap-4 justify-center">
+      <a href="index.html" class="gold-gradient px-8 py-3 rounded-md font-['Space_Grotesk'] font-bold text-[#3c2f00] text-sm tracking-widest uppercase hover:opacity-90 active:scale-95 transition-all">
+        BACK TO HOME
+      </a>
+      <a href="minigames.html" class="border border-[#4d4635] px-8 py-3 rounded-md font-['Space_Grotesk'] font-bold text-[#d0c5af] text-sm tracking-widest uppercase hover:text-[#f2ca50] hover:border-[#f2ca50]/40 transition-all">
+        PLAY GAMES
+      </a>
+    </div>
+  </div>
+
+</body>
+</html>

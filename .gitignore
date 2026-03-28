@@ -1,0 +1,7 @@
+.claude/
+.env
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+wetransfer_stitch_2026-03-25_2109/

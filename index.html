@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html class="dark" lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>MISA Esports - Fan Hub</title>
+  <meta name="description" content="The unofficial fan hub for MISA Esports. Follow matches, explore all branches (LoL, CS2, Valorant, EA FC 26, MLBB), play Misadle, and stay connected."/>
+  <meta property="og:title" content="MISA Esports - Fan Hub"/>
+  <meta property="og:description" content="Follow matches, explore branches, play mini-games, and stay connected with MISA Esports."/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:image" content="favicon.svg"/>
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:title" content="MISA Esports - Fan Hub"/>
+  <meta name="twitter:description" content="The unofficial fan hub for MISA Esports."/>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700;900&family=Work+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="assets/css/shared.css"/>
+  <script id="tailwind-config">
+    tailwind.config = {
+      darkMode: "class",
+      theme: {
+        extend: {
+          colors: {
+            "surface-bright": "#393939",
+            "surface-container-high": "#2a2a2a",
+            "on-secondary-fixed": "#410000",
+            "on-secondary": "#690000",
+            "tertiary-container": "#cbaf7b",
+            "surface": "#131313",
+            "on-surface": "#e5e2e1",
+            "inverse-primary": "#735c00",
+            "primary-fixed": "#ffe088",
+            "on-secondary-fixed-variant": "#930001",
+            "on-tertiary-container": "#564218",
+            "on-primary-fixed": "#241a00",
+            "on-error": "#690005",
+            "outline": "#99907c",
+            "on-tertiary": "#3f2e05",
+            "surface-container-lowest": "#0e0e0e",
+            "on-primary": "#3c2f00",
+            "background": "#131313",
+            "tertiary-fixed-dim": "#e0c38d",
+            "on-error-container": "#ffdad6",
+            "primary-fixed-dim": "#e9c349",
+            "inverse-on-surface": "#313030",
+            "secondary": "#ffb4a8",
+            "secondary-container": "#ff5541",
+            "surface-variant": "#353534",
+            "tertiary-fixed": "#fedfa7",
+            "tertiary": "#e8ca94",
+            "surface-dim": "#131313",
+            "on-secondary-container": "#5c0000",
+            "inverse-surface": "#e5e2e1",
+            "primary": "#f2ca50",
+            "on-surface-variant": "#d0c5af",
+            "error-container": "#93000a",
+            "on-primary-container": "#554300",
+            "primary-container": "#d4af37",
+            "surface-tint": "#e9c349",
+            "surface-container-low": "#1c1b1b",
+            "secondary-fixed-dim": "#ffb4a8",
+            "on-primary-fixed-variant": "#574500",
+            "surface-container-highest": "#353534",
+            "surface-container": "#201f1f",
+            "on-tertiary-fixed": "#261900",
+            "secondary-fixed": "#ffdad4",
+            "on-tertiary-fixed-variant": "#58441a",
+            "outline-variant": "#4d4635",
+            "error": "#ffb4ab",
+            "on-background": "#e5e2e1"
+          },
+          fontFamily: {
+            "headline": ["Space Grotesk"],
+            "body": ["Work Sans"],
+            "label": ["Work Sans"]
+          },
+          borderRadius: {"DEFAULT": "0.125rem", "lg": "0.25rem", "xl": "0.5rem", "full": "0.75rem"},
+        },
+      },
+    }
+  </script>
+</head>
+<body class="overflow-x-hidden">
+
+<div id="nav-root"></div>
+
+<main class="pt-20">
+
+  <!-- Hero Section -->
+  <section class="relative h-[90vh] min-h-[600px] flex items-center overflow-hidden bg-surface">
+    <div class="absolute inset-0 z-0">
+      <img class="w-full h-full object-cover opacity-40" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAmFhxHaijKsWCM1mxhF5WP1QD8JCdSOuntrJVYoqThKRXoDXJnYnTB9OcpG2voP79a5J-FCdlKCXVpPpzV3SF1c3fIkiGtfNMIlq--ScXiwo7yh3iIrhxgjwoRI8ihBN6t43gtTO39qZ_1Gigd8xGvlsxowl7jS2LPV95q1PyAnUDhxmRy6r3STC4yNM3qYKVJKlizRnKhdxb4DbI-zsWpF9i8-YzEvTN7yN9ixoyk0FDruwbV7QhYEhTmNZvGN_vJc-XlRdbEnDc" alt="Esports Arena"/>
+      <div class="absolute inset-0 bg-gradient-to-r from-surface via-surface/60 to-transparent"></div>
+    </div>
+    <div class="container mx-auto px-6 md:px-12 relative z-10 flex flex-col items-start gap-8">
+      <div class="space-y-2">
+        <span class="font-label font-bold tracking-[0.3em] text-primary text-sm uppercase block">FAN HUB</span>
+        <h1 class="font-headline font-black text-6xl md:text-8xl lg:text-9xl tracking-tighter leading-none text-gold-gradient uppercase italic">
+          MISA<br/>ESPORTS
+        </h1>
+      </div>
+      <p class="max-w-xl text-on-surface-variant text-lg leading-relaxed font-body">
+        Your home for everything MISA. Follow matches, explore all branches, play mini-games, and stay connected with the community.
+      </p>
+      <div class="flex flex-wrap gap-4">
+        <a href="minigames.html" class="gold-gradient px-10 py-4 rounded-md font-label font-bold text-on-primary text-sm tracking-widest uppercase hover:opacity-90 active:scale-95 duration-200 shadow-xl shadow-primary/10">PLAY MISADLE</a>
+        <a href="fixtures.html" class="border border-outline-variant px-10 py-4 rounded-md font-label font-bold text-primary text-sm tracking-widest uppercase hover:bg-surface-container-low transition-all active:scale-95 duration-200">FIXTURES</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Next Match Countdown -->
+  <section class="bg-surface-container-lowest py-20 md:py-24 relative overflow-hidden">
+    <div class="absolute top-0 right-0 w-1/3 h-full bg-primary/5 -skew-x-12 transform translate-x-1/2"></div>
+    <div class="container mx-auto px-6 md:px-12">
+      <div class="flex flex-col lg:flex-row items-center justify-between gap-12 lg:gap-16">
+        <div class="flex-1 space-y-6">
+          <h2 class="font-headline font-bold text-3xl md:text-4xl tracking-tight text-on-surface uppercase italic">THE NEXT BATTLE</h2>
+          <div id="next-match-info" class="flex items-center gap-6 md:gap-8">
+            <!-- Populated by JS -->
+          </div>
+        </div>
+        <div class="flex-1 w-full max-w-md bg-surface-container-low p-8 md:p-10 rounded-xl flex flex-col items-center gap-8 shadow-2xl relative">
+          <div class="absolute -top-4 left-1/2 -translate-x-1/2 gold-gradient px-4 py-1 rounded text-[10px] font-black text-on-primary tracking-[0.2em]" id="countdown-branch">LOADING</div>
+          <div id="countdown-timer" class="flex gap-6 md:gap-8">
+            <div class="text-center">
+              <div class="text-4xl md:text-5xl font-headline font-black text-primary" id="cd-days">--</div>
+              <div class="text-[10px] font-label font-bold text-on-surface-variant uppercase tracking-widest mt-1">Days</div>
+            </div>
+            <div class="text-3xl md:text-4xl text-outline-variant font-light">:</div>
+            <div class="text-center">
+              <div class="text-4xl md:text-5xl font-headline font-black text-primary" id="cd-hours">--</div>
+              <div class="text-[10px] font-label font-bold text-on-surface-variant uppercase tracking-widest mt-1">Hours</div>
+            </div>
+            <div class="text-3xl md:text-4xl text-outline-variant font-light">:</div>
+            <div class="text-center">
+              <div class="text-4xl md:text-5xl font-headline font-black text-primary" id="cd-mins">--</div>
+              <div class="text-[10px] font-label font-bold text-on-surface-variant uppercase tracking-widest mt-1">Mins</div>
+            </div>
+            <div class="text-3xl md:text-4xl text-outline-variant font-light">:</div>
+            <div class="text-center">
+              <div class="text-4xl md:text-5xl font-headline font-black text-primary" id="cd-secs">--</div>
+              <div class="text-[10px] font-label font-bold text-on-surface-variant uppercase tracking-widest mt-1">Secs</div>
+            </div>
+          </div>
+          <a href="fixtures.html" class="w-full border-2 border-primary/20 hover:border-primary py-3 rounded text-primary font-label font-bold tracking-widest uppercase transition-all duration-300 text-center text-sm">VIEW ALL FIXTURES</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Latest YouTube Video -->
+  <section class="py-24 md:py-32 bg-surface">
+    <div class="container mx-auto px-6 md:px-12">
+      <div class="flex flex-col md:flex-row justify-between items-end mb-12">
+        <div class="space-y-4">
+          <span class="font-label font-bold tracking-[0.3em] text-primary text-sm uppercase">FROM THE CHANNEL</span>
+          <h2 class="font-headline font-bold text-4xl md:text-5xl tracking-tighter text-on-surface uppercase italic">MISA TV</h2>
+        </div>
+        <a href="https://www.youtube.com/@MisaEsportsOfficial" target="_blank" rel="noopener"
+          class="text-primary font-label font-bold tracking-widest uppercase text-sm border-b border-primary/30 pb-1 hover:border-primary transition-all mt-4 md:mt-0">
+          YOUTUBE CHANNEL
+        </a>
+      </div>
+      <div id="youtube-section" class="max-w-4xl mx-auto">
+        <!-- Populated by youtube.js -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Team News (Bento Grid) -->
+  <section class="py-24 md:py-32 bg-surface-container-lowest">
+    <div class="container mx-auto px-6 md:px-12">
+      <div class="flex flex-col md:flex-row justify-between items-end mb-12 md:mb-16">
+        <div class="space-y-4">
+          <span class="font-label font-bold tracking-[0.3em] text-primary text-sm uppercase">LATEST DISPATCHES</span>
+          <h2 class="font-headline font-bold text-4xl md:text-6xl tracking-tighter text-on-surface uppercase italic">MISA NEWS</h2>
+        </div>
+      </div>
+      <div id="news-grid" class="grid grid-cols-1 md:grid-cols-12 gap-6 md:h-[700px]">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Quick Links -->
+  <section class="py-20 md:py-24 bg-surface">
+    <div class="container mx-auto px-6 md:px-12">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <!-- Official Site -->
+        <a href="https://misaesports.com" target="_blank" rel="noopener" class="bg-surface-container-lowest p-10 rounded-xl border-l-4 border-primary group hover:bg-surface-container-low transition-all block">
+          <div class="flex justify-between items-start mb-6">
+            <span class="material-symbols-outlined text-4xl text-primary">language</span>
+            <span class="text-[10px] font-label font-bold text-on-surface-variant tracking-widest uppercase">OFFICIAL</span>
+          </div>
+          <h4 class="font-headline font-bold text-2xl text-on-surface mb-2">MISAESPORTS.COM</h4>
+          <p class="text-on-surface-variant text-sm mb-8">Visit the official MISA Esports website for team news, roster updates, and official announcements.</p>
+          <span class="flex items-center gap-2 text-primary font-label font-bold uppercase tracking-widest text-xs group-hover:translate-x-2 duration-300 transition-transform">
+            VISIT SITE <span class="material-symbols-outlined text-sm">arrow_forward</span>
+          </span>
+        </a>
+        <!-- YouTube -->
+        <a href="https://www.youtube.com/@MisaEsportsOfficial" target="_blank" rel="noopener" class="bg-surface-container-lowest p-10 rounded-xl border-l-4 border-primary group hover:bg-surface-container-low transition-all block">
+          <div class="flex justify-between items-start mb-6">
+            <span class="material-symbols-outlined text-4xl text-primary">smart_display</span>
+            <span class="text-[10px] font-label font-bold text-on-surface-variant tracking-widest uppercase">VIDEOS</span>
+          </div>
+          <h4 class="font-headline font-bold text-2xl text-on-surface mb-2">MISA TV</h4>
+          <p class="text-on-surface-variant text-sm mb-8">Watch highlights, match breakdowns, player interviews, and behind-the-scenes content.</p>
+          <span class="flex items-center gap-2 text-primary font-label font-bold uppercase tracking-widest text-xs group-hover:translate-x-2 duration-300 transition-transform">
+            WATCH ON YOUTUBE <span class="material-symbols-outlined text-sm">arrow_forward</span>
+          </span>
+        </a>
+        <!-- Minigames -->
+        <a href="minigames.html" class="bg-surface-container-lowest p-10 rounded-xl border-l-4 border-primary group hover:bg-surface-container-low transition-all block">
+          <div class="flex justify-between items-start mb-6">
+            <span class="material-symbols-outlined text-4xl text-primary">stadia_controller</span>
+            <span class="text-[10px] font-label font-bold text-on-surface-variant tracking-widest uppercase">PLAY</span>
+          </div>
+          <h4 class="font-headline font-bold text-2xl text-on-surface mb-2">MISA ARENA</h4>
+          <p class="text-on-surface-variant text-sm mb-8">Play Misadle, test your esports knowledge, and climb the leaderboards against other fans.</p>
+          <span class="flex items-center gap-2 text-primary font-label font-bold uppercase tracking-widest text-xs group-hover:translate-x-2 duration-300 transition-transform">
+            PLAY NOW <span class="material-symbols-outlined text-sm">arrow_forward</span>
+          </span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<div id="footer-root"></div>
+
+<script defer src="assets/js/data.js"></script>
+<script defer src="assets/js/data-loader.js"></script>
+<script defer src="assets/js/shared.js"></script>
+<script defer src="assets/js/youtube.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
+    // --- Next Match Countdown ---
+    const match = getNextMatch();
+    if (match) {
+      const branch = getBranch(match.game);
+      const branchLabel = document.getElementById('countdown-branch');
+      if (branchLabel) branchLabel.textContent = branch.shortName + ' — ' + match.tournament;
+
+      const infoEl = document.getElementById('next-match-info');
+      if (infoEl) {
+        infoEl.innerHTML = `
+          <div class="flex flex-col items-center">
+            <div class="w-20 h-20 md:w-24 md:h-24 bg-surface-container-high rounded-full flex items-center justify-center p-4">
+              <span class="font-headline font-black text-primary text-2xl md:text-3xl">MISA</span>
+            </div>
+            <span class="mt-3 font-headline font-bold text-primary uppercase text-sm">MISA Esports</span>
+          </div>
+          <div class="flex flex-col items-center">
+            <div class="w-14 h-14 md:w-16 md:h-16 bg-primary rounded-full flex items-center justify-center text-on-primary font-headline font-black text-lg md:text-xl">VS</div>
+            <span class="mt-2 text-[10px] font-bold tracking-widest text-outline uppercase">${match.format}</span>
+          </div>
+          <div class="flex flex-col items-center">
+            <div class="w-20 h-20 md:w-24 md:h-24 bg-surface-container-high rounded-full flex items-center justify-center p-4">
+              <span class="font-headline font-bold text-on-surface-variant text-sm text-center leading-tight">${match.opponent.split(' ').slice(0, 2).join('<br/>')}</span>
+            </div>
+            <span class="mt-3 font-headline font-bold text-on-surface-variant uppercase opacity-60 text-sm">${match.opponent}</span>
+          </div>
+        `;
+      }
+
+      // Live countdown
+      function updateCountdown() {
+        const now = new Date();
+        const target = new Date(match.date);
+        let diff = target - now;
+        if (diff < 0) diff = 0;
+
+        const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const mins = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+        const secs = Math.floor((diff % (1000 * 60)) / 1000);
+
+        document.getElementById('cd-days').textContent = String(days).padStart(2, '0');
+        document.getElementById('cd-hours').textContent = String(hours).padStart(2, '0');
+        document.getElementById('cd-mins').textContent = String(mins).padStart(2, '0');
+        document.getElementById('cd-secs').textContent = String(secs).padStart(2, '0');
+      }
+      updateCountdown();
+      setInterval(updateCountdown, 1000);
+    }
+
+    // --- News Grid ---
+    const newsGrid = document.getElementById('news-grid');
+    if (newsGrid && MISA_DATA.news.length >= 3) {
+      const n = MISA_DATA.news;
+      newsGrid.innerHTML = `
+        <!-- Main Story -->
+        <div class="md:col-span-8 group relative overflow-hidden rounded-xl bg-surface-container-low min-h-[300px] md:min-h-0">
+          <img class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 opacity-60" src="${n[0].image}" alt="${n[0].title}"/>
+          <div class="absolute inset-0 bg-gradient-to-t from-surface-container-lowest via-transparent to-transparent"></div>
+          <div class="absolute bottom-0 left-0 p-6 md:p-10 space-y-4 max-w-2xl">
+            <span class="gold-gradient text-on-primary font-label font-bold px-3 py-1 text-[10px] uppercase tracking-widest rounded">${n[0].category}</span>
+            <h3 class="font-headline font-black text-2xl md:text-4xl text-on-surface leading-tight uppercase group-hover:text-primary transition-colors">${n[0].title}</h3>
+            <p class="text-on-surface-variant text-sm line-clamp-2">${n[0].summary}</p>
+          </div>
+        </div>
+        <!-- Side Story 1 -->
+        <div class="md:col-span-4 group relative overflow-hidden rounded-xl bg-surface-container-low min-h-[250px] md:min-h-0">
+          <img class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 opacity-50" src="${n[1].image}" alt="${n[1].title}"/>
+          <div class="absolute inset-0 bg-gradient-to-t from-surface-container-lowest via-transparent to-transparent"></div>
+          <div class="absolute bottom-0 left-0 p-6 md:p-8 space-y-3">
+            <span class="text-primary font-label font-bold text-[10px] uppercase tracking-widest">${n[1].category}</span>
+            <h3 class="font-headline font-bold text-lg md:text-xl text-on-surface leading-tight uppercase group-hover:text-primary transition-colors">${n[1].title}</h3>
+          </div>
+        </div>
+        <!-- Side Story 2 -->
+        <div class="md:col-span-4 group relative overflow-hidden rounded-xl bg-surface-container-low min-h-[250px] md:min-h-0">
+          <img class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 opacity-50" src="${n[2].image}" alt="${n[2].title}"/>
+          <div class="absolute inset-0 bg-gradient-to-t from-surface-container-lowest via-transparent to-transparent"></div>
+          <div class="absolute bottom-0 left-0 p-6 md:p-8 space-y-3">
+            <span class="text-primary font-label font-bold text-[10px] uppercase tracking-widest">${n[2].category}</span>
+            <h3 class="font-headline font-bold text-lg md:text-xl text-on-surface leading-tight uppercase group-hover:text-primary transition-colors">${n[2].title}</h3>
+          </div>
+        </div>
+      `;
+    }
+
+    // --- YouTube Video ---
+    renderYouTubeSection('youtube-section');
+  }); });
+</script>
+
+</body>
+</html>
