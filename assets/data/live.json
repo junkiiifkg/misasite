@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-03-28T18:29:19.751Z",
+    "fetchedAt": "2026-03-28T22:07:44.537Z",
     "source": "pandascore"
   },
   "branches": {
@@ -175,32 +175,60 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "ESEA European Finals season 56 2026",
+        "leagueName": "United21 Season 45 2026",
         "table": [
           {
             "pos": 1,
-            "team": "ROUNDS",
+            "team": "NAVI Junior",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 2,
-            "team": "Banger Gang",
+            "team": "Imperial Academy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 3,
-            "team": "ENJOY",
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 4,
+            "team": "HEROIC Academy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 4,
-            "team": " Phantom Academy",
+            "pos": 5,
+            "team": "LPH Gaming",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 6,
+            "team": "ReThink",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "STATE",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 8,
+            "team": "FOKUS REALITY",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -247,14 +275,14 @@
         "table": [
           {
             "pos": 1,
-            "team": "Enterprise Esports",
+            "team": "UCAM Esports Club",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "UCAM Esports Club",
+            "pos": 2,
+            "team": "Enterprise Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -280,14 +308,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1418469",
-        "game": "cs2",
-        "opponent": "TNT",
-        "date": "2026-03-28T18:30:00Z",
-        "tournament": "ESEA European Finals season 56 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
         "id": "1397503",
         "game": "lol",
         "opponent": "Karmine Corp Blue",
@@ -297,6 +317,19 @@
       }
     ],
     "recent": [
+      {
+        "id": "1418469",
+        "game": "cs2",
+        "opponent": "TNT",
+        "date": "2026-03-28T18:45:47Z",
+        "tournament": "ESEA European Finals season 56 2026 · Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 1,
+          "opponent": 2,
+          "win": false
+        }
+      },
       {
         "id": "1418466",
         "game": "cs2",
@@ -386,19 +419,6 @@
           "misa": 2,
           "opponent": 0,
           "win": true
-        }
-      },
-      {
-        "id": "1392356",
-        "game": "cs2",
-        "opponent": "G2 Ares",
-        "date": "2026-03-15T11:37:00Z",
-        "tournament": "United21 Season 46 2026 · Group B",
-        "format": "BO3",
-        "result": {
-          "misa": 1,
-          "opponent": 2,
-          "win": false
         }
       },
       {
