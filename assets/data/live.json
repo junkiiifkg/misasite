@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-03-28T00:44:50.272Z",
+    "fetchedAt": "2026-03-28T00:57:05.933Z",
     "source": "pandascore"
   },
   "branches": {
@@ -37,6 +37,7 @@
           "image": "https://cdn-api.pandascore.co/images/player/image/38918/th_stend_2025_split_3.png"
         }
       ],
+      "teamLogo": "https://cdn-api.pandascore.co/images/team/image/133984/misa_esportslogo_profile.png",
       "standings": {
         "leagueName": "EMEA Masters Winter 2026",
         "table": [
@@ -172,6 +173,7 @@
           "image": ""
         }
       ],
+      "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
         "leagueName": "ESEA European Finals season 56 2026",
         "table": [
@@ -239,6 +241,7 @@
           "image": ""
         }
       ],
+      "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137017/599px_misa_esports_2023_allmode.png",
       "standings": {
         "leagueName": "VCL EMEA: Stage 1 2026",
         "table": [
