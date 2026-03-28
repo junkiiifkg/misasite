@@ -140,8 +140,11 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
                 <span class="mt-1 text-[10px] font-bold tracking-widest text-outline uppercase">${nextMatch.format}</span>
               </div>
               <div class="flex flex-col items-center">
-                <div class="w-16 h-16 bg-surface-container-high rounded-xl flex items-center justify-center">
-                  <span class="font-headline font-bold text-on-surface-variant text-[10px] text-center leading-tight px-1">${nextMatch.opponent}</span>
+                <div class="w-16 h-16 bg-surface-container-high rounded-xl flex items-center justify-center overflow-hidden p-1">
+                  ${nextMatch.opponentLogo
+                    ? `<img src="${nextMatch.opponentLogo}" alt="${nextMatch.opponent}" class="w-full h-full object-contain" onerror="this.style.display='none';this.nextElementSibling.style.display=''">`
+                    : ''}
+                  <span class="font-headline font-bold text-on-surface-variant text-[10px] text-center leading-tight px-1" ${nextMatch.opponentLogo ? 'style="display:none"' : ''}>${nextMatch.opponent}</span>
                 </div>
                 <span class="mt-2 font-headline font-bold text-on-surface-variant uppercase opacity-60 text-xs">${nextMatch.opponent}</span>
               </div>
@@ -177,8 +180,11 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
                 <span class="text-[10px] font-bold tracking-widest text-outline uppercase">${lastMatch.format}</span>
               </div>
               <div class="flex flex-col items-center">
-                <div class="w-16 h-16 bg-surface-container-high rounded-full flex items-center justify-center">
-                  <span class="font-headline font-bold text-on-surface-variant text-[10px] text-center leading-tight px-1">${lastMatch.opponent}</span>
+                <div class="w-16 h-16 bg-surface-container-high rounded-full flex items-center justify-center overflow-hidden p-1">
+                  ${lastMatch.opponentLogo
+                    ? `<img src="${lastMatch.opponentLogo}" alt="${lastMatch.opponent}" class="w-full h-full object-contain" onerror="this.style.display='none';this.nextElementSibling.style.display=''">`
+                    : ''}
+                  <span class="font-headline font-bold text-on-surface-variant text-[10px] text-center leading-tight px-1" ${lastMatch.opponentLogo ? 'style="display:none"' : ''}>${lastMatch.opponent}</span>
                 </div>
                 <span class="mt-2 font-headline font-bold text-on-surface-variant uppercase opacity-60 text-xs">${lastMatch.opponent}</span>
               </div>

@@ -195,6 +195,7 @@ async function fetchBranchData(key, config, teamId) {
       id: m.id.toString(),
       game: key,
       opponent: opponentName,
+      opponentLogo: misaOpponent?.opponent?.image_url || '',
       date: m.begin_at || m.scheduled_at || '',
       tournament: tournamentLabel,
       format: m.number_of_games ? `BO${m.number_of_games}` : 'BO1'

@@ -89,8 +89,11 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
               <p class="text-[10px] font-bold tracking-widest text-outline uppercase mt-2">${m.format}</p>
             </div>
             <div class="flex items-center gap-3 md:gap-6 flex-1">
-              <div class="w-12 h-12 md:w-16 md:h-16 bg-surface-container-high rounded-full flex items-center justify-center">
-                <span class="font-headline font-bold text-on-surface-variant text-[10px] md:text-xs text-center leading-tight px-1">${m.opponent.split(' ').slice(0, 2).join(' ')}</span>
+              <div class="w-12 h-12 md:w-16 md:h-16 bg-surface-container-high rounded-full flex items-center justify-center overflow-hidden p-1">
+                ${m.opponentLogo
+                  ? `<img src="${m.opponentLogo}" alt="${m.opponent}" class="w-10 h-10 md:w-14 md:h-14 object-contain" onerror="this.style.display='none';this.nextElementSibling.style.display=''">`
+                  : ''}
+                <span class="font-headline font-bold text-on-surface-variant text-[10px] md:text-xs text-center leading-tight px-1" ${m.opponentLogo ? 'style="display:none"' : ''}>${m.opponent.split(' ').slice(0, 2).join(' ')}</span>
               </div>
               <span class="font-headline text-lg md:text-2xl font-black tracking-tighter uppercase hidden sm:block text-on-surface-variant">${m.opponent}</span>
             </div>

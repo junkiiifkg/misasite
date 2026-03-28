@@ -262,8 +262,11 @@
             <span class="mt-2 text-[10px] font-bold tracking-widest text-outline uppercase">${match.format}</span>
           </div>
           <div class="flex flex-col items-center">
-            <div class="w-20 h-20 md:w-24 md:h-24 bg-surface-container-high rounded-full flex items-center justify-center p-4">
-              <span class="font-headline font-bold text-on-surface-variant text-sm text-center leading-tight">${match.opponent.split(' ').slice(0, 2).join('<br/>')}</span>
+            <div class="w-20 h-20 md:w-24 md:h-24 bg-surface-container-high rounded-full flex items-center justify-center overflow-hidden p-2">
+              ${match.opponentLogo
+                ? `<img src="${match.opponentLogo}" alt="${match.opponent}" class="w-full h-full object-contain" onerror="this.style.display='none';this.nextElementSibling.style.display=''">`
+                : ''}
+              <span class="font-headline font-bold text-on-surface-variant text-sm text-center leading-tight" ${match.opponentLogo ? 'style="display:none"' : ''}>${match.opponent.split(' ').slice(0, 2).join('<br/>')}</span>
             </div>
             <span class="mt-3 font-headline font-bold text-on-surface-variant uppercase opacity-60 text-sm">${match.opponent}</span>
           </div>

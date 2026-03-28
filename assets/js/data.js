@@ -99,20 +99,20 @@ const MISA_DATA = {
 
   matches: {
     upcoming: [
-      { id: "u1", game: "lol", opponent: "Galatasaray Esports", date: "2026-04-02T19:00:00+03:00", tournament: "TCL Spring 2026", format: "BO3" },
-      { id: "u2", game: "cs2", opponent: "NAVI", date: "2026-04-05T21:00:00+03:00", tournament: "ESL Pro League S23", format: "BO3" },
-      { id: "u3", game: "valorant", opponent: "Fnatic", date: "2026-04-03T18:00:00+03:00", tournament: "VCT EMEA Stage 2", format: "BO3" },
-      { id: "u6", game: "lol", opponent: "Dark Passage", date: "2026-04-09T19:00:00+03:00", tournament: "TCL Spring 2026", format: "BO3" },
-      { id: "u7", game: "cs2", opponent: "FaZe Clan", date: "2026-04-12T22:00:00+03:00", tournament: "BLAST Premier", format: "BO3" },
-      { id: "u8", game: "valorant", opponent: "Team Heretics", date: "2026-04-10T20:00:00+03:00", tournament: "VCT EMEA Stage 2", format: "BO3" }
+      { id: "u1", game: "lol", opponent: "Galatasaray Esports", opponentLogo: "https://cdn-api.pandascore.co/images/team/image/3865/galatasaray-esportslogo-profile.png", date: "2026-04-02T19:00:00+03:00", tournament: "TCL Spring 2026", format: "BO3" },
+      { id: "u2", game: "cs2", opponent: "NAVI", opponentLogo: "https://cdn-api.pandascore.co/images/team/image/1363/natus-vincere-8gg4ta8r.png", date: "2026-04-05T21:00:00+03:00", tournament: "ESL Pro League S23", format: "BO3" },
+      { id: "u3", game: "valorant", opponent: "Fnatic", opponentLogo: "https://cdn-api.pandascore.co/images/team/image/129498/fnatic_allmode.png", date: "2026-04-03T18:00:00+03:00", tournament: "VCT EMEA Stage 2", format: "BO3" },
+      { id: "u6", game: "lol", opponent: "Dark Passage", opponentLogo: "https://cdn-api.pandascore.co/images/team/image/714/dark-passage-bdlqf6qp.png", date: "2026-04-09T19:00:00+03:00", tournament: "TCL Spring 2026", format: "BO3" },
+      { id: "u7", game: "cs2", opponent: "FaZe Clan", opponentLogo: "https://cdn-api.pandascore.co/images/team/image/127750/faze-clan-2023-full-darkmode.png", date: "2026-04-12T22:00:00+03:00", tournament: "BLAST Premier", format: "BO3" },
+      { id: "u8", game: "valorant", opponent: "Team Heretics", opponentLogo: "https://cdn-api.pandascore.co/images/team/image/129417/team-heretics-2023-full-allmode.png", date: "2026-04-10T20:00:00+03:00", tournament: "VCT EMEA Stage 2", format: "BO3" }
     ],
     recent: [
-      { id: "r1", game: "cs2", opponent: "Cloud9", date: "2026-03-22", tournament: "BLAST Premier", format: "BO3", result: { misa: 16, opponent: 9, win: true } },
-      { id: "r2", game: "lol", opponent: "Besiktas Esports", date: "2026-03-20", tournament: "TCL Spring 2026", format: "BO3", result: { misa: 2, opponent: 1, win: true } },
-      { id: "r3", game: "valorant", opponent: "BBL Esports", date: "2026-03-19", tournament: "VCT EMEA Stage 2", format: "BO3", result: { misa: 1, opponent: 2, win: false } },
-      { id: "r6", game: "cs2", opponent: "Vitality", date: "2026-03-15", tournament: "ESL Pro League", format: "BO3", result: { misa: 2, opponent: 0, win: true } },
-      { id: "r7", game: "lol", opponent: "Papara SuperMassive", date: "2026-03-14", tournament: "TCL Spring 2026", format: "BO3", result: { misa: 2, opponent: 0, win: true } },
-      { id: "r8", game: "valorant", opponent: "Karmine Corp", date: "2026-03-12", tournament: "VCT EMEA Stage 2", format: "BO3", result: { misa: 2, opponent: 1, win: true } }
+      { id: "r1", game: "cs2", opponent: "Cloud9", opponentLogo: "https://cdn-api.pandascore.co/images/team/image/29/cloud9-e2ey2mdu.png", date: "2026-03-22", tournament: "BLAST Premier", format: "BO3", result: { misa: 16, opponent: 9, win: true } },
+      { id: "r2", game: "lol", opponent: "Besiktas Esports", opponentLogo: "https://cdn-api.pandascore.co/images/team/image/3859/besiktas-esports-7wi8dxhj.png", date: "2026-03-20", tournament: "TCL Spring 2026", format: "BO3", result: { misa: 2, opponent: 1, win: true } },
+      { id: "r3", game: "valorant", opponent: "BBL Esports", opponentLogo: "https://cdn-api.pandascore.co/images/team/image/129614/bbl-esports-allmode.png", date: "2026-03-19", tournament: "VCT EMEA Stage 2", format: "BO3", result: { misa: 1, opponent: 2, win: false } },
+      { id: "r6", game: "cs2", opponent: "Vitality", opponentLogo: "https://cdn-api.pandascore.co/images/team/image/1490/team-vitality-hubt3gj4.png", date: "2026-03-15", tournament: "ESL Pro League", format: "BO3", result: { misa: 2, opponent: 0, win: true } },
+      { id: "r7", game: "lol", opponent: "Papara SuperMassive", opponentLogo: "https://cdn-api.pandascore.co/images/team/image/3861/supermassive-esports-0tkty1wd.png", date: "2026-03-14", tournament: "TCL Spring 2026", format: "BO3", result: { misa: 2, opponent: 0, win: true } },
+      { id: "r8", game: "valorant", opponent: "Karmine Corp", opponentLogo: "https://cdn-api.pandascore.co/images/team/image/129474/karmine-corp-allmode.png", date: "2026-03-12", tournament: "VCT EMEA Stage 2", format: "BO3", result: { misa: 2, opponent: 1, win: true } }
     ]
   },
 
