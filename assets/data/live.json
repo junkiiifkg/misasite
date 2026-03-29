@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-03-29T01:45:03.862Z",
+    "fetchedAt": "2026-03-29T06:55:18.222Z",
     "source": "pandascore"
   },
   "branches": {
@@ -270,39 +270,7 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137017/599px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "VCL EMEA: Stage 1 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "UCAM Esports Club",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "Enterprise Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 4,
-            "team": "Mandatory",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     }
   },
   "matches": {
@@ -347,34 +315,6 @@
         }
       },
       {
-        "id": "1396301",
-        "game": "valorant",
-        "opponent": "Mandatory",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/130451/223px_mandatory_2022_allmode.png",
-        "date": "2026-03-27T16:09:44Z",
-        "tournament": "VCL EMEA: Stage 1 2026 · Playoffs",
-        "format": "BO3",
-        "result": {
-          "misa": 1,
-          "opponent": 2,
-          "win": false
-        }
-      },
-      {
-        "id": "1396299",
-        "game": "valorant",
-        "opponent": "Enterprise Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/130973/600px_enterprise_esports_allmode.png",
-        "date": "2026-03-26T19:16:59Z",
-        "tournament": "VCL EMEA: Stage 1 2026 · Playoffs",
-        "format": "BO3",
-        "result": {
-          "misa": 1,
-          "opponent": 2,
-          "win": false
-        }
-      },
-      {
         "id": "1397501",
         "game": "lol",
         "opponent": "Team Heretics Academy",
@@ -403,34 +343,6 @@
         }
       },
       {
-        "id": "1395517",
-        "game": "valorant",
-        "opponent": "Team Liquid Academy",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136328/526px_team_liquid_2024_lightmode.png",
-        "date": "2026-03-20T16:05:04Z",
-        "tournament": "VCL EMEA: Stage 1 2026 · Group A",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 0,
-          "win": true
-        }
-      },
-      {
-        "id": "1395516",
-        "game": "valorant",
-        "opponent": "Eintracht Frankfurt",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/134406/600px_eintracht_frankfurt_allmode.png",
-        "date": "2026-03-19T17:56:22Z",
-        "tournament": "VCL EMEA: Stage 1 2026 · Group A",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 0,
-          "win": true
-        }
-      },
-      {
         "id": "1390923",
         "game": "lol",
         "opponent": "BIG",
@@ -445,20 +357,6 @@
         }
       },
       {
-        "id": "1355305",
-        "game": "valorant",
-        "opponent": "S2G Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/132005/103px_s2_g_esports.png",
-        "date": "2026-03-08T10:38:02Z",
-        "tournament": "VCL Türkiye: Birlik Kickoff 2026 · Playoffs",
-        "format": "BO5",
-        "result": {
-          "misa": 3,
-          "opponent": 1,
-          "win": true
-        }
-      },
-      {
         "id": "1351417",
         "game": "lol",
         "opponent": "S2G Esports",
@@ -468,34 +366,6 @@
         "format": "BO5",
         "result": {
           "misa": 3,
-          "opponent": 0,
-          "win": true
-        }
-      },
-      {
-        "id": "1355304",
-        "game": "valorant",
-        "opponent": "Beşiktaş Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128669/600px_besiktas_jk.png",
-        "date": "2026-03-01T13:34:37Z",
-        "tournament": "VCL Türkiye: Birlik Kickoff 2026 · Playoffs",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 0,
-          "win": true
-        }
-      },
-      {
-        "id": "1355303",
-        "game": "valorant",
-        "opponent": "S2G Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/132005/103px_s2_g_esports.png",
-        "date": "2026-02-28T13:04:03Z",
-        "tournament": "VCL Türkiye: Birlik Kickoff 2026 · Playoffs",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
           "opponent": 0,
           "win": true
         }
@@ -571,20 +441,6 @@
         }
       },
       {
-        "id": "1312317",
-        "game": "valorant",
-        "opponent": "Beşiktaş Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128669/600px_besiktas_jk.png",
-        "date": "2026-02-07T14:33:51Z",
-        "tournament": "VCL Türkiye: Birlik Kickoff 2026 · Regular Season",
-        "format": "BO3",
-        "result": {
-          "misa": 0,
-          "opponent": 2,
-          "win": false
-        }
-      },
-      {
         "id": "1322444",
         "game": "lol",
         "opponent": "BoostGate Esports",
@@ -599,40 +455,12 @@
         }
       },
       {
-        "id": "1312313",
-        "game": "valorant",
-        "opponent": "Bushido Wildcats",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137857/600px_bushido_wildcats_allmode.png",
-        "date": "2026-02-01T14:32:17Z",
-        "tournament": "VCL Türkiye: Birlik Kickoff 2026 · Regular Season",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 0,
-          "win": true
-        }
-      },
-      {
         "id": "1322441",
         "game": "lol",
         "opponent": "S2G Esports",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137879/s2_g_esportslogo_square.png",
         "date": "2026-01-30T14:34:35Z",
         "tournament": "TCL Winter 2026 · Group B",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 0,
-          "win": true
-        }
-      },
-      {
-        "id": "1312310",
-        "game": "valorant",
-        "opponent": "S2G Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/132005/103px_s2_g_esports.png",
-        "date": "2026-01-26T14:29:43Z",
-        "tournament": "VCL Türkiye: Birlik Kickoff 2026 · Regular Season",
         "format": "BO3",
         "result": {
           "misa": 2,
