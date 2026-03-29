@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-03-29T12:36:22.563Z",
+    "fetchedAt": "2026-03-29T18:30:47.117Z",
     "source": "pandascore"
   },
   "branches": {
@@ -275,31 +275,31 @@
         "table": [
           {
             "pos": 1,
-            "team": "UCAM Esports Club",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
             "team": "Enterprise Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 4,
+            "pos": 2,
             "team": "Mandatory",
             "w": 0,
             "l": 0,
             "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "UCAM Esports Club",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
           }
         ]
       }
