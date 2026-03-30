@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-03-30T01:47:24.868Z",
+    "fetchedAt": "2026-03-30T07:17:40.272Z",
     "source": "pandascore"
   },
   "branches": {
@@ -35,30 +35,6 @@
           "name": "Paul  Lardin",
           "role": "Sup",
           "image": "https://cdn-api.pandascore.co/images/player/image/38918/th_stend_2025_split_3.png"
-        },
-        {
-          "tag": "mojito",
-          "name": "",
-          "role": "Koç",
-          "image": ""
-        },
-        {
-          "tag": "japone",
-          "name": "",
-          "role": "Koç",
-          "image": ""
-        },
-        {
-          "tag": "HirumaY",
-          "name": "",
-          "role": "Koç",
-          "image": ""
-        },
-        {
-          "tag": "Nalkya",
-          "name": "",
-          "role": "Koç",
-          "image": ""
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/133984/misa_esportslogo_profile.png",
@@ -158,101 +134,47 @@
           "tag": "ckanic",
           "name": "Serdar Akinci",
           "role": "Player",
-          "image": "assets/images/cs2/ckanic.webp"
+          "image": ""
         },
         {
           "tag": "rim3",
           "name": "Emir Dönmez",
           "role": "Player",
-          "image": "assets/images/cs2/rim3.webp"
+          "image": ""
         },
         {
           "tag": "Zuedsta",
           "name": "Zübeyir Yıldırım",
           "role": "Player",
-          "image": "assets/images/cs2/zuedsta.webp"
+          "image": ""
         },
         {
-          "tag": "MERTOWSK1",
+          "tag": "Mertovsk1",
           "name": "Kazım Mert Burtgil",
           "role": "Player",
-          "image": "assets/images/cs2/mertowski.webp"
+          "image": ""
         },
         {
           "tag": "souv",
           "name": "Aziz Altinsoy",
           "role": "Player",
-          "image": "assets/images/cs2/souv.webp"
+          "image": ""
+        },
+        {
+          "tag": "Faz",
+          "name": "Gökhan Gülener",
+          "role": "Player",
+          "image": ""
         },
         {
           "tag": "Obyj",
           "name": "Onur Buğra Yaman",
-          "role": "Koç",
+          "role": "Player",
           "image": ""
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "United21 Season 45 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "NAVI Junior",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "Imperial Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 4,
-            "team": "HEROIC Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
-            "team": "LPH Gaming",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "ReThink",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "STATE",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 8,
-            "team": "FOKUS REALITY",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     },
     "valorant": {
       "roster": [
@@ -260,42 +182,30 @@
           "tag": "Brave",
           "name": "Eren Kasırga",
           "role": "Player",
-          "image": "assets/images/valorant/brave.png"
+          "image": "https://cdn-api.pandascore.co/images/player/image/32898/ezgif_3_e18c5583c7.png"
         },
         {
           "tag": "pAura",
           "name": "Melih Karaduran",
           "role": "Player",
-          "image": "assets/images/valorant/paura.png"
+          "image": "https://cdn-api.pandascore.co/images/player/image/33022/600px_team_heretics_p_aura.png"
         },
         {
           "tag": "QutionerX",
           "name": "Doğukan Dural",
           "role": "Player",
-          "image": "assets/images/valorant/qutionerx.png"
-        },
-        {
-          "tag": "Elite",
-          "name": "Efe Teber",
-          "role": "Player",
-          "image": "assets/images/valorant/elite.png"
-        },
-        {
-          "tag": "Burzzy",
-          "name": "Burak Özveren",
-          "role": "Player",
-          "image": "assets/images/valorant/burzzy.png"
-        },
-        {
-          "tag": "Draken",
-          "name": "",
-          "role": "Koç",
           "image": ""
         },
         {
-          "tag": "Naero",
-          "name": "",
-          "role": "Koç",
+          "tag": "Elite",
+          "name": " Efe Teber",
+          "role": "Player",
+          "image": "https://cdn-api.pandascore.co/images/player/image/38559/ezgif_5_fe54ae6979.png"
+        },
+        {
+          "tag": "Burzzy",
+          "name": "Burak  Özveren",
+          "role": "Player",
           "image": ""
         }
       ],
@@ -344,6 +254,15 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128268/600px_karmine_corp_allmode.png",
         "date": "2026-03-31T15:00:00Z",
         "tournament": "EMEA Masters Winter 2026 · Playoffs",
+        "format": "BO3"
+      },
+      {
+        "id": "1423187",
+        "game": "cs2",
+        "opponent": "Prestige",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136846/get_team_logos.png",
+        "date": "2026-04-02T08:00:00Z",
+        "tournament": "United21 Season 47 2026 · Group D",
         "format": "BO3"
       }
     ],
