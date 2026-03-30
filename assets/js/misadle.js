@@ -28,12 +28,16 @@ const MISADLE = {
   },
 
   getTodaysWord() {
-    const startDate = new Date('2026-03-01');
+    // Seed-based random using day string so same word all day, different each day
     const today = new Date();
     today.setHours(0, 0, 0, 0);
-    const dayIndex = Math.floor((today - startDate) / (1000 * 60 * 60 * 24));
+    const seed = today.getFullYear() * 10000 + (today.getMonth() + 1) * 100 + today.getDate();
+    let hash = seed;
+    hash = ((hash >> 16) ^ hash) * 0x45d9f3b;
+    hash = ((hash >> 16) ^ hash) * 0x45d9f3b;
+    hash = (hash >> 16) ^ hash;
     const words = MISA_DATA.misadle.words;
-    return words[Math.abs(dayIndex) % words.length];
+    return words[Math.abs(hash) % words.length];
   },
 
   loadState() {
