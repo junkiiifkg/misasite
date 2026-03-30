@@ -119,16 +119,16 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
             <span class="font-headline font-black text-lg md:text-xl ${isWin ? 'text-primary' : 'text-secondary-container'}">${isWin ? 'W' : 'L'}</span>
             <span class="text-[9px] font-bold text-on-surface-variant uppercase">${branch.shortName}</span>
           </div>
-          <div class="flex-1 grid grid-cols-3 items-center px-4 md:px-8">
+          <div class="flex-1 flex items-center px-4 md:px-8 relative">
             <div class="flex items-center gap-2 md:gap-3">
               <span class="font-headline text-xs md:text-sm font-bold uppercase ${isWin ? '' : 'text-on-surface-variant'}">MISA</span>
             </div>
-            <div class="flex justify-center items-center gap-2 md:gap-4">
-              <span class="font-headline text-xl md:text-2xl font-black ${isWin ? 'text-primary' : 'text-on-surface-variant'}">${m.result.misa}</span>
+            <div class="absolute left-1/2 -translate-x-1/2 flex items-center gap-2 md:gap-4">
+              <span class="font-headline text-xl md:text-2xl font-black ${isWin ? 'text-primary' : 'text-on-surface-variant'} w-6 md:w-8 text-right">${m.result.misa}</span>
               <span class="text-outline-variant">-</span>
-              <span class="font-headline text-xl md:text-2xl font-black ${isWin ? 'text-on-surface-variant' : 'text-primary'}">${m.result.opponent}</span>
+              <span class="font-headline text-xl md:text-2xl font-black ${isWin ? 'text-on-surface-variant' : 'text-primary'} w-6 md:w-8 text-left">${m.result.opponent}</span>
             </div>
-            <div class="flex items-center gap-2 md:gap-3 justify-end">
+            <div class="flex items-center gap-2 md:gap-3 ml-auto">
               <span class="font-headline text-xs md:text-sm font-bold uppercase text-on-surface-variant">${m.opponent}</span>
             </div>
           </div>
