@@ -5,7 +5,7 @@
  * Node 18+ (uses native fetch)
  */
 
-import { writeFileSync } from 'fs';
+import { readFileSync, writeFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
@@ -269,6 +269,59 @@ async function main() {
   // Sort matches
   output.matches.upcoming.sort((a, b) => new Date(a.date) - new Date(b.date));
   output.matches.recent.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+  // Apply custom overrides (local images, coaches, tag renames, roster removals)
+  try {
+    const overridesPath = join(__dirname, '..', 'assets', 'data', 'overrides.json');
+    const overrides = JSON.parse(readFileSync(overridesPath, 'utf8'));
+    console.log('\nApplying custom overrides...');
+
+    for (const [branch, roster] of Object.entries(output.branches)) {
+      if (!roster.roster) continue;
+
+      // Remove players
+      if (overrides.removeFromRoster?.[branch]) {
+        const toRemove = overrides.removeFromRoster[branch];
+        roster.roster = roster.roster.filter(p => !toRemove.includes(p.tag));
+        console.log(`  [${branch}] Removed: ${toRemove.join(', ')}`);
+      }
+
+      // Rename tags
+      if (overrides.tagOverrides?.[branch]) {
+        for (const [oldTag, newTag] of Object.entries(overrides.tagOverrides[branch])) {
+          const player = roster.roster.find(p => p.tag === oldTag);
+          if (player) {
+            player.tag = newTag;
+            console.log(`  [${branch}] Renamed ${oldTag} → ${newTag}`);
+          }
+        }
+      }
+
+      // Override player images with local custom photos
+      if (overrides.playerImages?.[branch]) {
+        for (const [tag, imagePath] of Object.entries(overrides.playerImages[branch])) {
+          const player = roster.roster.find(p => p.tag === tag);
+          if (player) {
+            player.image = imagePath;
+            console.log(`  [${branch}] Custom image for ${tag}`);
+          }
+        }
+      }
+
+      // Add extra roster members (coaches etc.)
+      if (overrides.extraRoster?.[branch]) {
+        const existingTags = new Set(roster.roster.map(p => p.tag));
+        for (const extra of overrides.extraRoster[branch]) {
+          if (!existingTags.has(extra.tag)) {
+            roster.roster.push(extra);
+            console.log(`  [${branch}] Added ${extra.tag} (${extra.role})`);
+          }
+        }
+      }
+    }
+  } catch (e) {
+    console.warn('Could not apply overrides:', e.message);
+  }
 
   // Write output
   const outPath = join(__dirname, '..', 'assets', 'data', 'live.json');

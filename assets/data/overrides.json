@@ -1,0 +1,41 @@
+{
+  "playerImages": {
+    "valorant": {
+      "Brave": "assets/images/valorant/brave.png",
+      "pAura": "assets/images/valorant/paura.png",
+      "QutionerX": "assets/images/valorant/qutionerx.png",
+      "Elite": "assets/images/valorant/elite.png",
+      "Burzzy": "assets/images/valorant/burzzy.png"
+    },
+    "cs2": {
+      "ckanic": "assets/images/cs2/ckanic.webp",
+      "rim3": "assets/images/cs2/rim3.webp",
+      "Zuedsta": "assets/images/cs2/zuedsta.webp",
+      "MERTOWSK1": "assets/images/cs2/mertowski.webp",
+      "souv": "assets/images/cs2/souv.webp"
+    }
+  },
+  "tagOverrides": {
+    "cs2": {
+      "Mertovsk1": "MERTOWSK1"
+    }
+  },
+  "extraRoster": {
+    "lol": [
+      { "tag": "mojito", "name": "", "role": "Koç", "image": "" },
+      { "tag": "japone", "name": "", "role": "Koç", "image": "" },
+      { "tag": "HirumaY", "name": "", "role": "Koç", "image": "" },
+      { "tag": "Nalkya", "name": "", "role": "Koç", "image": "" }
+    ],
+    "cs2": [
+      { "tag": "Obyj", "name": "Onur Buğra Yaman", "role": "Koç", "image": "" }
+    ],
+    "valorant": [
+      { "tag": "Draken", "name": "", "role": "Koç", "image": "" },
+      { "tag": "Naero", "name": "", "role": "Koç", "image": "" }
+    ]
+  },
+  "removeFromRoster": {
+    "cs2": ["Faz"]
+  }
+}
