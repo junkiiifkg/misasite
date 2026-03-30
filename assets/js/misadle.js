@@ -12,13 +12,16 @@ const MISADLE = {
 
   init() {
     this.answer = this.getTodaysWord();
+    if (!this.answer || this.answer.length !== this.WORD_LENGTH) {
+      this.answer = MISA_DATA.misadle.words.find(w => w.length === this.WORD_LENGTH) || 'BARON';
+    }
     this.loadState();
     this.renderBoard();
     this.renderKeyboard();
     this.bindEvents();
     if (this.gameOver) {
       const won = this.guesses.length > 0 && this.guesses[this.guesses.length - 1] === this.answer;
-      const msg = won ? `Excellent! ${this.currentRow}/${this.MAX_GUESSES}` : `The word was ${this.answer}`;
+      const msg = won ? `Harika! ${this.currentRow}/${this.MAX_GUESSES}` : `Kelime: ${this.answer}`;
       this.showMessage(msg, true);
       this.showShareButton();
     }
@@ -191,7 +194,7 @@ const MISADLE = {
         this.submitGuess();
       } else {
         this.shakeRow();
-        this.showMessage('Not enough letters');
+        this.showMessage('Yeterli harf yok');
       }
     } else if (this._currentInput.length < this.WORD_LENGTH) {
       this._currentInput += key;
@@ -206,7 +209,7 @@ const MISADLE = {
     // Check if valid guess
     if (!MISA_DATA.misadle.validGuesses.includes(guess) && !MISA_DATA.misadle.words.includes(guess)) {
       this.shakeRow();
-      this.showMessage('Not in word list');
+      this.showMessage('Kelime listesinde yok');
       return;
     }
 
@@ -234,14 +237,14 @@ const MISADLE = {
     if (guess === this.answer) {
       this.gameOver = true;
       setTimeout(() => {
-        this.showMessage(`Excellent! ${this.currentRow}/${this.MAX_GUESSES}`, true);
+        this.showMessage(`Harika! ${this.currentRow}/${this.MAX_GUESSES}`, true);
         this.showShareButton();
       }, 500);
       this.saveToLeaderboard(true);
     } else if (this.currentRow >= this.MAX_GUESSES) {
       this.gameOver = true;
       setTimeout(() => {
-        this.showMessage(`The word was ${this.answer}`, true);
+        this.showMessage(`Kelime: ${this.answer}`, true);
         this.showShareButton();
       }, 500);
       this.saveToLeaderboard(false);
@@ -297,7 +300,7 @@ const MISADLE = {
     if (!msgEl) return;
     const btn = document.createElement('button');
     btn.className = 'ml-3 inline-flex items-center gap-1 gold-gradient text-on-primary font-headline font-bold text-xs px-4 py-1.5 rounded-md tracking-widest uppercase active:scale-95 transition-all';
-    btn.innerHTML = '<span class="material-symbols-outlined text-sm">share</span> SHARE';
+    btn.innerHTML = '<span class="material-symbols-outlined text-sm">share</span> PAYLAŞ';
     btn.addEventListener('click', () => this.shareResult());
     msgEl.appendChild(btn);
   },
@@ -312,7 +315,7 @@ const MISADLE = {
     });
     if (navigator.clipboard) {
       navigator.clipboard.writeText(text).then(() => {
-        this.showMessage('Copied to clipboard!');
+        this.showMessage('Panoya kopyalandı!');
       });
     }
   }

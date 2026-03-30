@@ -142,23 +142,23 @@ const MISA_DATA = {
 
   misadle: {
     words: [
-      "BARON", "FLASH", "SMOKE", "CLUTC", "CARRY",
-      "DRAFT", "PLANT", "BOOST", "FLANK", "ROTAT",
-      "SNIPE", "TOWER", "MINON", "AEGIS", "DODGE",
-      "SPAWN", "ULTED", "GANK", "SPLIT", "SIEGE",
+      "BARON", "FLASH", "SMOKE", "COMBO", "CARRY",
+      "DRAFT", "PLANT", "BOOST", "FLANK", "ROYAL",
+      "SNIPE", "TOWER", "MINOR", "AEGIS", "DODGE",
+      "SPAWN", "ULTED", "GANKS", "SPLIT", "SIEGE",
       "ARMOR", "BLADE", "CHARM", "DRAKE", "ELDER",
-      "FEINT", "GUARD", "HYPER", "INVAD", "JUKE",
+      "FEINT", "GUARD", "HYPER", "INTEL", "JUKED",
       "KNIFE", "LASER", "MACRO", "NEXUS", "ORBIT",
       "PHASE", "QUEUE", "RAVEN", "STORM", "TRADE",
       "VENOM", "WRATH", "XENON", "YIELD", "ZONES"
     ],
     validGuesses: [
-      "BARON", "FLASH", "SMOKE", "CLUTC", "CARRY",
-      "DRAFT", "PLANT", "BOOST", "FLANK", "ROTAT",
-      "SNIPE", "TOWER", "MINON", "AEGIS", "DODGE",
+      "BARON", "FLASH", "SMOKE", "COMBO", "CARRY",
+      "DRAFT", "PLANT", "BOOST", "FLANK", "ROYAL",
+      "SNIPE", "TOWER", "MINOR", "AEGIS", "DODGE",
       "SPAWN", "ULTED", "GANKS", "SPLIT", "SIEGE",
       "ARMOR", "BLADE", "CHARM", "DRAKE", "ELDER",
-      "FEINT", "GUARD", "HYPER", "INVAD", "JUKES",
+      "FEINT", "GUARD", "HYPER", "INTEL", "JUKED",
       "KNIFE", "LASER", "MACRO", "NEXUS", "ORBIT",
       "PHASE", "QUEUE", "RAVEN", "STORM", "TRADE",
       "VENOM", "WRATH", "XENON", "YIELD", "ZONES",
@@ -169,9 +169,10 @@ const MISA_DATA = {
       "TEAMS", "ULTRA", "VIGOR", "WALLS", "EXTRA",
       "YOUTH", "ZEROS", "ANGLE", "BURST", "CLASH",
       "DUELS", "ELITE", "FOCUS", "GAMES", "HONOR",
-      "ITEMS", "JUNGL", "KINGS", "LANCE", "MATCH",
+      "ITEMS", "JUMPS", "KINGS", "LANCE", "MATCH",
       "NOBLE", "OMEGA", "PRIME", "QUEST", "RANKS",
-      "SCORE", "TURBO", "UNITY", "VAULT", "WINGS"
+      "SCORE", "TURBO", "UNITY", "VAULT", "WINGS",
+      "JUKES"
     ]
   }
 };
