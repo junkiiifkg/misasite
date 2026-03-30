@@ -13,7 +13,7 @@ const MISA_DATA = {
     // 2. Open the latest video
     // 3. Copy the video ID from the URL (the part after v=)
     // 4. Paste it here
-    latestVideoId: "CKffUB0xLrI"
+    latestVideoId: "LY7qmqK7XMs"
   },
 
   branches: {
