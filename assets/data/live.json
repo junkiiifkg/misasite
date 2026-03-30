@@ -35,6 +35,30 @@
           "name": "Paul  Lardin",
           "role": "Sup",
           "image": "https://cdn-api.pandascore.co/images/player/image/38918/th_stend_2025_split_3.png"
+        },
+        {
+          "tag": "mojito",
+          "name": "",
+          "role": "Koç",
+          "image": ""
+        },
+        {
+          "tag": "japone",
+          "name": "",
+          "role": "Koç",
+          "image": ""
+        },
+        {
+          "tag": "HirumaY",
+          "name": "",
+          "role": "Koç",
+          "image": ""
+        },
+        {
+          "tag": "Nalkya",
+          "name": "",
+          "role": "Koç",
+          "image": ""
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/133984/misa_esportslogo_profile.png",
@@ -161,15 +185,9 @@
           "image": ""
         },
         {
-          "tag": "Faz",
-          "name": "Gökhan Gülener",
-          "role": "Player",
-          "image": ""
-        },
-        {
           "tag": "Obyj",
           "name": "Onur Buğra Yaman",
-          "role": "Player",
+          "role": "Koç",
           "image": ""
         }
       ],
@@ -266,6 +284,18 @@
           "tag": "Burzzy",
           "name": "Burak  Özveren",
           "role": "Player",
+          "image": ""
+        },
+        {
+          "tag": "Draken",
+          "name": "",
+          "role": "Koç",
+          "image": ""
+        },
+        {
+          "tag": "Naero",
+          "name": "",
+          "role": "Koç",
           "image": ""
         }
       ],
