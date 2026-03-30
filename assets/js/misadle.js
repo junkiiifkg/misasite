@@ -101,7 +101,7 @@ const MISADLE = {
     return result;
   },
 
-  renderBoard() {
+  renderBoard(animateRow) {
     const board = document.getElementById('misadle-board');
     if (!board) return;
 
@@ -111,12 +111,14 @@ const MISADLE = {
       for (let c = 0; c < this.WORD_LENGTH; c++) {
         const letter = this.guesses[r] ? this.guesses[r][c] : '';
         let stateClass = 'bg-surface-container-high border-2 border-outline-variant/30 text-on-surface';
+        let animate = '';
 
         if (this.guesses[r]) {
           const result = this.evaluate(this.guesses[r]);
           if (result[c] === 'correct') stateClass = 'bg-primary text-on-primary border-2 border-primary';
           else if (result[c] === 'present') stateClass = 'bg-on-surface-variant/30 text-on-surface border-2 border-on-surface-variant/50';
           else stateClass = 'bg-surface-container-highest text-on-surface/40 border-2 border-outline-variant/10';
+          if (r === animateRow) animate = `tile-flip" style="animation-delay: ${c * 0.15}s`;
         }
 
         // Current row, typed but not submitted
@@ -124,7 +126,7 @@ const MISADLE = {
           const currentGuess = this.getCurrentGuess();
           html += `<div class="w-12 h-12 md:w-14 md:h-14 flex items-center justify-center font-headline font-black text-xl md:text-2xl uppercase rounded-lg bg-surface-container-high border-2 border-primary/50 text-on-surface tile-pop">${currentGuess[c] || ''}</div>`;
         } else {
-          html += `<div class="w-12 h-12 md:w-14 md:h-14 flex items-center justify-center font-headline font-black text-xl md:text-2xl uppercase rounded-lg ${stateClass} ${this.guesses[r] ? 'tile-flip' : ''}" style="${this.guesses[r] ? `animation-delay: ${c * 0.15}s` : ''}">${letter}</div>`;
+          html += `<div class="w-12 h-12 md:w-14 md:h-14 flex items-center justify-center font-headline font-black text-xl md:text-2xl uppercase rounded-lg ${stateClass} ${animate}">${letter}</div>`;
         }
       }
       html += '</div>';
@@ -227,9 +229,10 @@ const MISADLE = {
 
     this._currentInput = '';
     this.currentCol = 0;
+    const submittedRow = this.currentRow;
     this.currentRow++;
 
-    this.renderBoard();
+    this.renderBoard(submittedRow);
     this.renderKeyboard();
     this.saveState();
 
