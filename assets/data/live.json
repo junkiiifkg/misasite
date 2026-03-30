@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-03-30T12:59:33.900Z",
+    "fetchedAt": "2026-03-30T18:49:47.320Z",
     "source": "pandascore"
   },
   "branches": {
@@ -187,7 +187,7 @@
         {
           "tag": "Obyj",
           "name": "Onur Buğra Yaman",
-          "role": "Koç",
+          "role": "Player",
           "image": ""
         }
       ],
@@ -216,13 +216,13 @@
         },
         {
           "tag": "Elite",
-          "name": "Efe Teber",
+          "name": " Efe Teber",
           "role": "Player",
           "image": "assets/images/valorant/elite.png"
         },
         {
           "tag": "Burzzy",
-          "name": "Burak Özveren",
+          "name": "Burak  Özveren",
           "role": "Player",
           "image": "assets/images/valorant/burzzy.png"
         },
