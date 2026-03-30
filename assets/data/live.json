@@ -158,31 +158,31 @@
           "tag": "ckanic",
           "name": "Serdar Akinci",
           "role": "Player",
-          "image": ""
+          "image": "assets/images/cs2/ckanic.webp"
         },
         {
           "tag": "rim3",
           "name": "Emir Dönmez",
           "role": "Player",
-          "image": ""
+          "image": "assets/images/cs2/rim3.webp"
         },
         {
           "tag": "Zuedsta",
           "name": "Zübeyir Yıldırım",
           "role": "Player",
-          "image": ""
+          "image": "assets/images/cs2/zuedsta.webp"
         },
         {
           "tag": "Mertovsk1",
           "name": "Kazım Mert Burtgil",
           "role": "Player",
-          "image": ""
+          "image": "assets/images/cs2/mertowski.webp"
         },
         {
           "tag": "souv",
           "name": "Aziz Altinsoy",
           "role": "Player",
-          "image": ""
+          "image": "assets/images/cs2/souv.webp"
         },
         {
           "tag": "Obyj",
@@ -260,31 +260,31 @@
           "tag": "Brave",
           "name": "Eren Kasırga",
           "role": "Player",
-          "image": "https://cdn-api.pandascore.co/images/player/image/32898/ezgif_3_e18c5583c7.png"
+          "image": "assets/images/valorant/brave.png"
         },
         {
           "tag": "pAura",
           "name": "Melih Karaduran",
           "role": "Player",
-          "image": "https://cdn-api.pandascore.co/images/player/image/33022/600px_team_heretics_p_aura.png"
+          "image": "assets/images/valorant/paura.png"
         },
         {
           "tag": "QutionerX",
           "name": "Doğukan Dural",
           "role": "Player",
-          "image": ""
+          "image": "assets/images/valorant/qutionerx.png"
         },
         {
           "tag": "Elite",
-          "name": " Efe Teber",
+          "name": "Efe Teber",
           "role": "Player",
-          "image": "https://cdn-api.pandascore.co/images/player/image/38559/ezgif_5_fe54ae6979.png"
+          "image": "assets/images/valorant/elite.png"
         },
         {
           "tag": "Burzzy",
-          "name": "Burak  Özveren",
+          "name": "Burak Özveren",
           "role": "Player",
-          "image": ""
+          "image": "assets/images/valorant/burzzy.png"
         },
         {
           "tag": "Draken",
