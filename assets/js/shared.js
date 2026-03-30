@@ -25,6 +25,7 @@ function whenDataReady(fn) {
 function getActivePage() {
   const path = window.location.pathname;
   if (path.includes('minigames')) return 'minigames';
+  if (path.includes('wallpapers')) return 'wallpapers';
   if (path.includes('fixtures')) return 'fixtures';
   if (path.includes('branches')) return 'branches';
   return 'home';
@@ -53,6 +54,7 @@ function renderNav() {
         <a class="${navLinkClass('branches')}" href="branches.html">TAKIMLAR</a>
         <a class="${navLinkClass('fixtures')}" href="fixtures.html">FİKSTÜR</a>
         <a class="${navLinkClass('minigames')}" href="minigames.html">MİNİ OYUNLAR</a>
+        <a class="${navLinkClass('wallpapers')}" href="wallpapers.html">DUVAR KAGITLARI</a>
       </div>
 
       <div class="flex items-center gap-4">
@@ -75,6 +77,7 @@ function renderNav() {
       <a class="font-['Space_Grotesk'] font-bold uppercase tracking-[0.1em] text-2xl ${getActivePage() === 'branches' ? 'text-[#f2ca50]' : 'text-[#d0c5af]'}" href="branches.html">TAKIMLAR</a>
       <a class="font-['Space_Grotesk'] font-bold uppercase tracking-[0.1em] text-2xl ${getActivePage() === 'fixtures' ? 'text-[#f2ca50]' : 'text-[#d0c5af]'}" href="fixtures.html">FİKSTÜR</a>
       <a class="font-['Space_Grotesk'] font-bold uppercase tracking-[0.1em] text-2xl ${getActivePage() === 'minigames' ? 'text-[#f2ca50]' : 'text-[#d0c5af]'}" href="minigames.html">MİNİ OYUNLAR</a>
+      <a class="font-['Space_Grotesk'] font-bold uppercase tracking-[0.1em] text-2xl ${getActivePage() === 'wallpapers' ? 'text-[#f2ca50]' : 'text-[#d0c5af]'}" href="wallpapers.html">DUVAR KAGITLARI</a>
       <a href="https://misaesports.com" target="_blank" rel="noopener noreferrer" class="gold-gradient px-8 py-3 rounded-md font-['Space_Grotesk'] font-bold text-[#3c2f00] text-sm tracking-widest uppercase mt-4">
         RESMİ SİTE
       </a>
@@ -132,6 +135,7 @@ function renderFooter() {
                 <li><a class="text-[#d0c5af] hover:text-[#f2ca50] text-sm transition-colors uppercase font-label" href="branches.html">Takımlar</a></li>
                 <li><a class="text-[#d0c5af] hover:text-[#f2ca50] text-sm transition-colors uppercase font-label" href="fixtures.html">Fikstür</a></li>
                 <li><a class="text-[#d0c5af] hover:text-[#f2ca50] text-sm transition-colors uppercase font-label" href="minigames.html">Mini Oyunlar</a></li>
+                <li><a class="text-[#d0c5af] hover:text-[#f2ca50] text-sm transition-colors uppercase font-label" href="wallpapers.html">Duvar Kagitlari</a></li>
               </ul>
             </div>
             <div class="space-y-4">
