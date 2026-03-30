@@ -114,25 +114,28 @@ document.addEventListener('DOMContentLoaded', () => { whenDataReady(() => {
       const branch = getBranch(m.game);
       const isWin = m.result.win;
       return `
-        <div data-match-game="${m.game}" class="flex items-center bg-surface-container-low p-3 md:p-4 rounded-lg border-l-4 ${isWin ? 'border-primary' : 'border-secondary-container'}">
-          <div class="w-12 md:w-16 flex flex-col items-center border-r border-outline-variant/20 pr-3 md:pr-4">
+        <div data-match-game="${m.game}" class="relative flex items-center bg-surface-container-low p-3 md:p-4 rounded-lg border-l-4 ${isWin ? 'border-primary' : 'border-secondary-container'}">
+          <div class="w-12 md:w-16 flex flex-col items-center border-r border-outline-variant/20 pr-3 md:pr-4 shrink-0">
             <span class="font-headline font-black text-lg md:text-xl ${isWin ? 'text-primary' : 'text-secondary-container'}">${isWin ? 'W' : 'L'}</span>
             <span class="text-[9px] font-bold text-on-surface-variant uppercase">${branch.shortName}</span>
           </div>
-          <div class="flex-1 flex items-center px-4 md:px-8 relative">
-            <div class="flex items-center gap-2 md:gap-3">
-              <span class="font-headline text-xs md:text-sm font-bold uppercase ${isWin ? '' : 'text-on-surface-variant'}">MISA</span>
-            </div>
-            <div class="absolute left-1/2 -translate-x-1/2 flex items-center gap-2 md:gap-4">
+          <!-- Score centered to entire row -->
+          <div class="absolute inset-0 flex items-center justify-center pointer-events-none">
+            <div class="flex items-center gap-2 md:gap-4">
               <span class="font-headline text-xl md:text-2xl font-black ${isWin ? 'text-primary' : 'text-on-surface-variant'} w-6 md:w-8 text-right">${m.result.misa}</span>
               <span class="text-outline-variant">-</span>
               <span class="font-headline text-xl md:text-2xl font-black ${isWin ? 'text-on-surface-variant' : 'text-primary'} w-6 md:w-8 text-left">${m.result.opponent}</span>
+            </div>
+          </div>
+          <div class="flex-1 flex items-center px-4 md:px-8">
+            <div class="flex items-center gap-2 md:gap-3">
+              <span class="font-headline text-xs md:text-sm font-bold uppercase ${isWin ? '' : 'text-on-surface-variant'}">MISA</span>
             </div>
             <div class="flex items-center gap-2 md:gap-3 ml-auto">
               <span class="font-headline text-xs md:text-sm font-bold uppercase text-on-surface-variant">${m.opponent}</span>
             </div>
           </div>
-          <div class="hidden md:block text-right pl-4 border-l border-outline-variant/20">
+          <div class="hidden md:block text-right pl-4 border-l border-outline-variant/20 shrink-0">
             <p class="text-[10px] text-outline uppercase tracking-widest">${[branch.standings?.leagueName, m.tournament].filter(Boolean).join(' · ')}</p>
             <p class="text-[10px] text-on-surface-variant uppercase font-medium">${formatDate(m.date)}</p>
           </div>
