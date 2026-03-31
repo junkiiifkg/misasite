@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-03-31T12:57:43.897Z",
+    "fetchedAt": "2026-03-31T18:51:01.942Z",
     "source": "pandascore"
   },
   "branches": {
@@ -67,80 +67,80 @@
         "table": [
           {
             "pos": 1,
-            "team": "Eintracht Spandau",
+            "team": "Karmine Corp Blue",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 2,
-            "team": "⁠Movistar KOI Fénix",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Solary",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Unicorns Of Love Sexy Edition",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
-            "team": "Verdant",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "French Flair",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
             "team": "Galions",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
+            "pos": 2,
+            "team": "Solary",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
+            "team": "Eintracht Spandau",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "⁠Movistar KOI Fénix",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 6,
+            "team": "Unicorns Of Love Sexy Edition",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "Verdant",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
             "pos": 8,
-            "team": "Team Heretics Academy",
+            "team": "French Flair",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 9,
-            "team": "BIG",
+            "team": "Team Heretics Academy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 10,
+            "team": "BIG",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 11,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
-          },
-          {
-            "pos": 11,
-            "team": "Karmine Corp Blue",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
           },
           {
             "pos": 12,
@@ -278,15 +278,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1397503",
-        "game": "lol",
-        "opponent": "Karmine Corp Blue",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128268/600px_karmine_corp_allmode.png",
-        "date": "2026-03-31T15:00:00Z",
-        "tournament": "EMEA Masters Winter 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
         "id": "1423187",
         "game": "cs2",
         "opponent": "Prestige",
@@ -294,9 +285,32 @@
         "date": "2026-04-02T08:00:00Z",
         "tournament": "United21 Season 47 2026 · Group D",
         "format": "BO3"
+      },
+      {
+        "id": "1397507",
+        "game": "lol",
+        "opponent": "Unicorns Of Love Sexy Edition",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/126832/220px_unicorns_of_lovelogo_square.png",
+        "date": "2026-04-07T15:00:00Z",
+        "tournament": "EMEA Masters Winter 2026 · Playoffs",
+        "format": "BO3"
       }
     ],
     "recent": [
+      {
+        "id": "1397503",
+        "game": "lol",
+        "opponent": "Karmine Corp Blue",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128268/600px_karmine_corp_allmode.png",
+        "date": "2026-03-31T15:00:55Z",
+        "tournament": "EMEA Masters Winter 2026 · Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1418469",
         "game": "cs2",
@@ -659,20 +673,6 @@
           "misa": 0,
           "opponent": 0,
           "win": false
-        }
-      },
-      {
-        "id": "1271933",
-        "game": "lol",
-        "opponent": "Last Wall",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137645/mp_o3_l_we.png",
-        "date": "2025-12-14T13:49:32Z",
-        "tournament": "GAMEON Revival 2025 · Playoffs",
-        "format": "BO5",
-        "result": {
-          "misa": 3,
-          "opponent": 0,
-          "win": true
         }
       },
       {
