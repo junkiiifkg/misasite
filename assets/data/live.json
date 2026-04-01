@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-03-31T18:51:01.942Z",
+    "fetchedAt": "2026-04-01T01:51:15.338Z",
     "source": "pandascore"
   },
   "branches": {
@@ -67,87 +67,87 @@
         "table": [
           {
             "pos": 1,
+            "team": "G2 NORD",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
             "team": "Karmine Corp Blue",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 2,
+            "pos": 3,
             "team": "Galions",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 2,
+            "pos": 3,
             "team": "Solary",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 4,
+            "pos": 5,
             "team": "Eintracht Spandau",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 5,
+            "pos": 6,
             "team": "⁠Movistar KOI Fénix",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 6,
+            "pos": 7,
             "team": "Unicorns Of Love Sexy Edition",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 7,
+            "pos": 8,
             "team": "Verdant",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 8,
+            "pos": 9,
             "team": "French Flair",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 9,
+            "pos": 10,
             "team": "Team Heretics Academy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 10,
+            "pos": 11,
             "team": "BIG",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 11,
+            "pos": 12,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
-          },
-          {
-            "pos": 12,
-            "team": "G2 NORD",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
           }
         ]
       }
