@@ -16,10 +16,10 @@ window.__misaDataReady = (async function () {
       return;
     }
 
-    // Skip if data is older than 48 hours
+    // Skip if data is older than 7 days
     const fetchedAt = new Date(live._meta.fetchedAt);
     const ageHours = (Date.now() - fetchedAt.getTime()) / 3600000;
-    if (ageHours > 48) {
+    if (ageHours > 168) {
       console.warn('[MISA] Live data is stale (' + Math.round(ageHours) + 'h old), using static data');
       return;
     }
