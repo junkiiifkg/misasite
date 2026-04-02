@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-02T07:02:46.847Z",
+    "fetchedAt": "2026-04-02T12:54:10.885Z",
     "source": "pandascore"
   },
   "branches": {
@@ -192,7 +192,25 @@
         }
       ],
       "teamLogo": "https://cdn.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "United21 Season 47 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 1,
+            "team": "Prestige",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "valorant": {
       "roster": [
@@ -278,11 +296,11 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1423187",
+        "id": "1423189",
         "game": "cs2",
-        "opponent": "Prestige",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136846/get_team_logos.png",
-        "date": "2026-04-02T08:00:00Z",
+        "opponent": "Winners match: MISA vs TBD",
+        "opponentLogo": "",
+        "date": "2026-04-06T08:00:00Z",
         "tournament": "United21 Season 47 2026 · Group D",
         "format": "BO3"
       },
@@ -297,6 +315,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1423187",
+        "game": "cs2",
+        "opponent": "Prestige",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136846/get_team_logos.png",
+        "date": "2026-04-02T08:07:16Z",
+        "tournament": "United21 Season 47 2026 · Group D",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 1,
+          "win": true
+        }
+      },
       {
         "id": "1397503",
         "game": "lol",
@@ -323,20 +355,6 @@
           "misa": 1,
           "opponent": 2,
           "win": false
-        }
-      },
-      {
-        "id": "1418466",
-        "game": "cs2",
-        "opponent": "ROUNDS",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/132459/rounds_darklogo_notext_4000x4000_1.png",
-        "date": "2026-03-27T18:46:53Z",
-        "tournament": "ESEA European Finals season 56 2026 · Playoffs",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 0,
-          "win": true
         }
       },
       {
