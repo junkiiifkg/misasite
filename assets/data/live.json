@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-04T12:36:27.559Z",
+    "fetchedAt": "2026-04-04T18:30:09.205Z",
     "source": "pandascore"
   },
   "branches": {
@@ -272,20 +272,29 @@
         }
       ],
       "teamLogo": "https://cdn.pandascore.co/images/team/image/137017/599px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "VCL Türkiye: Birlik Stage 2 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Misa Esports",
+            "w": 1,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 2,
+            "team": "TEAM SCARS",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          }
+        ]
+      }
     }
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1428548",
-        "game": "valorant",
-        "opponent": "TEAM SCARS",
-        "opponentLogo": "",
-        "date": "2026-04-04T14:30:00Z",
-        "tournament": "VCL Türkiye: Birlik Stage 2 2026 · Group A",
-        "format": "BO3"
-      },
       {
         "id": "1423189",
         "game": "cs2",
@@ -333,6 +342,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1428548",
+        "game": "valorant",
+        "opponent": "TEAM SCARS",
+        "opponentLogo": "",
+        "date": "2026-04-04T14:37:56Z",
+        "tournament": "VCL Türkiye: Birlik Stage 2 2026 · Group A",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1423187",
         "game": "cs2",
@@ -648,20 +671,6 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137879/s2_g_esportslogo_square.png",
         "date": "2026-01-30T14:34:35Z",
         "tournament": "TCL Winter 2026 · Group B",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 0,
-          "win": true
-        }
-      },
-      {
-        "id": "1312310",
-        "game": "valorant",
-        "opponent": "S2G Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/132005/103px_s2_g_esports.png",
-        "date": "2026-01-26T14:29:43Z",
-        "tournament": "VCL Türkiye: Birlik Kickoff 2026 · Regular Season",
         "format": "BO3",
         "result": {
           "misa": 2,
