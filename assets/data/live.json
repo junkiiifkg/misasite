@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-04T18:30:09.205Z",
+    "fetchedAt": "2026-04-05T01:46:37.814Z",
     "source": "pandascore"
   },
   "branches": {
@@ -283,7 +283,21 @@
             "isMisa": true
           },
           {
-            "pos": 2,
+            "pos": 1,
+            "team": "Eternal Fire Passion",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "Bushido Wildcats",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
             "team": "TEAM SCARS",
             "w": 0,
             "l": 1,
