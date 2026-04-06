@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-06T07:19:43.344Z",
+    "fetchedAt": "2026-04-06T12:52:32.571Z",
     "source": "pandascore"
   },
   "branches": {
@@ -193,18 +193,18 @@
       ],
       "teamLogo": "https://cdn.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "United21 Season 47 2026",
+        "leagueName": "United21 Season 45 2026",
         "table": [
           {
             "pos": 1,
-            "team": "AaB Esport",
+            "team": "NAVI Junior",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "Infinite",
+            "pos": 2,
+            "team": "Imperial Academy",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -217,8 +217,36 @@
             "isMisa": true
           },
           {
-            "pos": 3,
-            "team": "Prestige",
+            "pos": 4,
+            "team": "HEROIC Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "LPH Gaming",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 6,
+            "team": "ReThink",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "STATE",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 8,
+            "team": "FOKUS REALITY",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -310,15 +338,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1423189",
-        "game": "cs2",
-        "opponent": "Infinite",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/127976/t70715.png",
-        "date": "2026-04-06T08:00:00Z",
-        "tournament": "United21 Season 47 2026 · Group D",
-        "format": "BO3"
-      },
-      {
         "id": "1428553",
         "game": "valorant",
         "opponent": "Eternal Fire Passion",
@@ -356,6 +375,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1423189",
+        "game": "cs2",
+        "opponent": "Infinite",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/127976/t70715.png",
+        "date": "2026-04-06T08:16:06Z",
+        "tournament": "United21 Season 47 2026 · Group D",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1428548",
         "game": "valorant",
@@ -396,20 +429,6 @@
           "misa": 2,
           "opponent": 0,
           "win": true
-        }
-      },
-      {
-        "id": "1418469",
-        "game": "cs2",
-        "opponent": "TNT",
-        "opponentLogo": "",
-        "date": "2026-03-28T18:45:47Z",
-        "tournament": "ESEA European Finals season 56 2026 · Playoffs",
-        "format": "BO3",
-        "result": {
-          "misa": 1,
-          "opponent": 2,
-          "win": false
         }
       },
       {
