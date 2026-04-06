@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-06T12:52:32.571Z",
+    "fetchedAt": "2026-04-06T18:45:16.461Z",
     "source": "pandascore"
   },
   "branches": {
@@ -62,95 +62,7 @@
         }
       ],
       "teamLogo": "https://cdn.pandascore.co/images/team/image/133984/misa_esportslogo_profile.png",
-      "standings": {
-        "leagueName": "EMEA Masters Winter 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "G2 NORD",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "Karmine Corp Blue",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Galions",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Solary",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
-            "team": "Eintracht Spandau",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "⁠Movistar KOI Fénix",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "Unicorns Of Love Sexy Edition",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 8,
-            "team": "Verdant",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 9,
-            "team": "French Flair",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 10,
-            "team": "Team Heretics Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 11,
-            "team": "BIG",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 12,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          }
-        ]
-      }
+      "standings": null
     },
     "cs2": {
       "roster": [
@@ -305,6 +217,13 @@
         "table": [
           {
             "pos": 1,
+            "team": "Beşiktaş Esports",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
             "team": "Misa Esports",
             "w": 1,
             "l": 0,
@@ -318,17 +237,17 @@
             "isMisa": false
           },
           {
-            "pos": 3,
-            "team": "Bushido Wildcats",
+            "pos": 4,
+            "team": "TEAM SCARS",
             "w": 0,
             "l": 1,
             "isMisa": false
           },
           {
-            "pos": 3,
-            "team": "TEAM SCARS",
+            "pos": 5,
+            "team": "Bushido Wildcats",
             "w": 0,
-            "l": 1,
+            "l": 2,
             "isMisa": false
           }
         ]
@@ -337,15 +256,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1428553",
-        "game": "valorant",
-        "opponent": "Eternal Fire Passion",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138412/900px_eternal_fire_2023_allmode.png",
-        "date": "2026-04-06T17:30:00Z",
-        "tournament": "VCL Türkiye: Birlik Stage 2 2026 · Group A",
-        "format": "BO3"
-      },
       {
         "id": "1397507",
         "game": "lol",
