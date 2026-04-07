@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-07T07:06:03.717Z",
+    "fetchedAt": "2026-04-07T13:01:58.102Z",
     "source": "pandascore"
   },
   "branches": {
@@ -354,6 +354,15 @@
         "format": "BO3"
       },
       {
+        "id": "1434825",
+        "game": "lol",
+        "opponent": "Ozarox Esports",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138472/ozarox_esportslogo_square.png",
+        "date": "2026-04-09T17:30:00Z",
+        "tournament": "TCL Spring 2026 · Regular Season",
+        "format": "BO3"
+      },
+      {
         "id": "1428558",
         "game": "valorant",
         "opponent": "Bushido Wildcats",
@@ -363,12 +372,66 @@
         "format": "BO3"
       },
       {
+        "id": "1434828",
+        "game": "lol",
+        "opponent": "Team Phoenix",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137930/valorant_team_phoenix_allmode.png",
+        "date": "2026-04-16T14:30:00Z",
+        "tournament": "TCL Spring 2026 · Regular Season",
+        "format": "BO3"
+      },
+      {
         "id": "1428565",
         "game": "valorant",
         "opponent": "Beşiktaş Esports",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128669/600px_besiktas_jk.png",
         "date": "2026-04-19T17:30:00Z",
         "tournament": "VCL Türkiye: Birlik Stage 2 2026 · Group A",
+        "format": "BO3"
+      },
+      {
+        "id": "1434835",
+        "game": "lol",
+        "opponent": "SU Esports",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137931/447px_su_esports_allmode.png",
+        "date": "2026-04-23T17:30:00Z",
+        "tournament": "TCL Spring 2026 · Regular Season",
+        "format": "BO3"
+      },
+      {
+        "id": "1434839",
+        "game": "lol",
+        "opponent": "BoostGate Esports",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/134235/boost_gate_esportslogo_profile.png",
+        "date": "2026-05-01T17:30:00Z",
+        "tournament": "TCL Spring 2026 · Regular Season",
+        "format": "BO3"
+      },
+      {
+        "id": "1434841",
+        "game": "lol",
+        "opponent": "PCIFIC ",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137929/800px_pcific_esports_allmode.png",
+        "date": "2026-05-05T17:30:00Z",
+        "tournament": "TCL Spring 2026 · Regular Season",
+        "format": "BO3"
+      },
+      {
+        "id": "1434844",
+        "game": "lol",
+        "opponent": "Dark Passage",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/27/dark-passage-cleshejb.png",
+        "date": "2026-05-07T14:30:00Z",
+        "tournament": "TCL Spring 2026 · Regular Season",
+        "format": "BO3"
+      },
+      {
+        "id": "1434848",
+        "game": "lol",
+        "opponent": "Bushido Wildcats",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136070/bushido_wildcatslogo_square.png",
+        "date": "2026-05-14T14:30:00Z",
+        "tournament": "TCL Spring 2026 · Regular Season",
         "format": "BO3"
       }
     ],
