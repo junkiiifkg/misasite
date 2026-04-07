@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-07T13:01:58.102Z",
+    "fetchedAt": "2026-04-07T18:52:31.322Z",
     "source": "pandascore"
   },
   "branches": {
@@ -63,91 +63,63 @@
       ],
       "teamLogo": "https://cdn.pandascore.co/images/team/image/133984/misa_esportslogo_profile.png",
       "standings": {
-        "leagueName": "EMEA Masters Winter 2026",
+        "leagueName": "TCL Spring 2026",
         "table": [
           {
             "pos": 1,
-            "team": "G2 NORD",
+            "team": "BoostGate Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 2,
-            "team": "Karmine Corp Blue",
+            "team": "Bushido Wildcats",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 3,
-            "team": "Galions",
+            "team": "Dark Passage",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
-            "team": "Solary",
+            "pos": 4,
+            "team": "Misa Esports",
             "w": 0,
             "l": 0,
-            "isMisa": false
+            "isMisa": true
           },
           {
             "pos": 5,
-            "team": "Eintracht Spandau",
+            "team": "Ozarox Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 6,
-            "team": "⁠Movistar KOI Fénix",
+            "team": "PCIFIC ",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 7,
-            "team": "Unicorns Of Love Sexy Edition",
+            "team": "SU Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 8,
-            "team": "Verdant",
+            "team": "Team Phoenix",
             "w": 0,
             "l": 0,
             "isMisa": false
-          },
-          {
-            "pos": 9,
-            "team": "French Flair",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 10,
-            "team": "Team Heretics Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 11,
-            "team": "BIG",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 12,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
           }
         ]
       }
@@ -345,15 +317,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1397507",
-        "game": "lol",
-        "opponent": "Unicorns Of Love Sexy Edition",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/126832/220px_unicorns_of_lovelogo_square.png",
-        "date": "2026-04-07T14:00:00Z",
-        "tournament": "EMEA Masters Winter 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
         "id": "1434825",
         "game": "lol",
         "opponent": "Ozarox Esports",
@@ -420,7 +383,7 @@
         "id": "1434844",
         "game": "lol",
         "opponent": "Dark Passage",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/27/dark-passage-cleshejb.png",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/27/554px_dark_passage_2023_lightmode.png",
         "date": "2026-05-07T14:30:00Z",
         "tournament": "TCL Spring 2026 · Regular Season",
         "format": "BO3"
@@ -436,6 +399,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1397507",
+        "game": "lol",
+        "opponent": "Unicorns Of Love Sexy Edition",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/126832/220px_unicorns_of_lovelogo_square.png",
+        "date": "2026-04-07T13:59:05Z",
+        "tournament": "EMEA Masters Winter 2026 · Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1428553",
         "game": "valorant",
@@ -764,20 +741,6 @@
         "opponent": "S2G Esports",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137879/s2_g_esportslogo_square.png",
         "date": "2026-01-30T14:34:35Z",
-        "tournament": "TCL Winter 2026 · Group B",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 0,
-          "win": true
-        }
-      },
-      {
-        "id": "1322435",
-        "game": "lol",
-        "opponent": "SU Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137931/447px_su_esports_allmode.png",
-        "date": "2026-01-20T16:32:21Z",
         "tournament": "TCL Winter 2026 · Group B",
         "format": "BO3",
         "result": {
