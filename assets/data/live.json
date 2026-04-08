@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-07T18:52:31.322Z",
+    "fetchedAt": "2026-04-08T01:45:09.089Z",
     "source": "pandascore"
   },
   "branches": {
@@ -335,6 +335,15 @@
         "format": "BO3"
       },
       {
+        "id": "1397510",
+        "game": "lol",
+        "opponent": "Solary",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/1449/123px_solarylogo_square.png",
+        "date": "2026-04-14T15:00:00Z",
+        "tournament": "EMEA Masters Winter 2026 · Playoffs",
+        "format": "BO5"
+      },
+      {
         "id": "1434828",
         "game": "lol",
         "opponent": "Team Phoenix",
@@ -399,6 +408,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1397508",
+        "game": "lol",
+        "opponent": "BIG",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/125905/berlin_international_gaminglogo_square.png",
+        "date": "2026-04-07T18:02:00Z",
+        "tournament": "EMEA Masters Winter 2026 · Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 1,
+          "win": true
+        }
+      },
       {
         "id": "1397507",
         "game": "lol",
@@ -727,20 +750,6 @@
         "opponent": "BoostGate Esports",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/134235/boost_gate_esportslogo_profile.png",
         "date": "2026-02-06T14:33:20Z",
-        "tournament": "TCL Winter 2026 · Group B",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 0,
-          "win": true
-        }
-      },
-      {
-        "id": "1322441",
-        "game": "lol",
-        "opponent": "S2G Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137879/s2_g_esportslogo_square.png",
-        "date": "2026-01-30T14:34:35Z",
         "tournament": "TCL Winter 2026 · Group B",
         "format": "BO3",
         "result": {
