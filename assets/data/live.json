@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-09T13:04:25.569Z",
+    "fetchedAt": "2026-04-09T18:53:16.430Z",
     "source": "pandascore"
   },
   "branches": {
@@ -63,63 +63,91 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/133984/misa_esportslogo_profile.png",
       "standings": {
-        "leagueName": "TCL Spring 2026",
+        "leagueName": "EMEA Masters Winter 2026",
         "table": [
           {
             "pos": 1,
-            "team": "BoostGate Esports",
+            "team": "BIG",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 2,
-            "team": "Bushido Wildcats",
+            "team": "French Flair",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 3,
-            "team": "Dark Passage",
+            "team": "Unicorns Of Love Sexy Edition",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 4,
-            "team": "Misa Esports",
+            "team": "G2 NORD",
             "w": 0,
             "l": 0,
-            "isMisa": true
+            "isMisa": false
           },
           {
             "pos": 5,
-            "team": "Ozarox Esports",
+            "team": "Karmine Corp Blue",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 6,
-            "team": "PCIFIC ",
+            "team": "Galions",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 7,
-            "team": "SU Esports",
+            "pos": 6,
+            "team": "Solary",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 8,
-            "team": "Team Phoenix",
+            "team": "Eintracht Spandau",
             "w": 0,
             "l": 0,
             "isMisa": false
+          },
+          {
+            "pos": 9,
+            "team": "⁠Movistar KOI Fénix",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "Verdant",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 11,
+            "team": "Team Heretics Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 12,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
           }
         ]
       }
@@ -169,16 +197,30 @@
         "table": [
           {
             "pos": 1,
-            "team": "Imperial Academy",
-            "w": 1,
+            "team": "Brute",
+            "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 2,
+            "pos": 1,
+            "team": "Inner Circle Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "Imperial Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
             "team": "Infinite",
             "w": 0,
-            "l": 1,
+            "l": 0,
             "isMisa": false
           }
         ]
@@ -275,15 +317,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1434825",
-        "game": "lol",
-        "opponent": "Ozarox Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138472/ozarox_esportslogo_square.png",
-        "date": "2026-04-09T17:30:00Z",
-        "tournament": "TCL Spring 2026 · Regular Season",
-        "format": "BO3"
-      },
-      {
         "id": "1437370",
         "game": "cs2",
         "opponent": "LPH Gaming",
@@ -375,6 +408,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1434825",
+        "game": "lol",
+        "opponent": "Ozarox Esports",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138472/ozarox_esportslogo_square.png",
+        "date": "2026-04-09T17:03:29Z",
+        "tournament": "TCL Spring 2026 · Regular Season",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1397508",
         "game": "lol",
@@ -709,20 +756,6 @@
           "misa": 0,
           "opponent": 2,
           "win": false
-        }
-      },
-      {
-        "id": "1322444",
-        "game": "lol",
-        "opponent": "BoostGate Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/134235/boost_gate_esportslogo_profile.png",
-        "date": "2026-02-06T14:33:20Z",
-        "tournament": "TCL Winter 2026 · Group B",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 0,
-          "win": true
         }
       },
       {
