@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-09T07:12:40.625Z",
+    "fetchedAt": "2026-04-09T13:04:25.569Z",
     "source": "pandascore"
   },
   "branches": {
@@ -10,31 +10,31 @@
           "tag": "Ragner",
           "name": "Onurcan Aslan",
           "role": "Top",
-          "image": "https://cdn.pandascore.co/images/player/image/15358/gl_ragner_2025_split_2.png"
+          "image": "https://cdn-api.pandascore.co/images/player/image/15358/gl_ragner_2025_split_2.png"
         },
         {
           "tag": "Hype",
           "name": "Jeong-hyeon Byeon ",
           "role": "Adc",
-          "image": "https://cdn.pandascore.co/images/player/image/32745/kt.c_hype_2024_split_2.png"
+          "image": "https://cdn-api.pandascore.co/images/player/image/32745/kt.c_hype_2024_split_2.png"
         },
         {
           "tag": "113",
           "name": "Doğukan Balci",
           "role": "Jun",
-          "image": "https://cdn.pandascore.co/images/player/image/34917/kcb_113_summer_2024.png"
+          "image": "https://cdn-api.pandascore.co/images/player/image/34917/kcb_113_summer_2024.png"
         },
         {
           "tag": "SlowQ",
           "name": "Seo Ye-bit",
           "role": "Mid",
-          "image": "https://cdn.pandascore.co/images/player/image/34985/kcb_slow_q_2025_split_2.png"
+          "image": "https://cdn-api.pandascore.co/images/player/image/34985/kcb_slow_q_2025_split_2.png"
         },
         {
           "tag": "Stend",
           "name": "Paul  Lardin",
           "role": "Sup",
-          "image": "https://cdn.pandascore.co/images/player/image/38918/th_stend_2025_split_3.png"
+          "image": "https://cdn-api.pandascore.co/images/player/image/38918/th_stend_2025_split_3.png"
         },
         {
           "tag": "mojito",
@@ -61,8 +61,68 @@
           "image": ""
         }
       ],
-      "teamLogo": "https://cdn.pandascore.co/images/team/image/133984/misa_esportslogo_profile.png",
-      "standings": null
+      "teamLogo": "https://cdn-api.pandascore.co/images/team/image/133984/misa_esportslogo_profile.png",
+      "standings": {
+        "leagueName": "TCL Spring 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "BoostGate Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "Bushido Wildcats",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "Dark Passage",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 5,
+            "team": "Ozarox Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 6,
+            "team": "PCIFIC ",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "SU Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 8,
+            "team": "Team Phoenix",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "cs2": {
       "roster": [
@@ -103,8 +163,26 @@
           "image": ""
         }
       ],
-      "teamLogo": "https://cdn.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": null
+      "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
+      "standings": {
+        "leagueName": "United21 Season 47 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Imperial Academy",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "Infinite",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "valorant": {
       "roster": [
@@ -151,7 +229,7 @@
           "image": ""
         }
       ],
-      "teamLogo": "https://cdn.pandascore.co/images/team/image/137017/599px_misa_esports_2023_allmode.png",
+      "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137017/599px_misa_esports_2023_allmode.png",
       "standings": {
         "leagueName": "VCL Türkiye: Birlik Stage 2 2026",
         "table": [
