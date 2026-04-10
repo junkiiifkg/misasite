@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-10T07:17:17.310Z",
+    "fetchedAt": "2026-04-10T12:51:44.663Z",
     "source": "pandascore"
   },
   "branches": {
@@ -197,27 +197,55 @@
         "table": [
           {
             "pos": 1,
-            "team": "Brute",
+            "team": "LPH Gaming",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 1,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 3,
+            "team": "Fire Flux Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "Young Ninjas",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "Brute",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
             "team": "Inner Circle Academy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
+            "pos": 7,
             "team": "Imperial Academy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
+            "pos": 7,
             "team": "Infinite",
             "w": 0,
             "l": 0,
@@ -317,11 +345,11 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1437370",
+        "id": "1438944",
         "game": "cs2",
-        "opponent": "LPH Gaming",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136786/171px_lph_gaming_allmode.png",
-        "date": "2026-04-10T10:30:00Z",
+        "opponent": "Young Ninjas",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128327/222px_ninjas_in_pyjamas_2021_darkmode.png",
+        "date": "2026-04-12T10:30:00Z",
         "tournament": "United21 Season 47 2026 · Playoffs",
         "format": "BO3"
       },
@@ -409,6 +437,20 @@
     ],
     "recent": [
       {
+        "id": "1437370",
+        "game": "cs2",
+        "opponent": "LPH Gaming",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136786/171px_lph_gaming_allmode.png",
+        "date": "2026-04-10T10:44:45Z",
+        "tournament": "United21 Season 47 2026 · Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
+      {
         "id": "1434825",
         "game": "lol",
         "opponent": "Ozarox Esports",
@@ -489,20 +531,6 @@
         "result": {
           "misa": 2,
           "opponent": 0,
-          "win": true
-        }
-      },
-      {
-        "id": "1423187",
-        "game": "cs2",
-        "opponent": "Prestige",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136846/get_team_logos.png",
-        "date": "2026-04-02T08:07:16Z",
-        "tournament": "United21 Season 47 2026 · Group D",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 1,
           "win": true
         }
       },
