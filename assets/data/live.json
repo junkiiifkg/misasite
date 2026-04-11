@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-11T12:38:48.542Z",
+    "fetchedAt": "2026-04-11T18:32:45.239Z",
     "source": "pandascore"
   },
   "branches": {
@@ -305,17 +305,17 @@
         "table": [
           {
             "pos": 1,
+            "team": "Beşiktaş Esports",
+            "w": 2,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
             "team": "Misa Esports",
             "w": 2,
             "l": 0,
             "isMisa": true
-          },
-          {
-            "pos": 2,
-            "team": "Beşiktaş Esports",
-            "w": 1,
-            "l": 0,
-            "isMisa": false
           },
           {
             "pos": 3,
@@ -326,14 +326,14 @@
           },
           {
             "pos": 4,
-            "team": "TEAM SCARS",
+            "team": "Bushido Wildcats",
             "w": 0,
-            "l": 1,
+            "l": 2,
             "isMisa": false
           },
           {
-            "pos": 5,
-            "team": "Bushido Wildcats",
+            "pos": 4,
+            "team": "TEAM SCARS",
             "w": 0,
             "l": 2,
             "isMisa": false
