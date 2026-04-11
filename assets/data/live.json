@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-11T06:52:34.917Z",
+    "fetchedAt": "2026-04-11T12:38:48.542Z",
     "source": "pandascore"
   },
   "branches": {
@@ -197,56 +197,56 @@
         "table": [
           {
             "pos": 1,
+            "team": "Infinite",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
             "team": "LPH Gaming",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
+            "pos": 3,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 3,
+            "pos": 4,
             "team": "Fire Flux Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
+            "pos": 5,
             "team": "Young Ninjas",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 5,
+            "pos": 6,
             "team": "Brute",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 5,
+            "pos": 7,
             "team": "Inner Circle Academy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 7,
+            "pos": 8,
             "team": "Imperial Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "Infinite",
             "w": 0,
             "l": 0,
             "isMisa": false
