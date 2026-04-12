@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-12T12:42:19.032Z",
+    "fetchedAt": "2026-04-12T18:35:47.505Z",
     "source": "pandascore"
   },
   "branches": {
@@ -305,17 +305,17 @@
         "table": [
           {
             "pos": 1,
+            "team": "Misa Esports",
+            "w": 3,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 2,
             "team": "Beşiktaş Esports",
             "w": 2,
             "l": 0,
             "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "Misa Esports",
-            "w": 2,
-            "l": 0,
-            "isMisa": true
           },
           {
             "pos": 3,
@@ -326,16 +326,16 @@
           },
           {
             "pos": 4,
-            "team": "Bushido Wildcats",
+            "team": "TEAM SCARS",
             "w": 0,
             "l": 2,
             "isMisa": false
           },
           {
-            "pos": 4,
-            "team": "TEAM SCARS",
+            "pos": 5,
+            "team": "Bushido Wildcats",
             "w": 0,
-            "l": 2,
+            "l": 3,
             "isMisa": false
           }
         ]
@@ -344,15 +344,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1428558",
-        "game": "valorant",
-        "opponent": "Bushido Wildcats",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137857/600px_bushido_wildcats_allmode.png",
-        "date": "2026-04-12T14:30:00Z",
-        "tournament": "VCL Türkiye: Birlik Stage 2 2026 · Group A",
-        "format": "BO3"
-      },
       {
         "id": "1438945",
         "game": "cs2",
@@ -436,6 +427,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1428558",
+        "game": "valorant",
+        "opponent": "Bushido Wildcats",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137857/600px_bushido_wildcats_allmode.png",
+        "date": "2026-04-12T14:34:29Z",
+        "tournament": "VCL Türkiye: Birlik Stage 2 2026 · Group A",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1438944",
         "game": "cs2",
@@ -770,20 +775,6 @@
           "misa": 0,
           "opponent": 0,
           "win": true
-        }
-      },
-      {
-        "id": "1312317",
-        "game": "valorant",
-        "opponent": "Beşiktaş Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128669/600px_besiktas_jk.png",
-        "date": "2026-02-07T14:33:51Z",
-        "tournament": "VCL Türkiye: Birlik Kickoff 2026 · Regular Season",
-        "format": "BO3",
-        "result": {
-          "misa": 0,
-          "opponent": 2,
-          "win": false
         }
       },
       {
