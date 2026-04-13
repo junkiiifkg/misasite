@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-13T07:50:38.937Z",
+    "fetchedAt": "2026-04-13T13:05:46.941Z",
     "source": "pandascore"
   },
   "branches": {
@@ -193,62 +193,188 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "United21 Season 47 2026",
+        "leagueName": "ESEA Advanced Europe season 57 2026",
         "table": [
           {
             "pos": 1,
-            "team": "Infinite",
-            "w": 0,
+            "team": "Falcons Force",
+            "w": 2,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 2,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 2,
-            "team": "Young Ninjas",
-            "w": 0,
+            "pos": 1,
+            "team": "B8 Academy",
+            "w": 2,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 4,
-            "team": "Brute",
-            "w": 0,
+            "pos": 1,
+            "team": "G2 Ares",
+            "w": 2,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 4,
+            "pos": 1,
+            "team": "Donstu Esports",
+            "w": 2,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
             "team": "Imperial Academy",
-            "w": 0,
+            "w": 2,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 6,
-            "team": "LPH Gaming",
-            "w": 0,
+            "team": "VP.Prodigy",
+            "w": 1,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 7,
+            "pos": 6,
+            "team": "CYBERSHOKE Prospects",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 6,
+            "team": "tincan",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 6,
+            "team": "ENJOY",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 6,
+            "team": "The Last Resort",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 11,
+            "team": "Diamant Esports",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 11,
             "team": "Fire Flux Esports",
-            "w": 0,
-            "l": 0,
+            "w": 1,
+            "l": 1,
             "isMisa": false
           },
           {
-            "pos": 8,
-            "team": "Inner Circle Academy",
+            "pos": 11,
+            "team": "BOJONG",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 11,
+            "team": "OldBoys",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "Project 91",
             "w": 0,
-            "l": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "XI Esport",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "ROUNDS",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "ZOTIX",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "8Sins",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "hindsight",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "Arch",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "SE7ENS Esport",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "Nerve of Cow",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 24,
+            "team": "DGK Esports",
+            "w": 0,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 24,
+            "team": "Banger Gang",
+            "w": 0,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 24,
+            "team": "Clutchain Female",
+            "w": 0,
+            "l": 2,
             "isMisa": false
           }
         ]
@@ -345,15 +471,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1438945",
-        "game": "cs2",
-        "opponent": "Inner Circle Academy",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138101/192px_inner_circle_esports_lightmode.png",
-        "date": "2026-04-13T08:00:00Z",
-        "tournament": "United21 Season 47 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
         "id": "1444144",
         "game": "cs2",
         "opponent": "ReThink",
@@ -361,6 +478,15 @@
         "date": "2026-04-13T18:00:00Z",
         "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
         "format": "BO1"
+      },
+      {
+        "id": "1438948",
+        "game": "cs2",
+        "opponent": "Lower bracket semifinal: MISA vs TBD",
+        "opponentLogo": "",
+        "date": "2026-04-14T10:30:00Z",
+        "tournament": "United21 Season 47 2026 · Playoffs",
+        "format": "BO3"
       },
       {
         "id": "1397510",
@@ -437,6 +563,20 @@
     ],
     "recent": [
       {
+        "id": "1438945",
+        "game": "cs2",
+        "opponent": "Inner Circle Academy",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138101/192px_inner_circle_esports_lightmode.png",
+        "date": "2026-04-13T08:18:59Z",
+        "tournament": "United21 Season 47 2026 · Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
+      {
         "id": "1428558",
         "game": "valorant",
         "opponent": "Bushido Wildcats",
@@ -462,20 +602,6 @@
           "misa": 0,
           "opponent": 2,
           "win": false
-        }
-      },
-      {
-        "id": "1437370",
-        "game": "cs2",
-        "opponent": "LPH Gaming",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136786/171px_lph_gaming_allmode.png",
-        "date": "2026-04-10T10:44:45Z",
-        "tournament": "United21 Season 47 2026 · Playoffs",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 0,
-          "win": true
         }
       },
       {
