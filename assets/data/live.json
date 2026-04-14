@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-14T13:07:16.071Z",
+    "fetchedAt": "2026-04-14T19:01:33.489Z",
     "source": "pandascore"
   },
   "branches": {
@@ -63,91 +63,63 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/133984/misa_esportslogo_profile.png",
       "standings": {
-        "leagueName": "EMEA Masters Winter 2026",
+        "leagueName": "TCL Spring 2026",
         "table": [
           {
             "pos": 1,
-            "team": "BIG",
-            "w": 0,
+            "team": "Bushido Wildcats",
+            "w": 1,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 2,
-            "team": "French Flair",
-            "w": 0,
+            "pos": 1,
+            "team": "Misa Esports",
+            "w": 1,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 1,
+            "team": "PCIFIC ",
+            "w": 1,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
-            "team": "Unicorns Of Love Sexy Edition",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "G2 NORD",
-            "w": 0,
+            "pos": 1,
+            "team": "SU Esports",
+            "w": 1,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 5,
-            "team": "Karmine Corp Blue",
+            "team": "BoostGate Esports",
             "w": 0,
-            "l": 0,
+            "l": 1,
             "isMisa": false
           },
           {
-            "pos": 6,
-            "team": "Galions",
+            "pos": 5,
+            "team": "Dark Passage",
             "w": 0,
-            "l": 0,
+            "l": 1,
             "isMisa": false
           },
           {
-            "pos": 6,
-            "team": "Solary",
+            "pos": 5,
+            "team": "Ozarox Esports",
             "w": 0,
-            "l": 0,
+            "l": 1,
             "isMisa": false
           },
           {
-            "pos": 8,
-            "team": "Eintracht Spandau",
+            "pos": 5,
+            "team": "Team Phoenix",
             "w": 0,
-            "l": 0,
+            "l": 1,
             "isMisa": false
-          },
-          {
-            "pos": 9,
-            "team": "⁠Movistar KOI Fénix",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 10,
-            "team": "Verdant",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 11,
-            "team": "Team Heretics Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 12,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
           }
         ]
       }
@@ -193,265 +165,62 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "ESEA Advanced Europe season 57 2026",
+        "leagueName": "United21 Season 45 2026",
         "table": [
           {
             "pos": 1,
-            "team": "B8 Academy",
-            "w": 3,
+            "team": "NAVI Junior",
+            "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "G2 Ares",
-            "w": 3,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "Donstu Esports",
-            "w": 3,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "Falcons Force",
-            "w": 2,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "QUAZAR",
-            "w": 2,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "Diamant Esports",
-            "w": 2,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
+            "pos": 2,
             "team": "Imperial Academy",
-            "w": 2,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 8,
-            "team": "The Last Resort",
-            "w": 1,
+            "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 8,
-            "team": "eLITenergy",
-            "w": 1,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 8,
-            "team": "megoshort",
-            "w": 1,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 8,
-            "team": "uust _esports",
-            "w": 1,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 8,
-            "team": "ENJOY",
-            "w": 1,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 8,
-            "team": "eternal premium",
-            "w": 1,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 8,
+            "pos": 3,
             "team": "Misa Esports",
-            "w": 1,
+            "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 8,
-            "team": "FC Famalicão Esports",
-            "w": 1,
+            "pos": 4,
+            "team": "HEROIC Academy",
+            "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 8,
-            "team": "CYBERSHOKE Prospects",
-            "w": 1,
+            "pos": 5,
+            "team": "LPH Gaming",
+            "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 17,
-            "team": "OldBoys",
-            "w": 1,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 17,
-            "team": "Fire Flux Esports",
-            "w": 1,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 17,
-            "team": "BOJONG",
-            "w": 1,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 17,
-            "team": "tincan",
-            "w": 1,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 17,
-            "team": "JUMBO TEAM",
-            "w": 1,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 22,
-            "team": "VP.Prodigy",
-            "w": 1,
-            "l": 2,
-            "isMisa": false
-          },
-          {
-            "pos": 23,
-            "team": "BRAWLSTARS",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 23,
-            "team": "ROUNDS",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 23,
-            "team": "8Sins",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 23,
-            "team": "Oldboys",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 23,
+            "pos": 6,
             "team": "ReThink",
             "w": 0,
-            "l": 1,
+            "l": 0,
             "isMisa": false
           },
           {
-            "pos": 23,
-            "team": "Arch",
+            "pos": 7,
+            "team": "STATE",
             "w": 0,
-            "l": 1,
+            "l": 0,
             "isMisa": false
           },
           {
-            "pos": 23,
-            "team": "SE7ENS Esport",
+            "pos": 8,
+            "team": "FOKUS REALITY",
             "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 23,
-            "team": "Nerve of Cow",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 23,
-            "team": "Project 91",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 32,
-            "team": "Banger Gang",
-            "w": 0,
-            "l": 2,
-            "isMisa": false
-          },
-          {
-            "pos": 32,
-            "team": "DGK Esports",
-            "w": 0,
-            "l": 2,
-            "isMisa": false
-          },
-          {
-            "pos": 32,
-            "team": "hindsight",
-            "w": 0,
-            "l": 2,
-            "isMisa": false
-          },
-          {
-            "pos": 32,
-            "team": "XI Esport",
-            "w": 0,
-            "l": 2,
-            "isMisa": false
-          },
-          {
-            "pos": 36,
-            "team": "Clutchain Female",
-            "w": 0,
-            "l": 3,
-            "isMisa": false
-          },
-          {
-            "pos": 36,
-            "team": "ZOTIX",
-            "w": 0,
-            "l": 3,
+            "l": 0,
             "isMisa": false
           }
         ]
@@ -548,24 +317,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1397510",
-        "game": "lol",
-        "opponent": "Solary",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/1449/123px_solarylogo_square.png",
-        "date": "2026-04-14T15:00:00Z",
-        "tournament": "EMEA Masters Winter 2026 · Playoffs",
-        "format": "BO5"
-      },
-      {
-        "id": "1445623",
-        "game": "cs2",
-        "opponent": "Aurora Young Blood",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/133125/140px_aurora_young_blud_allmode.png",
-        "date": "2026-04-14T15:00:00Z",
-        "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
-        "format": "BO1"
-      },
-      {
         "id": "1434828",
         "game": "lol",
         "opponent": "Team Phoenix",
@@ -631,6 +382,20 @@
     ],
     "recent": [
       {
+        "id": "1445623",
+        "game": "cs2",
+        "opponent": "Aurora Young Blood",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/133125/140px_aurora_young_blud_allmode.png",
+        "date": "2026-04-14T15:16:50Z",
+        "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
+        "format": "BO1",
+        "result": {
+          "misa": 1,
+          "opponent": 0,
+          "win": true
+        }
+      },
+      {
         "id": "1438948",
         "game": "cs2",
         "opponent": "Fire Flux Esports",
@@ -642,20 +407,6 @@
           "misa": 0,
           "opponent": 2,
           "win": false
-        }
-      },
-      {
-        "id": "1444144",
-        "game": "cs2",
-        "opponent": "ReThink",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137967/re_think_lightmode.png",
-        "date": "2026-04-13T17:03:31Z",
-        "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
-        "format": "BO1",
-        "result": {
-          "misa": 1,
-          "opponent": 0,
-          "win": true
         }
       },
       {
