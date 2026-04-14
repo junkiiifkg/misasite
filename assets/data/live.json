@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-14T01:51:11.612Z",
+    "fetchedAt": "2026-04-14T07:20:16.167Z",
     "source": "pandascore"
   },
   "branches": {
@@ -361,6 +361,15 @@
         "date": "2026-04-14T15:00:00Z",
         "tournament": "EMEA Masters Winter 2026 · Playoffs",
         "format": "BO5"
+      },
+      {
+        "id": "1445623",
+        "game": "cs2",
+        "opponent": "Aurora Young Blood",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/133125/140px_aurora_young_blud_allmode.png",
+        "date": "2026-04-14T15:00:00Z",
+        "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
+        "format": "BO1"
       },
       {
         "id": "1434828",
