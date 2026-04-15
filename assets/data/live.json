@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-14T19:01:33.489Z",
+    "fetchedAt": "2026-04-15T01:47:15.290Z",
     "source": "pandascore"
   },
   "branches": {
@@ -396,6 +396,20 @@
         }
       },
       {
+        "id": "1397510",
+        "game": "lol",
+        "opponent": "Solary",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/1449/123px_solarylogo_square.png",
+        "date": "2026-04-14T15:01:08Z",
+        "tournament": "EMEA Masters Winter 2026 · Playoffs",
+        "format": "BO5",
+        "result": {
+          "misa": 2,
+          "opponent": 3,
+          "win": false
+        }
+      },
+      {
         "id": "1438948",
         "game": "cs2",
         "opponent": "Fire Flux Esports",
@@ -699,20 +713,6 @@
         "format": "BO3",
         "result": {
           "misa": 0,
-          "opponent": 0,
-          "win": true
-        }
-      },
-      {
-        "id": "1351409",
-        "game": "lol",
-        "opponent": "SU Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137931/447px_su_esports_allmode.png",
-        "date": "2026-02-10T14:36:41Z",
-        "tournament": "TCL Winter 2026 · Playoffs",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
           "opponent": 0,
           "win": true
         }
