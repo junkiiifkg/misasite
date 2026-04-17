@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-17T13:00:05.813Z",
+    "fetchedAt": "2026-04-17T18:46:24.998Z",
     "source": "pandascore"
   },
   "branches": {
@@ -67,7 +67,7 @@
             "isMisa": true
           },
           {
-            "pos": 1,
+            "pos": 2,
             "team": "SU Esports",
             "w": 2,
             "l": 0,
@@ -75,41 +75,41 @@
           },
           {
             "pos": 3,
-            "team": "PCIFIC ",
-            "w": 1,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
             "team": "Bushido Wildcats",
             "w": 1,
             "l": 1,
             "isMisa": false
           },
           {
-            "pos": 5,
+            "pos": 4,
             "team": "BoostGate Esports",
-            "w": 0,
+            "w": 1,
             "l": 1,
             "isMisa": false
           },
           {
-            "pos": 5,
+            "pos": 4,
+            "team": "Ozarox Esports",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
+            "team": "PCIFIC ",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
             "team": "Dark Passage",
             "w": 0,
-            "l": 1,
+            "l": 2,
             "isMisa": false
           },
           {
-            "pos": 5,
-            "team": "Ozarox Esports",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 8,
+            "pos": 7,
             "team": "Team Phoenix",
             "w": 0,
             "l": 2,
