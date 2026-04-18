@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-18T12:42:10.729Z",
+    "fetchedAt": "2026-04-18T18:36:11.952Z",
     "source": "pandascore"
   },
   "branches": {
@@ -23,12 +23,6 @@
           "name": "Doğukan Balci",
           "role": "Jun",
           "image": "https://cdn-api.pandascore.co/images/player/image/34917/kcb_113_summer_2024.png"
-        },
-        {
-          "tag": "SlowQ",
-          "name": "Seo Ye-bit",
-          "role": "Mid",
-          "image": "https://cdn-api.pandascore.co/images/player/image/34985/kcb_slow_q_2025_split_2.png"
         },
         {
           "tag": "mojito",
@@ -551,23 +545,30 @@
           },
           {
             "pos": 3,
+            "team": "Dark Passage",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
             "team": "Eternal Fire Passion",
             "w": 1,
             "l": 2,
             "isMisa": false
           },
           {
-            "pos": 4,
+            "pos": 5,
             "team": "TEAM SCARS",
             "w": 0,
             "l": 2,
             "isMisa": false
           },
           {
-            "pos": 5,
+            "pos": 6,
             "team": "Bushido Wildcats",
             "w": 0,
-            "l": 3,
+            "l": 4,
             "isMisa": false
           }
         ]
