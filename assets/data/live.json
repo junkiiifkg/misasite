@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-19T07:08:43.875Z",
+    "fetchedAt": "2026-04-19T12:41:33.230Z",
     "source": "pandascore"
   },
   "branches": {
@@ -11,12 +11,6 @@
           "name": "Onurcan Aslan",
           "role": "Top",
           "image": "https://cdn-api.pandascore.co/images/player/image/15358/gl_ragner_2025_split_2.png"
-        },
-        {
-          "tag": "Hype",
-          "name": "Jeong-hyeon Byeon ",
-          "role": "Adc",
-          "image": "https://cdn-api.pandascore.co/images/player/image/32745/kt.c_hype_2024_split_2.png"
         },
         {
           "tag": "113",
