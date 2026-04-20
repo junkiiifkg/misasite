@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-20T01:56:29.339Z",
+    "fetchedAt": "2026-04-20T07:53:42.129Z",
     "source": "pandascore"
   },
   "branches": {
@@ -13,10 +13,28 @@
           "image": "https://cdn-api.pandascore.co/images/player/image/15358/gl_ragner_2025_split_2.png"
         },
         {
+          "tag": "Kofte",
+          "name": "Emre Akça",
+          "role": "Mid",
+          "image": "https://cdn-api.pandascore.co/images/player/image/19620/z10_kofte_2024_split_1.png"
+        },
+        {
           "tag": "113",
           "name": "Doğukan Balci",
           "role": "Jun",
           "image": "https://cdn-api.pandascore.co/images/player/image/34917/kcb_113_summer_2024.png"
+        },
+        {
+          "tag": "Ruep",
+          "name": "İlker  Bilen",
+          "role": "Adc",
+          "image": "https://cdn-api.pandascore.co/images/player/image/42363/bgt_ruep_2024_split_1.png"
+        },
+        {
+          "tag": "Carry",
+          "name": "Mustafa Selim Yılmaz",
+          "role": "Sup",
+          "image": "https://cdn-api.pandascore.co/images/player/image/42364/bgt_carry_2024_split_1.png"
         },
         {
           "tag": "mojito",
