@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-21T13:05:01.745Z",
+    "fetchedAt": "2026-04-21T19:00:44.388Z",
     "source": "pandascore"
   },
   "branches": {
@@ -62,67 +62,7 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/133984/misa_esportslogo_profile.png",
-      "standings": {
-        "leagueName": "TCL Spring 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "Misa Esports",
-            "w": 2,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 2,
-            "team": "SU Esports",
-            "w": 2,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Bushido Wildcats",
-            "w": 1,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "BoostGate Esports",
-            "w": 1,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "Ozarox Esports",
-            "w": 1,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "PCIFIC ",
-            "w": 1,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "Dark Passage",
-            "w": 0,
-            "l": 2,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "Team Phoenix",
-            "w": 0,
-            "l": 2,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     },
     "cs2": {
       "roster": [
@@ -223,7 +163,7 @@
         "opponent": "Clair Obscur",
         "opponentLogo": "",
         "date": "2026-04-22T17:00:00Z",
-        "tournament": "ESL Challenger League Europe Cup #4 2026 · Playoffs",
+        "tournament": "ESL Challenger League Europe Cup #4 season 51 2026 · Playoffs",
         "format": "BO3"
       },
       {
@@ -314,7 +254,7 @@
         "id": "1447119",
         "game": "cs2",
         "opponent": "yngods",
-        "opponentLogo": "",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137360/yngods_allmode.png",
         "date": "2026-04-15T18:00:00Z",
         "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
         "format": "BO1",
