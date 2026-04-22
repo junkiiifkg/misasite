@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-21T19:00:44.388Z",
+    "fetchedAt": "2026-04-22T01:50:51.940Z",
     "source": "pandascore"
   },
   "branches": {
@@ -62,7 +62,67 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/133984/misa_esportslogo_profile.png",
-      "standings": null
+      "standings": {
+        "leagueName": "TCL Spring 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Misa Esports",
+            "w": 2,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 2,
+            "team": "SU Esports",
+            "w": 2,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "Bushido Wildcats",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
+            "team": "BoostGate Esports",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
+            "team": "Ozarox Esports",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
+            "team": "PCIFIC ",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "Dark Passage",
+            "w": 0,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "Team Phoenix",
+            "w": 0,
+            "l": 2,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "cs2": {
       "roster": [
