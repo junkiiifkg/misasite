@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-22T07:21:54.319Z",
+    "fetchedAt": "2026-04-22T13:07:37.076Z",
     "source": "pandascore"
   },
   "branches": {
@@ -164,7 +164,39 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "ESL Challenger League Europe Cup #4 season 51 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": " CSDIILIT",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Endless Journey",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "megoshort",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "zajezdzacze",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "valorant": {
       "roster": [
