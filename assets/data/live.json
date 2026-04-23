@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-23T07:24:37.413Z",
+    "fetchedAt": "2026-04-23T13:06:34.370Z",
     "source": "pandascore"
   },
   "branches": {
@@ -204,6 +204,13 @@
           },
           {
             "pos": 1,
+            "team": "Hashiras",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
             "team": "Lilmix",
             "w": 0,
             "l": 0,
@@ -232,160 +239,160 @@
           },
           {
             "pos": 1,
+            "team": "Walczaki",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
             "team": "zajezdzacze",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 11,
+            "pos": 13,
             "team": "MASONIC",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 11,
+            "pos": 13,
             "team": "Oldboys",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 13,
+            "pos": 15,
             "team": "Clair Obscur",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 13,
+            "pos": 15,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 15,
+            "pos": 17,
             "team": "Donstu Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 15,
+            "pos": 17,
             "team": "G2 Ares",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 17,
+            "pos": 19,
             "team": "brazylijski luz",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 17,
+            "pos": 19,
             "team": "Just Players",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 19,
+            "pos": 21,
             "team": "aimclub",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 19,
+            "pos": 21,
             "team": "yngods",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 21,
+            "pos": 23,
             "team": "bankaPEPSI",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 21,
+            "pos": 23,
             "team": "FC Famalicão Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 23,
-            "team": "Hashiras",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 23,
+            "pos": 25,
             "team": "RUSTEC",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 25,
+            "pos": 26,
             "team": "rottweilers",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 25,
+            "pos": 27,
             "team": "Rune Eaters",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 27,
+            "pos": 28,
             "team": "Atreides",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 27,
+            "pos": 29,
             "team": "BASEMENT BOYS",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 29,
+            "pos": 30,
             "team": "CYBERSHOKE Prospects",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 29,
+            "pos": 31,
             "team": "Dripmen",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 31,
+            "pos": 32,
             "team": "BIG Academy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 31,
+            "pos": 33,
             "team": "Julie&cie",
             "w": 0,
             "l": 0,
