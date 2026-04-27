@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-26T18:39:57.856Z",
+    "fetchedAt": "2026-04-27T02:01:00.174Z",
     "source": "pandascore"
   },
   "branches": {
@@ -543,27 +543,34 @@
         "table": [
           {
             "pos": 1,
+            "team": "Dark Passage",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
             "team": "Eternal Fire Passion",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 2,
+            "pos": 3,
             "team": "Galatasaray Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 2,
+            "pos": 3,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 4,
+            "pos": 5,
             "team": "FUT Academy",
             "w": 0,
             "l": 0,
@@ -623,6 +630,20 @@
     ],
     "recent": [
       {
+        "id": "1456884",
+        "game": "cs2",
+        "opponent": "CYBERSHOKE Prospects",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137500/128px_cybershoke_esports_2024_lightmode.png",
+        "date": "2026-04-26T17:03:01Z",
+        "tournament": "ESL Challenger League Europe Cup #4 season 51 2026 · Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 1,
+          "opponent": 2,
+          "win": false
+        }
+      },
+      {
         "id": "1456304",
         "game": "valorant",
         "opponent": "Galatasaray Esports",
@@ -634,20 +655,6 @@
           "misa": 2,
           "opponent": 0,
           "win": true
-        }
-      },
-      {
-        "id": "1456866",
-        "game": "cs2",
-        "opponent": "against All authority",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137790/600px_against_all_authority_allmode.png",
-        "date": "2026-04-25T17:05:37Z",
-        "tournament": "ESL Challenger League Europe Cup #4 season 51 2026 · Playoffs",
-        "format": "BO3",
-        "result": {
-          "misa": 1,
-          "opponent": 2,
-          "win": false
         }
       },
       {
