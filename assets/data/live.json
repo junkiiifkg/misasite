@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-29T19:12:17.975Z",
+    "fetchedAt": "2026-04-30T02:08:48.572Z",
     "source": "pandascore"
   },
   "branches": {
@@ -218,7 +218,7 @@
           },
           {
             "pos": 8,
-            "team": "OldBoys",
+            "team": "Imperial Academy",
             "w": 4,
             "l": 2,
             "isMisa": false
@@ -239,79 +239,65 @@
           },
           {
             "pos": 8,
-            "team": "Imperial Academy",
+            "team": "CYBERSHOKE Prospects",
             "w": 4,
             "l": 2,
             "isMisa": false
           },
           {
-            "pos": 12,
+            "pos": 8,
+            "team": "OldBoys",
+            "w": 4,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 13,
             "team": "LFO",
             "w": 3,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 12,
+            "pos": 13,
             "team": "Misa Esports",
             "w": 3,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 14,
-            "team": "B8 Academy",
-            "w": 3,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 14,
+            "pos": 15,
             "team": "Oldboys",
             "w": 3,
             "l": 1,
             "isMisa": false
           },
           {
-            "pos": 14,
+            "pos": 15,
+            "team": "B8 Academy",
+            "w": 3,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
             "team": "megoshort",
             "w": 3,
             "l": 1,
             "isMisa": false
           },
           {
-            "pos": 17,
+            "pos": 18,
             "team": "XI Esport",
             "w": 3,
             "l": 2,
             "isMisa": false
           },
           {
-            "pos": 17,
+            "pos": 18,
             "team": "TEAM_COPH9K",
             "w": 3,
             "l": 2,
-            "isMisa": false
-          },
-          {
-            "pos": 17,
-            "team": "CYBERSHOKE Prospects",
-            "w": 3,
-            "l": 2,
-            "isMisa": false
-          },
-          {
-            "pos": 20,
-            "team": "Banger Gang",
-            "w": 3,
-            "l": 3,
-            "isMisa": false
-          },
-          {
-            "pos": 20,
-            "team": "Diamant Esports",
-            "w": 3,
-            "l": 3,
             "isMisa": false
           },
           {
@@ -322,7 +308,21 @@
             "isMisa": false
           },
           {
-            "pos": 23,
+            "pos": 20,
+            "team": "Banger Gang",
+            "w": 3,
+            "l": 3,
+            "isMisa": false
+          },
+          {
+            "pos": 22,
+            "team": "Diamant Esports",
+            "w": 3,
+            "l": 4,
+            "isMisa": false
+          },
+          {
+            "pos": 22,
             "team": "FC Famalicão Esports",
             "w": 3,
             "l": 4,
