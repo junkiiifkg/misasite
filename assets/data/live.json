@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-04-30T19:07:40.993Z",
+    "fetchedAt": "2026-05-01T02:12:44.280Z",
     "source": "pandascore"
   },
   "branches": {
@@ -110,15 +110,15 @@
           {
             "pos": 7,
             "team": "Dark Passage",
-            "w": 0,
+            "w": 1,
             "l": 3,
             "isMisa": false
           },
           {
-            "pos": 7,
+            "pos": 8,
             "team": "Team Phoenix",
             "w": 0,
-            "l": 3,
+            "l": 4,
             "isMisa": false
           }
         ]
