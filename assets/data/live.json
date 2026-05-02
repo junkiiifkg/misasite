@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-01T18:59:45.827Z",
+    "fetchedAt": "2026-05-02T02:00:03.051Z",
     "source": "pandascore"
   },
   "branches": {
@@ -210,81 +210,81 @@
             "isMisa": false
           },
           {
-            "pos": 7,
+            "pos": 6,
+            "team": "Misa Esports",
+            "w": 4,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 8,
             "team": "Oldboys",
             "w": 4,
             "l": 1,
             "isMisa": false
           },
           {
-            "pos": 7,
+            "pos": 8,
             "team": "Arch",
             "w": 4,
             "l": 1,
             "isMisa": false
           },
           {
-            "pos": 7,
+            "pos": 8,
             "team": "Donstu Esports",
             "w": 4,
             "l": 1,
             "isMisa": false
           },
           {
-            "pos": 10,
-            "team": "CYBERSHOKE Prospects",
-            "w": 4,
-            "l": 2,
-            "isMisa": false
-          },
-          {
-            "pos": 10,
-            "team": "OldBoys",
-            "w": 4,
-            "l": 2,
-            "isMisa": false
-          },
-          {
-            "pos": 10,
+            "pos": 11,
             "team": "Aurora Young Blood",
             "w": 4,
             "l": 2,
             "isMisa": false
           },
           {
-            "pos": 10,
-            "team": "VP.Prodigy",
-            "w": 4,
-            "l": 2,
-            "isMisa": false
-          },
-          {
-            "pos": 10,
+            "pos": 11,
             "team": "eternal premium",
             "w": 4,
             "l": 2,
             "isMisa": false
           },
           {
-            "pos": 15,
-            "team": "Imperial Academy",
+            "pos": 11,
+            "team": "OldBoys",
             "w": 4,
-            "l": 3,
+            "l": 2,
             "isMisa": false
           },
           {
-            "pos": 15,
+            "pos": 11,
+            "team": "CYBERSHOKE Prospects",
+            "w": 4,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 11,
+            "team": "VP.Prodigy",
+            "w": 4,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 16,
             "team": "Banger Gang",
             "w": 4,
             "l": 3,
             "isMisa": false
           },
           {
-            "pos": 17,
-            "team": "Misa Esports",
-            "w": 3,
-            "l": 0,
-            "isMisa": true
+            "pos": 16,
+            "team": "Imperial Academy",
+            "w": 4,
+            "l": 3,
+            "isMisa": false
           },
           {
             "pos": 18,
@@ -309,28 +309,28 @@
           },
           {
             "pos": 21,
-            "team": "TEAM_COPH9K",
-            "w": 3,
-            "l": 3,
-            "isMisa": false
-          },
-          {
-            "pos": 21,
             "team": "Fire Flux Esports",
             "w": 3,
             "l": 3,
             "isMisa": false
           },
           {
-            "pos": 23,
-            "team": "FC Famalicão Esports",
+            "pos": 22,
+            "team": "Diamant Esports",
             "w": 3,
             "l": 4,
             "isMisa": false
           },
           {
-            "pos": 23,
-            "team": "Diamant Esports",
+            "pos": 22,
+            "team": "TEAM_COPH9K",
+            "w": 3,
+            "l": 4,
+            "isMisa": false
+          },
+          {
+            "pos": 22,
+            "team": "FC Famalicão Esports",
             "w": 3,
             "l": 4,
             "isMisa": false
@@ -670,6 +670,20 @@
     ],
     "recent": [
       {
+        "id": "1471616",
+        "game": "cs2",
+        "opponent": "TEAM_COPH9K",
+        "opponentLogo": "",
+        "date": "2026-05-01T18:18:27Z",
+        "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
+        "format": "BO1",
+        "result": {
+          "misa": 1,
+          "opponent": 0,
+          "win": true
+        }
+      },
+      {
         "id": "1434839",
         "game": "lol",
         "opponent": "BoostGate Esports",
@@ -679,20 +693,6 @@
         "format": "BO3",
         "result": {
           "misa": 2,
-          "opponent": 0,
-          "win": true
-        }
-      },
-      {
-        "id": "1468060",
-        "game": "cs2",
-        "opponent": "Square Sausages",
-        "opponentLogo": "",
-        "date": "2026-04-29T18:13:34Z",
-        "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
-        "format": "BO1",
-        "result": {
-          "misa": 1,
           "opponent": 0,
           "win": true
         }
