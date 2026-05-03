@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-03T12:51:30.982Z",
+    "fetchedAt": "2026-05-03T18:46:04.667Z",
     "source": "pandascore"
   },
   "branches": {
@@ -571,41 +571,41 @@
         "table": [
           {
             "pos": 1,
-            "team": "Galatasaray Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "Fire Flux Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 3,
-            "team": " REBORN",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
             "team": "Beşiktaş Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
+            "pos": 1,
+            "team": " REBORN",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "Galatasaray Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
+            "team": "Fire Flux Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
             "pos": 5,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 6,
             "team": "FUT Academy",
             "w": 0,
             "l": 0,
@@ -631,15 +631,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1456312",
-        "game": "valorant",
-        "opponent": "FUT Academy",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137866/fut_esportslogo_square.png",
-        "date": "2026-05-03T17:30:00Z",
-        "tournament": "VCL Türkiye: Birlik Stage 2 2026 · Playoffs",
-        "format": "BO3"
-      },
       {
         "id": "1434841",
         "game": "lol",
