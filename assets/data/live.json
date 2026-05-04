@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-03T18:46:04.667Z",
+    "fetchedAt": "2026-05-04T02:04:03.240Z",
     "source": "pandascore"
   },
   "branches": {
@@ -571,45 +571,45 @@
         "table": [
           {
             "pos": 1,
+            "team": "FUT Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
             "team": "Beşiktaş Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
+            "pos": 2,
             "team": " REBORN",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
+            "pos": 4,
             "team": "Galatasaray Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 4,
+            "pos": 5,
             "team": "Fire Flux Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 5,
+            "pos": 6,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
-          },
-          {
-            "pos": 6,
-            "team": "FUT Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
           },
           {
             "pos": 7,
@@ -631,6 +631,15 @@
   },
   "matches": {
     "upcoming": [
+      {
+        "id": "1456313",
+        "game": "valorant",
+        "opponent": "Beşiktaş Esports",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128669/600px_besiktas_jk.png",
+        "date": "2026-05-04T15:30:00Z",
+        "tournament": "VCL Türkiye: Birlik Stage 2 2026 · Playoffs",
+        "format": "BO5"
+      },
       {
         "id": "1434841",
         "game": "lol",
@@ -660,6 +669,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1456312",
+        "game": "valorant",
+        "opponent": "FUT Academy",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137866/fut_esportslogo_square.png",
+        "date": "2026-05-03T17:57:43Z",
+        "tournament": "VCL Türkiye: Birlik Stage 2 2026 · Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1471616",
         "game": "cs2",
@@ -952,20 +975,6 @@
           "misa": 0,
           "opponent": 2,
           "win": false
-        }
-      },
-      {
-        "id": "1395517",
-        "game": "valorant",
-        "opponent": "Team Liquid Academy",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136328/526px_team_liquid_2024_lightmode.png",
-        "date": "2026-03-20T16:05:04Z",
-        "tournament": "VCL EMEA: Stage 1 2026 · Group A",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 0,
-          "win": true
         }
       },
       {
