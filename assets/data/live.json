@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-05T13:18:46.901Z",
+    "fetchedAt": "2026-05-05T19:07:21.906Z",
     "source": "pandascore"
   },
   "branches": {
@@ -68,7 +68,7 @@
           {
             "pos": 1,
             "team": "Misa Esports",
-            "w": 4,
+            "w": 5,
             "l": 0,
             "isMisa": true
           },
@@ -95,15 +95,15 @@
           },
           {
             "pos": 5,
-            "team": "PCIFIC ",
+            "team": "Bushido Wildcats",
             "w": 2,
-            "l": 2,
+            "l": 3,
             "isMisa": false
           },
           {
             "pos": 6,
-            "team": "Bushido Wildcats",
-            "w": 1,
+            "team": "PCIFIC ",
+            "w": 2,
             "l": 3,
             "isMisa": false
           },
@@ -111,7 +111,7 @@
             "pos": 7,
             "team": "Dark Passage",
             "w": 1,
-            "l": 3,
+            "l": 4,
             "isMisa": false
           },
           {
@@ -278,15 +278,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1434841",
-        "game": "lol",
-        "opponent": "PCIFIC ",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137929/800px_pcific_esports_allmode.png",
-        "date": "2026-05-05T17:30:00Z",
-        "tournament": "TCL Spring 2026 · Regular Season",
-        "format": "BO3"
-      },
-      {
         "id": "1476920",
         "game": "cs2",
         "opponent": "STATE",
@@ -315,6 +306,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1434841",
+        "game": "lol",
+        "opponent": "PCIFIC ",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137929/800px_pcific_esports_allmode.png",
+        "date": "2026-05-05T16:38:32Z",
+        "tournament": "TCL Spring 2026 · Regular Season",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1476001",
         "game": "cs2",
@@ -607,20 +612,6 @@
           "misa": 2,
           "opponent": 0,
           "win": true
-        }
-      },
-      {
-        "id": "1397494",
-        "game": "lol",
-        "opponent": "French Flair",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137661/533px_french_flair_lightmode.png",
-        "date": "2026-03-24T15:59:21Z",
-        "tournament": "EMEA Masters Winter 2026 · Playoffs",
-        "format": "BO3",
-        "result": {
-          "misa": 0,
-          "opponent": 2,
-          "win": false
         }
       },
       {
