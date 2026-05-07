@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-07T08:19:47.400Z",
+    "fetchedAt": "2026-05-07T13:44:52.175Z",
     "source": "pandascore"
   },
   "branches": {
@@ -164,39 +164,7 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "European Pro League Regular season 5 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 1,
-            "team": "STATE",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "AaB Esport",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Sangal ALTERS",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     },
     "valorant": {
       "roster": [
@@ -316,6 +284,15 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/27/554px_dark_passage_2023_lightmode.png",
         "date": "2026-05-07T14:30:00Z",
         "tournament": "TCL Spring 2026 · Regular Season",
+        "format": "BO3"
+      },
+      {
+        "id": "1481116",
+        "game": "cs2",
+        "opponent": "Endless Journey",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137028/285px_endless_journey_allmode.png",
+        "date": "2026-05-09T15:30:00Z",
+        "tournament": "CCT Europe Contenders #5 2026 · Playoffs",
         "format": "BO3"
       },
       {
