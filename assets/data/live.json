@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-07T13:44:52.175Z",
+    "fetchedAt": "2026-05-07T19:28:00.250Z",
     "source": "pandascore"
   },
   "branches": {
@@ -68,7 +68,7 @@
           {
             "pos": 1,
             "team": "Misa Esports",
-            "w": 5,
+            "w": 6,
             "l": 0,
             "isMisa": true
           },
@@ -88,30 +88,30 @@
           },
           {
             "pos": 4,
-            "team": "Bushido Wildcats",
-            "w": 2,
+            "team": "PCIFIC ",
+            "w": 3,
             "l": 3,
             "isMisa": false
           },
           {
             "pos": 5,
-            "team": "PCIFIC ",
-            "w": 2,
-            "l": 3,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
             "team": "BoostGate Esports",
             "w": 2,
             "l": 3,
             "isMisa": false
           },
           {
+            "pos": 6,
+            "team": "Bushido Wildcats",
+            "w": 2,
+            "l": 4,
+            "isMisa": false
+          },
+          {
             "pos": 7,
             "team": "Dark Passage",
             "w": 1,
-            "l": 4,
+            "l": 5,
             "isMisa": false
           },
           {
@@ -278,15 +278,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1434844",
-        "game": "lol",
-        "opponent": "Dark Passage",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/27/554px_dark_passage_2023_lightmode.png",
-        "date": "2026-05-07T14:30:00Z",
-        "tournament": "TCL Spring 2026 · Regular Season",
-        "format": "BO3"
-      },
-      {
         "id": "1481116",
         "game": "cs2",
         "opponent": "Endless Journey",
@@ -315,6 +306,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1434844",
+        "game": "lol",
+        "opponent": "Dark Passage",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/27/554px_dark_passage_2023_lightmode.png",
+        "date": "2026-05-07T14:34:38Z",
+        "tournament": "TCL Spring 2026 · Regular Season",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1434841",
         "game": "lol",
@@ -607,20 +612,6 @@
           "misa": 1,
           "opponent": 2,
           "win": false
-        }
-      },
-      {
-        "id": "1397501",
-        "game": "lol",
-        "opponent": "Team Heretics Academy",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/132212/team_hereticslogo_square.png",
-        "date": "2026-03-25T15:57:10Z",
-        "tournament": "EMEA Masters Winter 2026 · Playoffs",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 0,
-          "win": true
         }
       },
       {
