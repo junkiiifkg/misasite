@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-10T07:58:48.687Z",
+    "fetchedAt": "2026-05-10T12:59:27.459Z",
     "source": "pandascore"
   },
   "branches": {
@@ -169,28 +169,28 @@
         "table": [
           {
             "pos": 1,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 1,
-            "team": "STATE",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
             "team": "AaB Esport",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
+            "pos": 2,
             "team": "Sangal ALTERS",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 4,
+            "team": "STATE",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -310,11 +310,11 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1476922",
+        "id": "1476923",
         "game": "cs2",
-        "opponent": "AaB Esport",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128394/aa_b_esport_logo_red_hvid_bg.png",
-        "date": "2026-05-10T10:30:00Z",
+        "opponent": "STATE",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137861/600px_wopa_esport_2026_lightmode.png",
+        "date": "2026-05-14T10:30:00Z",
         "tournament": "European Pro League Regular season 5 2026 · Group B",
         "format": "BO3"
       },
