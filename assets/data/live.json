@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-11T02:26:26.722Z",
+    "fetchedAt": "2026-05-11T09:26:42.859Z",
     "source": "pandascore"
   },
   "branches": {
@@ -310,21 +310,21 @@
   "matches": {
     "upcoming": [
       {
+        "id": "1434848",
+        "game": "lol",
+        "opponent": "Bushido Wildcats",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136070/ezgif_52ad93b2c5a076a2.png",
+        "date": "2026-05-12T14:30:00Z",
+        "tournament": "TCL Spring 2026 · Regular Season",
+        "format": "BO3"
+      },
+      {
         "id": "1476923",
         "game": "cs2",
         "opponent": "STATE",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137861/600px_wopa_esport_2026_lightmode.png",
         "date": "2026-05-14T10:30:00Z",
         "tournament": "European Pro League Regular season 5 2026 · Group B",
-        "format": "BO3"
-      },
-      {
-        "id": "1434848",
-        "game": "lol",
-        "opponent": "Bushido Wildcats",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136070/ezgif_52ad93b2c5a076a2.png",
-        "date": "2026-05-14T14:30:00Z",
-        "tournament": "TCL Spring 2026 · Regular Season",
         "format": "BO3"
       }
     ],
