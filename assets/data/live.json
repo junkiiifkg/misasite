@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-12T02:11:43.177Z",
+    "fetchedAt": "2026-05-12T08:28:25.501Z",
     "source": "pandascore"
   },
   "branches": {
@@ -96,7 +96,7 @@
           {
             "pos": 5,
             "team": "BoostGate Esports",
-            "w": 2,
+            "w": 3,
             "l": 3,
             "isMisa": false
           },
@@ -118,7 +118,7 @@
             "pos": 8,
             "team": "Team Phoenix",
             "w": 0,
-            "l": 5,
+            "l": 6,
             "isMisa": false
           }
         ]
