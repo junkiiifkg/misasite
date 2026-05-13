@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-13T14:13:10.478Z",
+    "fetchedAt": "2026-05-13T19:43:04.892Z",
     "source": "pandascore"
   },
   "branches": {
@@ -165,119 +165,35 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "CCT Europe Contenders #5 2026",
+        "leagueName": "European Pro League Regular season 5 2026",
         "table": [
           {
             "pos": 1,
-            "team": "Atreides",
+            "team": "AaB Esport",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "Aurora Young Blood",
+            "pos": 2,
+            "team": "Sangal ALTERS",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "brazylijski luz",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "Clair Obscur",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "Dripmen",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "EC BANGA",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "Fire Flux Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "SHISHKA",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "yngods",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "zajezdzacze",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 11,
-            "team": "Endless Journey",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 12,
-            "team": "Donstu Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 13,
-            "team": "CYBERSHOKE Prospects",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 14,
-            "team": "ENJOY",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 15,
-            "team": "rottweilers",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 16,
+            "pos": 3,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
+          },
+          {
+            "pos": 4,
+            "team": "STATE",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
           }
         ]
       }
@@ -394,21 +310,21 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1490311",
-        "game": "cs2",
-        "opponent": "Fire Flux Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/135474/190px_fire_flux_esports_allmode.png",
-        "date": "2026-05-13T15:30:00Z",
-        "tournament": "CCT Europe Contenders #5 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
         "id": "1476923",
         "game": "cs2",
         "opponent": "STATE",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137861/600px_wopa_esport_2026_lightmode.png",
         "date": "2026-05-14T10:30:00Z",
         "tournament": "European Pro League Regular season 5 2026 · Group B",
+        "format": "BO3"
+      },
+      {
+        "id": "1490314",
+        "game": "cs2",
+        "opponent": "Lower bracket round 3 match 1: MISA vs TBD",
+        "opponentLogo": "",
+        "date": "2026-05-14T15:30:00Z",
+        "tournament": "CCT Europe Contenders #5 2026 · Playoffs",
         "format": "BO3"
       }
     ],
