@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-13T19:43:04.892Z",
+    "fetchedAt": "2026-05-14T02:28:29.866Z",
     "source": "pandascore"
   },
   "branches": {
@@ -321,11 +321,20 @@
       {
         "id": "1490314",
         "game": "cs2",
-        "opponent": "Lower bracket round 3 match 1: MISA vs TBD",
+        "opponent": "Clair Obscur",
         "opponentLogo": "",
         "date": "2026-05-14T15:30:00Z",
         "tournament": "CCT Europe Contenders #5 2026 · Playoffs",
         "format": "BO3"
+      },
+      {
+        "id": "1490923",
+        "game": "cs2",
+        "opponent": "QUAZAR",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/130570/222px_quazar.gg_allmode.png",
+        "date": "2026-05-14T16:00:00Z",
+        "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
+        "format": "BO1"
       }
     ],
     "recent": [
