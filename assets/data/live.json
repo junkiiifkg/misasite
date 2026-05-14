@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-14T08:29:07.063Z",
+    "fetchedAt": "2026-05-14T13:49:37.990Z",
     "source": "pandascore"
   },
   "branches": {
@@ -165,35 +165,119 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "European Pro League Regular season 5 2026",
+        "leagueName": "CCT Europe Contenders #5 2026",
         "table": [
           {
             "pos": 1,
-            "team": "AaB Esport",
+            "team": "Atreides",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 2,
-            "team": "Sangal ALTERS",
+            "pos": 1,
+            "team": "Aurora Young Blood",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
+            "pos": 1,
+            "team": "brazylijski luz",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Clair Obscur",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Dripmen",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "EC BANGA",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Fire Flux Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "SHISHKA",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "yngods",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "zajezdzacze",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 11,
+            "team": "ENJOY",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 12,
+            "team": "Endless Journey",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 13,
+            "team": "Donstu Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 14,
+            "team": "CYBERSHOKE Prospects",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "BSMPEEK",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 16,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
-          },
-          {
-            "pos": 4,
-            "team": "STATE",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
           }
         ]
       }
@@ -309,15 +393,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1476923",
-        "game": "cs2",
-        "opponent": "STATE",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137861/600px_wopa_esport_2026_lightmode.png",
-        "date": "2026-05-14T10:30:00Z",
-        "tournament": "European Pro League Regular season 5 2026 · Group B",
-        "format": "BO3"
-      },
       {
         "id": "1490314",
         "game": "cs2",
