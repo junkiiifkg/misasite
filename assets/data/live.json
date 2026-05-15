@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-14T19:28:38.948Z",
+    "fetchedAt": "2026-05-15T02:26:58.359Z",
     "source": "pandascore"
   },
   "branches": {
@@ -239,35 +239,35 @@
           },
           {
             "pos": 11,
-            "team": "BSMPEEK",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 12,
-            "team": "ENJOY",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 13,
             "team": "Endless Journey",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 14,
+            "pos": 12,
+            "team": "CYBERSHOKE Prospects",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 13,
             "team": "Donstu Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
+            "pos": 14,
+            "team": "BSMPEEK",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
             "pos": 15,
-            "team": "CYBERSHOKE Prospects",
+            "team": "ENJOY",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -396,10 +396,28 @@
       {
         "id": "1490316",
         "game": "cs2",
-        "opponent": "Lower bracket quarterfinal 1: MISA vs TBD",
-        "opponentLogo": "",
+        "opponent": "Donstu Esports",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/135981/800px_donstu_esports_lightmode.png",
         "date": "2026-05-15T15:30:00Z",
         "tournament": "CCT Europe Contenders #5 2026 · Playoffs",
+        "format": "BO3"
+      },
+      {
+        "id": "1493004",
+        "game": "cs2",
+        "opponent": "Bushido Wildcats",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136934/bushido_wildcats_2026_allmode.png",
+        "date": "2026-05-15T17:00:00Z",
+        "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
+        "format": "BO1"
+      },
+      {
+        "id": "1493008",
+        "game": "cs2",
+        "opponent": "BIG Academy",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/126694/big.png",
+        "date": "2026-05-16T08:00:00Z",
+        "tournament": "European Pro League Regular season 5 2026 · Playoffs",
         "format": "BO3"
       }
     ],
