@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-15T13:46:41.723Z",
+    "fetchedAt": "2026-05-15T19:19:35.275Z",
     "source": "pandascore"
   },
   "branches": {
@@ -76,13 +76,13 @@
             "pos": 2,
             "team": "Ozarox Esports",
             "w": 5,
-            "l": 1,
+            "l": 2,
             "isMisa": false
           },
           {
             "pos": 3,
             "team": "SU Esports",
-            "w": 4,
+            "w": 5,
             "l": 2,
             "isMisa": false
           },
@@ -97,7 +97,7 @@
             "pos": 5,
             "team": "BoostGate Esports",
             "w": 3,
-            "l": 3,
+            "l": 4,
             "isMisa": false
           },
           {
@@ -117,7 +117,7 @@
           {
             "pos": 8,
             "team": "Team Phoenix",
-            "w": 0,
+            "w": 1,
             "l": 6,
             "isMisa": false
           }
@@ -165,119 +165,35 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "CCT Europe Contenders #5 2026",
+        "leagueName": "European Pro League Regular season 5 2026",
         "table": [
           {
             "pos": 1,
-            "team": "Atreides",
+            "team": "ALGO Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 1,
-            "team": "Aurora Young Blood",
+            "team": "Esport Academy Copenhagen",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "brazylijski luz",
+            "pos": 3,
+            "team": "Kinoa",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "Clair Obscur",
+            "pos": 3,
+            "team": "Prestige",
             "w": 0,
             "l": 0,
             "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "Dripmen",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "EC BANGA",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "Fire Flux Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "SHISHKA",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "yngods",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "zajezdzacze",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 11,
-            "team": "Endless Journey",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 12,
-            "team": "CYBERSHOKE Prospects",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 13,
-            "team": "Donstu Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 14,
-            "team": "BSMPEEK",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 15,
-            "team": "ENJOY",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 16,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
           }
         ]
       }
@@ -394,24 +310,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1490316",
-        "game": "cs2",
-        "opponent": "Endless Journey",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137028/285px_endless_journey_allmode.png",
-        "date": "2026-05-15T15:30:00Z",
-        "tournament": "CCT Europe Contenders #5 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
-        "id": "1493004",
-        "game": "cs2",
-        "opponent": "Bushido Wildcats",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136934/bushido_wildcats_2026_allmode.png",
-        "date": "2026-05-15T17:00:00Z",
-        "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
-        "format": "BO1"
-      },
-      {
         "id": "1493008",
         "game": "cs2",
         "opponent": "BIG Academy",
@@ -419,6 +317,15 @@
         "date": "2026-05-16T08:00:00Z",
         "tournament": "European Pro League Regular season 5 2026 · Playoffs",
         "format": "BO3"
+      },
+      {
+        "id": "1493004",
+        "game": "cs2",
+        "opponent": "Bushido Wildcats",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136934/bushido_wildcats_2026_allmode.png",
+        "date": "2026-05-18T16:00:00Z",
+        "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
+        "format": "BO1"
       }
     ],
     "recent": [
