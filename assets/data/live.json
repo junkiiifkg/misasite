@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-15T02:26:58.359Z",
+    "fetchedAt": "2026-05-15T08:40:13.428Z",
     "source": "pandascore"
   },
   "branches": {
@@ -396,8 +396,8 @@
       {
         "id": "1490316",
         "game": "cs2",
-        "opponent": "Donstu Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/135981/800px_donstu_esports_lightmode.png",
+        "opponent": "Endless Journey",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137028/285px_endless_journey_allmode.png",
         "date": "2026-05-15T15:30:00Z",
         "tournament": "CCT Europe Contenders #5 2026 · Playoffs",
         "format": "BO3"
