@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-16T07:52:22.586Z",
+    "fetchedAt": "2026-05-16T13:03:08.056Z",
     "source": "pandascore"
   },
   "branches": {
@@ -62,67 +62,7 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/133984/misa_esportslogo_profile.png",
-      "standings": {
-        "leagueName": "TCL Spring 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "Misa Esports",
-            "w": 7,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 2,
-            "team": "Ozarox Esports",
-            "w": 5,
-            "l": 2,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "SU Esports",
-            "w": 5,
-            "l": 2,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "PCIFIC ",
-            "w": 4,
-            "l": 3,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
-            "team": "BoostGate Esports",
-            "w": 3,
-            "l": 4,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "Bushido Wildcats",
-            "w": 2,
-            "l": 5,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "Dark Passage",
-            "w": 1,
-            "l": 6,
-            "isMisa": false
-          },
-          {
-            "pos": 8,
-            "team": "Team Phoenix",
-            "w": 1,
-            "l": 6,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     },
     "cs2": {
       "roster": [
@@ -169,27 +109,55 @@
         "table": [
           {
             "pos": 1,
-            "team": "ALGO Esports",
+            "team": "MANA eSports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 1,
+            "team": "WRAITH PCIFIC",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "BIG Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 5,
+            "team": "ALGO Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
             "team": "Esport Academy Copenhagen",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
+            "pos": 7,
             "team": "Kinoa",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
+            "pos": 7,
             "team": "Prestige",
             "w": 0,
             "l": 0,
@@ -310,11 +278,11 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1493008",
+        "id": "1493111",
         "game": "cs2",
-        "opponent": "BIG Academy",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/126694/big.png",
-        "date": "2026-05-16T08:00:00Z",
+        "opponent": "MANA eSports",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137080/148px_mana_e_sports_lightmode.png",
+        "date": "2026-05-17T10:30:00Z",
         "tournament": "European Pro League Regular season 5 2026 · Playoffs",
         "format": "BO3"
       },
@@ -326,6 +294,15 @@
         "date": "2026-05-18T16:00:00Z",
         "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
         "format": "BO1"
+      },
+      {
+        "id": "1494606",
+        "game": "lol",
+        "opponent": "Ozarox Esports",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138472/ozarox_esportslogo_square.png",
+        "date": "2026-05-21T14:00:00Z",
+        "tournament": "TCL Spring 2026 · Playoffs",
+        "format": "BO5"
       }
     ],
     "recent": [
