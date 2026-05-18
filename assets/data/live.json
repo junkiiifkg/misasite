@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-18T09:43:14.152Z",
+    "fetchedAt": "2026-05-18T14:56:29.654Z",
     "source": "pandascore"
   },
   "branches": {
@@ -592,8 +592,8 @@
       {
         "id": "1493109",
         "game": "cs2",
-        "opponent": "Lower bracket quarterfinal 2: MISA vs TBD",
-        "opponentLogo": "",
+        "opponent": "Esport Academy Copenhagen",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138685/esport_academy_copenhagen_allmode.png",
         "date": "2026-05-19T10:30:00Z",
         "tournament": "European Pro League Regular season 5 2026 · Playoffs",
         "format": "BO3"
