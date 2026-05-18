@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-18T02:34:32.625Z",
+    "fetchedAt": "2026-05-18T09:43:14.152Z",
     "source": "pandascore"
   },
   "branches": {
@@ -577,6 +577,15 @@
         "opponent": "Bushido Wildcats",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136934/bushido_wildcats_2026_allmode.png",
         "date": "2026-05-18T16:00:00Z",
+        "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
+        "format": "BO1"
+      },
+      {
+        "id": "1497491",
+        "game": "cs2",
+        "opponent": "bankaPEPSI",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128935/60a37b413e334099603743..png",
+        "date": "2026-05-18T18:00:00Z",
         "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
         "format": "BO1"
       },
