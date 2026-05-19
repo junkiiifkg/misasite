@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-19T09:28:24.966Z",
+    "fetchedAt": "2026-05-19T14:41:04.058Z",
     "source": "pandascore"
   },
   "branches": {
@@ -105,60 +105,32 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "European Pro League Regular season 5 2026",
+        "leagueName": "CCT Europe Closed Qualifier: Series #3 2026",
         "table": [
           {
             "pos": 1,
-            "team": "MANA eSports",
+            "team": "Bebop",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 2,
-            "team": "BIG Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "WRAITH PCIFIC",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "Esport Academy Copenhagen",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "Kinoa",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "Prestige",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
+            "pos": 1,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 8,
-            "team": "ALGO Esports",
+            "pos": 3,
+            "team": "Hashiras",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "Young Ninjas",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -278,20 +250,11 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1493109",
+        "id": "1498580",
         "game": "cs2",
-        "opponent": "Esport Academy Copenhagen",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138685/esport_academy_copenhagen_allmode.png",
-        "date": "2026-05-19T10:30:00Z",
-        "tournament": "European Pro League Regular season 5 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
-        "id": "1498579",
-        "game": "cs2",
-        "opponent": "Bebop",
-        "opponentLogo": "",
-        "date": "2026-05-19T11:00:00Z",
+        "opponent": "Young Ninjas",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128327/222px_ninjas_in_pyjamas_2021_darkmode.png",
+        "date": "2026-05-20T08:00:00Z",
         "tournament": "CCT Europe Closed Qualifier: Series #3 2026 · Group A",
         "format": "BO3"
       },
@@ -306,6 +269,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1493109",
+        "game": "cs2",
+        "opponent": "Esport Academy Copenhagen",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138685/esport_academy_copenhagen_allmode.png",
+        "date": "2026-05-19T10:30:00Z",
+        "tournament": "European Pro League Regular season 5 2026 · Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": false
+        }
+      },
       {
         "id": "1497491",
         "game": "cs2",
@@ -710,20 +687,6 @@
           "misa": 0,
           "opponent": 0,
           "win": true
-        }
-      },
-      {
-        "id": "1317219",
-        "game": "cs2",
-        "opponent": "XPERION NXT",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/134035/285px_xperion_nxt_lightmode.png",
-        "date": "2026-01-12T19:00:00Z",
-        "tournament": "ESEA Advanced Europe season 56 2026 · Regular Season",
-        "format": "BO1",
-        "result": {
-          "misa": 0,
-          "opponent": 0,
-          "win": false
         }
       }
     ]
