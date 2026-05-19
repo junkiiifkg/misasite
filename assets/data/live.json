@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-19T14:41:04.058Z",
+    "fetchedAt": "2026-05-19T19:44:30.301Z",
     "source": "pandascore"
   },
   "branches": {
@@ -62,7 +62,18 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/133984/misa_esportslogo_profile.png",
-      "standings": null
+      "standings": {
+        "leagueName": "TCL Spring 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "BoostGate Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "cs2": {
       "roster": [
