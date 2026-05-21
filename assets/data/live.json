@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-21T08:59:07.989Z",
+    "fetchedAt": "2026-05-21T14:49:14.638Z",
     "source": "pandascore"
   },
   "branches": {
@@ -272,7 +272,7 @@
         "game": "lol",
         "opponent": "Ozarox Esports",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138472/ozarox_esportslogo_square.png",
-        "date": "2026-05-21T14:00:00Z",
+        "date": "2026-05-21T15:00:00Z",
         "tournament": "TCL Spring 2026 · Playoffs",
         "format": "BO5"
       },
