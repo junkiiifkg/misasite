@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-22T08:50:49.180Z",
+    "fetchedAt": "2026-05-22T14:21:43.789Z",
     "source": "pandascore"
   },
   "branches": {
@@ -300,11 +300,20 @@
         "format": "BO3"
       },
       {
+        "id": "1504680",
+        "game": "cs2",
+        "opponent": "TNC",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137416/285px_tnc_esports_lightmode.png",
+        "date": "2026-05-25T08:00:00Z",
+        "tournament": "European Pro League Series 7 Closed Qualifier 2026 · Group C",
+        "format": "BO3"
+      },
+      {
         "id": "1494611",
         "game": "lol",
         "opponent": "Grand final: ME vs TBD",
         "opponentLogo": "",
-        "date": "2026-06-05T14:00:00Z",
+        "date": "2026-06-05T15:00:00Z",
         "tournament": "TCL Spring 2026 · Playoffs",
         "format": "BO5"
       }
