@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-22T02:36:28.222Z",
+    "fetchedAt": "2026-05-22T08:50:49.180Z",
     "source": "pandascore"
   },
   "branches": {
@@ -288,6 +288,15 @@
         "opponentLogo": "",
         "date": "2026-05-23T08:00:00Z",
         "tournament": "CCT Europe Closed Qualifier: Series #3 2026 · Group A",
+        "format": "BO3"
+      },
+      {
+        "id": "1504006",
+        "game": "cs2",
+        "opponent": "Bushido Wildcats",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136934/bushido_wildcats_2026_allmode.png",
+        "date": "2026-05-24T13:45:00Z",
+        "tournament": "CCT Europe Challengers Series season 3 2026 · Playoffs",
         "format": "BO3"
       },
       {
