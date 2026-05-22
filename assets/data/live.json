@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-22T14:21:43.789Z",
+    "fetchedAt": "2026-05-22T19:24:35.616Z",
     "source": "pandascore"
   },
   "branches": {
@@ -67,27 +67,34 @@
         "table": [
           {
             "pos": 1,
+            "team": "SU Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 1,
+            "pos": 2,
             "team": "Ozarox Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
+            "pos": 4,
             "team": "Bushido Wildcats",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 4,
+            "pos": 5,
             "team": "BoostGate Esports",
             "w": 0,
             "l": 0,
