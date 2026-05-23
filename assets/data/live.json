@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-23T13:05:18.582Z",
+    "fetchedAt": "2026-05-23T18:58:31.181Z",
     "source": "pandascore"
   },
   "branches": {
@@ -148,27 +148,55 @@
         "table": [
           {
             "pos": 1,
-            "team": "Hashiras",
+            "team": "EC BANGA",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 1,
+            "team": "Project 91",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "ENJOY",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "SAW",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "Hashiras",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
             "team": "Vexar",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
+            "pos": 7,
             "team": "brazylijski luz",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
+            "pos": 7,
             "team": "Julie&cie",
             "w": 0,
             "l": 0,
