@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-23T08:07:42.778Z",
+    "fetchedAt": "2026-05-23T13:05:18.582Z",
     "source": "pandascore"
   },
   "branches": {
@@ -144,7 +144,7 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "CCT Europe Closed Qualifier: Series #3 2026",
+        "leagueName": "CCT Europe Challengers Series season 3 2026",
         "table": [
           {
             "pos": 1,
@@ -154,25 +154,25 @@
             "isMisa": false
           },
           {
-            "pos": 2,
-            "team": "Young Ninjas",
+            "pos": 1,
+            "team": "Vexar",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 3,
-            "team": "Bebop",
+            "team": "brazylijski luz",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 4,
-            "team": "Misa Esports",
+            "pos": 3,
+            "team": "Julie&cie",
             "w": 0,
             "l": 0,
-            "isMisa": true
+            "isMisa": false
           }
         ]
       }
@@ -288,15 +288,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1498582",
-        "game": "cs2",
-        "opponent": "Bebop",
-        "opponentLogo": "",
-        "date": "2026-05-23T11:00:00Z",
-        "tournament": "CCT Europe Closed Qualifier: Series #3 2026 · Group A",
-        "format": "BO3"
-      },
       {
         "id": "1504006",
         "game": "cs2",
