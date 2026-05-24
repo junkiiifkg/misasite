@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-24T13:04:30.306Z",
+    "fetchedAt": "2026-05-24T19:04:55.479Z",
     "source": "pandascore"
   },
   "branches": {
@@ -143,67 +143,7 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "CCT Europe Challengers Series season 3 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "EC BANGA",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "Project 91",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "ENJOY",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "SAW",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
-            "team": "Hashiras",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
-            "team": "Vexar",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "brazylijski luz",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "Julie&cie",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     },
     "valorant": {
       "roster": [
@@ -317,30 +257,21 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1504006",
-        "game": "cs2",
-        "opponent": "Bushido Wildcats",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136934/bushido_wildcats_2026_allmode.png",
-        "date": "2026-05-24T13:45:00Z",
-        "tournament": "CCT Europe Challengers Series season 3 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
-        "id": "1506551",
-        "game": "cs2",
-        "opponent": "Arch",
-        "opponentLogo": "",
-        "date": "2026-05-24T17:00:00Z",
-        "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
-        "format": "BO1"
-      },
-      {
         "id": "1504680",
         "game": "cs2",
         "opponent": "TNC",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137416/285px_tnc_esports_lightmode.png",
         "date": "2026-05-25T08:00:00Z",
         "tournament": "European Pro League Series 7 Closed Qualifier 2026 · Group C",
+        "format": "BO3"
+      },
+      {
+        "id": "1504014",
+        "game": "cs2",
+        "opponent": "G2 Ares",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/135321/g2_esportslogo_square.png",
+        "date": "2026-05-26T13:45:00Z",
+        "tournament": "CCT Europe Challengers Series season 3 2026 · Playoffs",
         "format": "BO3"
       },
       {
@@ -354,6 +285,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1506551",
+        "game": "cs2",
+        "opponent": "Arch",
+        "opponentLogo": "",
+        "date": "2026-05-24T17:00:00Z",
+        "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
+        "format": "BO1",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": false
+        }
+      },
       {
         "id": "1494606",
         "game": "lol",
@@ -744,20 +689,6 @@
           "misa": 0,
           "opponent": 0,
           "win": false
-        }
-      },
-      {
-        "id": "1351015",
-        "game": "cs2",
-        "opponent": "Inner Circle Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136497/192px_inner_circle_esports_lightmode.png",
-        "date": "2026-02-12T13:00:00Z",
-        "tournament": "IstanbuLAN 2026 · Playoffs",
-        "format": "BO3",
-        "result": {
-          "misa": 0,
-          "opponent": 0,
-          "win": true
         }
       },
       {
