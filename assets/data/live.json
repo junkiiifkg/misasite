@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-23T18:58:31.181Z",
+    "fetchedAt": "2026-05-24T02:31:39.237Z",
     "source": "pandascore"
   },
   "branches": {
@@ -324,6 +324,15 @@
         "date": "2026-05-24T13:45:00Z",
         "tournament": "CCT Europe Challengers Series season 3 2026 · Playoffs",
         "format": "BO3"
+      },
+      {
+        "id": "1506551",
+        "game": "cs2",
+        "opponent": "Arch",
+        "opponentLogo": "",
+        "date": "2026-05-24T17:00:00Z",
+        "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
+        "format": "BO1"
       },
       {
         "id": "1504680",
