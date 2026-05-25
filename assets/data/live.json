@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-25T14:37:57.740Z",
+    "fetchedAt": "2026-05-25T19:16:43.970Z",
     "source": "pandascore"
   },
   "branches": {
@@ -169,70 +169,70 @@
           },
           {
             "pos": 4,
-            "team": "Subtop De France",
+            "team": "Hashiras",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 5,
-            "team": "Bushido Wildcats",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 7,
-            "team": "Donstu Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "G2 Ares",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 9,
-            "team": "Lilmix",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 9,
+            "pos": 4,
             "team": "NEW VISION",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
+            "pos": 6,
+            "team": "Subtop De France",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "Bushido Wildcats",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 9,
+            "team": "Donstu Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 9,
+            "team": "G2 Ares",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
             "pos": 11,
-            "team": "Project 91",
+            "team": "Lilmix",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 12,
-            "team": "SAW",
+            "team": "Project 91",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 13,
-            "team": "Hashiras",
+            "team": "SAW",
             "w": 0,
             "l": 0,
             "isMisa": false
