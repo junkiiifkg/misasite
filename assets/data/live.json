@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-25T09:51:45.013Z",
+    "fetchedAt": "2026-05-25T14:37:57.740Z",
     "source": "pandascore"
   },
   "branches": {
@@ -148,83 +148,83 @@
         "table": [
           {
             "pos": 1,
-            "team": "Bushido Wildcats",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 3,
-            "team": "Donstu Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "G2 Ares",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
-            "team": "Lilmix",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
-            "team": "NEW VISION",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
             "team": "Dripmen",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 7,
-            "team": "Subtop De France",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 9,
+            "pos": 1,
             "team": "EC BANGA",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 9,
-            "team": "Project 91",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 11,
+            "pos": 1,
             "team": "ENJOY",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
+            "pos": 4,
+            "team": "Subtop De France",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "Bushido Wildcats",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 7,
+            "team": "Donstu Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "G2 Ares",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 9,
+            "team": "Lilmix",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 9,
+            "team": "NEW VISION",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
             "pos": 11,
+            "team": "Project 91",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 12,
             "team": "SAW",
             "w": 0,
             "l": 0,
@@ -238,7 +238,7 @@
             "isMisa": false
           },
           {
-            "pos": 13,
+            "pos": 14,
             "team": "Vexar",
             "w": 0,
             "l": 0,
@@ -252,7 +252,7 @@
             "isMisa": false
           },
           {
-            "pos": 15,
+            "pos": 16,
             "team": "Julie&cie",
             "w": 0,
             "l": 0,
@@ -379,6 +379,15 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/135321/g2_esportslogo_square.png",
         "date": "2026-05-26T13:45:00Z",
         "tournament": "CCT Europe Challengers Series season 3 2026 · Playoffs",
+        "format": "BO3"
+      },
+      {
+        "id": "1504688",
+        "game": "cs2",
+        "opponent": "Elimination match: MISA vs TBD",
+        "opponentLogo": "",
+        "date": "2026-05-29T08:00:00Z",
+        "tournament": "European Pro League Series 7 Closed Qualifier 2026 · Group C",
         "format": "BO3"
       },
       {
