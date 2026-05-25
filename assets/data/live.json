@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-25T02:40:16.112Z",
+    "fetchedAt": "2026-05-25T09:51:45.013Z",
     "source": "pandascore"
   },
   "branches": {
@@ -143,7 +143,123 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "CCT Europe Challengers Series season 3 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Bushido Wildcats",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 3,
+            "team": "Donstu Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "G2 Ares",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "Lilmix",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "NEW VISION",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "Dripmen",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "Subtop De France",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 9,
+            "team": "EC BANGA",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 9,
+            "team": "Project 91",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 11,
+            "team": "ENJOY",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 11,
+            "team": "SAW",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 13,
+            "team": "Hashiras",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 13,
+            "team": "Vexar",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "brazylijski luz",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "Julie&cie",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "valorant": {
       "roster": [
@@ -256,15 +372,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1504680",
-        "game": "cs2",
-        "opponent": "TNC",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137416/285px_tnc_esports_lightmode.png",
-        "date": "2026-05-25T08:00:00Z",
-        "tournament": "European Pro League Series 7 Closed Qualifier 2026 · Group C",
-        "format": "BO3"
-      },
       {
         "id": "1504014",
         "game": "cs2",
