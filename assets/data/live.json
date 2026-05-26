@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-26T09:38:08.453Z",
+    "fetchedAt": "2026-05-26T14:49:07.558Z",
     "source": "pandascore"
   },
   "branches": {
@@ -144,116 +144,18 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "CCT Europe Challengers Series season 3 2026",
+        "leagueName": "European Pro League Series 7 Closed Qualifier 2026",
         "table": [
           {
             "pos": 1,
-            "team": "Dripmen",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "EC BANGA",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "ENJOY",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "Hashiras",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "NEW VISION",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "Subtop De France",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "Bushido Wildcats",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 9,
-            "team": "Donstu Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 9,
-            "team": "G2 Ares",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 11,
-            "team": "Lilmix",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 12,
-            "team": "Project 91",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 13,
-            "team": "SAW",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 14,
-            "team": "Vexar",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 15,
-            "team": "brazylijski luz",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 16,
-            "team": "Julie&cie",
+            "pos": 1,
+            "team": "TNC",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -372,15 +274,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1504014",
-        "game": "cs2",
-        "opponent": "G2 Ares",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/135321/g2_esportslogo_square.png",
-        "date": "2026-05-26T13:45:00Z",
-        "tournament": "CCT Europe Challengers Series season 3 2026 · Playoffs",
-        "format": "BO3"
-      },
       {
         "id": "1504688",
         "game": "cs2",
