@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-26T14:49:07.558Z",
+    "fetchedAt": "2026-05-26T19:58:45.643Z",
     "source": "pandascore"
   },
   "branches": {
@@ -67,24 +67,24 @@
         "table": [
           {
             "pos": 1,
+            "team": "Ozarox Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
             "team": "SU Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 2,
+            "pos": 3,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
-          },
-          {
-            "pos": 2,
-            "team": "Ozarox Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
           },
           {
             "pos": 4,
@@ -144,18 +144,116 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "European Pro League Series 7 Closed Qualifier 2026",
+        "leagueName": "CCT Europe Challengers Series season 3 2026",
         "table": [
           {
             "pos": 1,
+            "team": "brazylijski luz",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Dripmen",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "EC BANGA",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "ENJOY",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Project 91",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 6,
+            "team": "G2 Ares",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 6,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 1,
-            "team": "TNC",
+            "pos": 8,
+            "team": "Donstu Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 9,
+            "team": "Lilmix",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "Hashiras",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "NEW VISION",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 12,
+            "team": "Subtop De France",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 13,
+            "team": "Bushido Wildcats",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 14,
+            "team": "SAW",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "Vexar",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 16,
+            "team": "Julie&cie",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -275,6 +373,15 @@
   "matches": {
     "upcoming": [
       {
+        "id": "1504015",
+        "game": "cs2",
+        "opponent": "SAW",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/126738/49.png",
+        "date": "2026-05-27T11:00:00Z",
+        "tournament": "CCT Europe Challengers Series season 3 2026 · Playoffs",
+        "format": "BO3"
+      },
+      {
         "id": "1504688",
         "game": "cs2",
         "opponent": "Elimination match: MISA vs TBD",
@@ -295,8 +402,8 @@
       {
         "id": "1494611",
         "game": "lol",
-        "opponent": "Grand final: ME vs TBD",
-        "opponentLogo": "",
+        "opponent": "PCIFIC ",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137929/800px_pcific_esports_allmode.png",
         "date": "2026-06-05T15:00:00Z",
         "tournament": "TCL Spring 2026 · Playoffs",
         "format": "BO5"
