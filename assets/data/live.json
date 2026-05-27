@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-27T09:31:39.553Z",
+    "fetchedAt": "2026-05-27T14:58:34.407Z",
     "source": "pandascore"
   },
   "branches": {
@@ -183,77 +183,77 @@
           },
           {
             "pos": 6,
-            "team": "G2 Ares",
+            "team": "Julie&cie",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 6,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 8,
-            "team": "Donstu Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 9,
-            "team": "Lilmix",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 10,
-            "team": "Hashiras",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 10,
-            "team": "NEW VISION",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 12,
-            "team": "Subtop De France",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 13,
-            "team": "Bushido Wildcats",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 14,
+            "pos": 7,
             "team": "SAW",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
+            "pos": 8,
+            "team": "G2 Ares",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 9,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 10,
+            "team": "Donstu Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 11,
+            "team": "Lilmix",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 12,
+            "team": "Hashiras",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 13,
+            "team": "NEW VISION",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 14,
+            "team": "Subtop De France",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
             "pos": 15,
-            "team": "Vexar",
+            "team": "Bushido Wildcats",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 16,
-            "team": "Julie&cie",
+            "team": "Vexar",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -373,11 +373,11 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1504015",
+        "id": "1504019",
         "game": "cs2",
-        "opponent": "SAW",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/126738/49.png",
-        "date": "2026-05-27T11:00:00Z",
+        "opponent": "Hashiras",
+        "opponentLogo": "",
+        "date": "2026-05-28T11:00:00Z",
         "tournament": "CCT Europe Challengers Series season 3 2026 · Playoffs",
         "format": "BO3"
       },
