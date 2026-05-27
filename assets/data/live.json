@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-27T14:58:34.407Z",
+    "fetchedAt": "2026-05-27T20:02:47.987Z",
     "source": "pandascore"
   },
   "branches": {
@@ -183,70 +183,70 @@
           },
           {
             "pos": 6,
-            "team": "Julie&cie",
+            "team": "Bushido Wildcats",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 7,
-            "team": "SAW",
+            "team": "Julie&cie",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 8,
-            "team": "G2 Ares",
+            "team": "SAW",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 9,
+            "team": "G2 Ares",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 10,
+            "pos": 11,
             "team": "Donstu Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 11,
+            "pos": 12,
             "team": "Lilmix",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 12,
+            "pos": 13,
             "team": "Hashiras",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 13,
+            "pos": 14,
             "team": "NEW VISION",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 14,
-            "team": "Subtop De France",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
             "pos": 15,
-            "team": "Bushido Wildcats",
+            "team": "Subtop De France",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -384,8 +384,8 @@
       {
         "id": "1504688",
         "game": "cs2",
-        "opponent": "Elimination match: MISA vs TBD",
-        "opponentLogo": "",
+        "opponent": "Lilmix",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/126417/600px_lilmix_logo.png",
         "date": "2026-05-29T08:00:00Z",
         "tournament": "European Pro League Series 7 Closed Qualifier 2026 · Group C",
         "format": "BO3"
