@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-28T15:32:01.170Z",
+    "fetchedAt": "2026-05-28T20:08:07.883Z",
     "source": "pandascore"
   },
   "branches": {
@@ -300,8 +300,8 @@
       {
         "id": "1504023",
         "game": "cs2",
-        "opponent": "Lower bracket quarterfinal 1: MISA vs TBD",
-        "opponentLogo": "",
+        "opponent": "brazylijski luz",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/132679/483px_brazylijski_luz_allmode.png",
         "date": "2026-05-29T11:00:00Z",
         "tournament": "CCT Europe Challengers Series season 3 2026 · Playoffs",
         "format": "BO3"
