@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-28T09:48:32.472Z",
+    "fetchedAt": "2026-05-28T15:32:01.170Z",
     "source": "pandascore"
   },
   "branches": {
@@ -144,116 +144,32 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "CCT Europe Challengers Series season 3 2026",
+        "leagueName": "European Pro League Series 7 Closed Qualifier 2026",
         "table": [
           {
             "pos": 1,
-            "team": "brazylijski luz",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "Dripmen",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "EC BANGA",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "ENJOY",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "Project 91",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "Bushido Wildcats",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "Julie&cie",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 8,
-            "team": "SAW",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 9,
-            "team": "G2 Ares",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 10,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 11,
-            "team": "Donstu Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 12,
             "team": "Lilmix",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 13,
-            "team": "Hashiras",
+            "pos": 1,
+            "team": "Young Ninjas",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 14,
-            "team": "NEW VISION",
+            "pos": 3,
+            "team": "Misa Esports",
             "w": 0,
             "l": 0,
-            "isMisa": false
+            "isMisa": true
           },
           {
-            "pos": 15,
-            "team": "Subtop De France",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 16,
-            "team": "Vexar",
+            "pos": 3,
+            "team": "TNC",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -373,21 +289,21 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1504019",
-        "game": "cs2",
-        "opponent": "Hashiras",
-        "opponentLogo": "",
-        "date": "2026-05-28T11:00:00Z",
-        "tournament": "CCT Europe Challengers Series season 3 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
         "id": "1504688",
         "game": "cs2",
         "opponent": "Lilmix",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/126417/600px_lilmix_logo.png",
         "date": "2026-05-29T08:00:00Z",
         "tournament": "European Pro League Series 7 Closed Qualifier 2026 · Group C",
+        "format": "BO3"
+      },
+      {
+        "id": "1504023",
+        "game": "cs2",
+        "opponent": "Lower bracket quarterfinal 1: MISA vs TBD",
+        "opponentLogo": "",
+        "date": "2026-05-29T11:00:00Z",
+        "tournament": "CCT Europe Challengers Series season 3 2026 · Playoffs",
         "format": "BO3"
       },
       {
