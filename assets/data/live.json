@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-30T13:07:08.620Z",
+    "fetchedAt": "2026-05-30T19:01:00.363Z",
     "source": "pandascore"
   },
   "branches": {
@@ -144,48 +144,34 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "ESEA Advanced Europe season 57 2026",
+        "leagueName": "European Pro League Series 7 Closed Qualifier 2026",
         "table": [
           {
             "pos": 1,
-            "team": "VP.Prodigy",
-            "w": 1,
+            "team": "Young Ninjas",
+            "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "ReThink",
-            "w": 1,
+            "pos": 2,
+            "team": "Lilmix",
+            "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "Arch",
-            "w": 1,
+            "pos": 3,
+            "team": "Misa Esports",
+            "w": 0,
             "l": 0,
-            "isMisa": false
+            "isMisa": true
           },
           {
             "pos": 4,
-            "team": "bankaPEPSI",
+            "team": "TNC",
             "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "ENJOY",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "FC Famalicão Esports",
-            "w": 0,
-            "l": 1,
+            "l": 0,
             "isMisa": false
           }
         ]
@@ -303,15 +289,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1510163",
-        "game": "cs2",
-        "opponent": "ZOTIX",
-        "opponentLogo": "",
-        "date": "2026-05-30T17:30:00Z",
-        "tournament": "ESEA Advanced Europe season 57 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
         "id": "1504692",
         "game": "cs2",
         "opponent": "TNC",
@@ -331,6 +308,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1510163",
+        "game": "cs2",
+        "opponent": "ZOTIX",
+        "opponentLogo": "",
+        "date": "2026-05-30T17:40:00Z",
+        "tournament": "ESEA Advanced Europe season 57 2026 · Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1506551",
         "game": "cs2",
@@ -735,20 +726,6 @@
           "misa": 0,
           "opponent": 0,
           "win": false
-        }
-      },
-      {
-        "id": "1353968",
-        "game": "cs2",
-        "opponent": "777",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128110/full_vertical_logo.png",
-        "date": "2026-02-09T18:00:00Z",
-        "tournament": "ESEA Advanced Europe season 56 2026 · Regular Season",
-        "format": "BO1",
-        "result": {
-          "misa": 0,
-          "opponent": 0,
-          "win": true
         }
       }
     ]
