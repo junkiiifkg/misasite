@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-05-31T02:40:57.557Z",
+    "fetchedAt": "2026-05-31T08:35:42.541Z",
     "source": "pandascore"
   },
   "branches": {
@@ -144,32 +144,200 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "European Pro League Series 7 Closed Qualifier 2026",
+        "leagueName": "ESEA Advanced Europe season 57 2026",
         "table": [
           {
             "pos": 1,
-            "team": "Young Ninjas",
+            "team": "Banger Gang",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 2,
-            "team": "Lilmix",
+            "pos": 1,
+            "team": "Bushido Wildcats",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
+            "pos": 1,
+            "team": "CYBERSHOKE Prospects",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Donstu Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Falcons Force",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 4,
-            "team": "TNC",
+            "pos": 1,
+            "team": "Project 91",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "ZOTIX",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 9,
+            "team": "LFO",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 9,
+            "team": "Wingman",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 11,
+            "team": "Aurora Young Blood",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 11,
+            "team": "Fire Flux Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 13,
+            "team": "eternal premium",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 13,
+            "team": "TEAM_COPH9K",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "ex-PeeP",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "QUAZAR",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 17,
+            "team": "JUMBO TEAM",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 17,
+            "team": "NEW VISION",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 19,
+            "team": "ENRAGE",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 19,
+            "team": "G2 Ares",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 21,
+            "team": "OldBoys",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 21,
+            "team": "OLDBOYS PL",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 23,
+            "team": "ENJOY",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 23,
+            "team": "ReThink",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 25,
+            "team": "Arch",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 25,
+            "team": "FC Famalicão Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 27,
+            "team": "bankaPEPSI",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 27,
+            "team": "VP.Prodigy",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -289,12 +457,12 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1504692",
+        "id": "1517540",
         "game": "cs2",
-        "opponent": "TNC",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137416/285px_tnc_esports_lightmode.png",
-        "date": "2026-05-31T08:00:00Z",
-        "tournament": "European Pro League Series 7 Closed Qualifier 2026 · Group C",
+        "opponent": "Falcons Force",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137508/183px_team_falcons_2022_allmode.png",
+        "date": "2026-06-01T17:30:00Z",
+        "tournament": "ESEA Advanced Europe season 57 2026 · Playoffs",
         "format": "BO3"
       },
       {
