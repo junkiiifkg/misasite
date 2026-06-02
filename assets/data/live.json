@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-02T16:04:53.306Z",
+    "fetchedAt": "2026-06-02T20:36:46.753Z",
     "source": "pandascore"
   },
   "branches": {
@@ -204,105 +204,105 @@
           },
           {
             "pos": 9,
-            "team": "NEW VISION",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 10,
-            "team": "QUAZAR",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 11,
-            "team": "eternal premium",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 12,
-            "team": "ReThink",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 13,
-            "team": "VP.Prodigy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 14,
-            "team": "Arch",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 15,
-            "team": "OLDBOYS PL",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 16,
-            "team": "LFO",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 17,
             "team": "Wingman",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 18,
-            "team": "Aurora Young Blood",
+            "pos": 10,
+            "team": "ENRAGE",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 19,
+            "pos": 11,
             "team": "Fire Flux Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
+            "pos": 12,
+            "team": "NEW VISION",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 13,
+            "team": "QUAZAR",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 14,
+            "team": "eternal premium",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "ReThink",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 16,
+            "team": "VP.Prodigy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 17,
+            "team": "Arch",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 18,
+            "team": "OLDBOYS PL",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 19,
+            "team": "LFO",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
             "pos": 20,
-            "team": "TEAM_COPH9K",
+            "team": "Aurora Young Blood",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 21,
-            "team": "ex-PeeP",
+            "team": "TEAM_COPH9K",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 22,
-            "team": "JUMBO TEAM",
+            "team": "ex-PeeP",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 23,
-            "team": "ENRAGE",
+            "team": "JUMBO TEAM",
             "w": 0,
             "l": 0,
             "isMisa": false
