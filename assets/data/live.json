@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-03T20:47:56.061Z",
+    "fetchedAt": "2026-06-04T02:51:20.957Z",
     "source": "pandascore"
   },
   "branches": {
@@ -273,6 +273,15 @@
         "date": "2026-06-05T15:00:00Z",
         "tournament": "TCL Spring 2026 · Playoffs",
         "format": "BO5"
+      },
+      {
+        "id": "1523327",
+        "game": "cs2",
+        "opponent": "JUMBO TEAM",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137356/138px_jumbo_team_allmode.png",
+        "date": "2026-06-05T17:30:00Z",
+        "tournament": "ESEA Advanced Europe season 57 2026 · Playoffs",
+        "format": "BO3"
       }
     ],
     "recent": [
