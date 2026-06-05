@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-05T02:38:35.905Z",
+    "fetchedAt": "2026-06-05T09:33:19.617Z",
     "source": "pandascore"
   },
   "branches": {
@@ -270,7 +270,7 @@
         "game": "lol",
         "opponent": "PCIFIC ",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137929/800px_pcific_esports_allmode.png",
-        "date": "2026-06-05T15:00:00Z",
+        "date": "2026-06-05T14:30:00Z",
         "tournament": "TCL Spring 2026 · Playoffs",
         "format": "BO5"
       },
