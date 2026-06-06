@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-05T19:43:01.542Z",
+    "fetchedAt": "2026-06-06T02:26:42.150Z",
     "source": "pandascore"
   },
   "branches": {
@@ -176,13 +176,6 @@
           },
           {
             "pos": 1,
-            "team": "CYBERSHOKE Prospects",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
             "team": "Donstu Esports",
             "w": 0,
             "l": 0,
@@ -232,6 +225,13 @@
           },
           {
             "pos": 2,
+            "team": "CYBERSHOKE Prospects",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
             "team": "ENJOY",
             "w": 0,
             "l": 0,
@@ -239,140 +239,140 @@
           },
           {
             "pos": 13,
-            "team": "TEAM_COPH9K",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 14,
-            "team": "LFO",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 15,
-            "team": "QUAZAR",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 16,
-            "team": "ReThink",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 17,
-            "team": "ENRAGE",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 18,
-            "team": "Wingman",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 19,
-            "team": "B8 Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 20,
-            "team": "NEW VISION",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 21,
-            "team": "ex-PeeP",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 22,
-            "team": "OldBoys",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 23,
-            "team": "FC Famalicão Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 24,
-            "team": "G2 Ares",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 25,
-            "team": "eternal premium",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 26,
-            "team": "XI Esport",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 27,
-            "team": "VP.Prodigy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 28,
-            "team": "OLDBOYS PL",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 29,
-            "team": "ROUNDS",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 30,
             "team": "Fire Flux Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
+            "pos": 14,
+            "team": "Arch",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "TEAM_COPH9K",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 16,
+            "team": "VP.Prodigy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 17,
+            "team": "LFO",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 18,
+            "team": "QUAZAR",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 19,
+            "team": "ReThink",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 20,
+            "team": "ENRAGE",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 21,
+            "team": "Wingman",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 22,
+            "team": "B8 Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 23,
+            "team": "NEW VISION",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 24,
+            "team": "ex-PeeP",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 25,
+            "team": "OldBoys",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 26,
+            "team": "FC Famalicão Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 27,
+            "team": "G2 Ares",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 28,
+            "team": "eternal premium",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 29,
+            "team": "XI Esport",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 30,
+            "team": "OLDBOYS PL",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
             "pos": 31,
-            "team": "tincan",
+            "team": "ROUNDS",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 32,
-            "team": "Arch",
+            "team": "tincan",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -494,8 +494,8 @@
       {
         "id": "1526449",
         "game": "cs2",
-        "opponent": "Lower bracket round 3 match 1: MISA vs TBD",
-        "opponentLogo": "",
+        "opponent": "eternal premium",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/135978/190px_eternal_premium_lightmode.png",
         "date": "2026-06-08T17:30:00Z",
         "tournament": "ESEA Advanced Europe season 57 2026 · Playoffs",
         "format": "BO3"
