@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-07T13:24:44.773Z",
+    "fetchedAt": "2026-06-07T19:08:13.409Z",
     "source": "pandascore"
   },
   "branches": {
@@ -150,7 +150,235 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "ESEA Advanced Europe season 57 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Banger Gang",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "bankaPEPSI",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Bushido Wildcats",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Donstu Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Falcons Force",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "JUMBO TEAM",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 1,
+            "team": "Project 91",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "ZOTIX",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "Aurora Young Blood",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "CYBERSHOKE Prospects",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "ENJOY",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 13,
+            "team": "Fire Flux Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 14,
+            "team": "Arch",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "TEAM_COPH9K",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 16,
+            "team": "VP.Prodigy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 17,
+            "team": "LFO",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 18,
+            "team": "QUAZAR",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 19,
+            "team": "ReThink",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 20,
+            "team": "ENRAGE",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 21,
+            "team": "Wingman",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 22,
+            "team": "B8 Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 23,
+            "team": "NEW VISION",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 24,
+            "team": "ex-PeeP",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 25,
+            "team": "OldBoys",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 26,
+            "team": "FC Famalicão Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 27,
+            "team": "G2 Ares",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 28,
+            "team": "eternal premium",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 29,
+            "team": "XI Esport",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 30,
+            "team": "OLDBOYS PL",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 31,
+            "team": "ROUNDS",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 32,
+            "team": "tincan",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "valorant": {
       "roster": [
@@ -264,15 +492,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1527902",
-        "game": "cs2",
-        "opponent": "FULLPOWER",
-        "opponentLogo": "",
-        "date": "2026-06-07T16:00:00Z",
-        "tournament": "TESFED League Season 3 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
         "id": "1526449",
         "game": "cs2",
         "opponent": "eternal premium",
@@ -288,6 +507,15 @@
         "opponentLogo": "",
         "date": "2026-06-09T10:30:00Z",
         "tournament": "European Pro League Series 7 2026 · Group B",
+        "format": "BO3"
+      },
+      {
+        "id": "1527906",
+        "game": "cs2",
+        "opponent": "Upper bracket semifinal 1: MISA vs TBD",
+        "opponentLogo": "",
+        "date": "2026-06-13T16:00:00Z",
+        "tournament": "TESFED League Season 3 2026 · Playoffs",
         "format": "BO3"
       }
     ],
