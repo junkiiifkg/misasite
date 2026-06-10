@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-09T19:57:53.037Z",
+    "fetchedAt": "2026-06-10T02:38:48.269Z",
     "source": "pandascore"
   },
   "branches": {
@@ -62,53 +62,7 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/133984/misa_esportslogo_profile.png",
-      "standings": {
-        "leagueName": "TCL Spring 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 2,
-            "team": "Ozarox Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "PCIFIC ",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "SU Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
-            "team": "Bushido Wildcats",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "BoostGate Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     },
     "cs2": {
       "roster": [
@@ -230,71 +184,20 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137017/599px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "VCL Türkiye: Birlik Stage 2 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": " REBORN",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "Beşiktaş Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 4,
-            "team": "FUT Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
-            "team": "Galatasaray Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "Fire Flux Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "Dark Passage",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 8,
-            "team": "Eternal Fire Passion",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     }
   },
   "matches": {
     "upcoming": [
+      {
+        "id": "1532478",
+        "game": "lol",
+        "opponent": "E WIE EINFACH E-SPORTS",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128333/e_wie_einfach_e_sport_slogo_square.png",
+        "date": "2026-06-10T15:00:00Z",
+        "tournament": "EMEA Masters Spring 2026 · Group A",
+        "format": "BO3"
+      },
       {
         "id": "1504757",
         "game": "cs2",
