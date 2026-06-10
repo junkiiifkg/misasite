@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-10T14:56:29.348Z",
+    "fetchedAt": "2026-06-10T20:14:25.458Z",
     "source": "pandascore"
   },
   "branches": {
@@ -62,7 +62,39 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/133984/misa_esportslogo_profile.png",
-      "standings": null
+      "standings": {
+        "leagueName": "EMEA Masters Spring 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "E WIE EINFACH E-SPORTS",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 3,
+            "team": "HMBLE",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "UCAM Esports Club",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "cs2": {
       "roster": [
@@ -250,11 +282,11 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1532478",
+        "id": "1532494",
         "game": "lol",
-        "opponent": "E WIE EINFACH E-SPORTS",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128333/e_wie_einfach_e_sport_slogo_square.png",
-        "date": "2026-06-10T15:00:00Z",
+        "opponent": "UCAM Esports Club",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/126737/220px_ucam_esports_clublogo_square.png",
+        "date": "2026-06-11T15:00:00Z",
         "tournament": "EMEA Masters Spring 2026 · Group A",
         "format": "BO3"
       },
@@ -278,6 +310,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1532478",
+        "game": "lol",
+        "opponent": "E WIE EINFACH E-SPORTS",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128333/e_wie_einfach_e_sport_slogo_square.png",
+        "date": "2026-06-10T15:06:59Z",
+        "tournament": "EMEA Masters Spring 2026 · Group A",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1494611",
         "game": "lol",
@@ -635,20 +681,6 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137857/bushido_wildcatslogo_square.png",
         "date": "2026-04-12T14:34:29Z",
         "tournament": "VCL Türkiye: Birlik Stage 2 2026 · Group A",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 0,
-          "win": true
-        }
-      },
-      {
-        "id": "1434825",
-        "game": "lol",
-        "opponent": "Ozarox Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138472/ozarox_esportslogo_square.png",
-        "date": "2026-04-09T17:03:29Z",
-        "tournament": "TCL Spring 2026 · Regular Season",
         "format": "BO3",
         "result": {
           "misa": 2,
