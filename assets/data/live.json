@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-11T15:38:40.009Z",
+    "fetchedAt": "2026-06-11T20:11:04.100Z",
     "source": "pandascore"
   },
   "branches": {
@@ -67,20 +67,13 @@
         "table": [
           {
             "pos": 1,
-            "team": "E WIE EINFACH E-SPORTS",
+            "team": "UCAM Esports Club",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 3,
+            "pos": 2,
             "team": "HMBLE",
             "w": 0,
             "l": 0,
@@ -88,10 +81,17 @@
           },
           {
             "pos": 3,
-            "team": "UCAM Esports Club",
+            "team": "E WIE EINFACH E-SPORTS",
             "w": 0,
             "l": 0,
             "isMisa": false
+          },
+          {
+            "pos": 4,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
           }
         ]
       }
@@ -222,6 +222,15 @@
   "matches": {
     "upcoming": [
       {
+        "id": "1532495",
+        "game": "lol",
+        "opponent": "E WIE EINFACH E-SPORTS",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128333/e_wie_einfach_e_sport_slogo_square.png",
+        "date": "2026-06-12T15:00:00Z",
+        "tournament": "EMEA Masters Spring 2026 · Group A",
+        "format": "BO3"
+      },
+      {
         "id": "1504757",
         "game": "cs2",
         "opponent": "Oxuji Esports",
@@ -250,6 +259,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1532494",
+        "game": "lol",
+        "opponent": "UCAM Esports Club",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/126737/220px_ucam_esports_clublogo_square.png",
+        "date": "2026-06-11T15:02:47Z",
+        "tournament": "EMEA Masters Spring 2026 · Group A",
+        "format": "BO3",
+        "result": {
+          "misa": 0,
+          "opponent": 2,
+          "win": false
+        }
+      },
       {
         "id": "1532478",
         "game": "lol",
@@ -598,20 +621,6 @@
           "misa": 0,
           "opponent": 0,
           "win": true
-        }
-      },
-      {
-        "id": "1397510",
-        "game": "lol",
-        "opponent": "Solary",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/1449/123px_solarylogo_square.png",
-        "date": "2026-04-14T15:01:08Z",
-        "tournament": "EMEA Masters Winter 2026 · Playoffs",
-        "format": "BO5",
-        "result": {
-          "misa": 2,
-          "opponent": 3,
-          "win": false
         }
       },
       {
