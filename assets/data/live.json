@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-11T10:09:08.780Z",
+    "fetchedAt": "2026-06-11T15:38:40.009Z",
     "source": "pandascore"
   },
   "branches": {
@@ -221,15 +221,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1532494",
-        "game": "lol",
-        "opponent": "UCAM Esports Club",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/126737/220px_ucam_esports_clublogo_square.png",
-        "date": "2026-06-11T15:00:00Z",
-        "tournament": "EMEA Masters Spring 2026 · Group A",
-        "format": "BO3"
-      },
       {
         "id": "1504757",
         "game": "cs2",
