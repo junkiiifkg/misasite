@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-11T02:48:22.707Z",
+    "fetchedAt": "2026-06-11T10:09:08.780Z",
     "source": "pandascore"
   },
   "branches": {
@@ -216,67 +216,7 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137017/599px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "VCL Türkiye: Birlik Stage 2 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": " REBORN",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "Beşiktaş Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 4,
-            "team": "FUT Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
-            "team": "Galatasaray Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "Fire Flux Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "Dark Passage",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 8,
-            "team": "Eternal Fire Passion",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     }
   },
   "matches": {
@@ -306,6 +246,15 @@
         "opponentLogo": "",
         "date": "2026-06-13T16:00:00Z",
         "tournament": "TESFED League Season 3 2026 · Playoffs",
+        "format": "BO3"
+      },
+      {
+        "id": "1534488",
+        "game": "valorant",
+        "opponent": "Team Liquid Academy",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136328/526px_team_liquid_2024_lightmode.png",
+        "date": "2026-06-23T17:30:00Z",
+        "tournament": "VCL EMEA: Stage 3 2026 · Group D",
         "format": "BO3"
       }
     ],
