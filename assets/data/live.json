@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-12T14:39:01.075Z",
+    "fetchedAt": "2026-06-12T19:56:16.753Z",
     "source": "pandascore"
   },
   "branches": {
@@ -74,10 +74,10 @@
           },
           {
             "pos": 2,
-            "team": "HMBLE",
+            "team": "Misa Esports",
             "w": 0,
             "l": 0,
-            "isMisa": false
+            "isMisa": true
           },
           {
             "pos": 3,
@@ -88,10 +88,10 @@
           },
           {
             "pos": 4,
-            "team": "Misa Esports",
+            "team": "HMBLE",
             "w": 0,
             "l": 0,
-            "isMisa": true
+            "isMisa": false
           }
         ]
       }
@@ -222,15 +222,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1532495",
-        "game": "lol",
-        "opponent": "E WIE EINFACH E-SPORTS",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128333/e_wie_einfach_e_sport_slogo_square.png",
-        "date": "2026-06-12T15:00:00Z",
-        "tournament": "EMEA Masters Spring 2026 · Group A",
-        "format": "BO3"
-      },
-      {
         "id": "1504757",
         "game": "cs2",
         "opponent": "Oxuji Esports",
@@ -242,8 +233,8 @@
       {
         "id": "1527906",
         "game": "cs2",
-        "opponent": "Upper bracket semifinal 1: MISA vs TBD",
-        "opponentLogo": "",
+        "opponent": "Fire Flux Esports",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/135474/190px_fire_flux_esports_allmode.png",
         "date": "2026-06-13T16:00:00Z",
         "tournament": "TESFED League Season 3 2026 · Playoffs",
         "format": "BO3"
@@ -259,6 +250,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1532495",
+        "game": "lol",
+        "opponent": "E WIE EINFACH E-SPORTS",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128333/e_wie_einfach_e_sport_slogo_square.png",
+        "date": "2026-06-12T15:04:33Z",
+        "tournament": "EMEA Masters Spring 2026 · Group A",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1532494",
         "game": "lol",
@@ -593,20 +598,6 @@
           "misa": 0,
           "opponent": 2,
           "win": false
-        }
-      },
-      {
-        "id": "1434828",
-        "game": "lol",
-        "opponent": "Team Phoenix",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137930/valorant_team_phoenix_allmode.png",
-        "date": "2026-04-16T14:32:27Z",
-        "tournament": "TCL Spring 2026 · Regular Season",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 0,
-          "win": true
         }
       },
       {
