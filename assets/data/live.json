@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-12T19:56:16.753Z",
+    "fetchedAt": "2026-06-13T02:37:29.769Z",
     "source": "pandascore"
   },
   "branches": {
@@ -62,39 +62,7 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/133984/misa_esportslogo_profile.png",
-      "standings": {
-        "leagueName": "EMEA Masters Spring 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "UCAM Esports Club",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 3,
-            "team": "E WIE EINFACH E-SPORTS",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "HMBLE",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     },
     "cs2": {
       "roster": [
@@ -229,6 +197,15 @@
         "date": "2026-06-13T10:30:00Z",
         "tournament": "European Pro League Series 7 2026 · Group B",
         "format": "BO3"
+      },
+      {
+        "id": "1532489",
+        "game": "lol",
+        "opponent": "Galions",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136019/galionslogo_square.png",
+        "date": "2026-06-13T15:00:00Z",
+        "tournament": "EMEA Masters Spring 2026 · Playoffs",
+        "format": "BO5"
       },
       {
         "id": "1527906",
