@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-13T13:29:10.786Z",
+    "fetchedAt": "2026-06-13T19:10:34.711Z",
     "source": "pandascore"
   },
   "branches": {
@@ -62,7 +62,32 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/133984/misa_esportslogo_profile.png",
-      "standings": null
+      "standings": {
+        "leagueName": "EMEA Masters Spring 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Karmine Corp Blue",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "G2 NORD",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          }
+        ]
+      }
     },
     "cs2": {
       "roster": [
@@ -109,59 +134,59 @@
         "table": [
           {
             "pos": 1,
-            "team": "Eternal Fire Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "WRAITH PCIFIC",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
             "team": "Fire Flux Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
+            "pos": 1,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
             "pos": 3,
+            "team": "Eternal Fire Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "WRAITH PCIFIC",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
             "team": "FUT Turkuaz",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 5,
+            "pos": 6,
             "team": "Bushido Wildcats",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 5,
+            "pos": 7,
             "team": "VENOM ESPOR",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 7,
+            "pos": 8,
             "team": "FULLPOWER",
             "w": 0,
             "l": 0,
             "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
           }
         ]
       }
@@ -218,20 +243,11 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1532489",
-        "game": "lol",
-        "opponent": "Galions",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136019/galionslogo_square.png",
-        "date": "2026-06-13T15:00:00Z",
-        "tournament": "EMEA Masters Spring 2026 · Playoffs",
-        "format": "BO5"
-      },
-      {
-        "id": "1527906",
+        "id": "1527908",
         "game": "cs2",
-        "opponent": "Fire Flux Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/135474/190px_fire_flux_esports_allmode.png",
-        "date": "2026-06-13T16:00:00Z",
+        "opponent": "Upper bracket final: MISA vs TBD",
+        "opponentLogo": "",
+        "date": "2026-06-21T16:00:00Z",
         "tournament": "TESFED League Season 3 2026 · Playoffs",
         "format": "BO3"
       },
@@ -246,6 +262,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1532489",
+        "game": "lol",
+        "opponent": "Galions",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136019/galionslogo_square.png",
+        "date": "2026-06-13T15:01:19Z",
+        "tournament": "EMEA Masters Spring 2026 · Playoffs",
+        "format": "BO5",
+        "result": {
+          "misa": 0,
+          "opponent": 3,
+          "win": false
+        }
+      },
       {
         "id": "1532495",
         "game": "lol",
@@ -561,20 +591,6 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/130231/111px_galatasaray_esports_allmode.png",
         "date": "2026-04-25T17:45:33Z",
         "tournament": "VCL Türkiye: Birlik Stage 2 2026 · Playoffs",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 0,
-          "win": true
-        }
-      },
-      {
-        "id": "1434835",
-        "game": "lol",
-        "opponent": "SU Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137931/447px_su_esports_allmode.png",
-        "date": "2026-04-23T16:34:11Z",
-        "tournament": "TCL Spring 2026 · Regular Season",
         "format": "BO3",
         "result": {
           "misa": 2,
