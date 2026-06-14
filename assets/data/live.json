@@ -1,17 +1,11 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-14T13:42:58.545Z",
+    "fetchedAt": "2026-06-14T19:12:15.498Z",
     "source": "pandascore"
   },
   "branches": {
     "lol": {
       "roster": [
-        {
-          "tag": "Ragner",
-          "name": "Onurcan Aslan",
-          "role": "Top",
-          "image": "https://cdn-api.pandascore.co/images/player/image/15358/gl_ragner_2025_split_2.png"
-        },
         {
           "tag": "Kofte",
           "name": "Emre Akça",
@@ -67,27 +61,41 @@
         "table": [
           {
             "pos": 1,
-            "team": "Karmine Corp Blue",
+            "team": "UCAM Esports Club",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 2,
-            "team": "Team Heretics Academy",
+            "team": "Eintracht Spandau",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 3,
-            "team": "G2 NORD",
+            "team": "Karmine Corp Blue",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 4,
+            "team": "Team Heretics Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "G2 NORD",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 6,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
@@ -141,56 +149,56 @@
         "table": [
           {
             "pos": 1,
-            "team": "VENOM ESPOR",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "WRAITH PCIFIC",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Fire Flux Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 5,
             "team": "Eternal Fire Academy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 6,
+            "pos": 2,
+            "team": "FULLPOWER",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "VENOM ESPOR",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "WRAITH PCIFIC",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "Fire Flux Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 7,
             "team": "FUT Turkuaz",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 7,
-            "team": "Bushido Wildcats",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
             "pos": 8,
-            "team": "FULLPOWER",
+            "team": "Bushido Wildcats",
             "w": 0,
             "l": 0,
             "isMisa": false
