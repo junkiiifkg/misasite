@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-13T19:10:34.711Z",
+    "fetchedAt": "2026-06-14T02:49:11.466Z",
     "source": "pandascore"
   },
   "branches": {
@@ -74,13 +74,20 @@
           },
           {
             "pos": 2,
-            "team": "G2 NORD",
+            "team": "Team Heretics Academy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 3,
+            "team": "G2 NORD",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
@@ -134,49 +141,49 @@
         "table": [
           {
             "pos": 1,
-            "team": "Fire Flux Esports",
+            "team": "VENOM ESPOR",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 1,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 3,
-            "team": "Eternal Fire Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
             "team": "WRAITH PCIFIC",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
+            "pos": 3,
+            "team": "Fire Flux Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
             "pos": 5,
-            "team": "FUT Turkuaz",
+            "team": "Eternal Fire Academy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 6,
-            "team": "Bushido Wildcats",
+            "team": "FUT Turkuaz",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 7,
-            "team": "VENOM ESPOR",
+            "team": "Bushido Wildcats",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -245,8 +252,8 @@
       {
         "id": "1527908",
         "game": "cs2",
-        "opponent": "Upper bracket final: MISA vs TBD",
-        "opponentLogo": "",
+        "opponent": "WRAITH PCIFIC",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138660/wraith_pcific_allmode.png",
         "date": "2026-06-21T16:00:00Z",
         "tournament": "TESFED League Season 3 2026 · Playoffs",
         "format": "BO3"
