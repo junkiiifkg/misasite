@@ -1,17 +1,11 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-15T11:48:24.370Z",
+    "fetchedAt": "2026-06-15T17:01:38.152Z",
     "source": "pandascore"
   },
   "branches": {
     "lol": {
       "roster": [
-        {
-          "tag": "Kofte",
-          "name": "Emre Akça",
-          "role": "Mid",
-          "image": "https://cdn-api.pandascore.co/images/player/image/19620/z10_kofte_2024_split_1.png"
-        },
         {
           "tag": "113",
           "name": "Doğukan Balci",
