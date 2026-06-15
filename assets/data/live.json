@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-15T17:01:38.152Z",
+    "fetchedAt": "2026-06-15T20:47:26.606Z",
     "source": "pandascore"
   },
   "branches": {
@@ -55,41 +55,55 @@
         "table": [
           {
             "pos": 1,
-            "team": "UCAM Esports Club",
+            "team": "Galions",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 2,
-            "team": "Eintracht Spandau",
+            "team": "Solary",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 3,
-            "team": "Karmine Corp Blue",
+            "team": "UCAM Esports Club",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 4,
-            "team": "Team Heretics Academy",
+            "team": "Eintracht Spandau",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 5,
-            "team": "G2 NORD",
+            "team": "Karmine Corp Blue",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 6,
+            "team": "Team Heretics Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "G2 NORD",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 8,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
