@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-16T10:56:35.342Z",
+    "fetchedAt": "2026-06-16T16:26:32.652Z",
     "source": "pandascore"
   },
   "branches": {
@@ -387,7 +387,7 @@
         "id": "1506551",
         "game": "cs2",
         "opponent": "Arch",
-        "opponentLogo": "",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138465/arch_esports_lightmode.png",
         "date": "2026-05-24T17:00:00Z",
         "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
         "format": "BO1",
