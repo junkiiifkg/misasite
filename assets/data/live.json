@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-17T14:54:49.303Z",
+    "fetchedAt": "2026-06-17T20:02:19.512Z",
     "source": "pandascore"
   },
   "branches": {
@@ -119,12 +119,6 @@
           "name": "Serdar Akinci",
           "role": "Player",
           "image": "assets/images/cs2/ckanic.webp"
-        },
-        {
-          "tag": "rim3",
-          "name": "Emir Dönmez",
-          "role": "Player",
-          "image": "assets/images/cs2/rim3.webp"
         },
         {
           "tag": "Zuedsta",
