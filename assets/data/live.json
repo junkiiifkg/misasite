@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-18T02:47:12.991Z",
+    "fetchedAt": "2026-06-18T10:07:46.506Z",
     "source": "pandascore"
   },
   "branches": {
@@ -591,7 +591,7 @@
         "id": "1456306",
         "game": "valorant",
         "opponent": " REBORN",
-        "opponentLogo": "",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138449/reborn_lightmode.png",
         "date": "2026-04-27T17:43:23Z",
         "tournament": "VCL Türkiye: Birlik Stage 2 2026 · Playoffs",
         "format": "BO3",
