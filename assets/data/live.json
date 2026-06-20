@@ -1,29 +1,11 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-20T08:43:00.796Z",
+    "fetchedAt": "2026-06-20T13:42:59.146Z",
     "source": "pandascore"
   },
   "branches": {
     "lol": {
       "roster": [
-        {
-          "tag": "113",
-          "name": "Doğukan Balci",
-          "role": "Jun",
-          "image": "https://cdn-api.pandascore.co/images/player/image/34917/kcb_113_summer_2024.png"
-        },
-        {
-          "tag": "Ruep",
-          "name": "İlker  Bilen",
-          "role": "Adc",
-          "image": "https://cdn-api.pandascore.co/images/player/image/42363/bgt_ruep_2024_split_1.png"
-        },
-        {
-          "tag": "Carry",
-          "name": "Mustafa Selim Yılmaz",
-          "role": "Sup",
-          "image": "https://cdn-api.pandascore.co/images/player/image/42364/bgt_carry_2024_split_1.png"
-        },
         {
           "tag": "mojito",
           "name": "",
