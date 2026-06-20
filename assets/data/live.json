@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-20T13:42:59.146Z",
+    "fetchedAt": "2026-06-20T19:11:48.736Z",
     "source": "pandascore"
   },
   "branches": {
@@ -133,56 +133,56 @@
         "table": [
           {
             "pos": 1,
-            "team": "Eternal Fire Academy",
+            "team": "Bushido Wildcats",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 2,
+            "team": "Eternal Fire Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
             "team": "FULLPOWER",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
+            "pos": 4,
             "team": "VENOM ESPOR",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
+            "pos": 4,
             "team": "WRAITH PCIFIC",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 5,
+            "pos": 6,
             "team": "Fire Flux Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 5,
+            "pos": 6,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 7,
-            "team": "FUT Turkuaz",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
             "pos": 8,
-            "team": "Bushido Wildcats",
+            "team": "FUT Turkuaz",
             "w": 0,
             "l": 0,
             "isMisa": false
