@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-21T02:52:49.680Z",
+    "fetchedAt": "2026-06-21T09:38:10.646Z",
     "source": "pandascore"
   },
   "branches": {
@@ -257,6 +257,15 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136328/526px_team_liquid_2024_lightmode.png",
         "date": "2026-06-23T17:30:00Z",
         "tournament": "VCL EMEA: Stage 3 2026 · Group D",
+        "format": "BO3"
+      },
+      {
+        "id": "1550143",
+        "game": "cs2",
+        "opponent": "Wampirki",
+        "opponentLogo": "",
+        "date": "2026-06-27T13:45:00Z",
+        "tournament": "CCT Europe Challengers Series season 4 2026 · Playoffs",
         "format": "BO3"
       }
     ],
