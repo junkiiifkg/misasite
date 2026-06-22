@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-22T16:39:53.263Z",
+    "fetchedAt": "2026-06-22T20:35:26.929Z",
     "source": "pandascore"
   },
   "branches": {
@@ -182,7 +182,25 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137017/599px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "VCL EMEA: Stage 3 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Ghools Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": " REBORN",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          }
+        ]
+      }
     }
   },
   "matches": {
@@ -203,6 +221,15 @@
         "opponentLogo": "",
         "date": "2026-06-27T13:45:00Z",
         "tournament": "CCT Europe Challengers Series season 4 2026 · Playoffs",
+        "format": "BO3"
+      },
+      {
+        "id": "1527915",
+        "game": "cs2",
+        "opponent": "Lower bracket final: MISA vs TBD",
+        "opponentLogo": "",
+        "date": "2026-07-04T16:00:00Z",
+        "tournament": "TESFED League Season 3 2026 · Playoffs",
         "format": "BO3"
       }
     ],
