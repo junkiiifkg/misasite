@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-22T11:37:16.921Z",
+    "fetchedAt": "2026-06-22T16:39:53.263Z",
     "source": "pandascore"
   },
   "branches": {
@@ -97,6 +97,12 @@
     "cs2": {
       "roster": [
         {
+          "tag": "mini",
+          "name": "Muhammed Salman",
+          "role": "Player",
+          "image": ""
+        },
+        {
           "tag": "ckanic",
           "name": "Serdar Akinci",
           "role": "Player",
@@ -123,72 +129,12 @@
         {
           "tag": "Obyj",
           "name": "Onur Buğra Yaman",
-          "role": "Player",
+          "role": "Koç",
           "image": ""
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "TESFED League Season 3 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "Bushido Wildcats",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "Eternal Fire Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "FULLPOWER",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "VENOM ESPOR",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "WRAITH PCIFIC",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "Fire Flux Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 8,
-            "team": "FUT Turkuaz",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     },
     "valorant": {
       "roster": [
@@ -241,15 +187,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1527908",
-        "game": "cs2",
-        "opponent": "WRAITH PCIFIC",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138660/wraith_pcific_allmode.png",
-        "date": "2026-06-22T16:00:00Z",
-        "tournament": "TESFED League Season 3 2026 · Playoffs",
-        "format": "BO3"
-      },
       {
         "id": "1534488",
         "game": "valorant",
