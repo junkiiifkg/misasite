@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-23T14:32:48.732Z",
+    "fetchedAt": "2026-06-23T19:51:03.808Z",
     "source": "pandascore"
   },
   "branches": {
@@ -187,13 +187,27 @@
         "table": [
           {
             "pos": 1,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 1,
+            "team": "Team Liquid Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
             "team": "Ghools Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
+            "pos": 3,
             "team": " REBORN",
             "w": 0,
             "l": 0,
@@ -206,12 +220,21 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1534488",
+        "id": "1534507",
         "game": "valorant",
-        "opponent": "Team Liquid Academy",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136328/526px_team_liquid_2024_lightmode.png",
-        "date": "2026-06-23T17:30:00Z",
+        "opponent": " REBORN",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138449/reborn_lightmode.png",
+        "date": "2026-06-24T17:30:00Z",
         "tournament": "VCL EMEA: Stage 3 2026 · Group D",
+        "format": "BO3"
+      },
+      {
+        "id": "1553996",
+        "game": "cs2",
+        "opponent": "WBT",
+        "opponentLogo": "",
+        "date": "2026-06-27T10:30:00Z",
+        "tournament": "European Pro League Series 8 Closed Qualifier 2026 · Group D",
         "format": "BO3"
       },
       {
@@ -234,6 +257,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1534488",
+        "game": "valorant",
+        "opponent": "Team Liquid Academy",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136328/526px_team_liquid_2024_lightmode.png",
+        "date": "2026-06-23T16:50:42Z",
+        "tournament": "VCL EMEA: Stage 3 2026 · Group D",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 1,
+          "win": true
+        }
+      },
       {
         "id": "1532489",
         "game": "lol",
@@ -638,20 +675,6 @@
           "misa": 2,
           "opponent": 0,
           "win": true
-        }
-      },
-      {
-        "id": "1396301",
-        "game": "valorant",
-        "opponent": "Mandatory",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/130451/223px_mandatory_2022_allmode.png",
-        "date": "2026-03-27T16:09:44Z",
-        "tournament": "VCL EMEA: Stage 1 2026 · Playoffs",
-        "format": "BO3",
-        "result": {
-          "misa": 1,
-          "opponent": 2,
-          "win": false
         }
       }
     ]
