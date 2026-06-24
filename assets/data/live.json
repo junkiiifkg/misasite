@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-24T14:09:47.842Z",
+    "fetchedAt": "2026-06-24T19:27:01.008Z",
     "source": "pandascore"
   },
   "branches": {
@@ -219,15 +219,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1534507",
-        "game": "valorant",
-        "opponent": " REBORN",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138449/reborn_lightmode.png",
-        "date": "2026-06-24T17:30:00Z",
-        "tournament": "VCL EMEA: Stage 3 2026 · Group D",
-        "format": "BO3"
-      },
       {
         "id": "1553996",
         "game": "cs2",
