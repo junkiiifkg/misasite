@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-24T19:27:01.008Z",
+    "fetchedAt": "2026-06-25T02:33:12.150Z",
     "source": "pandascore"
   },
   "branches": {
@@ -187,28 +187,28 @@
         "table": [
           {
             "pos": 1,
+            "team": " REBORN",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 1,
+            "pos": 3,
             "team": "Team Liquid Academy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
+            "pos": 4,
             "team": "Ghools Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": " REBORN",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -238,6 +238,15 @@
         "format": "BO3"
       },
       {
+        "id": "1534520",
+        "game": "valorant",
+        "opponent": "Decider match: MISA vs TBD",
+        "opponentLogo": "",
+        "date": "2026-06-27T17:30:00Z",
+        "tournament": "VCL EMEA: Stage 3 2026 · Group D",
+        "format": "BO3"
+      },
+      {
         "id": "1527915",
         "game": "cs2",
         "opponent": "Lower bracket final: MISA vs TBD",
@@ -248,6 +257,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1534507",
+        "game": "valorant",
+        "opponent": " REBORN",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138449/reborn_lightmode.png",
+        "date": "2026-06-24T18:18:44Z",
+        "tournament": "VCL EMEA: Stage 3 2026 · Group D",
+        "format": "BO3",
+        "result": {
+          "misa": 0,
+          "opponent": 2,
+          "win": false
+        }
+      },
       {
         "id": "1534488",
         "game": "valorant",
@@ -651,20 +674,6 @@
         "result": {
           "misa": 2,
           "opponent": 1,
-          "win": true
-        }
-      },
-      {
-        "id": "1428548",
-        "game": "valorant",
-        "opponent": "TEAM SCARS",
-        "opponentLogo": "",
-        "date": "2026-04-04T14:37:56Z",
-        "tournament": "VCL Türkiye: Birlik Stage 2 2026 · Group A",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 0,
           "win": true
         }
       }
