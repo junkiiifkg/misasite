@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-26T08:52:00.409Z",
+    "fetchedAt": "2026-06-26T14:06:26.852Z",
     "source": "pandascore"
   },
   "branches": {
@@ -242,7 +242,7 @@
         "game": "valorant",
         "opponent": "Team Liquid Academy",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136328/526px_team_liquid_2024_lightmode.png",
-        "date": "2026-06-27T17:30:00Z",
+        "date": "2026-06-29T17:30:00Z",
         "tournament": "VCL EMEA: Stage 3 2026 · Group D",
         "format": "BO3"
       },
