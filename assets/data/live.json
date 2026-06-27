@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-27T08:27:34.362Z",
+    "fetchedAt": "2026-06-27T13:14:54.203Z",
     "source": "pandascore"
   },
   "branches": {
@@ -134,7 +134,25 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "CCT Europe Challengers Series season 4 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Just Players",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "OlyBet SB",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "valorant": {
       "roster": [
@@ -220,15 +238,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1553996",
-        "game": "cs2",
-        "opponent": "WBT",
-        "opponentLogo": "",
-        "date": "2026-06-27T10:30:00Z",
-        "tournament": "European Pro League Series 8 Closed Qualifier 2026 · Group D",
-        "format": "BO3"
-      },
-      {
         "id": "1550143",
         "game": "cs2",
         "opponent": "Wampirki",
@@ -244,6 +253,15 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136328/526px_team_liquid_2024_lightmode.png",
         "date": "2026-06-29T17:30:00Z",
         "tournament": "VCL EMEA: Stage 3 2026 · Group D",
+        "format": "BO3"
+      },
+      {
+        "id": "1553997",
+        "game": "cs2",
+        "opponent": "Inner Circle Academy",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138101/192px_inner_circle_esports_lightmode.png",
+        "date": "2026-07-01T10:30:00Z",
+        "tournament": "European Pro League Series 8 Closed Qualifier 2026 · Group D",
         "format": "BO3"
       },
       {
