@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-27T13:14:54.203Z",
+    "fetchedAt": "2026-06-27T19:05:51.975Z",
     "source": "pandascore"
   },
   "branches": {
@@ -146,7 +146,49 @@
           },
           {
             "pos": 1,
+            "team": "Mai Tai",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "megoshort",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 1,
             "team": "OlyBet SB",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Wampirki",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "Julie&cie",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "NEW VISION",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -238,11 +280,11 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1550143",
+        "id": "1550152",
         "game": "cs2",
-        "opponent": "Wampirki",
+        "opponent": "Upper bracket quarterfinal 1: MISA vs TBD",
         "opponentLogo": "",
-        "date": "2026-06-27T13:45:00Z",
+        "date": "2026-06-29T13:45:00Z",
         "tournament": "CCT Europe Challengers Series season 4 2026 · Playoffs",
         "format": "BO3"
       },
@@ -275,6 +317,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1550143",
+        "game": "cs2",
+        "opponent": "Wampirki",
+        "opponentLogo": "",
+        "date": "2026-06-27T13:45:00Z",
+        "tournament": "CCT Europe Challengers Series season 4 2026 · Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1534507",
         "game": "valorant",
@@ -651,20 +707,6 @@
           "misa": 0,
           "opponent": 2,
           "win": false
-        }
-      },
-      {
-        "id": "1447119",
-        "game": "cs2",
-        "opponent": "yngods",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137360/yngods_allmode.png",
-        "date": "2026-04-15T18:00:00Z",
-        "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
-        "format": "BO1",
-        "result": {
-          "misa": 0,
-          "opponent": 0,
-          "win": true
         }
       },
       {
