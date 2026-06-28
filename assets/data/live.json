@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-28T02:40:56.587Z",
+    "fetchedAt": "2026-06-28T08:41:26.826Z",
     "source": "pandascore"
   },
   "branches": {
@@ -139,6 +139,20 @@
         "table": [
           {
             "pos": 1,
+            "team": "BIG Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Endless Journey",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
             "team": "Just Players",
             "w": 0,
             "l": 0,
@@ -180,14 +194,14 @@
             "isMisa": false
           },
           {
-            "pos": 7,
+            "pos": 9,
             "team": "Julie&cie",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 7,
+            "pos": 10,
             "team": "NEW VISION",
             "w": 0,
             "l": 0,
@@ -282,8 +296,8 @@
       {
         "id": "1550152",
         "game": "cs2",
-        "opponent": "Upper bracket quarterfinal 1: MISA vs TBD",
-        "opponentLogo": "",
+        "opponent": "Endless Journey",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137028/285px_endless_journey_allmode.png",
         "date": "2026-06-29T13:45:00Z",
         "tournament": "CCT Europe Challengers Series season 4 2026 · Playoffs",
         "format": "BO3"
