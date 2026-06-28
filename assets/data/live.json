@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-28T13:19:48.974Z",
+    "fetchedAt": "2026-06-28T19:04:58.505Z",
     "source": "pandascore"
   },
   "branches": {
@@ -195,13 +195,55 @@
           },
           {
             "pos": 9,
-            "team": "Julie&cie",
+            "team": "Atreides",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 10,
+            "team": "Donstu Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 11,
+            "team": "Lilmix",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 12,
+            "team": "Subtop De France",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 13,
+            "team": "Entropy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 14,
+            "team": "SAW",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "Julie&cie",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 16,
             "team": "NEW VISION",
             "w": 0,
             "l": 0,
