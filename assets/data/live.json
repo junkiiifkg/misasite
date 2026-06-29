@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-29T02:41:38.963Z",
+    "fetchedAt": "2026-06-29T10:25:33.091Z",
     "source": "pandascore"
   },
   "branches": {
@@ -433,7 +433,7 @@
         "id": "1532495",
         "game": "lol",
         "opponent": "E WIE EINFACH E-SPORTS",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128333/e_wie_einfach_e_sport_slogo_square.png",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128333/ezgif_556a0743e57dc81f.png",
         "date": "2026-06-12T15:04:33Z",
         "tournament": "EMEA Masters Spring 2026 · Group A",
         "format": "BO3",
@@ -461,7 +461,7 @@
         "id": "1532478",
         "game": "lol",
         "opponent": "E WIE EINFACH E-SPORTS",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128333/e_wie_einfach_e_sport_slogo_square.png",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128333/ezgif_556a0743e57dc81f.png",
         "date": "2026-06-10T15:06:59Z",
         "tournament": "EMEA Masters Spring 2026 · Group A",
         "format": "BO3",
