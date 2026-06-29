@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-29T10:25:33.091Z",
+    "fetchedAt": "2026-06-29T15:32:34.567Z",
     "source": "pandascore"
   },
   "branches": {
@@ -139,6 +139,13 @@
         "table": [
           {
             "pos": 1,
+            "team": "Atreides",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
             "team": "BIG Academy",
             "w": 0,
             "l": 0,
@@ -194,36 +201,29 @@
             "isMisa": false
           },
           {
-            "pos": 9,
-            "team": "Atreides",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
             "pos": 10,
-            "team": "Donstu Esports",
+            "team": "Entropy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 11,
-            "team": "Lilmix",
+            "team": "Donstu Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 12,
-            "team": "Subtop De France",
+            "team": "Lilmix",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 13,
-            "team": "Entropy",
+            "team": "Subtop De France",
             "w": 0,
             "l": 0,
             "isMisa": false
