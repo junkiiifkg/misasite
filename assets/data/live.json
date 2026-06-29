@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-28T19:04:58.505Z",
+    "fetchedAt": "2026-06-29T02:41:38.963Z",
     "source": "pandascore"
   },
   "branches": {
@@ -336,21 +336,21 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1550152",
-        "game": "cs2",
-        "opponent": "Endless Journey",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137028/285px_endless_journey_allmode.png",
-        "date": "2026-06-29T13:45:00Z",
-        "tournament": "CCT Europe Challengers Series season 4 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
         "id": "1534520",
         "game": "valorant",
         "opponent": "Team Liquid Academy",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136328/526px_team_liquid_2024_lightmode.png",
         "date": "2026-06-29T17:30:00Z",
         "tournament": "VCL EMEA: Stage 3 2026 · Group D",
+        "format": "BO3"
+      },
+      {
+        "id": "1550152",
+        "game": "cs2",
+        "opponent": "Endless Journey",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137028/285px_endless_journey_allmode.png",
+        "date": "2026-06-30T13:45:00Z",
+        "tournament": "CCT Europe Challengers Series season 4 2026 · Playoffs",
         "format": "BO3"
       },
       {
