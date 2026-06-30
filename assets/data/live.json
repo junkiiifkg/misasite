@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-30T08:58:13.939Z",
+    "fetchedAt": "2026-06-30T14:00:01.601Z",
     "source": "pandascore"
   },
   "branches": {
@@ -202,49 +202,49 @@
           },
           {
             "pos": 10,
-            "team": "Entropy",
+            "team": "NEW VISION",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 11,
-            "team": "Donstu Esports",
+            "team": "Entropy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 12,
-            "team": "Lilmix",
+            "team": "Donstu Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 13,
-            "team": "Subtop De France",
+            "team": "Lilmix",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 14,
-            "team": "SAW",
+            "team": "Subtop De France",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 15,
-            "team": "Julie&cie",
+            "team": "SAW",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 16,
-            "team": "NEW VISION",
+            "team": "Julie&cie",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -308,7 +308,7 @@
         "game": "cs2",
         "opponent": "Endless Journey",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137028/285px_endless_journey_allmode.png",
-        "date": "2026-06-30T13:45:00Z",
+        "date": "2026-06-30T13:55:00Z",
         "tournament": "CCT Europe Challengers Series season 4 2026 · Playoffs",
         "format": "BO3"
       },
