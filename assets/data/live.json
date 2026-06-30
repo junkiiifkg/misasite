@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-30T14:00:01.601Z",
+    "fetchedAt": "2026-06-30T19:43:56.936Z",
     "source": "pandascore"
   },
   "branches": {
@@ -135,50 +135,8 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "CCT Europe Challengers Series season 4 2026",
+        "leagueName": "European Pro League Series 8 Closed Qualifier 2026",
         "table": [
-          {
-            "pos": 1,
-            "team": "Atreides",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "BIG Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "Endless Journey",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "Just Players",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "Mai Tai",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "megoshort",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
           {
             "pos": 1,
             "team": "Misa Esports",
@@ -188,63 +146,21 @@
           },
           {
             "pos": 1,
-            "team": "OlyBet SB",
+            "team": "WBT",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "Wampirki",
+            "pos": 3,
+            "team": "Inner Circle Academy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 10,
-            "team": "NEW VISION",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 11,
-            "team": "Entropy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 12,
-            "team": "Donstu Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 13,
-            "team": "Lilmix",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 14,
-            "team": "Subtop De France",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 15,
+            "pos": 3,
             "team": "SAW",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 16,
-            "team": "Julie&cie",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -298,29 +214,43 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137017/599px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "VCL EMEA: Stage 3 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": " REBORN",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 3,
+            "team": "Team Liquid Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
+            "team": "Ghools Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          }
+        ]
+      }
     }
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1550152",
-        "game": "cs2",
-        "opponent": "Endless Journey",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137028/285px_endless_journey_allmode.png",
-        "date": "2026-06-30T13:55:00Z",
-        "tournament": "CCT Europe Challengers Series season 4 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
-        "id": "1534534",
-        "game": "valorant",
-        "opponent": "MIR",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136677/900px_mir_lightmode.png",
-        "date": "2026-06-30T17:30:00Z",
-        "tournament": "VCL EMEA: Stage 3 2026 · Playoffs",
-        "format": "BO3"
-      },
       {
         "id": "1553997",
         "game": "cs2",
@@ -328,6 +258,15 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138101/192px_inner_circle_esports_lightmode.png",
         "date": "2026-07-01T10:30:00Z",
         "tournament": "European Pro League Series 8 Closed Qualifier 2026 · Group D",
+        "format": "BO3"
+      },
+      {
+        "id": "1550161",
+        "game": "cs2",
+        "opponent": "Lilmix",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/126417/600px_lilmix_logo.png",
+        "date": "2026-07-01T11:00:00Z",
+        "tournament": "CCT Europe Challengers Series season 4 2026 · Playoffs",
         "format": "BO3"
       },
       {
