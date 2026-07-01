@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-01T14:12:29.459Z",
+    "fetchedAt": "2026-07-01T19:40:59.591Z",
     "source": "pandascore"
   },
   "branches": {
@@ -219,24 +219,24 @@
         "table": [
           {
             "pos": 1,
-            "team": "MIR",
+            "team": "Enterprise Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 1,
+            "team": "NAVI Junior",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
-          },
-          {
-            "pos": 3,
-            "team": "Joblife",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
           },
           {
             "pos": 3,
@@ -247,27 +247,27 @@
           },
           {
             "pos": 5,
+            "team": "MIR",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 6,
+            "team": "Joblife",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
             "team": "FOKUS",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 5,
-            "team": "NAVI Junior",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "Enterprise Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
+            "pos": 8,
             "team": "Mandatory",
             "w": 0,
             "l": 0,
@@ -280,21 +280,21 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1534537",
-        "game": "valorant",
-        "opponent": " REBORN",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138449/reborn_lightmode.png",
-        "date": "2026-07-01T15:00:00Z",
-        "tournament": "VCL EMEA: Stage 3 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
         "id": "1553999",
         "game": "cs2",
         "opponent": "WBT",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138841/r600iz_p.png",
         "date": "2026-07-02T10:30:00Z",
         "tournament": "European Pro League Series 8 Closed Qualifier 2026 · Group D",
+        "format": "BO3"
+      },
+      {
+        "id": "1534541",
+        "game": "valorant",
+        "opponent": "Lower bracket quarterfinal 1: MISA vs TBD",
+        "opponentLogo": "",
+        "date": "2026-07-02T15:00:00Z",
+        "tournament": "VCL EMEA: Stage 3 2026 · Playoffs",
         "format": "BO3"
       },
       {
@@ -308,6 +308,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1534537",
+        "game": "valorant",
+        "opponent": " REBORN",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138449/reborn_lightmode.png",
+        "date": "2026-07-01T15:07:11Z",
+        "tournament": "VCL EMEA: Stage 3 2026 · Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 0,
+          "opponent": 2,
+          "win": false
+        }
+      },
       {
         "id": "1550161",
         "game": "cs2",
@@ -712,20 +726,6 @@
           "misa": 2,
           "opponent": 0,
           "win": true
-        }
-      },
-      {
-        "id": "1428565",
-        "game": "valorant",
-        "opponent": "Beşiktaş Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128669/600px_besiktas_jk.png",
-        "date": "2026-04-19T16:31:21Z",
-        "tournament": "VCL Türkiye: Birlik Stage 2 2026 · Group A",
-        "format": "BO3",
-        "result": {
-          "misa": 0,
-          "opponent": 2,
-          "win": false
         }
       }
     ]
