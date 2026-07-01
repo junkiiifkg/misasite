@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-01T09:31:42.546Z",
+    "fetchedAt": "2026-07-01T14:12:29.459Z",
     "source": "pandascore"
   },
   "branches": {
@@ -139,28 +139,28 @@
         "table": [
           {
             "pos": 1,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 1,
-            "team": "WBT",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
             "team": "Inner Circle Academy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
+            "pos": 2,
             "team": "SAW",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 4,
+            "team": "WBT",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -280,30 +280,21 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1553997",
-        "game": "cs2",
-        "opponent": "Inner Circle Academy",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138101/192px_inner_circle_esports_lightmode.png",
-        "date": "2026-07-01T10:30:00Z",
-        "tournament": "European Pro League Series 8 Closed Qualifier 2026 · Group D",
-        "format": "BO3"
-      },
-      {
-        "id": "1550161",
-        "game": "cs2",
-        "opponent": "Lilmix",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/126417/600px_lilmix_logo.png",
-        "date": "2026-07-01T11:00:00Z",
-        "tournament": "CCT Europe Challengers Series season 4 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
         "id": "1534537",
         "game": "valorant",
         "opponent": " REBORN",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138449/reborn_lightmode.png",
         "date": "2026-07-01T15:00:00Z",
         "tournament": "VCL EMEA: Stage 3 2026 · Playoffs",
+        "format": "BO3"
+      },
+      {
+        "id": "1553999",
+        "game": "cs2",
+        "opponent": "WBT",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138841/r600iz_p.png",
+        "date": "2026-07-02T10:30:00Z",
+        "tournament": "European Pro League Series 8 Closed Qualifier 2026 · Group D",
         "format": "BO3"
       },
       {
@@ -317,6 +308,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1550161",
+        "game": "cs2",
+        "opponent": "Lilmix",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/126417/600px_lilmix_logo.png",
+        "date": "2026-07-01T11:00:00Z",
+        "tournament": "CCT Europe Challengers Series season 4 2026 · Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": false
+        }
+      },
       {
         "id": "1534534",
         "game": "valorant",
@@ -621,20 +626,6 @@
         "format": "BO3",
         "result": {
           "misa": 2,
-          "opponent": 0,
-          "win": true
-        }
-      },
-      {
-        "id": "1476001",
-        "game": "cs2",
-        "opponent": "The Last Resort",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/130590/190px_the_last_resort_lightmode.png",
-        "date": "2026-05-04T18:15:00Z",
-        "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
-        "format": "BO1",
-        "result": {
-          "misa": 0,
           "opponent": 0,
           "win": true
         }
