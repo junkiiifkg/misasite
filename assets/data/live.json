@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-06-30T19:43:56.936Z",
+    "fetchedAt": "2026-07-01T02:41:57.071Z",
     "source": "pandascore"
   },
   "branches": {
@@ -219,13 +219,13 @@
         "table": [
           {
             "pos": 1,
-            "team": " REBORN",
+            "team": "MIR",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 2,
+            "pos": 1,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
@@ -233,14 +233,42 @@
           },
           {
             "pos": 3,
-            "team": "Team Liquid Academy",
+            "team": "Joblife",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 4,
-            "team": "Ghools Esports",
+            "pos": 3,
+            "team": " REBORN",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "FOKUS",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "NAVI Junior",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "Enterprise Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "Mandatory",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -270,6 +298,15 @@
         "format": "BO3"
       },
       {
+        "id": "1534537",
+        "game": "valorant",
+        "opponent": " REBORN",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138449/reborn_lightmode.png",
+        "date": "2026-07-01T15:00:00Z",
+        "tournament": "VCL EMEA: Stage 3 2026 · Playoffs",
+        "format": "BO3"
+      },
+      {
         "id": "1527915",
         "game": "cs2",
         "opponent": "Lower bracket final: MISA vs TBD",
@@ -280,6 +317,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1534534",
+        "game": "valorant",
+        "opponent": "MIR",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136677/900px_mir_lightmode.png",
+        "date": "2026-06-30T18:35:40Z",
+        "tournament": "VCL EMEA: Stage 3 2026 · Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1534520",
         "game": "valorant",
@@ -684,20 +735,6 @@
           "misa": 0,
           "opponent": 2,
           "win": false
-        }
-      },
-      {
-        "id": "1428558",
-        "game": "valorant",
-        "opponent": "Bushido Wildcats",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137857/bushido_wildcatslogo_square.png",
-        "date": "2026-04-12T14:34:29Z",
-        "tournament": "VCL Türkiye: Birlik Stage 2 2026 · Group A",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 0,
-          "win": true
         }
       }
     ]
