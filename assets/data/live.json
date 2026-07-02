@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-02T13:41:18.747Z",
+    "fetchedAt": "2026-07-02T19:11:24.926Z",
     "source": "pandascore"
   },
   "branches": {
@@ -247,41 +247,41 @@
         "table": [
           {
             "pos": 1,
-            "team": "Mandatory",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "MIR",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Enterprise Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "NAVI Junior",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
+            "pos": 2,
+            "team": "NAVI Junior",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "Mandatory",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
+            "team": "MIR",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
             "pos": 5,
+            "team": "Enterprise Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 6,
             "team": " REBORN",
             "w": 0,
             "l": 0,
@@ -308,15 +308,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1534541",
-        "game": "valorant",
-        "opponent": "FOKUS",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/130400/108px_fokus_allmode.png",
-        "date": "2026-07-02T15:00:00Z",
-        "tournament": "VCL EMEA: Stage 3 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
         "id": "1527915",
         "game": "cs2",
         "opponent": "Lower bracket final: MISA vs TBD",
@@ -327,6 +318,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1534541",
+        "game": "valorant",
+        "opponent": "FOKUS",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/130400/108px_fokus_allmode.png",
+        "date": "2026-07-02T15:05:58Z",
+        "tournament": "VCL EMEA: Stage 3 2026 · Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 0,
+          "opponent": 2,
+          "win": false
+        }
+      },
       {
         "id": "1534537",
         "game": "valorant",
@@ -731,20 +736,6 @@
           "misa": 0,
           "opponent": 2,
           "win": false
-        }
-      },
-      {
-        "id": "1456304",
-        "game": "valorant",
-        "opponent": "Galatasaray Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/130231/111px_galatasaray_esports_allmode.png",
-        "date": "2026-04-25T17:45:33Z",
-        "tournament": "VCL Türkiye: Birlik Stage 2 2026 · Playoffs",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 0,
-          "win": true
         }
       }
     ]
