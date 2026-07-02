@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-01T19:40:59.591Z",
+    "fetchedAt": "2026-07-02T02:31:32.172Z",
     "source": "pandascore"
   },
   "branches": {
@@ -219,56 +219,56 @@
         "table": [
           {
             "pos": 1,
-            "team": "Enterprise Esports",
+            "team": "Mandatory",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "NAVI Junior",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 3,
-            "team": " REBORN",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
+            "pos": 2,
             "team": "MIR",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 6,
-            "team": "Joblife",
+            "pos": 3,
+            "team": "Enterprise Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "NAVI Junior",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 5,
+            "team": " REBORN",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 7,
-            "team": "FOKUS",
+            "team": "Joblife",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 8,
-            "team": "Mandatory",
+            "team": "FOKUS",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -291,8 +291,8 @@
       {
         "id": "1534541",
         "game": "valorant",
-        "opponent": "Lower bracket quarterfinal 1: MISA vs TBD",
-        "opponentLogo": "",
+        "opponent": "FOKUS",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/130400/108px_fokus_allmode.png",
         "date": "2026-07-02T15:00:00Z",
         "tournament": "VCL EMEA: Stage 3 2026 · Playoffs",
         "format": "BO3"
