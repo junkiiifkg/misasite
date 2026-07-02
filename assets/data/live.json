@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-02T08:43:27.581Z",
+    "fetchedAt": "2026-07-02T13:41:18.747Z",
     "source": "pandascore"
   },
   "branches": {
@@ -135,32 +135,60 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "European Pro League Series 8 Closed Qualifier 2026",
+        "leagueName": "TESFED League Season 3 2026",
         "table": [
           {
             "pos": 1,
-            "team": "Inner Circle Academy",
+            "team": "FUT Turkuaz",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 2,
-            "team": "SAW",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
+            "pos": 2,
+            "team": "WRAITH PCIFIC",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
             "pos": 4,
-            "team": "WBT",
+            "team": "Bushido Wildcats",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "Eternal Fire Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 6,
+            "team": "FULLPOWER",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "VENOM ESPOR",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 8,
+            "team": "Fire Flux Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -279,15 +307,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1553999",
-        "game": "cs2",
-        "opponent": "WBT",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138841/r600iz_p.png",
-        "date": "2026-07-02T10:30:00Z",
-        "tournament": "European Pro League Series 8 Closed Qualifier 2026 · Group D",
-        "format": "BO3"
-      },
       {
         "id": "1534541",
         "game": "valorant",
