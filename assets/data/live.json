@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-03T13:45:33.109Z",
+    "fetchedAt": "2026-07-03T19:04:33.940Z",
     "source": "pandascore"
   },
   "branches": {
@@ -139,49 +139,49 @@
         "table": [
           {
             "pos": 1,
+            "team": "VENOM ESPOR",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
             "team": "FUT Turkuaz",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 2,
+            "pos": 3,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 2,
+            "pos": 3,
             "team": "WRAITH PCIFIC",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 4,
+            "pos": 5,
             "team": "Bushido Wildcats",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 5,
+            "pos": 6,
             "team": "Eternal Fire Academy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 6,
-            "team": "FULLPOWER",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
             "pos": 7,
-            "team": "VENOM ESPOR",
+            "team": "FULLPOWER",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -247,56 +247,56 @@
         "table": [
           {
             "pos": 1,
+            "team": "FOKUS",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
             "team": "Enterprise Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
+            "pos": 2,
             "team": " REBORN",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
+            "pos": 4,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 4,
+            "pos": 5,
             "team": "NAVI Junior",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 5,
+            "pos": 6,
             "team": "Mandatory",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 6,
+            "pos": 7,
             "team": "MIR",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 7,
-            "team": "Joblife",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
             "pos": 8,
-            "team": "FOKUS",
+            "team": "Joblife",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -310,10 +310,19 @@
       {
         "id": "1527915",
         "game": "cs2",
-        "opponent": "Lower bracket final: MISA vs TBD",
-        "opponentLogo": "",
+        "opponent": "Fire Flux Esports",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/135474/190px_fire_flux_esports_allmode.png",
         "date": "2026-07-04T16:00:00Z",
         "tournament": "TESFED League Season 3 2026 · Playoffs",
+        "format": "BO3"
+      },
+      {
+        "id": "1568946",
+        "game": "cs2",
+        "opponent": "Entropy",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128258/800px_entropy_gaming_2020_lightmode.png",
+        "date": "2026-07-07T10:30:00Z",
+        "tournament": "United21 Season 52 2026 · Group A",
         "format": "BO3"
       }
     ],
