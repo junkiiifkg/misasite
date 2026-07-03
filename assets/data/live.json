@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-02T19:11:24.926Z",
+    "fetchedAt": "2026-07-03T02:06:44.099Z",
     "source": "pandascore"
   },
   "branches": {
@@ -134,67 +134,7 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "TESFED League Season 3 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "FUT Turkuaz",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 2,
-            "team": "WRAITH PCIFIC",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "Bushido Wildcats",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
-            "team": "Eternal Fire Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "FULLPOWER",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "VENOM ESPOR",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 8,
-            "team": "Fire Flux Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     },
     "valorant": {
       "roster": [
@@ -247,42 +187,42 @@
         "table": [
           {
             "pos": 1,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 2,
-            "team": "NAVI Junior",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Mandatory",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "MIR",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
             "team": "Enterprise Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 6,
+            "pos": 1,
             "team": " REBORN",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 4,
+            "team": "NAVI Junior",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "Mandatory",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 6,
+            "team": "MIR",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -307,6 +247,15 @@
   },
   "matches": {
     "upcoming": [
+      {
+        "id": "1568944",
+        "game": "cs2",
+        "opponent": "ex-MANA eSports",
+        "opponentLogo": "",
+        "date": "2026-07-03T11:30:00Z",
+        "tournament": "United21 Season 52 2026 · Group A",
+        "format": "BO3"
+      },
       {
         "id": "1527915",
         "game": "cs2",
