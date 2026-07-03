@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-03T08:50:58.342Z",
+    "fetchedAt": "2026-07-03T13:45:33.109Z",
     "source": "pandascore"
   },
   "branches": {
@@ -134,7 +134,67 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "TESFED League Season 3 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "FUT Turkuaz",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 2,
+            "team": "WRAITH PCIFIC",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
+            "team": "Bushido Wildcats",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "Eternal Fire Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 6,
+            "team": "FULLPOWER",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "VENOM ESPOR",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 8,
+            "team": "Fire Flux Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "valorant": {
       "roster": [
@@ -247,15 +307,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1568944",
-        "game": "cs2",
-        "opponent": "ex-MANA eSports",
-        "opponentLogo": "",
-        "date": "2026-07-03T11:30:00Z",
-        "tournament": "United21 Season 52 2026 · Group A",
-        "format": "BO3"
-      },
       {
         "id": "1527915",
         "game": "cs2",
