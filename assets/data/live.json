@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-05T02:13:25.993Z",
+    "fetchedAt": "2026-07-05T08:42:25.097Z",
     "source": "pandascore"
   },
   "branches": {
@@ -242,67 +242,7 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137017/599px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "VCL EMEA: Stage 3 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "Joblife",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "FOKUS",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Enterprise Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": " REBORN",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 6,
-            "team": "NAVI Junior",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "Mandatory",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 8,
-            "team": "MIR",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     }
   },
   "matches": {
@@ -323,6 +263,15 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128258/800px_entropy_gaming_2020_lightmode.png",
         "date": "2026-07-07T10:30:00Z",
         "tournament": "United21 Season 52 2026 · Group A",
+        "format": "BO3"
+      },
+      {
+        "id": "1572670",
+        "game": "valorant",
+        "opponent": "Çilekler",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138900/33px_cilekler_allmode.png",
+        "date": "2026-07-07T15:00:00Z",
+        "tournament": "VCL EMEA: Last Chance Qualifier 2026 · Goup D",
         "format": "BO3"
       }
     ],
