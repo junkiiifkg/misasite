@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-04T18:58:21.272Z",
+    "fetchedAt": "2026-07-05T02:13:25.993Z",
     "source": "pandascore"
   },
   "branches": {
@@ -135,32 +135,60 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "United21 Season 52 2026",
+        "leagueName": "TESFED League Season 3 2026",
         "table": [
           {
             "pos": 1,
-            "team": "ex-MANA eSports",
+            "team": "Fire Flux Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
+            "pos": 2,
+            "team": "VENOM ESPOR",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "FUT Turkuaz",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 3,
-            "team": "Entropy",
+            "pos": 4,
+            "team": "WRAITH PCIFIC",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
-            "team": "INFURITY Gaming",
+            "pos": 6,
+            "team": "Bushido Wildcats",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "Eternal Fire Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 8,
+            "team": "FULLPOWER",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -279,6 +307,15 @@
   },
   "matches": {
     "upcoming": [
+      {
+        "id": "1527909",
+        "game": "cs2",
+        "opponent": "WRAITH PCIFIC",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138660/wraith_pcific_allmode.png",
+        "date": "2026-07-05T16:00:00Z",
+        "tournament": "TESFED League Season 3 2026 · Playoffs",
+        "format": "BO5"
+      },
       {
         "id": "1568946",
         "game": "cs2",
