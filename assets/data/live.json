@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-07T14:10:25.684Z",
+    "fetchedAt": "2026-07-07T19:43:02.963Z",
     "source": "pandascore"
   },
   "branches": {
@@ -214,17 +214,49 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137017/599px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "VCL EMEA: Last Chance Qualifier 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Barça eSports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Ghools Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "Çilekler",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          }
+        ]
+      }
     }
   },
   "matches": {
     "upcoming": [
       {
-        "id": "1572670",
+        "id": "1572673",
         "game": "valorant",
-        "opponent": "Çilekler",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138900/33px_cilekler_allmode.png",
-        "date": "2026-07-07T15:00:00Z",
+        "opponent": "Ghools Esports",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137812/250px_ghools_esports_allmode.png",
+        "date": "2026-07-08T17:30:00Z",
         "tournament": "VCL EMEA: Last Chance Qualifier 2026 · Goup D",
         "format": "BO3"
       },
@@ -239,6 +271,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1572670",
+        "game": "valorant",
+        "opponent": "Çilekler",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138900/33px_cilekler_allmode.png",
+        "date": "2026-07-07T15:13:00Z",
+        "tournament": "VCL EMEA: Last Chance Qualifier 2026 · Goup D",
+        "format": "BO3",
+        "result": {
+          "misa": 1,
+          "opponent": 2,
+          "win": false
+        }
+      },
       {
         "id": "1534541",
         "game": "valorant",
@@ -643,20 +689,6 @@
           "misa": 2,
           "opponent": 0,
           "win": true
-        }
-      },
-      {
-        "id": "1456306",
-        "game": "valorant",
-        "opponent": " REBORN",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138449/reborn_lightmode.png",
-        "date": "2026-04-27T17:43:23Z",
-        "tournament": "VCL Türkiye: Birlik Stage 2 2026 · Playoffs",
-        "format": "BO3",
-        "result": {
-          "misa": 0,
-          "opponent": 2,
-          "win": false
         }
       }
     ]
