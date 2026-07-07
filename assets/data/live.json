@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-07T09:26:27.492Z",
+    "fetchedAt": "2026-07-07T14:10:25.684Z",
     "source": "pandascore"
   },
   "branches": {
@@ -145,14 +145,7 @@
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 3,
+            "pos": 2,
             "team": "Entropy",
             "w": 0,
             "l": 0,
@@ -160,6 +153,13 @@
           },
           {
             "pos": 3,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 4,
             "team": "INFURITY Gaming",
             "w": 0,
             "l": 0,
@@ -220,21 +220,21 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1568946",
-        "game": "cs2",
-        "opponent": "Entropy",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128258/800px_entropy_gaming_2020_lightmode.png",
-        "date": "2026-07-07T10:30:00Z",
-        "tournament": "United21 Season 52 2026 · Group A",
-        "format": "BO3"
-      },
-      {
         "id": "1572670",
         "game": "valorant",
         "opponent": "Çilekler",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138900/33px_cilekler_allmode.png",
         "date": "2026-07-07T15:00:00Z",
         "tournament": "VCL EMEA: Last Chance Qualifier 2026 · Goup D",
+        "format": "BO3"
+      },
+      {
+        "id": "1568947",
+        "game": "cs2",
+        "opponent": "INFURITY Gaming",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/132795/800px_infurity_gaming_2025_lightmode.png",
+        "date": "2026-07-11T08:00:00Z",
+        "tournament": "United21 Season 52 2026 · Group A",
         "format": "BO3"
       }
     ],
