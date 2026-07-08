@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-08T13:43:57.332Z",
+    "fetchedAt": "2026-07-08T19:10:04.493Z",
     "source": "pandascore"
   },
   "branches": {
@@ -219,14 +219,14 @@
         "table": [
           {
             "pos": 1,
-            "team": "Barça eSports",
+            "team": "Ghools Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "Ghools Esports",
+            "pos": 2,
+            "team": "Barça eSports",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -239,7 +239,7 @@
             "isMisa": false
           },
           {
-            "pos": 3,
+            "pos": 4,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
@@ -252,11 +252,11 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1572673",
+        "id": "1572674",
         "game": "valorant",
-        "opponent": "Ghools Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137812/250px_ghools_esports_allmode.png",
-        "date": "2026-07-08T17:30:00Z",
+        "opponent": "Çilekler",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138900/33px_cilekler_allmode.png",
+        "date": "2026-07-09T17:30:00Z",
         "tournament": "VCL EMEA: Last Chance Qualifier 2026 · Goup D",
         "format": "BO3"
       },
@@ -271,6 +271,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1572673",
+        "game": "valorant",
+        "opponent": "Ghools Esports",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137812/250px_ghools_esports_allmode.png",
+        "date": "2026-07-08T18:06:50Z",
+        "tournament": "VCL EMEA: Last Chance Qualifier 2026 · Goup D",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1572670",
         "game": "valorant",
@@ -670,20 +684,6 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/134235/boost_gate_esportslogo_profile.png",
         "date": "2026-05-01T16:56:59Z",
         "tournament": "TCL Spring 2026 · Regular Season",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 0,
-          "win": true
-        }
-      },
-      {
-        "id": "1456310",
-        "game": "valorant",
-        "opponent": "Fire Flux Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/129194/60b41997755c0.png",
-        "date": "2026-04-28T14:31:36Z",
-        "tournament": "VCL Türkiye: Birlik Stage 2 2026 · Playoffs",
         "format": "BO3",
         "result": {
           "misa": 2,
