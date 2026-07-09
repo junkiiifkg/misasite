@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-09T14:35:12.113Z",
+    "fetchedAt": "2026-07-09T19:24:14.219Z",
     "source": "pandascore"
   },
   "branches": {
@@ -251,15 +251,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1572674",
-        "game": "valorant",
-        "opponent": "Çilekler",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138900/33px_cilekler_allmode.png",
-        "date": "2026-07-09T17:30:00Z",
-        "tournament": "VCL EMEA: Last Chance Qualifier 2026 · Goup D",
-        "format": "BO3"
-      },
       {
         "id": "1568947",
         "game": "cs2",
