@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-09T19:24:14.219Z",
+    "fetchedAt": "2026-07-10T02:06:09.843Z",
     "source": "pandascore"
   },
   "branches": {
@@ -219,31 +219,31 @@
         "table": [
           {
             "pos": 1,
-            "team": "Ghools Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "Barça eSports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
             "team": "Çilekler",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 4,
+            "pos": 2,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
+          },
+          {
+            "pos": 3,
+            "team": "Ghools Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
+            "team": "Barça eSports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
           }
         ]
       }
@@ -262,6 +262,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1572674",
+        "game": "valorant",
+        "opponent": "Çilekler",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138900/33px_cilekler_allmode.png",
+        "date": "2026-07-09T17:27:36Z",
+        "tournament": "VCL EMEA: Last Chance Qualifier 2026 · Goup D",
+        "format": "BO3",
+        "result": {
+          "misa": 1,
+          "opponent": 2,
+          "win": false
+        }
+      },
       {
         "id": "1572673",
         "game": "valorant",
@@ -652,20 +666,6 @@
           "misa": 1,
           "opponent": 3,
           "win": false
-        }
-      },
-      {
-        "id": "1456312",
-        "game": "valorant",
-        "opponent": "FUT Academy",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137866/fut_esportslogo_square.png",
-        "date": "2026-05-03T17:57:43Z",
-        "tournament": "VCL Türkiye: Birlik Stage 2 2026 · Playoffs",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 0,
-          "win": true
         }
       },
       {
