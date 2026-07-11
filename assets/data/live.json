@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-11T07:41:57.950Z",
+    "fetchedAt": "2026-07-11T12:58:52.081Z",
     "source": "pandascore"
   },
   "branches": {
@@ -134,39 +134,7 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "United21 Season 52 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "ex-MANA eSports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "Entropy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 4,
-            "team": "INFURITY Gaming",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     },
     "valorant": {
       "roster": [
@@ -252,12 +220,12 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1568947",
+        "id": "1582116",
         "game": "cs2",
-        "opponent": "INFURITY Gaming",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/132795/800px_infurity_gaming_2025_lightmode.png",
-        "date": "2026-07-11T08:00:00Z",
-        "tournament": "United21 Season 52 2026 · Group A",
+        "opponent": "fnatic",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/3217/1199px_fnatic_2020_allmode.png",
+        "date": "2026-07-12T13:00:00Z",
+        "tournament": "ESL Challenger League Europe Cup #1 season 52 2026 · Group B",
         "format": "BO3"
       }
     ],
