@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-12T18:53:18.995Z",
+    "fetchedAt": "2026-07-13T01:57:48.855Z",
     "source": "pandascore"
   },
   "branches": {
@@ -138,36 +138,6 @@
     },
     "valorant": {
       "roster": [
-        {
-          "tag": "Brave",
-          "name": "Eren Kasırga",
-          "role": "Player",
-          "image": "assets/images/valorant/brave.png"
-        },
-        {
-          "tag": "pAura",
-          "name": "Melih Karaduran",
-          "role": "Player",
-          "image": "assets/images/valorant/paura.png"
-        },
-        {
-          "tag": "QutionerX",
-          "name": "Doğukan Dural",
-          "role": "Player",
-          "image": "assets/images/valorant/qutionerx.png"
-        },
-        {
-          "tag": "Elite",
-          "name": " Efe Teber",
-          "role": "Player",
-          "image": "assets/images/valorant/elite.png"
-        },
-        {
-          "tag": "Burzzy",
-          "name": "Burak  Özveren",
-          "role": "Player",
-          "image": "assets/images/valorant/burzzy.png"
-        },
         {
           "tag": "Draken",
           "name": "",
