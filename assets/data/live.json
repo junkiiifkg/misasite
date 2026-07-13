@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-13T08:52:14.807Z",
+    "fetchedAt": "2026-07-13T14:10:28.223Z",
     "source": "pandascore"
   },
   "branches": {
@@ -134,7 +134,39 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "United21 Season 52 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Alpha Dominion Nation",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "EAC Rising",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "ex-MANA eSports",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "FaZe Up Next",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "valorant": {
       "roster": [
