@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-14T07:49:03.038Z",
+    "fetchedAt": "2026-07-14T13:13:01.659Z",
     "source": "pandascore"
   },
   "branches": {
@@ -134,39 +134,7 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "United21 Season 52 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "Alpha Dominion Nation",
-            "w": 1,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "EAC Rising",
-            "w": 1,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "ex-MANA eSports",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "FaZe Up Next",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     },
     "valorant": {
       "roster": [
@@ -222,15 +190,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1584701",
-        "game": "cs2",
-        "opponent": "eSuba",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/127497/e_suba_2021_lightmode.png",
-        "date": "2026-07-14T10:30:00Z",
-        "tournament": "United21 Season 52 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
         "id": "1586807",
         "game": "cs2",
         "opponent": "Subtop De France",
@@ -246,6 +205,15 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128258/800px_entropy_gaming_2020_lightmode.png",
         "date": "2026-07-16T08:00:00Z",
         "tournament": "NODWIN Clutch Series Season 10 2026 · Play-In Group D",
+        "format": "BO3"
+      },
+      {
+        "id": "1586969",
+        "game": "cs2",
+        "opponent": "OlyBet SB",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137449/504px_hypewrld_2025_allmode.png",
+        "date": "2026-07-17T17:00:00Z",
+        "tournament": "CCT Europe Closed Qualifier: Series #5 2026 · Group D",
         "format": "BO3"
       }
     ],
