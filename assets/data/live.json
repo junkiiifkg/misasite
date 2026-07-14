@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-14T13:13:01.659Z",
+    "fetchedAt": "2026-07-14T19:05:20.356Z",
     "source": "pandascore"
   },
   "branches": {
@@ -134,7 +134,53 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "ESEA Advanced Europe season 58 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Fire Flux Esports",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "PURE",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "NEW VISION",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
+            "team": "Younglings",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
+            "team": "A Great Chaos",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
+            "team": "EvolupeGG",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "valorant": {
       "roster": [
@@ -194,7 +240,7 @@
         "game": "cs2",
         "opponent": "Subtop De France",
         "opponentLogo": "",
-        "date": "2026-07-14T18:30:00Z",
+        "date": "2026-07-14T18:45:00Z",
         "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
         "format": "BO1"
       },
@@ -205,6 +251,15 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128258/800px_entropy_gaming_2020_lightmode.png",
         "date": "2026-07-16T08:00:00Z",
         "tournament": "NODWIN Clutch Series Season 10 2026 · Play-In Group D",
+        "format": "BO3"
+      },
+      {
+        "id": "1588030",
+        "game": "cs2",
+        "opponent": "Inner Circle Prospect",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138602/600px_inner_circle_2025_allmode.png",
+        "date": "2026-07-16T10:30:00Z",
+        "tournament": "United21 Season 52 2026 · Playoffs",
         "format": "BO3"
       },
       {
