@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-14T01:44:41.527Z",
+    "fetchedAt": "2026-07-14T07:49:03.038Z",
     "source": "pandascore"
   },
   "branches": {
@@ -229,6 +229,15 @@
         "date": "2026-07-14T10:30:00Z",
         "tournament": "United21 Season 52 2026 · Playoffs",
         "format": "BO3"
+      },
+      {
+        "id": "1586807",
+        "game": "cs2",
+        "opponent": "Subtop De France",
+        "opponentLogo": "",
+        "date": "2026-07-14T18:30:00Z",
+        "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
+        "format": "BO1"
       },
       {
         "id": "1582145",
