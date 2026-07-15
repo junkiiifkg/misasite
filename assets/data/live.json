@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-15T13:16:42.356Z",
+    "fetchedAt": "2026-07-15T18:57:25.405Z",
     "source": "pandascore"
   },
   "branches": {
@@ -96,6 +96,12 @@
     },
     "cs2": {
       "roster": [
+        {
+          "tag": "emstar",
+          "name": "Emrecan Çalışkan",
+          "role": "Player",
+          "image": ""
+        },
         {
           "tag": "mini",
           "name": "Muhammed Salman",
@@ -196,6 +202,15 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128258/800px_entropy_gaming_2020_lightmode.png",
         "date": "2026-07-16T08:00:00Z",
         "tournament": "NODWIN Clutch Series Season 10 2026 · Play-In Group D",
+        "format": "BO3"
+      },
+      {
+        "id": "1588648",
+        "game": "cs2",
+        "opponent": "Lower bracket quarterfinal 2: MISA vs TBD",
+        "opponentLogo": "",
+        "date": "2026-07-17T10:30:00Z",
+        "tournament": "United21 Season 52 2026 · Playoffs",
         "format": "BO3"
       },
       {
