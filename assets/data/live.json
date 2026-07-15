@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-15T07:52:16.361Z",
+    "fetchedAt": "2026-07-15T13:16:42.356Z",
     "source": "pandascore"
   },
   "branches": {
@@ -134,67 +134,7 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "United21 Season 52 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "eSuba",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 3,
-            "team": "Inner Circle Prospect",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "LEO",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
-            "team": "Alpha Dominion Nation",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
-            "team": "FaZe Up Next",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "EAC Rising",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "ex-MANA eSports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     },
     "valorant": {
       "roster": [
@@ -249,15 +189,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1588030",
-        "game": "cs2",
-        "opponent": "Inner Circle Prospect",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138602/600px_inner_circle_2025_allmode.png",
-        "date": "2026-07-15T10:30:00Z",
-        "tournament": "United21 Season 52 2026 · Playoffs",
-        "format": "BO3"
-      },
       {
         "id": "1582145",
         "game": "cs2",
