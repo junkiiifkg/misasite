@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-14T19:05:20.356Z",
+    "fetchedAt": "2026-07-15T01:41:11.902Z",
     "source": "pandascore"
   },
   "branches": {
@@ -135,48 +135,62 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "ESEA Advanced Europe season 58 2026",
+        "leagueName": "United21 Season 52 2026",
         "table": [
           {
             "pos": 1,
-            "team": "Fire Flux Esports",
-            "w": 1,
+            "team": "eSuba",
+            "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 1,
-            "team": "PURE",
-            "w": 1,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 3,
+            "team": "Inner Circle Prospect",
+            "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "NEW VISION",
-            "w": 1,
+            "pos": 3,
+            "team": "LEO",
+            "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 4,
-            "team": "Younglings",
+            "pos": 5,
+            "team": "Alpha Dominion Nation",
             "w": 0,
-            "l": 1,
+            "l": 0,
             "isMisa": false
           },
           {
-            "pos": 4,
-            "team": "A Great Chaos",
+            "pos": 5,
+            "team": "FaZe Up Next",
             "w": 0,
-            "l": 1,
+            "l": 0,
             "isMisa": false
           },
           {
-            "pos": 4,
-            "team": "EvolupeGG",
+            "pos": 7,
+            "team": "EAC Rising",
             "w": 0,
-            "l": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "ex-MANA eSports",
+            "w": 0,
+            "l": 0,
             "isMisa": false
           }
         ]
@@ -236,13 +250,13 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1586807",
+        "id": "1588030",
         "game": "cs2",
-        "opponent": "Subtop De France",
-        "opponentLogo": "",
-        "date": "2026-07-14T18:45:00Z",
-        "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
-        "format": "BO1"
+        "opponent": "Inner Circle Prospect",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138602/600px_inner_circle_2025_allmode.png",
+        "date": "2026-07-15T10:30:00Z",
+        "tournament": "United21 Season 52 2026 · Playoffs",
+        "format": "BO3"
       },
       {
         "id": "1582145",
@@ -251,15 +265,6 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128258/800px_entropy_gaming_2020_lightmode.png",
         "date": "2026-07-16T08:00:00Z",
         "tournament": "NODWIN Clutch Series Season 10 2026 · Play-In Group D",
-        "format": "BO3"
-      },
-      {
-        "id": "1588030",
-        "game": "cs2",
-        "opponent": "Inner Circle Prospect",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138602/600px_inner_circle_2025_allmode.png",
-        "date": "2026-07-16T10:30:00Z",
-        "tournament": "United21 Season 52 2026 · Playoffs",
         "format": "BO3"
       },
       {
@@ -273,6 +278,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1586807",
+        "game": "cs2",
+        "opponent": "Subtop De France",
+        "opponentLogo": "",
+        "date": "2026-07-14T18:45:00Z",
+        "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
+        "format": "BO1",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1572674",
         "game": "valorant",
@@ -620,20 +639,6 @@
         "result": {
           "misa": 2,
           "opponent": 1,
-          "win": true
-        }
-      },
-      {
-        "id": "1487711",
-        "game": "cs2",
-        "opponent": "zajezdzacze",
-        "opponentLogo": "",
-        "date": "2026-05-11T15:30:00Z",
-        "tournament": "CCT Europe Contenders #5 2026 · Playoffs",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 0,
           "win": true
         }
       },
