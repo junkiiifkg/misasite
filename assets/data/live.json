@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-16T13:24:13.027Z",
+    "fetchedAt": "2026-07-16T18:57:56.597Z",
     "source": "pandascore"
   },
   "branches": {
@@ -290,8 +290,8 @@
       {
         "id": "1588643",
         "game": "cs2",
-        "opponent": "Winners match: MISA vs TBD",
-        "opponentLogo": "",
+        "opponent": "G2 Ares",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/135321/g2_esportslogo_square.png",
         "date": "2026-07-17T11:00:00Z",
         "tournament": "NODWIN Clutch Series Season 10 2026 · Play-In Group D",
         "format": "BO3"
