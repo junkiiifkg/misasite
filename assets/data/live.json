@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-15T18:57:25.405Z",
+    "fetchedAt": "2026-07-16T01:50:52.597Z",
     "source": "pandascore"
   },
   "branches": {
@@ -203,6 +203,15 @@
         "date": "2026-07-16T08:00:00Z",
         "tournament": "NODWIN Clutch Series Season 10 2026 · Play-In Group D",
         "format": "BO3"
+      },
+      {
+        "id": "1589646",
+        "game": "cs2",
+        "opponent": "OKSUCC",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138646/oksucc_allmode.png",
+        "date": "2026-07-16T18:30:00Z",
+        "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
+        "format": "BO1"
       },
       {
         "id": "1588648",
