@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-17T13:08:24.075Z",
+    "fetchedAt": "2026-07-17T18:55:08.016Z",
     "source": "pandascore"
   },
   "branches": {
@@ -140,7 +140,67 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "United21 Season 52 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Alpha Dominion Nation",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "EAC Rising",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "eSuba",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
+            "team": "LEO",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "Inner Circle Prospect",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 6,
+            "team": "FaZe Up Next",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 8,
+            "team": "ex-MANA eSports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "valorant": {
       "roster": [
@@ -196,15 +256,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1586969",
-        "game": "cs2",
-        "opponent": "OlyBet SB",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137449/504px_hypewrld_2025_allmode.png",
-        "date": "2026-07-17T17:00:00Z",
-        "tournament": "CCT Europe Closed Qualifier: Series #5 2026 · Group D",
-        "format": "BO3"
-      },
-      {
         "id": "1588635",
         "game": "cs2",
         "opponent": "ex-MANA eSports",
@@ -220,6 +271,15 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128258/800px_entropy_gaming_2020_lightmode.png",
         "date": "2026-07-18T11:00:00Z",
         "tournament": "NODWIN Clutch Series Season 10 2026 · Play-In Group D",
+        "format": "BO3"
+      },
+      {
+        "id": "1586970",
+        "game": "cs2",
+        "opponent": "Benched gods",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138027/285px_benched_gods_lightmode.png",
+        "date": "2026-07-18T17:00:00Z",
+        "tournament": "CCT Europe Closed Qualifier: Series #5 2026 · Group D",
         "format": "BO3"
       }
     ],
