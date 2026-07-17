@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-17T01:54:42.012Z",
+    "fetchedAt": "2026-07-17T07:54:05.776Z",
     "source": "pandascore"
   },
   "branches": {
@@ -228,21 +228,21 @@
   "matches": {
     "upcoming": [
       {
+        "id": "1588643",
+        "game": "cs2",
+        "opponent": "G2 Ares",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/135321/g2_esportslogo_square.png",
+        "date": "2026-07-17T08:00:00Z",
+        "tournament": "NODWIN Clutch Series Season 10 2026 · Play-In Group D",
+        "format": "BO3"
+      },
+      {
         "id": "1588648",
         "game": "cs2",
         "opponent": "Alpha Dominion Nation",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138303/620px_alpha_dominion_nation_allmode.png",
         "date": "2026-07-17T10:30:00Z",
         "tournament": "United21 Season 52 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
-        "id": "1588643",
-        "game": "cs2",
-        "opponent": "G2 Ares",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/135321/g2_esportslogo_square.png",
-        "date": "2026-07-17T11:00:00Z",
-        "tournament": "NODWIN Clutch Series Season 10 2026 · Play-In Group D",
         "format": "BO3"
       },
       {
