@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-17T07:54:05.776Z",
+    "fetchedAt": "2026-07-17T13:08:24.075Z",
     "source": "pandascore"
   },
   "branches": {
@@ -140,39 +140,7 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "NODWIN Clutch Series Season 10 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "G2 Ares",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "Lilmix",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Entropy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          }
-        ]
-      }
+      "standings": null
     },
     "valorant": {
       "roster": [
@@ -228,24 +196,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1588643",
-        "game": "cs2",
-        "opponent": "G2 Ares",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/135321/g2_esportslogo_square.png",
-        "date": "2026-07-17T08:00:00Z",
-        "tournament": "NODWIN Clutch Series Season 10 2026 · Play-In Group D",
-        "format": "BO3"
-      },
-      {
-        "id": "1588648",
-        "game": "cs2",
-        "opponent": "Alpha Dominion Nation",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138303/620px_alpha_dominion_nation_allmode.png",
-        "date": "2026-07-17T10:30:00Z",
-        "tournament": "United21 Season 52 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
         "id": "1586969",
         "game": "cs2",
         "opponent": "OlyBet SB",
@@ -257,14 +207,37 @@
       {
         "id": "1588635",
         "game": "cs2",
-        "opponent": "Lower bracket semifinal: MISA vs TBD",
+        "opponent": "ex-MANA eSports",
         "opponentLogo": "",
         "date": "2026-07-18T10:30:00Z",
         "tournament": "United21 Season 52 2026 · Playoffs",
         "format": "BO3"
+      },
+      {
+        "id": "1588645",
+        "game": "cs2",
+        "opponent": "Entropy",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128258/800px_entropy_gaming_2020_lightmode.png",
+        "date": "2026-07-18T11:00:00Z",
+        "tournament": "NODWIN Clutch Series Season 10 2026 · Play-In Group D",
+        "format": "BO3"
       }
     ],
     "recent": [
+      {
+        "id": "1588648",
+        "game": "cs2",
+        "opponent": "Alpha Dominion Nation",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138303/620px_alpha_dominion_nation_allmode.png",
+        "date": "2026-07-17T10:30:00Z",
+        "tournament": "United21 Season 52 2026 · Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1589646",
         "game": "cs2",
@@ -571,20 +544,6 @@
           "misa": 3,
           "opponent": 0,
           "win": true
-        }
-      },
-      {
-        "id": "1493109",
-        "game": "cs2",
-        "opponent": "Esport Academy Copenhagen",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138685/esport_academy_copenhagen_allmode.png",
-        "date": "2026-05-19T10:30:00Z",
-        "tournament": "European Pro League Regular season 5 2026 · Playoffs",
-        "format": "BO3",
-        "result": {
-          "misa": 0,
-          "opponent": 0,
-          "win": false
         }
       },
       {
