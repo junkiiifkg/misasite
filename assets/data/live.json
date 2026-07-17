@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-16T18:57:56.597Z",
+    "fetchedAt": "2026-07-17T01:54:42.012Z",
     "source": "pandascore"
   },
   "branches": {
@@ -141,77 +141,35 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "ESEA Advanced Europe season 58 2026",
+        "leagueName": "NODWIN Clutch Series Season 10 2026",
         "table": [
           {
             "pos": 1,
-            "team": "PURE",
-            "w": 1,
+            "team": "G2 Ares",
+            "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 1,
-            "team": "NEW VISION",
-            "w": 1,
+            "team": "Lilmix",
+            "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "Fire Flux Esports",
-            "w": 1,
+            "pos": 3,
+            "team": "Entropy",
+            "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "Dark Moon",
-            "w": 1,
+            "pos": 3,
+            "team": "Misa Esports",
+            "w": 0,
             "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "Bushido Wildcats",
-            "w": 1,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "EvolupeGG",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "Fortress",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "Younglings",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "A Great Chaos",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "Glitchtech Esports",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
+            "isMisa": true
           }
         ]
       }
@@ -270,15 +228,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1589646",
-        "game": "cs2",
-        "opponent": "OKSUCC",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138646/oksucc_allmode.png",
-        "date": "2026-07-16T18:30:00Z",
-        "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
-        "format": "BO1"
-      },
-      {
         "id": "1588648",
         "game": "cs2",
         "opponent": "Alpha Dominion Nation",
@@ -304,9 +253,32 @@
         "date": "2026-07-17T17:00:00Z",
         "tournament": "CCT Europe Closed Qualifier: Series #5 2026 · Group D",
         "format": "BO3"
+      },
+      {
+        "id": "1588635",
+        "game": "cs2",
+        "opponent": "Lower bracket semifinal: MISA vs TBD",
+        "opponentLogo": "",
+        "date": "2026-07-18T10:30:00Z",
+        "tournament": "United21 Season 52 2026 · Playoffs",
+        "format": "BO3"
       }
     ],
     "recent": [
+      {
+        "id": "1589646",
+        "game": "cs2",
+        "opponent": "OKSUCC",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138646/oksucc_allmode.png",
+        "date": "2026-07-16T18:30:00Z",
+        "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
+        "format": "BO1",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1586807",
         "game": "cs2",
@@ -641,20 +613,6 @@
           "misa": 0,
           "opponent": 0,
           "win": true
-        }
-      },
-      {
-        "id": "1490923",
-        "game": "cs2",
-        "opponent": "QUAZAR",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/130570/222px_quazar.gg_allmode.png",
-        "date": "2026-05-14T16:25:00Z",
-        "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
-        "format": "BO1",
-        "result": {
-          "misa": 0,
-          "opponent": 0,
-          "win": false
         }
       },
       {
