@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-18T07:29:01.667Z",
+    "fetchedAt": "2026-07-18T12:55:16.424Z",
     "source": "pandascore"
   },
   "branches": {
@@ -141,35 +141,35 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "NODWIN Clutch Series Season 10 2026",
+        "leagueName": "CCT Europe Closed Qualifier: Series #5 2026",
         "table": [
           {
             "pos": 1,
-            "team": "G2 Ares",
+            "team": "Misa Esports",
             "w": 0,
             "l": 0,
-            "isMisa": false
+            "isMisa": true
           },
           {
-            "pos": 2,
-            "team": "Lilmix",
+            "pos": 1,
+            "team": "OlyBet SB",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 3,
-            "team": "Entropy",
+            "team": "Benched gods",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 4,
-            "team": "Misa Esports",
+            "pos": 3,
+            "team": "ex-MANA eSports",
             "w": 0,
             "l": 0,
-            "isMisa": true
+            "isMisa": false
           }
         ]
       }
@@ -228,24 +228,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1588645",
-        "game": "cs2",
-        "opponent": "Entropy",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128258/800px_entropy_gaming_2020_lightmode.png",
-        "date": "2026-07-18T08:00:00Z",
-        "tournament": "NODWIN Clutch Series Season 10 2026 · Play-In Group D",
-        "format": "BO3"
-      },
-      {
-        "id": "1588635",
-        "game": "cs2",
-        "opponent": "ex-MANA eSports",
-        "opponentLogo": "",
-        "date": "2026-07-18T10:30:00Z",
-        "tournament": "United21 Season 52 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
         "id": "1586970",
         "game": "cs2",
         "opponent": "Benched gods",
@@ -253,9 +235,32 @@
         "date": "2026-07-18T17:00:00Z",
         "tournament": "CCT Europe Closed Qualifier: Series #5 2026 · Group D",
         "format": "BO3"
+      },
+      {
+        "id": "1588636",
+        "game": "cs2",
+        "opponent": "EAC Rising",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138820/467px_esport_academy_copenhagen_rising_allmode.png",
+        "date": "2026-07-19T08:00:00Z",
+        "tournament": "United21 Season 52 2026 · Playoffs",
+        "format": "BO3"
       }
     ],
     "recent": [
+      {
+        "id": "1588635",
+        "game": "cs2",
+        "opponent": "ex-MANA eSports",
+        "opponentLogo": "",
+        "date": "2026-07-18T10:30:00Z",
+        "tournament": "United21 Season 52 2026 · Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1588648",
         "game": "cs2",
@@ -586,20 +591,6 @@
         "date": "2026-05-18T18:00:00Z",
         "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
         "format": "BO1",
-        "result": {
-          "misa": 0,
-          "opponent": 0,
-          "win": true
-        }
-      },
-      {
-        "id": "1493111",
-        "game": "cs2",
-        "opponent": "MANA eSports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137080/148px_mana_e_sports_lightmode.png",
-        "date": "2026-05-17T12:10:00Z",
-        "tournament": "European Pro League Regular season 5 2026 · Playoffs",
-        "format": "BO3",
         "result": {
           "misa": 0,
           "opponent": 0,
