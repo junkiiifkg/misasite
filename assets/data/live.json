@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-18T12:55:16.424Z",
+    "fetchedAt": "2026-07-18T18:50:49.123Z",
     "source": "pandascore"
   },
   "branches": {
@@ -141,35 +141,63 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "CCT Europe Closed Qualifier: Series #5 2026",
+        "leagueName": "United21 Season 52 2026",
         "table": [
           {
             "pos": 1,
-            "team": "Misa Esports",
+            "team": "Alpha Dominion Nation",
             "w": 0,
             "l": 0,
-            "isMisa": true
+            "isMisa": false
           },
           {
             "pos": 1,
-            "team": "OlyBet SB",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Benched gods",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
             "team": "ex-MANA eSports",
             "w": 0,
             "l": 0,
             "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "EAC Rising",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "eSuba",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "LEO",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 6,
+            "team": "Inner Circle Prospect",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "FaZe Up Next",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 8,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
           }
         ]
       }
@@ -228,21 +256,21 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1586970",
-        "game": "cs2",
-        "opponent": "Benched gods",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138027/285px_benched_gods_lightmode.png",
-        "date": "2026-07-18T17:00:00Z",
-        "tournament": "CCT Europe Closed Qualifier: Series #5 2026 · Group D",
-        "format": "BO3"
-      },
-      {
         "id": "1588636",
         "game": "cs2",
         "opponent": "EAC Rising",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138820/467px_esport_academy_copenhagen_rising_allmode.png",
         "date": "2026-07-19T08:00:00Z",
         "tournament": "United21 Season 52 2026 · Playoffs",
+        "format": "BO3"
+      },
+      {
+        "id": "1586972",
+        "game": "cs2",
+        "opponent": "ex-MANA eSports",
+        "opponentLogo": "",
+        "date": "2026-07-19T17:00:00Z",
+        "tournament": "CCT Europe Closed Qualifier: Series #5 2026 · Group D",
         "format": "BO3"
       }
     ],
