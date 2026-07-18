@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-17T18:55:08.016Z",
+    "fetchedAt": "2026-07-18T01:44:49.618Z",
     "source": "pandascore"
   },
   "branches": {
@@ -141,63 +141,35 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "United21 Season 52 2026",
+        "leagueName": "NODWIN Clutch Series Season 10 2026",
         "table": [
           {
             "pos": 1,
-            "team": "Alpha Dominion Nation",
+            "team": "G2 Ares",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 2,
-            "team": "EAC Rising",
+            "team": "Lilmix",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 2,
-            "team": "eSuba",
+            "pos": 3,
+            "team": "Entropy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 4,
-            "team": "LEO",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
-            "team": "Inner Circle Prospect",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "FaZe Up Next",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
-          },
-          {
-            "pos": 8,
-            "team": "ex-MANA eSports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
           }
         ]
       }
@@ -256,21 +228,21 @@
   "matches": {
     "upcoming": [
       {
+        "id": "1588645",
+        "game": "cs2",
+        "opponent": "Entropy",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128258/800px_entropy_gaming_2020_lightmode.png",
+        "date": "2026-07-18T08:00:00Z",
+        "tournament": "NODWIN Clutch Series Season 10 2026 · Play-In Group D",
+        "format": "BO3"
+      },
+      {
         "id": "1588635",
         "game": "cs2",
         "opponent": "ex-MANA eSports",
         "opponentLogo": "",
         "date": "2026-07-18T10:30:00Z",
         "tournament": "United21 Season 52 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
-        "id": "1588645",
-        "game": "cs2",
-        "opponent": "Entropy",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128258/800px_entropy_gaming_2020_lightmode.png",
-        "date": "2026-07-18T11:00:00Z",
-        "tournament": "NODWIN Clutch Series Season 10 2026 · Play-In Group D",
         "format": "BO3"
       },
       {
