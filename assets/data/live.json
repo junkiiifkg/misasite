@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-19T12:57:34.069Z",
+    "fetchedAt": "2026-07-19T18:53:33.385Z",
     "source": "pandascore"
   },
   "branches": {
@@ -141,34 +141,139 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "CCT Europe Closed Qualifier: Series #5 2026",
+        "leagueName": "ESEA Advanced Europe season 58 2026",
         "table": [
           {
             "pos": 1,
-            "team": "Benched gods",
-            "w": 0,
+            "team": "Dark Moon",
+            "w": 2,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 2,
-            "team": "OlyBet SB",
-            "w": 0,
+            "team": "Fire Flux Esports",
+            "w": 1,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
-            "team": "Misa Esports",
-            "w": 0,
+            "pos": 2,
+            "team": "Bushido Wildcats",
+            "w": 1,
             "l": 0,
-            "isMisa": true
+            "isMisa": false
           },
           {
-            "pos": 4,
-            "team": "ex-MANA eSports",
-            "w": 0,
+            "pos": 2,
+            "team": " Phantom Academy",
+            "w": 1,
             "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "FAST LAYNERS",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "PURE",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "NEW VISION",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "DNK",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "Z17",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "PENSIONERS",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "Arch",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "EvolupeGG",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "A Great Chaos",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "gothboiclique",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "Glitchtech Esports",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "Strael-Bora",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "Fortress",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "Younglings",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "mellren",
+            "w": 0,
+            "l": 1,
             "isMisa": false
           }
         ]
@@ -226,17 +331,7 @@
     }
   },
   "matches": {
-    "upcoming": [
-      {
-        "id": "1586972",
-        "game": "cs2",
-        "opponent": "ex-MANA eSports",
-        "opponentLogo": "",
-        "date": "2026-07-19T17:00:00Z",
-        "tournament": "CCT Europe Closed Qualifier: Series #5 2026 · Group D",
-        "format": "BO3"
-      }
-    ],
+    "upcoming": [],
     "recent": [
       {
         "id": "1588635",
