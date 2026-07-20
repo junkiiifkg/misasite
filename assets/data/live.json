@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-20T08:43:01.342Z",
+    "fetchedAt": "2026-07-20T13:50:24.571Z",
     "source": "pandascore"
   },
   "branches": {
@@ -140,7 +140,39 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "CCT Europe Closed Qualifier: Series #5 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Entropy",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Benched gods",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "BIG Academy",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "Mai Tai",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "valorant": {
       "roster": [
@@ -211,6 +243,15 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/126417/600px_lilmix_logo.png",
         "date": "2026-07-20T17:00:00Z",
         "tournament": "NODWIN Clutch Series Season 10 2026 · Play-In Group D",
+        "format": "BO3"
+      },
+      {
+        "id": "1596640",
+        "game": "cs2",
+        "opponent": "ROUNDS",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/132459/rounds_darklogo_notext_4000x4000_1.png",
+        "date": "2026-07-23T17:00:00Z",
+        "tournament": "CCT Europe Closed Qualifier: Series #6 2026 · Group D",
         "format": "BO3"
       }
     ],
