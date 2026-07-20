@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-20T02:10:46.542Z",
+    "fetchedAt": "2026-07-20T08:43:01.342Z",
     "source": "pandascore"
   },
   "branches": {
@@ -202,6 +202,15 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/129405/49.png",
         "date": "2026-07-20T14:00:00Z",
         "tournament": "CCT Europe Closed Qualifier: Series #5 2026 · Play-In",
+        "format": "BO3"
+      },
+      {
+        "id": "1596433",
+        "game": "cs2",
+        "opponent": "Lilmix",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/126417/600px_lilmix_logo.png",
+        "date": "2026-07-20T17:00:00Z",
+        "tournament": "NODWIN Clutch Series Season 10 2026 · Play-In Group D",
         "format": "BO3"
       }
     ],
