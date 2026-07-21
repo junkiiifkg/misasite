@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-20T19:27:12.057Z",
+    "fetchedAt": "2026-07-21T01:53:01.137Z",
     "source": "pandascore"
   },
   "branches": {
@@ -140,7 +140,67 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "NODWIN Clutch Series Season 10 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Entropy",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Vexar",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "G2 Ares",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Inner Circle Academy",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "ROUNDS",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "megoshort",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "Honvéd",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "BIG Academy",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "valorant": {
       "roster": [
@@ -195,6 +255,24 @@
   },
   "matches": {
     "upcoming": [
+      {
+        "id": "1596435",
+        "game": "cs2",
+        "opponent": "Honvéd",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128887/honved_budapest_old_logo_70_adbfc97_d_seeklogo.com.png",
+        "date": "2026-07-21T13:00:00Z",
+        "tournament": "NODWIN Clutch Series Season 10 2026 · Play-In",
+        "format": "BO3"
+      },
+      {
+        "id": "1597632",
+        "game": "cs2",
+        "opponent": "Entropy",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128258/800px_entropy_gaming_2020_lightmode.png",
+        "date": "2026-07-21T18:30:00Z",
+        "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
+        "format": "BO1"
+      },
       {
         "id": "1596640",
         "game": "cs2",
