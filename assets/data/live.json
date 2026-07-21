@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-21T08:10:19.115Z",
+    "fetchedAt": "2026-07-21T13:19:47.670Z",
     "source": "pandascore"
   },
   "branches": {
@@ -141,60 +141,137 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "NODWIN Clutch Series Season 10 2026",
+        "leagueName": "ESEA Advanced Europe season 58 2026",
         "table": [
           {
             "pos": 1,
-            "team": "Entropy",
+            "team": "Dark Moon",
+            "w": 2,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "Fire Flux Esports",
             "w": 1,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "Vexar",
+            "pos": 2,
+            "team": "Bushido Wildcats",
             "w": 1,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "G2 Ares",
+            "pos": 2,
+            "team": " Phantom Academy",
             "w": 1,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "Inner Circle Academy",
+            "pos": 2,
+            "team": "FAST LAYNERS",
             "w": 1,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 5,
-            "team": "ROUNDS",
+            "pos": 2,
+            "team": "PURE",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "NEW VISION",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "DNK",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "Z17",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "PENSIONERS",
             "w": 0,
             "l": 1,
             "isMisa": false
           },
           {
-            "pos": 5,
-            "team": "megoshort",
+            "pos": 10,
+            "team": "Arch",
             "w": 0,
             "l": 1,
             "isMisa": false
           },
           {
-            "pos": 5,
-            "team": "Honvéd",
+            "pos": 10,
+            "team": "EvolupeGG",
             "w": 0,
             "l": 1,
             "isMisa": false
           },
           {
-            "pos": 5,
-            "team": "BIG Academy",
+            "pos": 10,
+            "team": "A Great Chaos",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "gothboiclique",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "Glitchtech Esports",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "Strael-Bora",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "Fortress",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "Younglings",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "mellren",
             "w": 0,
             "l": 1,
             "isMisa": false
@@ -255,15 +332,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1596435",
-        "game": "cs2",
-        "opponent": "Honvéd",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128887/honved_budapest_old_logo_70_adbfc97_d_seeklogo.com.png",
-        "date": "2026-07-21T13:00:00Z",
-        "tournament": "NODWIN Clutch Series Season 10 2026 · Play-In",
-        "format": "BO3"
-      },
       {
         "id": "1597632",
         "game": "cs2",
