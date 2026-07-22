@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-21T19:05:58.082Z",
+    "fetchedAt": "2026-07-22T01:51:52.555Z",
     "source": "pandascore"
   },
   "branches": {
@@ -140,193 +140,7 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "ESEA Advanced Europe season 58 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "Dark Moon",
-            "w": 2,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "PURE",
-            "w": 1,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "Spirit Academy Green",
-            "w": 1,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": " Phantom Academy",
-            "w": 1,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "NEW VISION",
-            "w": 1,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "Fire Flux Esports",
-            "w": 1,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "DNK",
-            "w": 1,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "SNITKO Esports",
-            "w": 1,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "Bushido Wildcats",
-            "w": 1,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "Inner Circle Academy",
-            "w": 1,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "Z17",
-            "w": 1,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "FAST LAYNERS",
-            "w": 1,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "Banger Gang",
-            "w": 1,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 14,
-            "team": "Glitchtech Esports",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 14,
-            "team": "gothboiclique",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 14,
-            "team": "ZOTIX",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 14,
-            "team": "Hermine Esports Club",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 14,
-            "team": "Strael-Bora",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 14,
-            "team": "Fortress",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 14,
-            "team": "Younglings",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 14,
-            "team": "Arch",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 14,
-            "team": "uust _esports",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 14,
-            "team": "A Great Chaos",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 14,
-            "team": "PENSIONERS",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 14,
-            "team": "EvolupeGG",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 26,
-            "team": "mellren",
-            "w": 0,
-            "l": 2,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     },
     "valorant": {
       "roster": [
@@ -382,15 +196,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1597632",
-        "game": "cs2",
-        "opponent": "Entropy",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128258/800px_entropy_gaming_2020_lightmode.png",
-        "date": "2026-07-21T18:50:00Z",
-        "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
-        "format": "BO1"
-      },
-      {
         "id": "1596640",
         "game": "cs2",
         "opponent": "ROUNDS",
@@ -401,6 +206,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1597632",
+        "game": "cs2",
+        "opponent": "Entropy",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128258/800px_entropy_gaming_2020_lightmode.png",
+        "date": "2026-07-21T18:50:00Z",
+        "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
+        "format": "BO1",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1588635",
         "game": "cs2",
@@ -733,20 +552,6 @@
         "format": "BO5",
         "result": {
           "misa": 3,
-          "opponent": 0,
-          "win": true
-        }
-      },
-      {
-        "id": "1497491",
-        "game": "cs2",
-        "opponent": "bankaPEPSI",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128935/60a37b413e334099603743..png",
-        "date": "2026-05-18T18:00:00Z",
-        "tournament": "ESEA Advanced Europe season 57 2026 · Regular Season",
-        "format": "BO1",
-        "result": {
-          "misa": 0,
           "opponent": 0,
           "win": true
         }
