@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-22T13:24:14.173Z",
+    "fetchedAt": "2026-07-22T18:59:20.510Z",
     "source": "pandascore"
   },
   "branches": {
@@ -202,6 +202,15 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/132459/rounds_darklogo_notext_4000x4000_1.png",
         "date": "2026-07-23T17:00:00Z",
         "tournament": "CCT Europe Closed Qualifier: Series #6 2026 · Group D",
+        "format": "BO3"
+      },
+      {
+        "id": "1600646",
+        "game": "cs2",
+        "opponent": "Black Phoenix",
+        "opponentLogo": "",
+        "date": "2026-07-27T14:00:00Z",
+        "tournament": "Thunderpick World Championship European Series #2 2026 · Group D",
         "format": "BO3"
       }
     ],
