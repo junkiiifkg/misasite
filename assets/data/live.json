@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-23T13:27:32.007Z",
+    "fetchedAt": "2026-07-23T19:01:02.506Z",
     "source": "pandascore"
   },
   "branches": {
@@ -195,15 +195,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1596640",
-        "game": "cs2",
-        "opponent": "ROUNDS",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/132459/rounds_darklogo_notext_4000x4000_1.png",
-        "date": "2026-07-23T17:00:00Z",
-        "tournament": "CCT Europe Closed Qualifier: Series #6 2026 · Group D",
-        "format": "BO3"
-      },
       {
         "id": "1600646",
         "game": "cs2",
