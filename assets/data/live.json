@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-24T13:20:12.910Z",
+    "fetchedAt": "2026-07-24T19:13:49.064Z",
     "source": "pandascore"
   },
   "branches": {
@@ -140,39 +140,7 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "CCT Europe Closed Qualifier: Series #6 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "megoshort",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 2,
-            "team": "ROUNDS",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "Privateer Gaming",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     },
     "valorant": {
       "roster": [
@@ -227,15 +195,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1596641",
-        "game": "cs2",
-        "opponent": "Privateer Gaming",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138631/org+logo+_1_.png",
-        "date": "2026-07-24T17:00:00Z",
-        "tournament": "CCT Europe Closed Qualifier: Series #6 2026 · Group D",
-        "format": "BO3"
-      },
       {
         "id": "1600646",
         "game": "cs2",
