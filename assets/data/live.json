@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-24T08:10:04.635Z",
+    "fetchedAt": "2026-07-24T13:20:12.910Z",
     "source": "pandascore"
   },
   "branches": {
@@ -145,27 +145,27 @@
         "table": [
           {
             "pos": 1,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 1,
-            "team": "ROUNDS",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
             "team": "megoshort",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
+            "pos": 2,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 2,
+            "team": "ROUNDS",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
             "team": "Privateer Gaming",
             "w": 0,
             "l": 0,
