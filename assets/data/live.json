@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-26T08:10:34.275Z",
+    "fetchedAt": "2026-07-26T13:01:29.522Z",
     "source": "pandascore"
   },
   "branches": {
@@ -195,15 +195,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1596745",
-        "game": "cs2",
-        "opponent": "Mai Tai",
-        "opponentLogo": "",
-        "date": "2026-07-26T11:00:00Z",
-        "tournament": "CCT Europe Closed Qualifier: Series #6 2026 · Play-In",
-        "format": "BO3"
-      },
       {
         "id": "1600646",
         "game": "cs2",
