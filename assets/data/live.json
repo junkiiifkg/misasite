@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-27T09:34:12.323Z",
+    "fetchedAt": "2026-07-27T14:12:50.401Z",
     "source": "pandascore"
   },
   "branches": {
@@ -140,7 +140,340 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "ESEA Advanced Europe season 58 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Dark Moon",
+            "w": 3,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "Privateer Gaming",
+            "w": 2,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "PURE",
+            "w": 2,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": " Phantom Academy",
+            "w": 2,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "banda chuya",
+            "w": 2,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "VP.Prodigy",
+            "w": 2,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "Donstu Esports",
+            "w": 2,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "NEW VISION",
+            "w": 2,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "OldBoys",
+            "w": 2,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "ZOTIX",
+            "w": 2,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "Bushido Wildcats",
+            "w": 2,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "Fraternity",
+            "w": 2,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "OLDBOYS PL",
+            "w": 2,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "Banger Gang",
+            "w": 2,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "Wave Esports",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "BOJONG",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "SNITKO Esports",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "B8 Academy",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "Z17",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "Inner Circle Academy",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 21,
+            "team": "NAVI Junior",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 21,
+            "team": "ENRAGE",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 21,
+            "team": "XI Esport",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 21,
+            "team": "Fire Flux Esports",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 21,
+            "team": "Sangal ALTERS",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 21,
+            "team": "Spirit Academy Green",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 21,
+            "team": "Younglings",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 21,
+            "team": "Subtop De France",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 29,
+            "team": "WBT",
+            "w": 1,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 29,
+            "team": "DNK",
+            "w": 1,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 29,
+            "team": "FAST LAYNERS",
+            "w": 1,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 32,
+            "team": "Hermine Esports Club",
+            "w": 1,
+            "l": 3,
+            "isMisa": false
+          },
+          {
+            "pos": 33,
+            "team": "Fortress",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 33,
+            "team": "Arch",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 33,
+            "team": "uust _esports",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 33,
+            "team": "MTX",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 33,
+            "team": "NEXORA",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 33,
+            "team": "eSuba",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 39,
+            "team": "A Great Chaos",
+            "w": 0,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 39,
+            "team": "PENSIONERS",
+            "w": 0,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 39,
+            "team": "Strael-Bora",
+            "w": 0,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 39,
+            "team": "TEAM_COPH9K",
+            "w": 0,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 39,
+            "team": "EvolupeGG",
+            "w": 0,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 39,
+            "team": "Glitchtech Esports",
+            "w": 0,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 39,
+            "team": "LPH Gaming",
+            "w": 0,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 39,
+            "team": "gothboiclique",
+            "w": 0,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 47,
+            "team": "mellren",
+            "w": 0,
+            "l": 3,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "valorant": {
       "roster": [
@@ -194,17 +527,7 @@
     }
   },
   "matches": {
-    "upcoming": [
-      {
-        "id": "1600646",
-        "game": "cs2",
-        "opponent": "Black Phoenix",
-        "opponentLogo": "",
-        "date": "2026-07-27T14:00:00Z",
-        "tournament": "Thunderpick World Championship European Series #2 2026 · Group D",
-        "format": "BO3"
-      }
-    ],
+    "upcoming": [],
     "recent": [
       {
         "id": "1597632",
