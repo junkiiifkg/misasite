@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-27T19:14:31.101Z",
+    "fetchedAt": "2026-07-28T01:47:32.450Z",
     "source": "pandascore"
   },
   "branches": {
@@ -145,13 +145,27 @@
         "table": [
           {
             "pos": 1,
-            "team": "Black Phoenix",
+            "team": "Bebop",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 1,
+            "team": "Falcons Force",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "Black Phoenix",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
@@ -216,8 +230,8 @@
       {
         "id": "1600649",
         "game": "cs2",
-        "opponent": "Winners match: MISA vs TBD",
-        "opponentLogo": "",
+        "opponent": "Falcons Force",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137508/183px_team_falcons_2022_allmode.png",
         "date": "2026-07-28T17:00:00Z",
         "tournament": "Thunderpick World Championship European Series #2 2026 · Group D",
         "format": "BO3"
