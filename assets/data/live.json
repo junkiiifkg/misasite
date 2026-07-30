@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-07-30T13:39:46.716Z",
+    "fetchedAt": "2026-07-30T19:11:48.292Z",
     "source": "pandascore"
   },
   "branches": {
@@ -145,105 +145,91 @@
         "table": [
           {
             "pos": 1,
-            "team": "VP.Prodigy",
+            "team": "Bushido Wildcats",
+            "w": 4,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "B8 Academy",
             "w": 3,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "banda chuya",
+            "pos": 2,
+            "team": "LFO UKRAINE",
             "w": 3,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "Donstu Esports",
-            "w": 3,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
+            "pos": 2,
             "team": "Dark Moon",
             "w": 3,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 5,
-            "team": "Bushido Wildcats",
+            "pos": 2,
+            "team": "banda chuya",
             "w": 3,
-            "l": 1,
+            "l": 0,
             "isMisa": false
           },
           {
-            "pos": 5,
+            "pos": 2,
+            "team": "Donstu Esports",
+            "w": 3,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "VP.Prodigy",
+            "w": 3,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 8,
             "team": "OLDBOYS PL",
             "w": 3,
             "l": 1,
             "isMisa": false
           },
           {
-            "pos": 7,
-            "team": "B8 Academy",
-            "w": 2,
-            "l": 0,
+            "pos": 8,
+            "team": "Sangal ALTERS",
+            "w": 3,
+            "l": 1,
             "isMisa": false
           },
           {
-            "pos": 7,
-            "team": "NEW VISION",
-            "w": 2,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "Privateer Gaming",
-            "w": 2,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "LFO UKRAINE",
-            "w": 2,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "PURE",
-            "w": 2,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
+            "pos": 10,
             "team": "OldBoys",
             "w": 2,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 13,
-            "team": "Sangal ALTERS",
+            "pos": 10,
+            "team": "NEW VISION",
             "w": 2,
-            "l": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "PURE",
+            "w": 2,
+            "l": 0,
             "isMisa": false
           },
           {
             "pos": 13,
-            "team": "ZOTIX",
-            "w": 2,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 13,
-            "team": "Fraternity",
+            "team": " Phantom Academy",
             "w": 2,
             "l": 1,
             "isMisa": false
@@ -264,13 +250,27 @@
           },
           {
             "pos": 13,
-            "team": " Phantom Academy",
+            "team": "ZOTIX",
             "w": 2,
             "l": 1,
             "isMisa": false
           },
           {
-            "pos": 19,
+            "pos": 13,
+            "team": "Privateer Gaming",
+            "w": 2,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 18,
+            "team": "Fraternity",
+            "w": 2,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 18,
             "team": "Banger Gang",
             "w": 2,
             "l": 2,
@@ -313,27 +313,6 @@
           },
           {
             "pos": 25,
-            "team": "XI Esport",
-            "w": 1,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 25,
-            "team": "NEXORA",
-            "w": 1,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 25,
-            "team": "ENRAGE",
-            "w": 1,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 25,
             "team": "Subtop De France",
             "w": 1,
             "l": 1,
@@ -347,8 +326,36 @@
             "isMisa": false
           },
           {
+            "pos": 25,
+            "team": "NEXORA",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 25,
+            "team": "XI Esport",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 25,
+            "team": "ENRAGE",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
             "pos": 30,
             "team": "Spirit Academy Green",
+            "w": 1,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 30,
+            "team": "WBT",
             "w": 1,
             "l": 2,
             "isMisa": false
@@ -362,128 +369,128 @@
           },
           {
             "pos": 30,
-            "team": "WBT",
+            "team": "LPH Gaming",
             "w": 1,
             "l": 2,
             "isMisa": false
           },
           {
-            "pos": 33,
-            "team": "FAST LAYNERS",
-            "w": 1,
-            "l": 3,
-            "isMisa": false
-          },
-          {
-            "pos": 33,
+            "pos": 34,
             "team": "Hermine Esports Club",
             "w": 1,
             "l": 3,
             "isMisa": false
           },
           {
-            "pos": 35,
+            "pos": 34,
+            "team": "FAST LAYNERS",
+            "w": 1,
+            "l": 3,
+            "isMisa": false
+          },
+          {
+            "pos": 36,
             "team": "DNK",
             "w": 1,
             "l": 4,
             "isMisa": false
           },
           {
-            "pos": 36,
-            "team": "eSuba",
+            "pos": 37,
+            "team": "Benched gods",
             "w": 0,
             "l": 1,
             "isMisa": false
           },
           {
-            "pos": 36,
-            "team": "MTX",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 36,
+            "pos": 37,
             "team": "GoldRashers",
             "w": 0,
             "l": 1,
             "isMisa": false
           },
           {
-            "pos": 39,
-            "team": "Fortress",
+            "pos": 37,
+            "team": "MTX",
             "w": 0,
-            "l": 2,
+            "l": 1,
             "isMisa": false
           },
           {
-            "pos": 39,
-            "team": "gothboiclique",
-            "w": 0,
-            "l": 2,
-            "isMisa": false
-          },
-          {
-            "pos": 39,
+            "pos": 40,
             "team": "A Great Chaos",
             "w": 0,
             "l": 2,
             "isMisa": false
           },
           {
-            "pos": 39,
-            "team": "LPH Gaming",
-            "w": 0,
-            "l": 2,
-            "isMisa": false
-          },
-          {
-            "pos": 39,
+            "pos": 40,
             "team": "PENSIONERS",
             "w": 0,
             "l": 2,
             "isMisa": false
           },
           {
-            "pos": 39,
+            "pos": 40,
+            "team": "Fortress",
+            "w": 0,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 40,
+            "team": "eSuba",
+            "w": 0,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 40,
             "team": "Strael-Bora",
             "w": 0,
             "l": 2,
             "isMisa": false
           },
           {
-            "pos": 39,
+            "pos": 40,
+            "team": "gothboiclique",
+            "w": 0,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 40,
             "team": "Arch",
             "w": 0,
             "l": 2,
             "isMisa": false
           },
           {
-            "pos": 46,
-            "team": "Glitchtech Esports",
-            "w": 0,
-            "l": 3,
-            "isMisa": false
-          },
-          {
-            "pos": 46,
+            "pos": 47,
             "team": "uust _esports",
             "w": 0,
             "l": 3,
             "isMisa": false
           },
           {
-            "pos": 46,
+            "pos": 47,
             "team": "EvolupeGG",
             "w": 0,
             "l": 3,
             "isMisa": false
           },
           {
-            "pos": 46,
+            "pos": 47,
             "team": "mellren",
             "w": 0,
             "l": 3,
+            "isMisa": false
+          },
+          {
+            "pos": 50,
+            "team": "Glitchtech Esports",
+            "w": 0,
+            "l": 4,
             "isMisa": false
           }
         ]
