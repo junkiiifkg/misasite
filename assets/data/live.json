@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-02T13:02:01.233Z",
+    "fetchedAt": "2026-08-02T18:57:27.392Z",
     "source": "pandascore"
   },
   "branches": {
@@ -140,7 +140,39 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "ESL Challenger League Europe Cup #2 season 52 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Favbet",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 3,
+            "team": "MOUZ NXT",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
+            "team": "WBT",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "valorant": {
       "roster": [
@@ -194,18 +226,22 @@
     }
   },
   "matches": {
-    "upcoming": [
+    "upcoming": [],
+    "recent": [
       {
         "id": "1615319",
         "game": "cs2",
         "opponent": "Favbet",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/134964/285px_favbet_team_allmode.png",
-        "date": "2026-08-02T13:00:00Z",
+        "date": "2026-08-02T13:50:00Z",
         "tournament": "ESL Challenger League Europe Cup #2 season 52 2026 · Group D",
-        "format": "BO3"
-      }
-    ],
-    "recent": [
+        "format": "BO3",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1597632",
         "game": "cs2",
@@ -496,20 +532,6 @@
         "format": "BO5",
         "result": {
           "misa": 3,
-          "opponent": 0,
-          "win": true
-        }
-      },
-      {
-        "id": "1504697",
-        "game": "cs2",
-        "opponent": "DragonClaw",
-        "opponentLogo": "",
-        "date": "2026-06-02T10:30:00Z",
-        "tournament": "European Pro League Series 7 Closed Qualifier 2026 · Play-In",
-        "format": "BO3",
-        "result": {
-          "misa": 0,
           "opponent": 0,
           "win": true
         }
