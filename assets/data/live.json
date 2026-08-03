@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-03T09:26:07.158Z",
+    "fetchedAt": "2026-08-03T14:18:47.155Z",
     "source": "pandascore"
   },
   "branches": {
@@ -226,17 +226,7 @@
     }
   },
   "matches": {
-    "upcoming": [
-      {
-        "id": "1615324",
-        "game": "cs2",
-        "opponent": "MOUZ NXT",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/129160/mou_zlogo_square.png",
-        "date": "2026-08-03T13:00:00Z",
-        "tournament": "ESL Challenger League Europe Cup #2 season 52 2026 · Group D",
-        "format": "BO3"
-      }
-    ],
+    "upcoming": [],
     "recent": [
       {
         "id": "1615319",
