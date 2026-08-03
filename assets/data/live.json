@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-02T18:57:27.392Z",
+    "fetchedAt": "2026-08-03T02:00:24.210Z",
     "source": "pandascore"
   },
   "branches": {
@@ -145,28 +145,28 @@
         "table": [
           {
             "pos": 1,
+            "team": "WBT",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
             "team": "Favbet",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
+            "pos": 3,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 3,
-            "team": "MOUZ NXT",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
             "pos": 4,
-            "team": "WBT",
+            "team": "MOUZ NXT",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -226,7 +226,17 @@
     }
   },
   "matches": {
-    "upcoming": [],
+    "upcoming": [
+      {
+        "id": "1615324",
+        "game": "cs2",
+        "opponent": "MOUZ NXT",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/129160/mou_zlogo_square.png",
+        "date": "2026-08-03T13:00:00Z",
+        "tournament": "ESL Challenger League Europe Cup #2 season 52 2026 · Group D",
+        "format": "BO3"
+      }
+    ],
     "recent": [
       {
         "id": "1615319",
