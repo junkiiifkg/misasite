@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-11T01:04:17.342Z",
+    "fetchedAt": "2026-08-11T06:51:48.272Z",
     "source": "pandascore"
   },
   "branches": {
@@ -141,34 +141,356 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "ESL Challenger League Europe Cup #2 season 52 2026",
+        "leagueName": "ESEA Advanced Europe season 58 2026",
         "table": [
           {
             "pos": 1,
-            "team": "WBT",
-            "w": 0,
+            "team": "OldBoys",
+            "w": 5,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 2,
-            "team": "Favbet",
-            "w": 0,
+            "team": "Younglings",
+            "w": 5,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "Bushido Wildcats",
+            "w": 5,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
+            "team": "OLDBOYS PL",
+            "w": 5,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "PURE",
+            "w": 4,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
+            "pos": 6,
+            "team": "banda chuya",
+            "w": 4,
+            "l": 1,
+            "isMisa": false
           },
           {
-            "pos": 4,
-            "team": "MOUZ NXT",
-            "w": 0,
+            "pos": 6,
+            "team": "VP.Prodigy",
+            "w": 4,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 6,
+            "team": "Donstu Esports",
+            "w": 4,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 9,
+            "team": "Subtop De France",
+            "w": 4,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "Drama eSports",
+            "w": 3,
             "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "Falcons Force",
+            "w": 3,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "LFO UKRAINE",
+            "w": 3,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 13,
+            "team": "B8 Academy",
+            "w": 3,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 13,
+            "team": "Dark Moon",
+            "w": 3,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 13,
+            "team": " Phantom Academy",
+            "w": 3,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 13,
+            "team": "NEW VISION",
+            "w": 3,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 13,
+            "team": "Sangal ALTERS",
+            "w": 3,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 18,
+            "team": "Privateer Gaming",
+            "w": 3,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 18,
+            "team": "ZOTIX",
+            "w": 3,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 20,
+            "team": "Fortress",
+            "w": 3,
+            "l": 3,
+            "isMisa": false
+          },
+          {
+            "pos": 20,
+            "team": "Fire Flux Esports",
+            "w": 3,
+            "l": 3,
+            "isMisa": false
+          },
+          {
+            "pos": 20,
+            "team": "Fraternity",
+            "w": 3,
+            "l": 3,
+            "isMisa": false
+          },
+          {
+            "pos": 23,
+            "team": "XI Esport",
+            "w": 3,
+            "l": 5,
+            "isMisa": false
+          },
+          {
+            "pos": 24,
+            "team": "NoTime",
+            "w": 2,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 25,
+            "team": "NAVI Junior",
+            "w": 2,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 25,
+            "team": "JUMBO TEAM",
+            "w": 2,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 27,
+            "team": "LPH Gaming",
+            "w": 2,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 28,
+            "team": "Banger Gang",
+            "w": 2,
+            "l": 3,
+            "isMisa": false
+          },
+          {
+            "pos": 28,
+            "team": "WBT",
+            "w": 2,
+            "l": 3,
+            "isMisa": false
+          },
+          {
+            "pos": 30,
+            "team": "Spirit Academy Green",
+            "w": 2,
+            "l": 4,
+            "isMisa": false
+          },
+          {
+            "pos": 30,
+            "team": "Hermine Esports Club",
+            "w": 2,
+            "l": 4,
+            "isMisa": false
+          },
+          {
+            "pos": 32,
+            "team": "DNK",
+            "w": 2,
+            "l": 6,
+            "isMisa": false
+          },
+          {
+            "pos": 33,
+            "team": "BOJONG",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 33,
+            "team": "Honvéd",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 33,
+            "team": "SNITKO Esports",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 33,
+            "team": "Z17",
+            "w": 1,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 37,
+            "team": "NEXORA",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 37,
+            "team": "Esport BERG",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 37,
+            "team": "Wave Esports",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 37,
+            "team": "KUUSAMO.gg",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 37,
+            "team": "Inner Circle Academy",
+            "w": 1,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 42,
+            "team": "Benched gods",
+            "w": 1,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 42,
+            "team": "TEAM_COPH9K",
+            "w": 1,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 44,
+            "team": "eSuba",
+            "w": 1,
+            "l": 3,
+            "isMisa": false
+          },
+          {
+            "pos": 44,
+            "team": "A Great Chaos",
+            "w": 1,
+            "l": 3,
+            "isMisa": false
+          },
+          {
+            "pos": 44,
+            "team": "ENRAGE",
+            "w": 1,
+            "l": 3,
+            "isMisa": false
+          },
+          {
+            "pos": 47,
+            "team": "MTX",
+            "w": 1,
+            "l": 5,
+            "isMisa": false
+          },
+          {
+            "pos": 48,
+            "team": "FAST LAYNERS",
+            "w": 1,
+            "l": 6,
+            "isMisa": false
+          },
+          {
+            "pos": 49,
+            "team": "Strael-Bora",
+            "w": 0,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 49,
+            "team": "Arch",
+            "w": 0,
+            "l": 2,
             "isMisa": false
           }
         ]
@@ -226,7 +548,17 @@
     }
   },
   "matches": {
-    "upcoming": [],
+    "upcoming": [
+      {
+        "id": "1630197",
+        "game": "cs2",
+        "opponent": "NEW VISION",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138650/630px_new_vision_allmode.png",
+        "date": "2026-08-11T18:30:00Z",
+        "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
+        "format": "BO1"
+      }
+    ],
     "recent": [
       {
         "id": "1615319",
