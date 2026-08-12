@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-12T01:11:47.183Z",
+    "fetchedAt": "2026-08-12T07:10:48.691Z",
     "source": "pandascore"
   },
   "branches": {
@@ -103,16 +103,16 @@
           "image": ""
         },
         {
-          "tag": "mini",
-          "name": "Muhammed Salman",
-          "role": "Player",
-          "image": ""
-        },
-        {
           "tag": "ckanic",
           "name": "Serdar Akinci",
           "role": "Player",
           "image": "assets/images/cs2/ckanic.webp"
+        },
+        {
+          "tag": "h0kz",
+          "name": "Hakan  Sarıçam",
+          "role": "Player",
+          "image": ""
         },
         {
           "tag": "Zuedsta",
@@ -135,7 +135,7 @@
         {
           "tag": "Obyj",
           "name": "Onur Buğra Yaman",
-          "role": "Koç",
+          "role": "Player",
           "image": ""
         }
       ],
