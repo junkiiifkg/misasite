@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-13T01:13:44.922Z",
+    "fetchedAt": "2026-08-13T07:14:00.855Z",
     "source": "pandascore"
   },
   "branches": {
@@ -202,6 +202,15 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/135227/enjoy_allmode.png",
         "date": "2026-08-14T08:00:00Z",
         "tournament": "CCT Europe Closed Qualifier: Series #7 2026 · Group C",
+        "format": "BO3"
+      },
+      {
+        "id": "1633196",
+        "game": "cs2",
+        "opponent": "Leo Team",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/133269/152px_l_g_2023_allmode.png",
+        "date": "2026-08-14T13:00:00Z",
+        "tournament": "ESL Challenger League Europe Cup #3 season 52 2026 · Group C",
         "format": "BO3"
       }
     ],
