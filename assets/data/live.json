@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-14T12:44:25.338Z",
+    "fetchedAt": "2026-08-14T18:41:43.125Z",
     "source": "pandascore"
   },
   "branches": {
@@ -140,7 +140,25 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "CCT Europe Closed Qualifier: Series #7 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "ENJOY",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          }
+        ]
+      }
     },
     "valorant": {
       "roster": [
@@ -195,15 +213,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1633196",
-        "game": "cs2",
-        "opponent": "Leo Team",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/133269/152px_l_g_2023_allmode.png",
-        "date": "2026-08-14T13:00:00Z",
-        "tournament": "ESL Challenger League Europe Cup #3 season 52 2026 · Group C",
-        "format": "BO3"
-      },
       {
         "id": "1630667",
         "game": "cs2",
