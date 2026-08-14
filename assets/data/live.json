@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-14T07:11:28.723Z",
+    "fetchedAt": "2026-08-14T12:44:25.338Z",
     "source": "pandascore"
   },
   "branches": {
@@ -196,21 +196,30 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1630664",
-        "game": "cs2",
-        "opponent": "ENJOY",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/135227/enjoy_allmode.png",
-        "date": "2026-08-14T08:00:00Z",
-        "tournament": "CCT Europe Closed Qualifier: Series #7 2026 · Group C",
-        "format": "BO3"
-      },
-      {
         "id": "1633196",
         "game": "cs2",
         "opponent": "Leo Team",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/133269/152px_l_g_2023_allmode.png",
         "date": "2026-08-14T13:00:00Z",
         "tournament": "ESL Challenger League Europe Cup #3 season 52 2026 · Group C",
+        "format": "BO3"
+      },
+      {
+        "id": "1630667",
+        "game": "cs2",
+        "opponent": "Elimination match: MISA vs TBD",
+        "opponentLogo": "",
+        "date": "2026-08-15T08:00:00Z",
+        "tournament": "CCT Europe Closed Qualifier: Series #7 2026 · Group C",
+        "format": "BO3"
+      },
+      {
+        "id": "1634729",
+        "game": "cs2",
+        "opponent": "ex-MANA eSports",
+        "opponentLogo": "",
+        "date": "2026-08-15T13:45:00Z",
+        "tournament": "CCT Europe Challengers Series season 5 2026 · Playoffs",
         "format": "BO3"
       }
     ],
