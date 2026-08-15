@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-15T12:19:50.145Z",
+    "fetchedAt": "2026-08-15T18:15:43.828Z",
     "source": "pandascore"
   },
   "branches": {
@@ -141,25 +141,25 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "ESL Challenger League Europe Cup #3 season 52 2026",
+        "leagueName": "CCT Europe Closed Qualifier: Series #7 2026",
         "table": [
           {
             "pos": 1,
-            "team": "Esport Academy Copenhagen",
+            "team": "ENJOY",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 2,
-            "team": "Benched gods",
+            "team": "Mai Tai",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 3,
-            "team": "Leo Team",
+            "team": "UNiTY esports",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -228,21 +228,21 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1633199",
+        "id": "1630668",
         "game": "cs2",
-        "opponent": "Leo Team",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/133269/152px_l_g_2023_allmode.png",
-        "date": "2026-08-15T13:00:00Z",
-        "tournament": "ESL Challenger League Europe Cup #3 season 52 2026 · Group C",
+        "opponent": "UNiTY esports",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/133063/190px_u_ni_ty_esports_allmode.png",
+        "date": "2026-08-16T14:00:00Z",
+        "tournament": "CCT Europe Closed Qualifier: Series #7 2026 · Group C",
         "format": "BO3"
       },
       {
-        "id": "1630668",
+        "id": "1634733",
         "game": "cs2",
-        "opponent": "Decider match: MISA vs TBD",
+        "opponent": "Upper bracket quarterfinal 4: MISA vs TBD",
         "opponentLogo": "",
-        "date": "2026-08-16T14:00:00Z",
-        "tournament": "CCT Europe Closed Qualifier: Series #7 2026 · Group C",
+        "date": "2026-08-18T13:45:00Z",
+        "tournament": "CCT Europe Challengers Series season 5 2026 · Playoffs",
         "format": "BO3"
       }
     ],
