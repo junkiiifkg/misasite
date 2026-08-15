@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-14T18:41:43.125Z",
+    "fetchedAt": "2026-08-15T00:44:19.615Z",
     "source": "pandascore"
   },
   "branches": {
@@ -31,7 +31,7 @@
           "image": ""
         }
       ],
-      "teamLogo": "https://cdn-api.pandascore.co/images/team/image/133984/misa_esportslogo_profile.png",
+      "teamLogo": "",
       "standings": {
         "leagueName": "EMEA Masters Spring 2026",
         "table": [
@@ -145,13 +145,27 @@
         "table": [
           {
             "pos": 1,
-            "team": "ENJOY",
+            "team": "Mai Tai",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 1,
+            "team": "UNiTY esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "ENJOY",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
@@ -216,10 +230,19 @@
       {
         "id": "1630667",
         "game": "cs2",
-        "opponent": "Elimination match: MISA vs TBD",
+        "opponent": "Mai Tai",
         "opponentLogo": "",
         "date": "2026-08-15T08:00:00Z",
         "tournament": "CCT Europe Closed Qualifier: Series #7 2026 · Group C",
+        "format": "BO3"
+      },
+      {
+        "id": "1633199",
+        "game": "cs2",
+        "opponent": "Leo Team",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/133269/152px_l_g_2023_allmode.png",
+        "date": "2026-08-15T13:00:00Z",
+        "tournament": "ESL Challenger League Europe Cup #3 season 52 2026 · Group C",
         "format": "BO3"
       },
       {
@@ -545,7 +568,7 @@
         "id": "1510163",
         "game": "cs2",
         "opponent": "ZOTIX",
-        "opponentLogo": "",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/133991/600px_zotix_lightmode.png",
         "date": "2026-05-30T17:40:00Z",
         "tournament": "ESEA Advanced Europe season 57 2026 · Playoffs",
         "format": "BO3",
