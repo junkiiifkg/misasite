@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-16T06:24:39.347Z",
+    "fetchedAt": "2026-08-16T12:21:06.478Z",
     "source": "pandascore"
   },
   "branches": {
@@ -330,7 +330,7 @@
         "id": "1586807",
         "game": "cs2",
         "opponent": "Subtop De France",
-        "opponentLogo": "",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138710/du5_uo1_u.png",
         "date": "2026-07-14T18:45:00Z",
         "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
         "format": "BO1",
