@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-16T12:21:06.478Z",
+    "fetchedAt": "2026-08-16T18:16:05.760Z",
     "source": "pandascore"
   },
   "branches": {
@@ -141,31 +141,115 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "CCT Europe Closed Qualifier: Series #7 2026",
+        "leagueName": "CCT Europe Challengers Series season 5 2026",
         "table": [
           {
             "pos": 1,
-            "team": "ENJOY",
+            "team": "Entropy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 2,
-            "team": "Mai Tai",
+            "pos": 1,
+            "team": "Noir Verse",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 3,
-            "team": "UNiTY esports",
+            "team": "Honvéd",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 4,
+            "pos": 3,
+            "team": "mellren",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "Esport BERG",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
+            "team": "Mai Tai",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "ENCE",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "WBT",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 9,
+            "team": "Bushido Wildcats",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 9,
+            "team": "Fortress",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 11,
+            "team": "ex-Sashi Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 11,
+            "team": "SAW Youngsters",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 13,
+            "team": "Atreides",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 13,
+            "team": "LPH Gaming",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "ex-MANA eSports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
@@ -228,12 +312,12 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1630668",
+        "id": "1634733",
         "game": "cs2",
-        "opponent": "UNiTY esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/133063/190px_u_ni_ty_esports_allmode.png",
-        "date": "2026-08-16T14:00:00Z",
-        "tournament": "CCT Europe Closed Qualifier: Series #7 2026 · Group C",
+        "opponent": "Bushido Wildcats",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136934/bushido_wildcats_2026_allmode.png",
+        "date": "2026-08-18T13:45:00Z",
+        "tournament": "CCT Europe Challengers Series season 5 2026 · Playoffs",
         "format": "BO3"
       },
       {
@@ -241,18 +325,9 @@
         "game": "cs2",
         "opponent": "BOJONG",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138129/63v6k8_ogkds_rq93i_y_dd_pyy_bs_g_ac_lxqjh_tw_k_kfz_fa.png",
-        "date": "2026-08-16T18:00:00Z",
+        "date": "2026-08-28T15:00:00Z",
         "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
         "format": "BO1"
-      },
-      {
-        "id": "1634733",
-        "game": "cs2",
-        "opponent": "Upper bracket quarterfinal 4: MISA vs TBD",
-        "opponentLogo": "",
-        "date": "2026-08-18T13:45:00Z",
-        "tournament": "CCT Europe Challengers Series season 5 2026 · Playoffs",
-        "format": "BO3"
       }
     ],
     "recent": [
