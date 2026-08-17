@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-17T06:35:40.417Z",
+    "fetchedAt": "2026-08-17T12:25:24.963Z",
     "source": "pandascore"
   },
   "branches": {
@@ -557,6 +557,15 @@
         "date": "2026-08-17T18:30:00Z",
         "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
         "format": "BO1"
+      },
+      {
+        "id": "1639290",
+        "game": "cs2",
+        "opponent": "Color",
+        "opponentLogo": "",
+        "date": "2026-08-18T13:00:00Z",
+        "tournament": "ESL Challenger League Europe Cup #4 season 52 2026 · Group B",
+        "format": "BO3"
       },
       {
         "id": "1634733",
