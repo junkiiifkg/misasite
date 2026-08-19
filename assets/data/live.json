@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-19T06:28:15.510Z",
+    "fetchedAt": "2026-08-19T12:27:16.829Z",
     "source": "pandascore"
   },
   "branches": {
@@ -141,116 +141,32 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "CCT Europe Challengers Series season 5 2026",
+        "leagueName": "ESL Challenger League Europe Cup #4 season 52 2026",
         "table": [
           {
             "pos": 1,
-            "team": "Atreides",
+            "team": "Color",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "Entropy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "Noir Verse",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "Bushido Wildcats",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
+            "pos": 2,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 6,
-            "team": "Mai Tai",
+            "pos": 3,
+            "team": "Strael-Bora",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 6,
-            "team": "WBT",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 8,
-            "team": "Fortress",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 9,
-            "team": "mellren",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 10,
-            "team": "LPH Gaming",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 11,
-            "team": "SAW Youngsters",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 12,
-            "team": "Esport BERG",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 13,
-            "team": "Honvéd",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 14,
-            "team": "ENCE",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 15,
-            "team": "ex-Sashi Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 16,
-            "team": "ex-MANA eSports",
+            "pos": 4,
+            "team": "The Last Resort",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -311,15 +227,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1634742",
-        "game": "cs2",
-        "opponent": "ex-Sashi Academy",
-        "opponentLogo": "",
-        "date": "2026-08-19T11:00:00Z",
-        "tournament": "CCT Europe Challengers Series season 5 2026 · Playoffs",
-        "format": "BO3"
-      },
       {
         "id": "1639318",
         "game": "cs2",
