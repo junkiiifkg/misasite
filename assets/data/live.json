@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-19T18:20:51.997Z",
+    "fetchedAt": "2026-08-20T00:43:40.866Z",
     "source": "pandascore"
   },
   "branches": {
@@ -151,17 +151,17 @@
             "isMisa": false
           },
           {
-            "pos": 2,
-            "team": "OLDBOYS PL",
+            "pos": 1,
+            "team": "Drama eSports",
             "w": 7,
-            "l": 2,
+            "l": 1,
             "isMisa": false
           },
           {
             "pos": 3,
-            "team": "Drama eSports",
-            "w": 6,
-            "l": 1,
+            "team": "OLDBOYS PL",
+            "w": 7,
+            "l": 2,
             "isMisa": false
           },
           {
@@ -173,90 +173,90 @@
           },
           {
             "pos": 5,
+            "team": "KUUSAMO.gg",
+            "w": 6,
+            "l": 5,
+            "isMisa": false
+          },
+          {
+            "pos": 5,
             "team": "XI Esport",
             "w": 6,
             "l": 5,
             "isMisa": false
           },
           {
-            "pos": 6,
-            "team": "Falcons Force",
-            "w": 5,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
+            "pos": 7,
             "team": "Bushido Wildcats",
             "w": 5,
             "l": 1,
             "isMisa": false
           },
           {
-            "pos": 8,
-            "team": "Younglings",
+            "pos": 7,
+            "team": "Falcons Force",
             "w": 5,
-            "l": 2,
+            "l": 1,
             "isMisa": false
           },
           {
-            "pos": 8,
+            "pos": 9,
             "team": "Donstu Esports",
             "w": 5,
             "l": 2,
             "isMisa": false
           },
           {
-            "pos": 10,
-            "team": "B8 Academy",
+            "pos": 9,
+            "team": "Younglings",
             "w": 5,
-            "l": 3,
+            "l": 2,
             "isMisa": false
           },
           {
-            "pos": 10,
-            "team": "Subtop De France",
-            "w": 5,
-            "l": 3,
-            "isMisa": false
-          },
-          {
-            "pos": 10,
-            "team": "WBT",
-            "w": 5,
-            "l": 3,
-            "isMisa": false
-          },
-          {
-            "pos": 10,
+            "pos": 11,
             "team": "banda chuya",
             "w": 5,
             "l": 3,
             "isMisa": false
           },
           {
-            "pos": 10,
+            "pos": 11,
+            "team": "Subtop De France",
+            "w": 5,
+            "l": 3,
+            "isMisa": false
+          },
+          {
+            "pos": 11,
+            "team": "WBT",
+            "w": 5,
+            "l": 3,
+            "isMisa": false
+          },
+          {
+            "pos": 11,
             "team": "Fire Flux Esports",
             "w": 5,
             "l": 3,
             "isMisa": false
           },
           {
-            "pos": 15,
-            "team": "KUUSAMO.gg",
+            "pos": 11,
+            "team": "B8 Academy",
             "w": 5,
-            "l": 5,
+            "l": 3,
             "isMisa": false
           },
           {
-            "pos": 15,
+            "pos": 16,
             "team": "MTX",
             "w": 5,
             "l": 5,
             "isMisa": false
           },
           {
-            "pos": 15,
+            "pos": 16,
             "team": "eSuba",
             "w": 5,
             "l": 5,
@@ -270,21 +270,21 @@
             "isMisa": false
           },
           {
-            "pos": 19,
-            "team": " Phantom Academy",
+            "pos": 18,
+            "team": "NAVI Junior",
             "w": 4,
-            "l": 2,
+            "l": 1,
             "isMisa": false
           },
           {
-            "pos": 19,
+            "pos": 20,
             "team": "Wave Esports",
             "w": 4,
             "l": 2,
             "isMisa": false
           },
           {
-            "pos": 19,
+            "pos": 20,
             "team": "PURE",
             "w": 4,
             "l": 2,
@@ -299,91 +299,91 @@
           },
           {
             "pos": 22,
+            "team": "ZOTIX",
+            "w": 4,
+            "l": 3,
+            "isMisa": false
+          },
+          {
+            "pos": 22,
+            "team": " Phantom Academy",
+            "w": 4,
+            "l": 3,
+            "isMisa": false
+          },
+          {
+            "pos": 22,
             "team": "Inner Circle Academy",
             "w": 4,
             "l": 3,
             "isMisa": false
           },
           {
-            "pos": 24,
-            "team": "Spirit Academy Green",
-            "w": 4,
-            "l": 4,
-            "isMisa": false
-          },
-          {
-            "pos": 24,
-            "team": "Privateer Gaming",
-            "w": 4,
-            "l": 4,
-            "isMisa": false
-          },
-          {
-            "pos": 24,
+            "pos": 26,
             "team": "Banger Gang",
             "w": 4,
             "l": 4,
             "isMisa": false
           },
           {
-            "pos": 27,
+            "pos": 26,
+            "team": "Spirit Academy Green",
+            "w": 4,
+            "l": 4,
+            "isMisa": false
+          },
+          {
+            "pos": 26,
+            "team": "Privateer Gaming",
+            "w": 4,
+            "l": 4,
+            "isMisa": false
+          },
+          {
+            "pos": 29,
             "team": "Fortress",
             "w": 4,
             "l": 5,
             "isMisa": false
           },
           {
-            "pos": 28,
+            "pos": 30,
             "team": "BOJONG",
             "w": 3,
             "l": 1,
             "isMisa": false
           },
           {
-            "pos": 28,
+            "pos": 30,
             "team": "LFO UKRAINE",
             "w": 3,
             "l": 1,
             "isMisa": false
           },
           {
-            "pos": 28,
+            "pos": 30,
             "team": "JUMBO TEAM",
             "w": 3,
             "l": 1,
             "isMisa": false
           },
           {
-            "pos": 28,
-            "team": "NAVI Junior",
-            "w": 3,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 32,
+            "pos": 33,
             "team": "LPH Gaming",
             "w": 3,
             "l": 3,
             "isMisa": false
           },
           {
-            "pos": 32,
+            "pos": 33,
             "team": "Sangal ALTERS",
             "w": 3,
             "l": 3,
             "isMisa": false
           },
           {
-            "pos": 32,
+            "pos": 33,
             "team": "ENRAGE",
-            "w": 3,
-            "l": 3,
-            "isMisa": false
-          },
-          {
-            "pos": 32,
-            "team": "ZOTIX",
             "w": 3,
             "l": 3,
             "isMisa": false
@@ -431,14 +431,14 @@
             "isMisa": false
           },
           {
-            "pos": 41,
+            "pos": 42,
             "team": "NEXORA",
             "w": 2,
-            "l": 2,
+            "l": 4,
             "isMisa": false
           },
           {
-            "pos": 43,
+            "pos": 42,
             "team": "uust _esports",
             "w": 2,
             "l": 4,
@@ -499,6 +499,36 @@
     "valorant": {
       "roster": [
         {
+          "tag": "MERZ",
+          "name": "Emre Aktaş",
+          "role": "Player",
+          "image": ""
+        },
+        {
+          "tag": "sh1va",
+          "name": "Arda Özkaya",
+          "role": "Player",
+          "image": ""
+        },
+        {
+          "tag": "Fortres",
+          "name": "Yusuf Aydın",
+          "role": "Player",
+          "image": ""
+        },
+        {
+          "tag": "Ronniee",
+          "name": "Ronniee",
+          "role": "Player",
+          "image": ""
+        },
+        {
+          "tag": "pAwn1",
+          "name": "pAwn1",
+          "role": "Player",
+          "image": ""
+        },
+        {
           "tag": "Draken",
           "name": "",
           "role": "Koç",
@@ -549,6 +579,15 @@
   },
   "matches": {
     "upcoming": [
+      {
+        "id": "1643128",
+        "game": "cs2",
+        "opponent": " Phantom Academy",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137580/185px_phantom_esports_lightmode.png",
+        "date": "2026-08-20T18:30:00Z",
+        "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
+        "format": "BO1"
+      },
       {
         "id": "1637091",
         "game": "cs2",
