@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-21T06:31:21.077Z",
+    "fetchedAt": "2026-08-21T12:28:47.703Z",
     "source": "pandascore"
   },
   "branches": {
@@ -97,16 +97,16 @@
     "cs2": {
       "roster": [
         {
-          "tag": "emstar",
-          "name": "Emrecan Çalışkan",
+          "tag": "cyber",
+          "name": "Ahmet Akpinar",
           "role": "Player",
           "image": ""
         },
         {
-          "tag": "ckanic",
-          "name": "Serdar Akinci",
+          "tag": "emstar",
+          "name": "Emrecan Çalışkan",
           "role": "Player",
-          "image": "assets/images/cs2/ckanic.webp"
+          "image": ""
         },
         {
           "tag": "h0kz",
@@ -121,12 +121,6 @@
           "image": "assets/images/cs2/zuedsta.webp"
         },
         {
-          "tag": "MERTOWSK1",
-          "name": "Kazım Mert Burtgil",
-          "role": "Player",
-          "image": "assets/images/cs2/mertowski.webp"
-        },
-        {
           "tag": "souv",
           "name": "Aziz Altinsoy",
           "role": "Player",
@@ -135,7 +129,7 @@
         {
           "tag": "Obyj",
           "name": "Onur Buğra Yaman",
-          "role": "Player",
+          "role": "Koç",
           "image": ""
         }
       ],
