@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-21T18:23:48.935Z",
+    "fetchedAt": "2026-08-22T00:43:41.746Z",
     "source": "pandascore"
   },
   "branches": {
@@ -146,14 +146,14 @@
           },
           {
             "pos": 2,
-            "team": "Drama eSports",
+            "team": "NEW VISION",
             "w": 7,
             "l": 1,
             "isMisa": false
           },
           {
             "pos": 2,
-            "team": "NEW VISION",
+            "team": "Drama eSports",
             "w": 7,
             "l": 1,
             "isMisa": false
@@ -188,7 +188,7 @@
           },
           {
             "pos": 8,
-            "team": "Fire Flux Esports",
+            "team": "ZOTIX",
             "w": 6,
             "l": 3,
             "isMisa": false
@@ -201,71 +201,71 @@
             "isMisa": false
           },
           {
-            "pos": 10,
+            "pos": 8,
+            "team": "Fire Flux Esports",
+            "w": 6,
+            "l": 3,
+            "isMisa": false
+          },
+          {
+            "pos": 11,
             "team": "KUUSAMO.gg",
             "w": 6,
             "l": 6,
             "isMisa": false
           },
           {
-            "pos": 11,
-            "team": "Bushido Wildcats",
-            "w": 5,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 11,
-            "team": "Falcons Force",
-            "w": 5,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 11,
+            "pos": 12,
             "team": "VP.Prodigy",
             "w": 5,
             "l": 1,
             "isMisa": false
           },
           {
-            "pos": 14,
+            "pos": 12,
+            "team": "Falcons Force",
+            "w": 5,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 12,
+            "team": "Bushido Wildcats",
+            "w": 5,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
             "team": "Younglings",
             "w": 5,
             "l": 2,
             "isMisa": false
           },
           {
-            "pos": 15,
-            "team": "Subtop De France",
+            "pos": 16,
+            "team": "Inner Circle Academy",
             "w": 5,
             "l": 3,
             "isMisa": false
           },
           {
-            "pos": 15,
+            "pos": 16,
             "team": "WBT",
             "w": 5,
             "l": 3,
             "isMisa": false
           },
           {
-            "pos": 15,
-            "team": "ZOTIX",
-            "w": 5,
-            "l": 3,
-            "isMisa": false
-          },
-          {
-            "pos": 15,
+            "pos": 16,
             "team": "Donstu Esports",
             "w": 5,
             "l": 3,
             "isMisa": false
           },
           {
-            "pos": 15,
-            "team": "Inner Circle Academy",
+            "pos": 16,
+            "team": "Subtop De France",
             "w": 5,
             "l": 3,
             "isMisa": false
@@ -293,35 +293,35 @@
           },
           {
             "pos": 23,
-            "team": "JUMBO TEAM",
-            "w": 4,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 24,
-            "team": "BOJONG",
+            "team": "Wave Esports",
             "w": 4,
             "l": 2,
             "isMisa": false
           },
           {
-            "pos": 24,
-            "team": "PURE",
-            "w": 4,
-            "l": 2,
-            "isMisa": false
-          },
-          {
-            "pos": 24,
+            "pos": 23,
             "team": "NAVI Junior",
             "w": 4,
             "l": 2,
             "isMisa": false
           },
           {
-            "pos": 24,
-            "team": "Wave Esports",
+            "pos": 23,
+            "team": "JUMBO TEAM",
+            "w": 4,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 23,
+            "team": "BOJONG",
+            "w": 4,
+            "l": 2,
+            "isMisa": false
+          },
+          {
+            "pos": 23,
+            "team": "PURE",
             "w": 4,
             "l": 2,
             "isMisa": false
@@ -370,14 +370,14 @@
           },
           {
             "pos": 34,
-            "team": "LPH Gaming",
+            "team": "LFO UKRAINE",
             "w": 3,
             "l": 3,
             "isMisa": false
           },
           {
             "pos": 34,
-            "team": "LFO UKRAINE",
+            "team": "LPH Gaming",
             "w": 3,
             "l": 3,
             "isMisa": false
@@ -447,35 +447,35 @@
           },
           {
             "pos": 45,
-            "team": "NEXORA",
-            "w": 2,
-            "l": 5,
-            "isMisa": false
-          },
-          {
-            "pos": 45,
             "team": "Benched gods",
             "w": 2,
             "l": 5,
             "isMisa": false
           },
           {
-            "pos": 47,
-            "team": "GoldRashers",
+            "pos": 45,
+            "team": "NEXORA",
             "w": 2,
-            "l": 7,
+            "l": 5,
             "isMisa": false
           },
           {
-            "pos": 48,
+            "pos": 47,
             "team": "Diamant Esports",
             "w": 2,
             "l": 8,
             "isMisa": false
           },
           {
-            "pos": 48,
+            "pos": 47,
             "team": "Glitchtech Esports",
+            "w": 2,
+            "l": 8,
+            "isMisa": false
+          },
+          {
+            "pos": 47,
+            "team": "GoldRashers",
             "w": 2,
             "l": 8,
             "isMisa": false
@@ -573,15 +573,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1644588",
-        "game": "cs2",
-        "opponent": "JUMBO TEAM",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137356/138px_jumbo_team_allmode.png",
-        "date": "2026-08-21T18:30:00Z",
-        "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
-        "format": "BO1"
-      },
       {
         "id": "1637091",
         "game": "cs2",
