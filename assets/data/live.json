@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-25T06:31:08.293Z",
+    "fetchedAt": "2026-08-25T12:30:57.012Z",
     "source": "pandascore"
   },
   "branches": {
@@ -589,6 +589,15 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/130059/1200px_eternal_fire_2023_allmode.png",
         "date": "2026-08-26T15:00:00Z",
         "tournament": "Monsters Reloaded 2026 · Playoffs",
+        "format": "BO3"
+      },
+      {
+        "id": "1651279",
+        "game": "cs2",
+        "opponent": "Permitta Esports",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/132060/171px_permitta_esports_allmode.png",
+        "date": "2026-08-27T14:00:00Z",
+        "tournament": "CCT Europe Closed Qualifier: Series #8 2026 · Group B",
         "format": "BO3"
       },
       {
