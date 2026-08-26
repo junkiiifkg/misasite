@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-26T12:33:26.686Z",
+    "fetchedAt": "2026-08-26T19:39:00.051Z",
     "source": "pandascore"
   },
   "branches": {
@@ -220,24 +220,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1646570",
-        "game": "cs2",
-        "opponent": "Eternal Fire Academy",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/130059/1200px_eternal_fire_2023_allmode.png",
-        "date": "2026-08-26T15:00:00Z",
-        "tournament": "Monsters Reloaded 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
-        "id": "1652179",
-        "game": "cs2",
-        "opponent": "Wave Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/133571/824px_wave_esports_2020_allmode.png",
-        "date": "2026-08-26T18:30:00Z",
-        "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
-        "format": "BO1"
-      },
-      {
         "id": "1651279",
         "game": "cs2",
         "opponent": "Permitta Esports",
@@ -252,6 +234,15 @@
         "opponent": "BOJONG",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138129/63v6k8_ogkds_rq93i_y_dd_pyy_bs_g_ac_lxqjh_tw_k_kfz_fa.png",
         "date": "2026-08-28T15:00:00Z",
+        "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
+        "format": "BO1"
+      },
+      {
+        "id": "1652179",
+        "game": "cs2",
+        "opponent": "Wave Esports",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/133571/824px_wave_esports_2020_allmode.png",
+        "date": "2026-08-28T18:30:00Z",
         "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
         "format": "BO1"
       }
