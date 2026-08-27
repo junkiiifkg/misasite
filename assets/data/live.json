@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-26T19:39:00.051Z",
+    "fetchedAt": "2026-08-27T05:58:22.881Z",
     "source": "pandascore"
   },
   "branches": {
@@ -227,6 +227,15 @@
         "date": "2026-08-27T14:00:00Z",
         "tournament": "CCT Europe Closed Qualifier: Series #8 2026 · Group B",
         "format": "BO3"
+      },
+      {
+        "id": "1654134",
+        "game": "cs2",
+        "opponent": "Fire Flux Esports",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/135474/190px_fire_flux_esports_allmode.png",
+        "date": "2026-08-27T18:30:00Z",
+        "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
+        "format": "BO1"
       },
       {
         "id": "1637091",
