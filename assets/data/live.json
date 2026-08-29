@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-28T17:56:20.313Z",
+    "fetchedAt": "2026-08-29T01:23:08.101Z",
     "source": "pandascore"
   },
   "branches": {
@@ -135,357 +135,35 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "ESEA Advanced Europe season 58 2026",
+        "leagueName": "CCT Europe Closed Qualifier: Series #8 2026",
         "table": [
           {
             "pos": 1,
-            "team": "Drama eSports",
-            "w": 10,
-            "l": 1,
+            "team": "Permitta Esports",
+            "w": 0,
+            "l": 0,
             "isMisa": false
           },
           {
             "pos": 2,
-            "team": "Esport BERG",
-            "w": 9,
-            "l": 1,
+            "team": "ILLYRIANS",
+            "w": 0,
+            "l": 0,
             "isMisa": false
           },
           {
             "pos": 3,
-            "team": "Fire Flux Esports",
-            "w": 9,
-            "l": 4,
+            "team": "ex-MANA eSports",
+            "w": 0,
+            "l": 0,
             "isMisa": false
           },
           {
             "pos": 4,
-            "team": "XI Esport",
-            "w": 9,
-            "l": 5,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "eSuba",
-            "w": 9,
-            "l": 5,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "OldBoys",
-            "w": 8,
-            "l": 2,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "NAVI Junior",
-            "w": 8,
-            "l": 3,
-            "isMisa": false
-          },
-          {
-            "pos": 8,
-            "team": "Spirit Academy Green",
-            "w": 8,
-            "l": 4,
-            "isMisa": false
-          },
-          {
-            "pos": 8,
-            "team": "OLDBOYS PL",
-            "w": 8,
-            "l": 4,
-            "isMisa": false
-          },
-          {
-            "pos": 10,
-            "team": "NEW VISION",
-            "w": 7,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 11,
-            "team": "VP.Prodigy",
-            "w": 7,
-            "l": 2,
-            "isMisa": false
-          },
-          {
-            "pos": 12,
-            "team": "WBT",
-            "w": 7,
-            "l": 3,
-            "isMisa": false
-          },
-          {
-            "pos": 13,
-            "team": "Banger Gang",
-            "w": 7,
-            "l": 5,
-            "isMisa": false
-          },
-          {
-            "pos": 13,
-            "team": "banda chuya",
-            "w": 7,
-            "l": 5,
-            "isMisa": false
-          },
-          {
-            "pos": 15,
-            "team": "ZOTIX",
-            "w": 7,
-            "l": 6,
-            "isMisa": false
-          },
-          {
-            "pos": 15,
-            "team": "B8 Academy",
-            "w": 7,
-            "l": 6,
-            "isMisa": false
-          },
-          {
-            "pos": 17,
-            "team": "Falcons Force",
-            "w": 6,
-            "l": 4,
-            "isMisa": false
-          },
-          {
-            "pos": 18,
-            "team": "NEXORA",
-            "w": 6,
-            "l": 5,
-            "isMisa": false
-          },
-          {
-            "pos": 18,
-            "team": "Younglings",
-            "w": 6,
-            "l": 5,
-            "isMisa": false
-          },
-          {
-            "pos": 20,
-            "team": "Fraternity",
-            "w": 6,
-            "l": 6,
-            "isMisa": false
-          },
-          {
-            "pos": 21,
-            "team": "KUUSAMO.gg",
-            "w": 6,
-            "l": 7,
-            "isMisa": false
-          },
-          {
-            "pos": 22,
-            "team": "Bushido Wildcats",
-            "w": 5,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 23,
-            "team": "Honvéd",
-            "w": 5,
-            "l": 2,
-            "isMisa": false
-          },
-          {
-            "pos": 24,
-            "team": "JUMBO TEAM",
-            "w": 5,
-            "l": 4,
-            "isMisa": false
-          },
-          {
-            "pos": 24,
-            "team": "Inner Circle Academy",
-            "w": 5,
-            "l": 4,
-            "isMisa": false
-          },
-          {
-            "pos": 24,
-            "team": "Donstu Esports",
-            "w": 5,
-            "l": 4,
-            "isMisa": false
-          },
-          {
-            "pos": 27,
-            "team": "Dark Moon",
-            "w": 5,
-            "l": 5,
-            "isMisa": false
-          },
-          {
-            "pos": 27,
-            "team": "LPH Gaming",
-            "w": 5,
-            "l": 5,
-            "isMisa": false
-          },
-          {
-            "pos": 27,
-            "team": "LFO UKRAINE",
-            "w": 5,
-            "l": 5,
-            "isMisa": false
-          },
-          {
-            "pos": 30,
-            "team": "Subtop De France",
-            "w": 5,
-            "l": 6,
-            "isMisa": false
-          },
-          {
-            "pos": 30,
-            "team": "MTX",
-            "w": 5,
-            "l": 6,
-            "isMisa": false
-          },
-          {
-            "pos": 30,
-            "team": "BOJONG",
-            "w": 5,
-            "l": 6,
-            "isMisa": false
-          },
-          {
-            "pos": 30,
-            "team": "Wave Esports",
-            "w": 5,
-            "l": 6,
-            "isMisa": false
-          },
-          {
-            "pos": 30,
-            "team": "ROUNDS",
-            "w": 5,
-            "l": 6,
-            "isMisa": false
-          },
-          {
-            "pos": 30,
-            "team": "NoTime",
-            "w": 5,
-            "l": 6,
-            "isMisa": false
-          },
-          {
-            "pos": 36,
             "team": "Misa Esports",
-            "w": 4,
-            "l": 2,
+            "w": 0,
+            "l": 0,
             "isMisa": true
-          },
-          {
-            "pos": 36,
-            "team": "PURE",
-            "w": 4,
-            "l": 2,
-            "isMisa": false
-          },
-          {
-            "pos": 38,
-            "team": " Phantom Academy",
-            "w": 4,
-            "l": 3,
-            "isMisa": false
-          },
-          {
-            "pos": 39,
-            "team": "ENRAGE",
-            "w": 4,
-            "l": 4,
-            "isMisa": false
-          },
-          {
-            "pos": 40,
-            "team": "Privateer Gaming",
-            "w": 4,
-            "l": 7,
-            "isMisa": false
-          },
-          {
-            "pos": 41,
-            "team": "Fortress",
-            "w": 4,
-            "l": 8,
-            "isMisa": false
-          },
-          {
-            "pos": 42,
-            "team": "Sangal ALTERS",
-            "w": 3,
-            "l": 3,
-            "isMisa": false
-          },
-          {
-            "pos": 43,
-            "team": "A Great Chaos",
-            "w": 3,
-            "l": 5,
-            "isMisa": false
-          },
-          {
-            "pos": 44,
-            "team": "Hermine Esports Club",
-            "w": 3,
-            "l": 7,
-            "isMisa": false
-          },
-          {
-            "pos": 45,
-            "team": "Glitchtech Esports",
-            "w": 3,
-            "l": 8,
-            "isMisa": false
-          },
-          {
-            "pos": 45,
-            "team": "FAST LAYNERS",
-            "w": 3,
-            "l": 8,
-            "isMisa": false
-          },
-          {
-            "pos": 47,
-            "team": "Diamant Esports",
-            "w": 3,
-            "l": 9,
-            "isMisa": false
-          },
-          {
-            "pos": 47,
-            "team": "GoldRashers",
-            "w": 3,
-            "l": 9,
-            "isMisa": false
-          },
-          {
-            "pos": 49,
-            "team": "Benched gods",
-            "w": 2,
-            "l": 5,
-            "isMisa": false
-          },
-          {
-            "pos": 50,
-            "team": "uust _esports",
-            "w": 2,
-            "l": 6,
-            "isMisa": false
           }
         ]
       }
@@ -574,18 +252,9 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1652179",
-        "game": "cs2",
-        "opponent": "Wave Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/133571/824px_wave_esports_2020_allmode.png",
-        "date": "2026-08-28T18:30:00Z",
-        "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
-        "format": "BO1"
-      },
-      {
         "id": "1651283",
         "game": "cs2",
-        "opponent": "Decider match: MISA vs TBD",
+        "opponent": "Mai Tai",
         "opponentLogo": "",
         "date": "2026-08-31T11:00:00Z",
         "tournament": "CCT Europe Closed Qualifier: Series #8 2026 · Group B",
@@ -593,6 +262,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1652179",
+        "game": "cs2",
+        "opponent": "Wave Esports",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/133571/824px_wave_esports_2020_allmode.png",
+        "date": "2026-08-28T18:30:00Z",
+        "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
+        "format": "BO1",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1649043",
         "game": "cs2",
@@ -685,20 +368,6 @@
         "date": "2026-07-21T18:50:00Z",
         "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
         "format": "BO1",
-        "result": {
-          "misa": 0,
-          "opponent": 0,
-          "win": true
-        }
-      },
-      {
-        "id": "1588635",
-        "game": "cs2",
-        "opponent": "ex-MANA eSports",
-        "opponentLogo": "",
-        "date": "2026-07-18T10:30:00Z",
-        "tournament": "United21 Season 52 2026 · Playoffs",
-        "format": "BO3",
         "result": {
           "misa": 0,
           "opponent": 0,
