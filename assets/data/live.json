@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-30T10:57:41.215Z",
+    "fetchedAt": "2026-08-30T15:46:00.549Z",
     "source": "pandascore"
   },
   "branches": {
@@ -134,7 +134,39 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "CCT Europe Closed Qualifier: Series #8 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Permitta Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "ILLYRIANS",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "ex-MANA eSports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          }
+        ]
+      }
     },
     "valorant": {
       "roster": [
@@ -219,15 +251,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1658121",
-        "game": "cs2",
-        "opponent": "BakS eSports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/130794/baks_esports_2025_lightmode.png",
-        "date": "2026-08-30T13:00:00Z",
-        "tournament": "ESL Challenger League Europe Cup #5 season 52 2026 · Group B",
-        "format": "BO3"
-      },
       {
         "id": "1651283",
         "game": "cs2",
