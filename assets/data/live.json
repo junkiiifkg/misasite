@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-31T02:34:51.123Z",
+    "fetchedAt": "2026-08-31T12:15:38.439Z",
     "source": "pandascore"
   },
   "branches": {
@@ -135,35 +135,35 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "CCT Europe Closed Qualifier: Series #8 2026",
+        "leagueName": "ESL Challenger League Europe Cup #5 season 52 2026",
         "table": [
           {
             "pos": 1,
-            "team": "Permitta Esports",
+            "team": "Entropy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 2,
-            "team": "ILLYRIANS",
+            "team": "Misa Esports",
             "w": 0,
             "l": 0,
-            "isMisa": false
+            "isMisa": true
           },
           {
             "pos": 3,
-            "team": "ex-MANA eSports",
+            "team": "MOUZ NXT",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 4,
-            "team": "Misa Esports",
+            "team": "BakS eSports",
             "w": 0,
             "l": 0,
-            "isMisa": true
+            "isMisa": false
           }
         ]
       }
@@ -251,15 +251,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1651283",
-        "game": "cs2",
-        "opponent": "Mai Tai",
-        "opponentLogo": "",
-        "date": "2026-08-31T11:00:00Z",
-        "tournament": "CCT Europe Closed Qualifier: Series #8 2026 · Group B",
-        "format": "BO3"
-      },
       {
         "id": "1658125",
         "game": "cs2",
