@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-30T20:19:41.469Z",
+    "fetchedAt": "2026-08-31T02:34:51.123Z",
     "source": "pandascore"
   },
   "branches": {
@@ -258,6 +258,15 @@
         "opponentLogo": "",
         "date": "2026-08-31T11:00:00Z",
         "tournament": "CCT Europe Closed Qualifier: Series #8 2026 · Group B",
+        "format": "BO3"
+      },
+      {
+        "id": "1658125",
+        "game": "cs2",
+        "opponent": "BakS eSports",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/130794/baks_esports_2025_lightmode.png",
+        "date": "2026-08-31T13:00:00Z",
+        "tournament": "ESL Challenger League Europe Cup #5 season 52 2026 · Group B",
         "format": "BO3"
       },
       {
