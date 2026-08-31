@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-08-31T12:15:38.439Z",
+    "fetchedAt": "2026-08-31T22:13:09.542Z",
     "source": "pandascore"
   },
   "branches": {
@@ -134,39 +134,7 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "ESL Challenger League Europe Cup #5 season 52 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "Entropy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 3,
-            "team": "MOUZ NXT",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "BakS eSports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     },
     "valorant": {
       "roster": [
@@ -252,21 +220,21 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1658125",
-        "game": "cs2",
-        "opponent": "BakS eSports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/130794/baks_esports_2025_lightmode.png",
-        "date": "2026-08-31T13:00:00Z",
-        "tournament": "ESL Challenger League Europe Cup #5 season 52 2026 · Group B",
-        "format": "BO3"
-      },
-      {
         "id": "1658039",
         "game": "cs2",
         "opponent": "eternal premium",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/135978/190px_eternal_premium_lightmode.png",
         "date": "2026-09-01T10:30:00Z",
         "tournament": "European Pro League Series 10 Play-In 2026 · Group B",
+        "format": "BO3"
+      },
+      {
+        "id": "1651408",
+        "game": "cs2",
+        "opponent": "UNiTY esports",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/133063/190px_u_ni_ty_esports_allmode.png",
+        "date": "2026-09-01T14:00:00Z",
+        "tournament": "CCT Europe Closed Qualifier: Series #8 2026 · Play-In",
         "format": "BO3"
       }
     ],
