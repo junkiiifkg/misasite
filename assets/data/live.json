@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-01T02:48:45.356Z",
+    "fetchedAt": "2026-09-01T10:50:52.997Z",
     "source": "pandascore"
   },
   "branches": {
@@ -134,7 +134,25 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "European Pro League Series 10 Play-In 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Falcons Force",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "yologang",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "valorant": {
       "roster": [
@@ -224,7 +242,7 @@
         "game": "cs2",
         "opponent": "eternal premium",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/135978/190px_eternal_premium_lightmode.png",
-        "date": "2026-09-01T10:30:00Z",
+        "date": "2026-09-01T11:00:00Z",
         "tournament": "European Pro League Series 10 Play-In 2026 · Group B",
         "format": "BO3"
       },
@@ -235,6 +253,15 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/133063/190px_u_ni_ty_esports_allmode.png",
         "date": "2026-09-01T14:00:00Z",
         "tournament": "CCT Europe Closed Qualifier: Series #8 2026 · Play-In",
+        "format": "BO3"
+      },
+      {
+        "id": "1664480",
+        "game": "cs2",
+        "opponent": "Dark Moon",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138694/x2h_wm79.png",
+        "date": "2026-09-02T17:30:00Z",
+        "tournament": "ESEA Advanced Europe season 58 2026 · Playoffs",
         "format": "BO3"
       }
     ],
