@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-02T15:41:31.574Z",
+    "fetchedAt": "2026-09-02T20:19:27.436Z",
     "source": "pandascore"
   },
   "branches": {
@@ -134,7 +134,39 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "European Pro League Series 10 Play-In 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "eternal premium",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 3,
+            "team": "Falcons Force",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "yologang",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "valorant": {
       "roster": [
@@ -220,21 +252,21 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1664480",
-        "game": "cs2",
-        "opponent": "Dark Moon",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138694/x2h_wm79.png",
-        "date": "2026-09-02T17:30:00Z",
-        "tournament": "ESEA Advanced Europe season 58 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
         "id": "1658041",
         "game": "cs2",
         "opponent": "Falcons Force",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137508/183px_team_falcons_2022_allmode.png",
         "date": "2026-09-05T10:30:00Z",
         "tournament": "European Pro League Series 10 Play-In 2026 · Group B",
+        "format": "BO3"
+      },
+      {
+        "id": "1664511",
+        "game": "cs2",
+        "opponent": "Lower bracket round 1 match 3: MISA vs TBD",
+        "opponentLogo": "",
+        "date": "2026-09-05T17:30:00Z",
+        "tournament": "ESEA Advanced Europe season 58 2026 · Playoffs",
         "format": "BO3"
       }
     ],
