@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-02T20:19:27.436Z",
+    "fetchedAt": "2026-09-03T02:15:18.535Z",
     "source": "pandascore"
   },
   "branches": {
@@ -263,8 +263,8 @@
       {
         "id": "1664511",
         "game": "cs2",
-        "opponent": "Lower bracket round 1 match 3: MISA vs TBD",
-        "opponentLogo": "",
+        "opponent": "B8 Academy",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137538/185px_b8_lightmode.png",
         "date": "2026-09-05T17:30:00Z",
         "tournament": "ESEA Advanced Europe season 58 2026 · Playoffs",
         "format": "BO3"
