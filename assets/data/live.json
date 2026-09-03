@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-03T10:26:28.735Z",
+    "fetchedAt": "2026-09-03T15:31:54.619Z",
     "source": "pandascore"
   },
   "branches": {
@@ -267,6 +267,15 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137538/185px_b8_lightmode.png",
         "date": "2026-09-05T17:30:00Z",
         "tournament": "ESEA Advanced Europe season 58 2026 · Playoffs",
+        "format": "BO3"
+      },
+      {
+        "id": "1669118",
+        "game": "cs2",
+        "opponent": "SAW Youngsters",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/129405/49.png",
+        "date": "2026-09-06T11:00:00Z",
+        "tournament": "CCT Europe Challengers Series season 6 2026 · Playoffs",
         "format": "BO3"
       }
     ],
