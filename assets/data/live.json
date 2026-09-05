@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-05T14:17:52.039Z",
+    "fetchedAt": "2026-09-05T19:44:49.281Z",
     "source": "pandascore"
   },
   "branches": {
@@ -135,25 +135,25 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "ESEA Advanced Europe season 58 2026",
+        "leagueName": "CCT Europe Challengers Series season 6 2026",
         "table": [
           {
             "pos": 1,
-            "team": "BOJONG",
+            "team": "Entropy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 1,
-            "team": "Donstu Esports",
+            "team": "ex-Zero Tenacity",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 1,
-            "team": "Inner Circle Academy",
+            "team": "Morrow Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -166,197 +166,29 @@
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "Spirit Academy Green",
+            "pos": 5,
+            "team": "Inner Circle Academy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
-            "team": "WBT Academy",
+            "pos": 5,
+            "team": "Privateer Gaming",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 7,
-            "team": "Fraternity",
+            "team": "Bushido Wildcats",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 8,
-            "team": "Drama eSports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 9,
-            "team": "ENRAGE",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 10,
-            "team": "NAVI Junior",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 11,
-            "team": "Subtop De France",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 12,
-            "team": "Dark Moon",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 13,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 14,
-            "team": "Banger Gang",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 15,
-            "team": "LFO UKRAINE",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 16,
-            "team": "ex-VP.Prodigy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 17,
-            "team": "KUUSAMO.gg",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 18,
-            "team": "B8 Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 19,
-            "team": "banda chuya",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 20,
-            "team": "Fire Flux Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 21,
-            "team": "Younglings",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 22,
-            "team": "Esport BERG",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 23,
-            "team": "Morrow Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 24,
-            "team": "JUMBO TEAM",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 25,
-            "team": "ZOTIX",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 26,
-            "team": "eSuba",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 27,
-            "team": "NEXORA",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 28,
-            "team": "Falcons Force",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 29,
-            "team": "OLDBOYS PL",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 30,
-            "team": "ROUNDS",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 31,
-            "team": "LPH Gaming",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 32,
-            "team": "XI Esport",
+            "pos": 7,
+            "team": "Spirit Academy",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -448,15 +280,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1664511",
-        "game": "cs2",
-        "opponent": "B8 Academy",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137538/185px_b8_lightmode.png",
-        "date": "2026-09-05T17:30:00Z",
-        "tournament": "ESEA Advanced Europe season 58 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
         "id": "1669118",
         "game": "cs2",
         "opponent": "SAW Youngsters",
@@ -473,9 +296,32 @@
         "date": "2026-09-06T13:00:00Z",
         "tournament": "ESL Challenger League Europe Cup #6 season 52 2026 · Group C",
         "format": "BO3"
+      },
+      {
+        "id": "1673403",
+        "game": "cs2",
+        "opponent": "Passion Academy",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138281/687px_passion_ua_academy_2025_darkmode.png",
+        "date": "2026-09-08T10:30:00Z",
+        "tournament": "United21 Season 55 2026 · Group C",
+        "format": "BO3"
       }
     ],
     "recent": [
+      {
+        "id": "1664511",
+        "game": "cs2",
+        "opponent": "B8 Academy",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137538/185px_b8_lightmode.png",
+        "date": "2026-09-05T17:30:00Z",
+        "tournament": "ESEA Advanced Europe season 58 2026 · Playoffs",
+        "format": "BO3",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": false
+        }
+      },
       {
         "id": "1652179",
         "game": "cs2",
@@ -582,20 +428,6 @@
         "date": "2026-07-21T18:50:00Z",
         "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
         "format": "BO1",
-        "result": {
-          "misa": 0,
-          "opponent": 0,
-          "win": true
-        }
-      },
-      {
-        "id": "1588648",
-        "game": "cs2",
-        "opponent": "Alpha Dominion Nation",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138303/620px_alpha_dominion_nation_allmode.png",
-        "date": "2026-07-17T10:30:00Z",
-        "tournament": "United21 Season 52 2026 · Playoffs",
-        "format": "BO3",
         "result": {
           "misa": 0,
           "opponent": 0,
