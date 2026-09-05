@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-05T09:42:33.170Z",
+    "fetchedAt": "2026-09-05T14:17:52.039Z",
     "source": "pandascore"
   },
   "branches": {
@@ -135,32 +135,228 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "European Pro League Series 10 Play-In 2026",
+        "leagueName": "ESEA Advanced Europe season 58 2026",
         "table": [
           {
             "pos": 1,
-            "team": "yologang",
+            "team": "BOJONG",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 2,
-            "team": "eternal premium",
+            "pos": 1,
+            "team": "Donstu Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 2,
+            "pos": 1,
+            "team": "Inner Circle Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": " Phantom Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Spirit Academy Green",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "WBT Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
+            "team": "Fraternity",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 8,
+            "team": "Drama eSports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 9,
+            "team": "ENRAGE",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "NAVI Junior",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 11,
+            "team": "Subtop De France",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 12,
+            "team": "Dark Moon",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 13,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 4,
+            "pos": 14,
+            "team": "Banger Gang",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "LFO UKRAINE",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 16,
+            "team": "ex-VP.Prodigy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 17,
+            "team": "KUUSAMO.gg",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 18,
+            "team": "B8 Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 19,
+            "team": "banda chuya",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 20,
+            "team": "Fire Flux Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 21,
+            "team": "Younglings",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 22,
+            "team": "Esport BERG",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 23,
+            "team": "Morrow Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 24,
+            "team": "JUMBO TEAM",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 25,
+            "team": "ZOTIX",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 26,
+            "team": "eSuba",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 27,
+            "team": "NEXORA",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 28,
             "team": "Falcons Force",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 29,
+            "team": "OLDBOYS PL",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 30,
+            "team": "ROUNDS",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 31,
+            "team": "LPH Gaming",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 32,
+            "team": "XI Esport",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -251,15 +447,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1658041",
-        "game": "cs2",
-        "opponent": "Falcons Force",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137508/183px_team_falcons_2022_allmode.png",
-        "date": "2026-09-05T10:30:00Z",
-        "tournament": "European Pro League Series 10 Play-In 2026 · Group B",
-        "format": "BO3"
-      },
       {
         "id": "1664511",
         "game": "cs2",
