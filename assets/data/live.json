@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-05T02:11:42.940Z",
+    "fetchedAt": "2026-09-05T09:42:33.170Z",
     "source": "pandascore"
   },
   "branches": {
@@ -139,28 +139,28 @@
         "table": [
           {
             "pos": 1,
+            "team": "yologang",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
             "team": "eternal premium",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 1,
+            "pos": 2,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 3,
+            "pos": 4,
             "team": "Falcons Force",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "yologang",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -276,6 +276,15 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/129405/49.png",
         "date": "2026-09-06T11:00:00Z",
         "tournament": "CCT Europe Challengers Series season 6 2026 · Playoffs",
+        "format": "BO3"
+      },
+      {
+        "id": "1672227",
+        "game": "cs2",
+        "opponent": "MOUZ NXT",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/129160/mou_zlogo_square.png",
+        "date": "2026-09-06T13:00:00Z",
+        "tournament": "ESL Challenger League Europe Cup #6 season 52 2026 · Group C",
         "format": "BO3"
       }
     ],
