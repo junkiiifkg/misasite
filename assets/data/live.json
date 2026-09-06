@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-06T09:58:10.027Z",
+    "fetchedAt": "2026-09-06T14:40:55.931Z",
     "source": "pandascore"
   },
   "branches": {
@@ -134,67 +134,7 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "CCT Europe Challengers Series season 6 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "Entropy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "ex-Zero Tenacity",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "Morrow Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": " Phantom Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
-            "team": "Inner Circle Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
-            "team": "Privateer Gaming",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "Bushido Wildcats",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "Spirit Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     },
     "valorant": {
       "roster": [
@@ -280,30 +220,21 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1669118",
-        "game": "cs2",
-        "opponent": "SAW Youngsters",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/129405/49.png",
-        "date": "2026-09-06T11:00:00Z",
-        "tournament": "CCT Europe Challengers Series season 6 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
-        "id": "1672227",
-        "game": "cs2",
-        "opponent": "MOUZ NXT",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/129160/mou_zlogo_square.png",
-        "date": "2026-09-06T13:00:00Z",
-        "tournament": "ESL Challenger League Europe Cup #6 season 52 2026 · Group C",
-        "format": "BO3"
-      },
-      {
         "id": "1673403",
         "game": "cs2",
         "opponent": "Passion Academy",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138281/687px_passion_ua_academy_2025_darkmode.png",
         "date": "2026-09-08T10:30:00Z",
         "tournament": "United21 Season 55 2026 · Group C",
+        "format": "BO3"
+      },
+      {
+        "id": "1669123",
+        "game": "cs2",
+        "opponent": " Phantom Academy",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137580/185px_phantom_esports_lightmode.png",
+        "date": "2026-09-08T13:45:00Z",
+        "tournament": "CCT Europe Challengers Series season 6 2026 · Playoffs",
         "format": "BO3"
       },
       {
