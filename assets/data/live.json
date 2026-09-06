@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-05T19:44:49.281Z",
+    "fetchedAt": "2026-09-06T02:07:02.005Z",
     "source": "pandascore"
   },
   "branches": {
@@ -304,6 +304,15 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138281/687px_passion_ua_academy_2025_darkmode.png",
         "date": "2026-09-08T10:30:00Z",
         "tournament": "United21 Season 55 2026 · Group C",
+        "format": "BO3"
+      },
+      {
+        "id": "1673538",
+        "game": "cs2",
+        "opponent": "ReThink",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137967/re_think_lightmode.png",
+        "date": "2026-09-10T14:00:00Z",
+        "tournament": "NODWIN Clutch Series Season 12 2026 · Play-In Group C",
         "format": "BO3"
       }
     ],
