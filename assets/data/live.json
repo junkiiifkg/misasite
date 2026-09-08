@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-08T10:19:51.352Z",
+    "fetchedAt": "2026-09-08T15:43:13.706Z",
     "source": "pandascore"
   },
   "branches": {
@@ -134,25 +134,7 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "United21 Season 55 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "EAC Extra",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": " Phantom Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     },
     "valorant": {
       "roster": [
@@ -238,24 +220,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1673403",
-        "game": "cs2",
-        "opponent": "Passion Academy",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138281/687px_passion_ua_academy_2025_darkmode.png",
-        "date": "2026-09-08T10:30:00Z",
-        "tournament": "United21 Season 55 2026 · Group C",
-        "format": "BO3"
-      },
-      {
-        "id": "1669123",
-        "game": "cs2",
-        "opponent": " Phantom Academy",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137580/185px_phantom_esports_lightmode.png",
-        "date": "2026-09-08T13:45:00Z",
-        "tournament": "CCT Europe Challengers Series season 6 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
         "id": "1673538",
         "game": "cs2",
         "opponent": "ReThink",
@@ -263,9 +227,32 @@
         "date": "2026-09-10T14:00:00Z",
         "tournament": "NODWIN Clutch Series Season 12 2026 · Play-In Group C",
         "format": "BO3"
+      },
+      {
+        "id": "1673405",
+        "game": "cs2",
+        "opponent": "EAC Extra",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/139089/esport_academy_copenhagen_allmode.png",
+        "date": "2026-09-12T10:30:00Z",
+        "tournament": "United21 Season 55 2026 · Group C",
+        "format": "BO3"
       }
     ],
     "recent": [
+      {
+        "id": "1673403",
+        "game": "cs2",
+        "opponent": "Passion Academy",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138281/687px_passion_ua_academy_2025_darkmode.png",
+        "date": "2026-09-08T10:45:00Z",
+        "tournament": "United21 Season 55 2026 · Group C",
+        "format": "BO3",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": false
+        }
+      },
       {
         "id": "1664511",
         "game": "cs2",
@@ -384,20 +371,6 @@
         "opponent": "Entropy",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128258/800px_entropy_gaming_2020_lightmode.png",
         "date": "2026-07-21T18:50:00Z",
-        "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
-        "format": "BO1",
-        "result": {
-          "misa": 0,
-          "opponent": 0,
-          "win": true
-        }
-      },
-      {
-        "id": "1589646",
-        "game": "cs2",
-        "opponent": "OKSUCC",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138646/oksucc_allmode.png",
-        "date": "2026-07-16T18:30:00Z",
         "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
         "format": "BO1",
         "result": {
