@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-08T02:16:13.126Z",
+    "fetchedAt": "2026-09-08T10:19:51.352Z",
     "source": "pandascore"
   },
   "branches": {
@@ -134,7 +134,25 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "United21 Season 55 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "EAC Extra",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": " Phantom Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "valorant": {
       "roster": [
