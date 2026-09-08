@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-08T15:43:13.706Z",
+    "fetchedAt": "2026-09-08T20:31:25.237Z",
     "source": "pandascore"
   },
   "branches": {
@@ -134,7 +134,123 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "CCT Europe Challengers Series season 6 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Entropy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "ex-Zero Tenacity",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Morrow Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": " Phantom Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Privateer Gaming",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 6,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 7,
+            "team": "Bushido Wildcats",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 8,
+            "team": "NAVI Junior",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 9,
+            "team": "Inner Circle Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 10,
+            "team": "megoshort",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 11,
+            "team": "Noir Verse",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 12,
+            "team": "Strael-Bora",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 13,
+            "team": "Mai Tai",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 14,
+            "team": "Fire Flux Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "SAW Youngsters",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 16,
+            "team": "Spirit Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "valorant": {
       "roster": [
@@ -219,6 +335,15 @@
   },
   "matches": {
     "upcoming": [
+      {
+        "id": "1669126",
+        "game": "cs2",
+        "opponent": "megoshort",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128629/megashort.png",
+        "date": "2026-09-10T13:45:00Z",
+        "tournament": "CCT Europe Challengers Series season 6 2026 · Playoffs",
+        "format": "BO3"
+      },
       {
         "id": "1673538",
         "game": "cs2",
