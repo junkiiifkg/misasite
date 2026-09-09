@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-09T15:38:13.623Z",
+    "fetchedAt": "2026-09-09T20:13:43.967Z",
     "source": "pandascore"
   },
   "branches": {
@@ -174,35 +174,35 @@
           },
           {
             "pos": 6,
-            "team": "SAW Youngsters",
+            "team": "NAVI Junior",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 7,
-            "team": "Spirit Academy",
+            "team": "SAW Youngsters",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 8,
+            "team": "Spirit Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 9,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 9,
-            "team": "Bushido Wildcats",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
             "pos": 10,
-            "team": "NAVI Junior",
+            "team": "Bushido Wildcats",
             "w": 0,
             "l": 0,
             "isMisa": false
