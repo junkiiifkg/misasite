@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-10T10:18:34.557Z",
+    "fetchedAt": "2026-09-10T15:33:45.073Z",
     "source": "pandascore"
   },
   "branches": {
@@ -134,7 +134,39 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": null
+      "standings": {
+        "leagueName": "United21 Season 55 2026",
+        "table": [
+          {
+            "pos": 1,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 1,
+            "team": "Passion Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "EAC Extra",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": " Phantom Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          }
+        ]
+      }
     },
     "valorant": {
       "roster": [
@@ -220,33 +252,6 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1658071",
-        "game": "cs2",
-        "opponent": "Permitta Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/132060/171px_permitta_esports_allmode.png",
-        "date": "2026-09-10T10:30:00Z",
-        "tournament": "European Pro League Series 9 Play-In 2026 · Play-In",
-        "format": "BO3"
-      },
-      {
-        "id": "1669126",
-        "game": "cs2",
-        "opponent": "megoshort",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128629/megashort.png",
-        "date": "2026-09-10T13:45:00Z",
-        "tournament": "CCT Europe Challengers Series season 6 2026 · Playoffs",
-        "format": "BO3"
-      },
-      {
-        "id": "1673538",
-        "game": "cs2",
-        "opponent": "ReThink",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137967/re_think_lightmode.png",
-        "date": "2026-09-10T14:00:00Z",
-        "tournament": "NODWIN Clutch Series Season 12 2026 · Play-In Group C",
-        "format": "BO3"
-      },
-      {
         "id": "1673405",
         "game": "cs2",
         "opponent": "EAC Extra",
@@ -257,6 +262,20 @@
       }
     ],
     "recent": [
+      {
+        "id": "1673538",
+        "game": "cs2",
+        "opponent": "ReThink",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137967/re_think_lightmode.png",
+        "date": "2026-09-10T14:00:00Z",
+        "tournament": "NODWIN Clutch Series Season 12 2026 · Play-In Group C",
+        "format": "BO3",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": false
+        }
+      },
       {
         "id": "1673403",
         "game": "cs2",
@@ -377,20 +396,6 @@
         "date": "2026-08-02T13:50:00Z",
         "tournament": "ESL Challenger League Europe Cup #2 season 52 2026 · Group D",
         "format": "BO3",
-        "result": {
-          "misa": 0,
-          "opponent": 0,
-          "win": true
-        }
-      },
-      {
-        "id": "1597632",
-        "game": "cs2",
-        "opponent": "Entropy",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128258/800px_entropy_gaming_2020_lightmode.png",
-        "date": "2026-07-21T18:50:00Z",
-        "tournament": "ESEA Advanced Europe season 58 2026 · Regular Season",
-        "format": "BO1",
         "result": {
           "misa": 0,
           "opponent": 0,
