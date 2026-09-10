@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-10T15:33:45.073Z",
+    "fetchedAt": "2026-09-10T20:15:33.893Z",
     "source": "pandascore"
   },
   "branches": {
@@ -258,6 +258,15 @@
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/139089/esport_academy_copenhagen_allmode.png",
         "date": "2026-09-12T10:30:00Z",
         "tournament": "United21 Season 55 2026 · Group C",
+        "format": "BO3"
+      },
+      {
+        "id": "1669127",
+        "game": "cs2",
+        "opponent": "Bushido Wildcats",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136934/bushido_wildcats_2026_allmode.png",
+        "date": "2026-09-12T11:00:00Z",
+        "tournament": "CCT Europe Challengers Series season 6 2026 · Playoffs",
         "format": "BO3"
       }
     ],
