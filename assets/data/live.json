@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-10T20:15:33.893Z",
+    "fetchedAt": "2026-09-11T02:14:12.151Z",
     "source": "pandascore"
   },
   "branches": {
@@ -135,34 +135,20 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "United21 Season 55 2026",
+        "leagueName": "NODWIN Clutch Series Season 12 2026",
         "table": [
           {
             "pos": 1,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 1,
-            "team": "Passion Academy",
-            "w": 0,
+            "team": "Drama eSports",
+            "w": 1,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
-            "team": "EAC Extra",
+            "pos": 2,
+            "team": "SINQU",
             "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": " Phantom Academy",
-            "w": 0,
-            "l": 0,
+            "l": 1,
             "isMisa": false
           }
         ]
@@ -251,6 +237,15 @@
   },
   "matches": {
     "upcoming": [
+      {
+        "id": "1683338",
+        "game": "cs2",
+        "opponent": "SINQU",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/137707/151px_sinqu_esports_allmode.png",
+        "date": "2026-09-11T17:00:00Z",
+        "tournament": "NODWIN Clutch Series Season 12 2026 · Play-In Group C",
+        "format": "BO3"
+      },
       {
         "id": "1673405",
         "game": "cs2",
