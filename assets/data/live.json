@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-11T02:14:12.151Z",
+    "fetchedAt": "2026-09-11T10:18:09.298Z",
     "source": "pandascore"
   },
   "branches": {
@@ -140,13 +140,20 @@
           {
             "pos": 1,
             "team": "Drama eSports",
-            "w": 1,
+            "w": 2,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 2,
             "team": "SINQU",
+            "w": 0,
+            "l": 1,
+            "isMisa": false
+          },
+          {
+            "pos": 2,
+            "team": "ReThink",
             "w": 0,
             "l": 1,
             "isMisa": false
