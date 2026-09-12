@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-12T14:42:05.437Z",
+    "fetchedAt": "2026-09-12T19:55:04.625Z",
     "source": "pandascore"
   },
   "branches": {
@@ -134,123 +134,7 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "CCT Europe Challengers Series season 6 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "Entropy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "ex-Zero Tenacity",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "Morrow Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": " Phantom Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "Privateer Gaming",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "Bushido Wildcats",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 8,
-            "team": "Inner Circle Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 9,
-            "team": "megoshort",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 10,
-            "team": "Fire Flux Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 11,
-            "team": "Noir Verse",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 12,
-            "team": "NAVI Junior",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 13,
-            "team": "SAW Youngsters",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 14,
-            "team": "Spirit Academy",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 15,
-            "team": "Strael-Bora",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 16,
-            "team": "Mai Tai",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     },
     "valorant": {
       "roster": [
@@ -335,6 +219,15 @@
   },
   "matches": {
     "upcoming": [
+      {
+        "id": "1683265",
+        "game": "cs2",
+        "opponent": "Bebop",
+        "opponentLogo": "",
+        "date": "2026-09-13T10:30:00Z",
+        "tournament": "European Pro League Series 9 2026 · Group B",
+        "format": "BO3"
+      },
       {
         "id": "1669128",
         "game": "cs2",
