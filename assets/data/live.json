@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-12T09:50:43.245Z",
+    "fetchedAt": "2026-09-12T14:42:05.437Z",
     "source": "pandascore"
   },
   "branches": {
@@ -135,32 +135,116 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "United21 Season 55 2026",
+        "leagueName": "CCT Europe Challengers Series season 6 2026",
         "table": [
           {
             "pos": 1,
+            "team": "Entropy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "ex-Zero Tenacity",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Morrow Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": " Phantom Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
+            "team": "Privateer Gaming",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 6,
+            "team": "Bushido Wildcats",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 1,
-            "team": "Passion Academy",
+            "pos": 8,
+            "team": "Inner Circle Academy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
-            "team": "EAC Extra",
+            "pos": 9,
+            "team": "megoshort",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 3,
-            "team": " Phantom Academy",
+            "pos": 10,
+            "team": "Fire Flux Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 11,
+            "team": "Noir Verse",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 12,
+            "team": "NAVI Junior",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 13,
+            "team": "SAW Youngsters",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 14,
+            "team": "Spirit Academy",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 15,
+            "team": "Strael-Bora",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 16,
+            "team": "Mai Tai",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -252,25 +336,39 @@
   "matches": {
     "upcoming": [
       {
+        "id": "1669128",
+        "game": "cs2",
+        "opponent": "Grand Final: MISA vs TBD",
+        "opponentLogo": "",
+        "date": "2026-09-13T13:45:00Z",
+        "tournament": "CCT Europe Challengers Series season 6 2026 · Playoffs",
+        "format": "BO3"
+      },
+      {
+        "id": "1685303",
+        "game": "cs2",
+        "opponent": "ex-RUSTEC",
+        "opponentLogo": "",
+        "date": "2026-09-13T17:00:00Z",
+        "tournament": "NODWIN Clutch Series Season 12 2026 · Play-In",
+        "format": "BO3"
+      }
+    ],
+    "recent": [
+      {
         "id": "1673405",
         "game": "cs2",
         "opponent": "EAC Extra",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/139089/esport_academy_copenhagen_allmode.png",
         "date": "2026-09-12T10:30:00Z",
         "tournament": "United21 Season 55 2026 · Group C",
-        "format": "BO3"
+        "format": "BO3",
+        "result": {
+          "misa": 0,
+          "opponent": 0,
+          "win": false
+        }
       },
-      {
-        "id": "1669127",
-        "game": "cs2",
-        "opponent": "Bushido Wildcats",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136934/bushido_wildcats_2026_allmode.png",
-        "date": "2026-09-12T11:00:00Z",
-        "tournament": "CCT Europe Challengers Series season 6 2026 · Playoffs",
-        "format": "BO3"
-      }
-    ],
-    "recent": [
       {
         "id": "1673538",
         "game": "cs2",
@@ -395,20 +493,6 @@
           "misa": 0,
           "opponent": 0,
           "win": false
-        }
-      },
-      {
-        "id": "1615319",
-        "game": "cs2",
-        "opponent": "Favbet",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/134964/285px_favbet_team_allmode.png",
-        "date": "2026-08-02T13:50:00Z",
-        "tournament": "ESL Challenger League Europe Cup #2 season 52 2026 · Group D",
-        "format": "BO3",
-        "result": {
-          "misa": 0,
-          "opponent": 0,
-          "win": true
         }
       },
       {
