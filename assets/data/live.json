@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-13T15:21:45.819Z",
+    "fetchedAt": "2026-09-13T20:02:12.734Z",
     "source": "pandascore"
   },
   "branches": {
@@ -135,34 +135,34 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "NODWIN Clutch Series Season 12 2026",
+        "leagueName": "European Pro League Series 9 2026",
         "table": [
           {
             "pos": 1,
-            "team": "G2 Ares",
-            "w": 1,
+            "team": "Bebop",
+            "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 1,
-            "team": "Drama eSports",
-            "w": 1,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
+          },
+          {
+            "pos": 3,
+            "team": "G2 Ares",
+            "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 3,
-            "team": "ENCE",
+            "team": "Honvéd",
             "w": 0,
-            "l": 1,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "WBT Academy",
-            "w": 0,
-            "l": 1,
+            "l": 0,
             "isMisa": false
           }
         ]
@@ -251,15 +251,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1685303",
-        "game": "cs2",
-        "opponent": "ex-RUSTEC",
-        "opponentLogo": "",
-        "date": "2026-09-13T17:00:00Z",
-        "tournament": "NODWIN Clutch Series Season 12 2026 · Play-In",
-        "format": "BO3"
-      },
       {
         "id": "1683266",
         "game": "cs2",
