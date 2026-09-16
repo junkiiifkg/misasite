@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-15T20:41:11.608Z",
+    "fetchedAt": "2026-09-16T02:33:54.016Z",
     "source": "pandascore"
   },
   "branches": {
@@ -177,12 +177,6 @@
           "image": ""
         },
         {
-          "tag": "sh1va",
-          "name": "Arda Özkaya",
-          "role": "Player",
-          "image": ""
-        },
-        {
           "tag": "Fortres",
           "name": "Yusuf Aydın",
           "role": "Player",
@@ -266,7 +260,7 @@
         "id": "1673405",
         "game": "cs2",
         "opponent": "EAC Extra",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/139089/esport_academy_copenhagen_allmode.png",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/139089/473px_esport_academy_copenhagen_extra_allmode.png",
         "date": "2026-09-12T10:30:00Z",
         "tournament": "United21 Season 55 2026 · Group C",
         "format": "BO3",
