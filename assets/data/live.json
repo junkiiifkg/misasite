@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-17T10:42:24.994Z",
+    "fetchedAt": "2026-09-17T15:56:30.414Z",
     "source": "pandascore"
   },
   "branches": {
@@ -135,32 +135,32 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "NODWIN Clutch Series Season 12 2026",
+        "leagueName": "European Pro League Series 9 2026",
         "table": [
           {
             "pos": 1,
-            "team": "Drama eSports",
+            "team": "Bebop",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 2,
+            "team": "G2 Ares",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 3,
-            "team": "ReThink",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
             "pos": 4,
-            "team": "SINQU",
+            "team": "Honvéd",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -244,7 +244,17 @@
     }
   },
   "matches": {
-    "upcoming": [],
+    "upcoming": [
+      {
+        "id": "1683268",
+        "game": "cs2",
+        "opponent": "Honvéd",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128887/honved_budapest_old_logo_70_adbfc97_d_seeklogo.com.png",
+        "date": "2026-09-21T10:30:00Z",
+        "tournament": "European Pro League Series 9 2026 · Group B",
+        "format": "BO3"
+      }
+    ],
     "recent": [
       {
         "id": "1673405",
