@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-21T11:32:53.763Z",
+    "fetchedAt": "2026-09-21T17:30:50.442Z",
     "source": "pandascore"
   },
   "branches": {
@@ -134,39 +134,7 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "NODWIN Clutch Series Season 12 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "Drama eSports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 3,
-            "team": "ReThink",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "SINQU",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     },
     "valorant": {
       "roster": [
@@ -244,7 +212,17 @@
     }
   },
   "matches": {
-    "upcoming": [],
+    "upcoming": [
+      {
+        "id": "1683293",
+        "game": "cs2",
+        "opponent": "QUAZAR",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/130570/222px_quazar.gg_allmode.png",
+        "date": "2026-09-23T08:00:00Z",
+        "tournament": "European Pro League Series 9 2026 · Playoffs",
+        "format": "BO3"
+      }
+    ],
     "recent": [
       {
         "id": "1673405",
