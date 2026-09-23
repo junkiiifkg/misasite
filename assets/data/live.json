@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-23T10:31:14.673Z",
+    "fetchedAt": "2026-09-23T15:50:10.889Z",
     "source": "pandascore"
   },
   "branches": {
@@ -135,35 +135,35 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "ESL Challenger League Europe Cup #7 season 52 2026",
+        "leagueName": "European Pro League Series 9 2026",
         "table": [
           {
             "pos": 1,
-            "team": "Entropy",
+            "team": "Saint Sinners",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 2,
-            "team": "eSuba",
+            "team": "QUAZAR",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 3,
-            "team": "6666",
+            "team": "Rune Eaters",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 4,
-            "team": "Misa Esports",
+            "team": "INOX Division",
             "w": 0,
             "l": 0,
-            "isMisa": true
+            "isMisa": false
           }
         ]
       }
@@ -246,12 +246,12 @@
   "matches": {
     "upcoming": [
       {
-        "id": "1700530",
+        "id": "1683300",
         "game": "cs2",
-        "opponent": "6666",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/138811/6666_esports_allmode.png",
-        "date": "2026-09-23T13:00:00Z",
-        "tournament": "ESL Challenger League Europe Cup #7 season 52 2026 · Group A",
+        "opponent": "Leo Team",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/133269/152px_l_g_2023_allmode.png",
+        "date": "2026-09-26T10:30:00Z",
+        "tournament": "European Pro League Series 9 2026 · Playoffs",
         "format": "BO3"
       }
     ],
