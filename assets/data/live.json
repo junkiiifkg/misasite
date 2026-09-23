@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-23T02:35:40.516Z",
+    "fetchedAt": "2026-09-23T10:31:14.673Z",
     "source": "pandascore"
   },
   "branches": {
@@ -135,21 +135,35 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "European Pro League Series 9 2026",
+        "leagueName": "ESL Challenger League Europe Cup #7 season 52 2026",
         "table": [
           {
             "pos": 1,
-            "team": "Rune Eaters",
+            "team": "Entropy",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 2,
-            "team": "INOX Division",
+            "team": "eSuba",
             "w": 0,
             "l": 0,
             "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "6666",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 4,
+            "team": "Misa Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": true
           }
         ]
       }
@@ -231,15 +245,6 @@
   },
   "matches": {
     "upcoming": [
-      {
-        "id": "1683293",
-        "game": "cs2",
-        "opponent": "QUAZAR",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/130570/222px_quazar.gg_allmode.png",
-        "date": "2026-09-23T08:00:00Z",
-        "tournament": "European Pro League Series 9 2026 · Playoffs",
-        "format": "BO3"
-      },
       {
         "id": "1700530",
         "game": "cs2",
