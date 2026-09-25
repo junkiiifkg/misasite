@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-25T02:41:35.759Z",
+    "fetchedAt": "2026-09-25T10:52:56.175Z",
     "source": "pandascore"
   },
   "branches": {
@@ -139,41 +139,48 @@
         "table": [
           {
             "pos": 1,
-            "team": "ex-RUSTEC",
+            "team": "Bebop",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 2,
-            "team": "The Last Resort",
+            "team": "ex-RUSTEC",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 3,
-            "team": "Saint Sinners",
+            "team": "The Last Resort",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 4,
-            "team": "QUAZAR",
+            "team": "Saint Sinners",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 5,
-            "team": "Rune Eaters",
+            "team": "QUAZAR",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 6,
+            "team": "Rune Eaters",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 7,
             "team": "INOX Division",
             "w": 0,
             "l": 0,
