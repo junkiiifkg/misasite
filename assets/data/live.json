@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-25T10:52:56.175Z",
+    "fetchedAt": "2026-09-25T16:12:19.966Z",
     "source": "pandascore"
   },
   "branches": {
@@ -139,48 +139,55 @@
         "table": [
           {
             "pos": 1,
-            "team": "Bebop",
+            "team": "PsychoFace",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 2,
-            "team": "ex-RUSTEC",
+            "team": "Bebop",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 3,
-            "team": "The Last Resort",
+            "team": "ex-RUSTEC",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 4,
-            "team": "Saint Sinners",
+            "team": "The Last Resort",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 5,
-            "team": "QUAZAR",
+            "team": "Saint Sinners",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 6,
-            "team": "Rune Eaters",
+            "team": "QUAZAR",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 7,
+            "team": "Rune Eaters",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 8,
             "team": "INOX Division",
             "w": 0,
             "l": 0,
