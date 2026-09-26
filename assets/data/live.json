@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-26T02:44:18.643Z",
+    "fetchedAt": "2026-09-26T10:33:18.256Z",
     "source": "pandascore"
   },
   "branches": {
@@ -278,7 +278,7 @@
         "game": "cs2",
         "opponent": "Leo Team",
         "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/133269/152px_l_g_2023_allmode.png",
-        "date": "2026-09-26T10:30:00Z",
+        "date": "2026-09-26T11:30:00Z",
         "tournament": "European Pro League Series 9 2026 · Playoffs",
         "format": "BO3"
       }
