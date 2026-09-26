@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-26T10:33:18.256Z",
+    "fetchedAt": "2026-09-26T15:26:15.599Z",
     "source": "pandascore"
   },
   "branches": {
@@ -135,60 +135,32 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "European Pro League Series 9 2026",
+        "leagueName": "NODWIN Clutch Series Season 12 2026",
         "table": [
           {
             "pos": 1,
-            "team": "PsychoFace",
+            "team": "Drama eSports",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 2,
-            "team": "Bebop",
+            "team": "Misa Esports",
             "w": 0,
             "l": 0,
-            "isMisa": false
+            "isMisa": true
           },
           {
             "pos": 3,
-            "team": "ex-RUSTEC",
+            "team": "ReThink",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
             "pos": 4,
-            "team": "The Last Resort",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 5,
-            "team": "Saint Sinners",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 6,
-            "team": "QUAZAR",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 7,
-            "team": "Rune Eaters",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 8,
-            "team": "INOX Division",
+            "team": "SINQU",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -272,17 +244,7 @@
     }
   },
   "matches": {
-    "upcoming": [
-      {
-        "id": "1683300",
-        "game": "cs2",
-        "opponent": "Leo Team",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/133269/152px_l_g_2023_allmode.png",
-        "date": "2026-09-26T11:30:00Z",
-        "tournament": "European Pro League Series 9 2026 · Playoffs",
-        "format": "BO3"
-      }
-    ],
+    "upcoming": [],
     "recent": [
       {
         "id": "1673405",
