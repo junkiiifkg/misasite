@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-27T02:44:51.904Z",
+    "fetchedAt": "2026-09-27T11:05:24.965Z",
     "source": "pandascore"
   },
   "branches": {
@@ -209,32 +209,32 @@
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137017/599px_misa_esports_2023_allmode.png",
       "standings": {
-        "leagueName": "VCL EMEA: Last Chance Qualifier 2026",
+        "leagueName": "Monsters Reloaded Closed Qualifier 2026",
         "table": [
           {
             "pos": 1,
-            "team": "Çilekler",
+            "team": "Fear Never Ends",
             "w": 0,
             "l": 0,
             "isMisa": false
           },
           {
-            "pos": 2,
+            "pos": 1,
+            "team": "Galatasaray Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 1,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 3,
-            "team": "Ghools Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "Barça eSports",
+            "pos": 1,
+            "team": "Pcific Esports",
             "w": 0,
             "l": 0,
             "isMisa": false
@@ -244,8 +244,32 @@
     }
   },
   "matches": {
-    "upcoming": [],
+    "upcoming": [
+      {
+        "id": "1714921",
+        "game": "valorant",
+        "opponent": "Fear Never Ends",
+        "opponentLogo": "",
+        "date": "2026-09-27T16:00:00Z",
+        "tournament": "Monsters Reloaded Closed Qualifier 2026 · Group A",
+        "format": "BO3"
+      }
+    ],
     "recent": [
+      {
+        "id": "1714919",
+        "game": "valorant",
+        "opponent": "Galatasaray Esports",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/130231/111px_galatasaray_esports_allmode.png",
+        "date": "2026-09-26T16:00:00Z",
+        "tournament": "Monsters Reloaded Closed Qualifier 2026 · Group A",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1673405",
         "game": "cs2",
@@ -636,20 +660,6 @@
           "misa": 2,
           "opponent": 0,
           "win": true
-        }
-      },
-      {
-        "id": "1456313",
-        "game": "valorant",
-        "opponent": "Beşiktaş Esports",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/128669/600px_besiktas_jk.png",
-        "date": "2026-05-04T15:38:32Z",
-        "tournament": "VCL Türkiye: Birlik Stage 2 2026 · Playoffs",
-        "format": "BO5",
-        "result": {
-          "misa": 1,
-          "opponent": 3,
-          "win": false
         }
       },
       {
