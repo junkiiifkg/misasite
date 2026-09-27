@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-27T16:05:46.650Z",
+    "fetchedAt": "2026-09-27T20:38:27.588Z",
     "source": "pandascore"
   },
   "branches": {
@@ -213,27 +213,27 @@
         "table": [
           {
             "pos": 1,
-            "team": "Fear Never Ends",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
-            "team": "Galatasaray Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 1,
             "team": "Misa Esports",
             "w": 0,
             "l": 0,
             "isMisa": true
           },
           {
-            "pos": 1,
+            "pos": 2,
+            "team": "Fear Never Ends",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
+            "team": "Galatasaray Esports",
+            "w": 0,
+            "l": 0,
+            "isMisa": false
+          },
+          {
+            "pos": 3,
             "team": "Pcific Esports",
             "w": 0,
             "l": 0,
@@ -246,6 +246,20 @@
   "matches": {
     "upcoming": [],
     "recent": [
+      {
+        "id": "1714921",
+        "game": "valorant",
+        "opponent": "Fear Never Ends",
+        "opponentLogo": "",
+        "date": "2026-09-27T16:02:41Z",
+        "tournament": "Monsters Reloaded Closed Qualifier 2026 · Group A",
+        "format": "BO3",
+        "result": {
+          "misa": 2,
+          "opponent": 0,
+          "win": true
+        }
+      },
       {
         "id": "1714919",
         "game": "valorant",
@@ -510,20 +524,6 @@
           "misa": 0,
           "opponent": 2,
           "win": false
-        }
-      },
-      {
-        "id": "1534488",
-        "game": "valorant",
-        "opponent": "Team Liquid Academy",
-        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/136328/526px_team_liquid_2024_lightmode.png",
-        "date": "2026-06-23T16:50:42Z",
-        "tournament": "VCL EMEA: Stage 3 2026 · Group D",
-        "format": "BO3",
-        "result": {
-          "misa": 2,
-          "opponent": 1,
-          "win": true
         }
       },
       {
