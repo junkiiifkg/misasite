@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-28T12:27:38.836Z",
+    "fetchedAt": "2026-09-28T22:47:47.467Z",
     "source": "pandascore"
   },
   "branches": {
@@ -216,8 +216,8 @@
       {
         "id": "1716571",
         "game": "valorant",
-        "opponent": "Semifinal 1: MISA vs TBD",
-        "opponentLogo": "",
+        "opponent": "NKVT",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/139325/799px_nkvt_lightmode.png",
         "date": "2026-10-03T16:00:00Z",
         "tournament": "Monsters Reloaded Closed Qualifier 2026 · Play-In",
         "format": "BO3"
