@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-27T20:38:27.588Z",
+    "fetchedAt": "2026-09-28T02:46:36.335Z",
     "source": "pandascore"
   },
   "branches": {
@@ -250,7 +250,7 @@
         "id": "1714921",
         "game": "valorant",
         "opponent": "Fear Never Ends",
-        "opponentLogo": "",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/139324/fear_never_ends_allmode.png",
         "date": "2026-09-27T16:02:41Z",
         "tournament": "Monsters Reloaded Closed Qualifier 2026 · Group A",
         "format": "BO3",
