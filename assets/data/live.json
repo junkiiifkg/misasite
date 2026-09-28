@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-09-28T02:46:36.335Z",
+    "fetchedAt": "2026-09-28T12:27:38.836Z",
     "source": "pandascore"
   },
   "branches": {
@@ -208,43 +208,21 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137017/599px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "Monsters Reloaded Closed Qualifier 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 2,
-            "team": "Fear Never Ends",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Galatasaray Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 3,
-            "team": "Pcific Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     }
   },
   "matches": {
-    "upcoming": [],
+    "upcoming": [
+      {
+        "id": "1716571",
+        "game": "valorant",
+        "opponent": "Semifinal 1: MISA vs TBD",
+        "opponentLogo": "",
+        "date": "2026-10-03T16:00:00Z",
+        "tournament": "Monsters Reloaded Closed Qualifier 2026 · Play-In",
+        "format": "BO3"
+      }
+    ],
     "recent": [
       {
         "id": "1714921",
