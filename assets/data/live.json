@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "fetchedAt": "2026-10-03T20:24:15.687Z",
+    "fetchedAt": "2026-10-04T03:33:26.206Z",
     "source": "pandascore"
   },
   "branches": {
@@ -134,39 +134,7 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137075/148px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "NODWIN Clutch Series Season 12 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "Drama eSports",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 2,
-            "team": "Misa Esports",
-            "w": 0,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 3,
-            "team": "ReThink",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          },
-          {
-            "pos": 4,
-            "team": "SINQU",
-            "w": 0,
-            "l": 0,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     },
     "valorant": {
       "roster": [
@@ -208,29 +176,30 @@
         }
       ],
       "teamLogo": "https://cdn-api.pandascore.co/images/team/image/137017/599px_misa_esports_2023_allmode.png",
-      "standings": {
-        "leagueName": "Monsters Reloaded Closed Qualifier 2026",
-        "table": [
-          {
-            "pos": 1,
-            "team": "Misa Esports",
-            "w": 1,
-            "l": 0,
-            "isMisa": true
-          },
-          {
-            "pos": 2,
-            "team": "NKVT",
-            "w": 0,
-            "l": 1,
-            "isMisa": false
-          }
-        ]
-      }
+      "standings": null
     }
   },
   "matches": {
-    "upcoming": [],
+    "upcoming": [
+      {
+        "id": "1727747",
+        "game": "cs2",
+        "opponent": "Azuolas",
+        "opponentLogo": "",
+        "date": "2026-10-08T14:00:00Z",
+        "tournament": "NODWIN Clutch Series Season 13 2026 · Play-In Group D",
+        "format": "BO3"
+      },
+      {
+        "id": "1716573",
+        "game": "valorant",
+        "opponent": "Fire Flux Esports",
+        "opponentLogo": "https://cdn-api.pandascore.co/images/team/image/129194/60b41997755c0.png",
+        "date": "2026-10-08T16:00:00Z",
+        "tournament": "Monsters Reloaded Closed Qualifier 2026 · Playoffs",
+        "format": "BO3"
+      }
+    ],
     "recent": [
       {
         "id": "1716571",
